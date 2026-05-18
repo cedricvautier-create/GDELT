@@ -18,7 +18,7 @@ jobs:
           python-version: '3.9'
 
       - name: Installer les dépendances
-        run: pip install websockets pandas
+        run: pip install websockets pandas requests
 
       - name: Exécuter la collecte GDELT
         run: python collect_gdelt.py
