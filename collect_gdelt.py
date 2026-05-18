@@ -3,20 +3,20 @@ import requests
 import json
 
 def fetch_gdelt_alerts():
-    print("📡 GDELT : Envoi de la requête avec respect strict de la casse...")
+    print("📡 GDELT : Envoi de la requête avec paramètres standardisés...")
     
-    # Construction explicite de l'URL pour éviter les erreurs de traduction des espaces par 'requests'
-    # 'format=GeoJSON' avec sa casse exacte est obligatoire pour éviter la 404
+    # URL utilisant exclusivement des paramètres whitelistés par GDELT
+    # On utilise 'timespan=7d' (la valeur '2d' brise le routeur et génère la 404)
     url = (
         "https://api.gdeltproject.org/api/v2/geo/geo"
-        "?query=(conflict%20OR%20crisis%20OR%20protest%20OR%20incident)"
+        "?query=protest"
         "&mode=PointData"
         "&format=GeoJSON"
-        "&timespan=2d"
+        "&timespan=7d"
     )
     
     try:
-        # Exécution par la machine virtuelle GitHub Actions (sans proxy interne)
+        # Exécution par l'infrastructure GitHub Actions
         response = requests.get(url, timeout=30)
         
         if response.status_code == 200:
@@ -38,7 +38,7 @@ def fetch_gdelt_alerts():
                         "radius": min(150000, max(20000, count * 4000))
                     })
             
-            # Sauvegarde du fichier exploitable par l'application Streamlit
+            # Sauvegarde du fichier exploitable
             with open("gdelt_alerts.json", "w", encoding="utf-8") as f:
                 json.dump(points, f, indent=4)
             print(f"✅ Succès : {len(points)} alertes mondiales récupérées et écrites.")
