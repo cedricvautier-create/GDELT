@@ -27,7 +27,7 @@ jobs:
         run: python collect_gdelt.py
 
       - name: Exécuter la collecte Marché (Yahoo Finance Cloud)
-        run: python collect_market.py
+        run: python collecte_market.py
 
       - name: Sauvegarder les données sur le dépôt
         run: |
