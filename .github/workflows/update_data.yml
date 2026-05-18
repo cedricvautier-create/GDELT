@@ -2,15 +2,18 @@ name: Mise à jour GDELT temps réel
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # S'exécute toutes les 15 minutes
-  workflow_dispatch: # Permet de le lancer manuellement pour tester
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Pour le lancer manuellement
 
+permissions:
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Récupérer le code
-        uses: actions/checkout@v3
+      - name: Checkout du dépôt
+        uses: actions/checkout@v4
 
       - name: Installer Python
         uses: actions/setup-python@v4
