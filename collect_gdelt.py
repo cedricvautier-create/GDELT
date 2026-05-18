@@ -6,7 +6,7 @@ import json
 from datetime import datetime, timedelta
 
 def get_event_semantics(code):
-    """Classification des codes CAMEO selon les catégories demandées."""
+    """Classification des codes CAMEO selon les 4 catégories demandées."""
     code_str = str(code)
     if code_str.startswith(('18', '19')):
         return "Sécurité & Affrontement", [255, 0, 0, 180]        # Rouge
@@ -18,18 +18,19 @@ def get_event_semantics(code):
         return "Tension Politique & Inter.", [255, 215, 0, 180]      # Jaune/Or
     return None, None
 
-def fetch_gdelt_6h_clean():
-    print("📡 GDELT Pipeline : Initialisation du scan de 6 heures...")
+def fetch_gdelt_6h_final():
+    print("📡 GDELT Pipeline : Initialisation de la fenêtre de 6 heures (Schéma v2)...")
     
-    # Configuration du décalage temporel pour coller aux serveurs GDELT
     now = datetime.utcnow()
     now = now - timedelta(minutes=now.minute % 15, seconds=now.second, microseconds=now.microsecond)
+    # Recul de sécurité pour la réplication des serveurs de la NASA/GDELT
     now = now - timedelta(hours=1)
     
     points = []
     success_downloads = 0
+    total_rows_processed = 0
     
-    print(f"⏰ Heure de départ du scan (UTC) : {now.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"⏰ Horloge UTC de référence : {now.strftime('%Y-%m-%d %H:%M:%S')}")
     
     for i in range(24):
         slot_time = now - timedelta(minutes=i * 15)
@@ -43,34 +44,30 @@ def fetch_gdelt_6h_clean():
                 
             success_downloads += 1
             z = zipfile.ZipFile(io.BytesIO(r_zip.content))
-            file_name = z.namelist()[0]
+            df = pd.read_csv(z.open(z.namelist()[0]), sep="\t", header=None, dtype=str)
             
-            # Lecture du fichier de production
-            df = pd.read_csv(z.open(file_name), sep="\t", header=None, dtype=str)
-            
-            if df.shape[1] < 58:
+            # Vérification de la présence des colonnes géographiques v2
+            if df.shape[1] < 59:
                 continue
                 
             for _, row in df.iterrows():
+                total_rows_processed += 1
                 try:
-                    # Extraction des coordonnées géographiques natives
-                    lat_raw = row[53] if pd.notna(row[53]) else row[56]
-                    lon_raw = row[54] if pd.notna(row[54]) else row[57]
-                    
-                    if pd.isna(lat_raw) or pd.isna(lon_raw):
+                    # Index officiels GDELT v2 : 57 = ActionGeo_Lat, 58 = ActionGeo_Long
+                    if pd.isna(row[57]) or pd.isna(row[58]):
                         continue
                         
-                    lat = float(lat_raw)
-                    lon = float(lon_raw)
+                    lat = float(row[57])
+                    lon = float(row[58])
                     
-                    # Filtre géographique strict sur la zone Afrique Centrale / CEMAC
+                    # Filtre strict Zone CEMAC / Afrique Centrale élargie
                     if (-10.0 <= lat <= 15.0) and (-5.0 <= lon <= 30.0):
-                        code = str(row[26])
+                        code = str(row[26]) # EventCode
                         category, color = get_event_semantics(code)
                         
                         if category:
-                            name = str(row[50]) if pd.notna(row[50]) else "Afrique Centrale"
-                            url = str(row[57]) if pd.notna(row[57]) else "#"
+                            name = str(row[54]) if pd.notna(row[54]) else "Afrique Centrale"
+                            url = str(row[61]) if (len(row) > 61 and pd.notna(row[61])) else "#"
                             count = int(row[31]) if (pd.notna(row[31]) and str(row[31]).isdigit()) else 1
                             
                             points.append({
@@ -89,11 +86,12 @@ def fetch_gdelt_6h_clean():
         except Exception:
             continue
 
-    print(f"📊 Résumé : {success_downloads}/24 fichiers traités.")
+    print(f"📊 Analyse terminée : {success_downloads}/24 blocs téléchargés.")
+    print(f"🔍 {total_rows_processed} lignes mondiales analysées au total.")
     
     with open("gdelt_alerts.json", "w", encoding="utf-8") as f:
         json.dump(points, f, indent=4)
-    print(f"💾 Fin du traitement. {len(points)} alertes enregistrées.")
+    print(f"💾 Fichier gdelt_alerts.json écrit avec {len(points)} alertes qualifiées en Afrique Centrale.")
 
 if __name__ == "__main__":
-    fetch_gdelt_6h_clean()
+    fetch_gdelt_6h_final()
