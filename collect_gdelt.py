@@ -3,22 +3,21 @@ import requests
 import json
 
 def fetch_gdelt_alerts():
-    print("📡 GDELT : Préparation de la requête sécurisée...")
+    print("📡 GDELT : Envoi de la requête avec respect strict de la casse...")
     
-    url = "https://api.gdeltproject.org/api/v2/geo/geo"
-    
-    # On passe par les paramètres natifs de requests pour un encodage parfait
-    # GDELT est extrêmement sensible à la casse (minuscules obligatoires ici)
-    params = {
-        "query": "conflict OR crisis OR protest OR incident",
-        "mode": "PointData",
-        "format": "geojson",  # Tout en minuscules
-        "timespan": "2d"      # '2d' pour 2 jours, en minuscules
-    }
+    # Construction explicite de l'URL pour éviter les erreurs de traduction des espaces par 'requests'
+    # 'format=GeoJSON' avec sa casse exacte est obligatoire pour éviter la 404
+    url = (
+        "https://api.gdeltproject.org/api/v2/geo/geo"
+        "?query=(conflict%20OR%20crisis%20OR%20protest%20OR%20incident)"
+        "&mode=PointData"
+        "&format=GeoJSON"
+        "&timespan=2d"
+    )
     
     try:
-        # Exécution par GitHub (pas de proxy requis)
-        response = requests.get(url, params=params, timeout=30)
+        # Exécution par la machine virtuelle GitHub Actions (sans proxy interne)
+        response = requests.get(url, timeout=30)
         
         if response.status_code == 200:
             geojson_data = response.json()
@@ -39,13 +38,13 @@ def fetch_gdelt_alerts():
                         "radius": min(150000, max(20000, count * 4000))
                     })
             
+            # Sauvegarde du fichier exploitable par l'application Streamlit
             with open("gdelt_alerts.json", "w", encoding="utf-8") as f:
                 json.dump(points, f, indent=4)
-            print(f"✅ Succès : {len(points)} alertes mondiales récupérées.")
+            print(f"✅ Succès : {len(points)} alertes mondiales récupérées et écrites.")
             
         else:
             print(f"❌ Erreur serveur GDELT (Code {response.status_code}).")
-            print("Vérifiez la structure de l'URL ou des paramètres.")
             
     except Exception as e:
         print(f"❌ Échec de la collecte GDELT : {e}")
