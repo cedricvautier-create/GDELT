@@ -3,19 +3,34 @@ import yfinance as yf
 import requests
 import pandas as pd
 import json
+import io
 
 def fetch_from_fred(series_id):
-    """Télécharge et calcule l'historique d'une série macro FRED via son CSV public."""
+    """Télécharge et calcule l'historique d'une série macro FRED avec contournement du blocage User-Agent."""
     url = f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series_id}"
-    df = pd.read_csv(url, parse_dates=['DATE'], index_col='DATE')
     
-    # Sécurité : la FRED met parfois des '.' pour les jours fériés
+    # IMPÉRATIF : Simuler un navigateur pour éviter le blocage 403 de la FRED sur GitHub
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    
+    response = requests.get(url, headers=headers, timeout=15)
+    if response.status_code != 200:
+        raise ValueError(f"FRED a rejeté la requête avec le code {response.status_code}")
+        
+    # Lecture du flux textuel décompressé en mémoire
+    df = pd.read_csv(io.StringIO(response.text), parse_dates=['DATE'], index_col='DATE')
+    
+    # Sécurité : conversion numérique forcée (la FRED met des '.' pour les jours de fermeture)
     df[series_id] = pd.to_numeric(df[series_id], errors='coerce')
     df = df.dropna().sort_index()
     
+    if df.empty:
+        raise ValueError("Aucune donnée exploitable dans le fichier FRED après nettoyage.")
+        
     val_actuel = float(df[series_id].iloc[-1])
     
-    # Pivot 1 an
+    # Pivot 1 an (recherche de la date boursière la plus proche)
     target_1an = df.index[-1] - pd.DateOffset(years=1)
     idx_1an = df.index.get_indexer([target_1an], method="nearest")[0]
     val_1an = float(df[series_id].iloc[idx_1an])
@@ -32,7 +47,6 @@ def fetch_from_fred(series_id):
 def fetch_market_trends_hybrid():
     print("📡 Extraction hybride des marchés (Yahoo Finance + FRED)...")
     
-    # Notre panier de matières premières configuré avec la meilleure source disponible
     market_items = [
         {"label": "🟡 Or ($/oz)", "source": "yahoo", "code": "GC=F", "prod": "RCA/Gabon (New York)"},
         {"label": "🪵 Indice Bois ($/1k bd ft)", "source": "yahoo", "code": "LBS=F", "prod": "Congo/Gabon/Cameroun"},
@@ -48,7 +62,6 @@ def fetch_market_trends_hybrid():
     for item in market_items:
         try:
             if item["source"] == "yahoo":
-                # Extraction Yahoo Finance
                 tk = yf.Ticker(item["code"])
                 hist = tk.history(period="4y").sort_index()
                 
@@ -65,7 +78,6 @@ def fetch_market_trends_hybrid():
                 evo_3ans = ((val_actuel - val_3ans) / val_3ans) * 100
                 
             elif item["source"] == "fred":
-                # Extraction FRED
                 val_actuel, val_1an, evo_1an, val_3ans, evo_3ans = fetch_from_fred(item["code"])
                 
             rows.append({
