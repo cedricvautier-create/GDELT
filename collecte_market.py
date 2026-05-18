@@ -7,11 +7,11 @@ def fetch_market_trends():
     print("📡 Extraction des tendances de marché via Yahoo Finance (Cloud)...")
     
     market_items = [
-        {"label": "🛢️ Brent Crude ($/bbl)", "ticker": "BZ=F", "prod": "Congo/Gabon/Tchad"}
+        {"label": "🛢️ Brent Crude ($/bbl)", "ticker": "BZ=F", "prod": "Congo/Gabon/Tchad"},
         {"label": "🟡 Or ($/oz)", "ticker": "GC=F", "prod": "RCA/Gabon"},
         {"label": "🪵 Indice Bois ($/1k bd ft)", "ticker": "LBS=F", "prod": "Congo/Gabon/Cameroun"},
         {"label": "🍫 Cacao ($/t)", "ticker": "CC=F", "prod": "Cameroun"},
-        {"label": "☕ Café ($/lb)", "ticker": "KC=F", "prod": "RCA/Cameroun"},
+        {"label": "☕ Café ($/lb)", "ticker": "KC=F", "prod": "RCA/Cameroun"}
     ]
     
     rows = []
