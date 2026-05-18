@@ -1,11 +1,24 @@
-# ... (début du fichier identique) ...
-      - name: Installer les dépendances
-        run: pip install websockets pandas requests
+name: Mise à jour AIS temps réel
 
-      - name: Exécuter la collecte AIS
-        env:
-          AISSTREAM_KEY: ${{ secrets.AISSTREAM_KEY }}
-        run: python collect_ais.py || echo "Échec AIS mais on continue"
+on:
+  schedule:
+    - cron: '*/15 * * * *' # S'exécute toutes les 15 minutes
+  workflow_dispatch: # Permet de le lancer manuellement pour tester
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v3
+
+      - name: Installer Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Installer les dépendances
+        run: pip install websockets pandas
 
       - name: Exécuter la collecte GDELT
         run: python collect_gdelt.py
