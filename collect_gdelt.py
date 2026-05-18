@@ -6,7 +6,7 @@ import json
 from datetime import datetime, timedelta
 
 def get_event_semantics(code):
-    """Classification des codes CAMEO selon les 4 catégories demandées."""
+    """Classification stricte des codes CAMEO."""
     code_str = str(code)
     if code_str.startswith(('18', '19')):
         return "Sécurité & Affrontement", [255, 0, 0, 180]        # Rouge
@@ -18,19 +18,18 @@ def get_event_semantics(code):
         return "Tension Politique & Inter.", [255, 215, 0, 180]      # Jaune/Or
     return None, None
 
-def fetch_gdelt_6h_final():
-    print("📡 GDELT Pipeline : Initialisation de la fenêtre de 6 heures (Schéma v2)...")
+def fetch_gdelt_6h_fixed():
+    print("📡 GDELT Pipeline : Alignement sur les index natifs v2 (56/57)...")
     
     now = datetime.utcnow()
     now = now - timedelta(minutes=now.minute % 15, seconds=now.second, microseconds=now.microsecond)
-    # Recul de sécurité pour la réplication des serveurs de la NASA/GDELT
+    # Recul de sécurité d'une heure pour la mise à disposition des fichiers
     now = now - timedelta(hours=1)
     
     points = []
     success_downloads = 0
-    total_rows_processed = 0
     
-    print(f"⏰ Horloge UTC de référence : {now.strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"⏰ Horloge UTC cible : {now.strftime('%Y-%m-%d %H:%M:%S')}")
     
     for i in range(24):
         slot_time = now - timedelta(minutes=i * 15)
@@ -46,28 +45,27 @@ def fetch_gdelt_6h_final():
             z = zipfile.ZipFile(io.BytesIO(r_zip.content))
             df = pd.read_csv(z.open(z.namelist()[0]), sep="\t", header=None, dtype=str)
             
-            # Vérification de la présence des colonnes géographiques v2
-            if df.shape[1] < 59:
+            # Vérification de sécurité sur la taille de la matrice v2 (61 colonnes au total)
+            if df.shape[1] < 61:
                 continue
                 
             for _, row in df.iterrows():
-                total_rows_processed += 1
                 try:
-                    # Index officiels GDELT v2 : 57 = ActionGeo_Lat, 58 = ActionGeo_Long
-                    if pd.isna(row[57]) or pd.isna(row[58]):
+                    # Index GDELT 2.0 réels : 56 = Latitude, 57 = Longitude
+                    if pd.isna(row[56]) or pd.isna(row[57]):
                         continue
                         
-                    lat = float(row[57])
-                    lon = float(row[58])
+                    lat = float(row[56])
+                    lon = float(row[57])
                     
-                    # Filtre strict Zone CEMAC / Afrique Centrale élargie
+                    # Filtre géographique Zone CEMAC élargie
                     if (-10.0 <= lat <= 15.0) and (-5.0 <= lon <= 30.0):
                         code = str(row[26]) # EventCode
                         category, color = get_event_semantics(code)
                         
                         if category:
-                            name = str(row[54]) if pd.notna(row[54]) else "Afrique Centrale"
-                            url = str(row[61]) if (len(row) > 61 and pd.notna(row[61])) else "#"
+                            name = str(row[52]) if pd.notna(row[52]) else "Afrique Centrale"
+                            url = str(row[60]) if pd.notna(row[60]) else "#"
                             count = int(row[31]) if (pd.notna(row[31]) and str(row[31]).isdigit()) else 1
                             
                             points.append({
@@ -87,11 +85,10 @@ def fetch_gdelt_6h_final():
             continue
 
     print(f"📊 Analyse terminée : {success_downloads}/24 blocs téléchargés.")
-    print(f"🔍 {total_rows_processed} lignes mondiales analysées au total.")
     
     with open("gdelt_alerts.json", "w", encoding="utf-8") as f:
         json.dump(points, f, indent=4)
-    print(f"💾 Fichier gdelt_alerts.json écrit avec {len(points)} alertes qualifiées en Afrique Centrale.")
+    print(f"💾 Fichier écrit avec succès. Nombre d'alertes trouvées : {len(points)}")
 
 if __name__ == "__main__":
-    fetch_gdelt_6h_final()
+    fetch_gdelt_6h_fixed()
