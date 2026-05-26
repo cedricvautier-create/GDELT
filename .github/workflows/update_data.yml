@@ -42,7 +42,7 @@ jobs:
           if [ -f gdelt_alerts.json ]; then git add gdelt_alerts.json; fi
           if [ -f market_data.json ]; then git add market_data.json; fi
           if [ -f reliefweb_alerts.json ]; then git add reliefweb_alerts.json; fi
-          if [ -f gdelt_cache.csv ]; then git add gdelt_cache.csv; fi
+          if [ -f climate_events_cache.json ]; then git add climate_events_cache.json; fi
           if [ -f climate_fires_cache.csv ]; then git add climate_fires_cache.csv; fi
           if [ -f climate_stress_cache.json ]; then git add climate_stress_cache.json; fi
           git commit -m "⚡ Mise à jour automatique GDELT" || exit 0
