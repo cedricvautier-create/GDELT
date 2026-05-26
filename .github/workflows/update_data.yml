@@ -26,6 +26,9 @@ jobs:
       - name: Exécuter la collecte GDELT
         run: python collect_gdelt.py
 
+      - name: Executer la collecte ReliefWeb (OCHA)
+        run: python collect_reliefweb.py
+
       - name: Exécuter la collecte Marché (Yahoo Finance Cloud)
         run: python collecte_market.py
 
@@ -34,6 +37,7 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           if [ -f gdelt_alerts.json ]; then git add gdelt_alerts.json; fi
-          if [ -f market_data.json ]; then git add market_data.json; fi  # <-- SAUVEGARDE DU JSON MARCHÉ
+          if [ -f market_data.json ]; then git add market_data.json; fi
+          if [ -f reliefweb_alerts.json]; then git add reliefweb_alerts.json; fi
           git commit -m "⚡ Mise à jour automatique GDELT" || exit 0
           git push
