@@ -22,9 +22,11 @@ def collect_thermal_anomalies():
         print(f"❌ Échec FIRMS : {e}")
 
 def collect_eonet_events():
-    print("🌊 NASA EONET : Recherche des inondations et glissements de terrain...")
-    # Requête publique sans clé sur les événements ouverts
-    url = "https://eonet.gsfc.nasa.gov/api/v3/events?category=floods,landslides&status=open"
+    print("🌊 NASA EONET : Recherche des inondations et glissements de terrain récents...")
+    
+    # CORRECTIF SYNTAXIQUE : status=all et recul temporel de 60 jours (days=60)
+    url = "https://eonet.gsfc.nasa.gov/api/v3/events?category=floods,landslides&status=all&days=60"
+    
     try:
         response = requests.get(url, timeout=15)
         events_filtered = []
