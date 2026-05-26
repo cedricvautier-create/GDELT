@@ -5,9 +5,12 @@ import json
 
 def collect_thermal_anomalies():
     print("🛰️ GitHub Actions : Interrogation des satellites NASA FIRMS...")
-    # Clé publique générique pour les requêtes académiques/institutionnelles FIRMS
-    # Délimitation de la zone CEMAC [West, South, East, North]
-    url = "https://firms.modaps.eosdis.nasa.gov/api/area/csv/c768991fe6964147774d6c703a9f07bc/MODIS_SPHERICAL/8,-6,24,14/1"
+    
+    # ➡️ REMPLACEZ 'VOTRE_CLE_ICI' PAR LA CLÉ REÇUE PAR EMAIL
+    MAP_KEY = "075c84c6c7cab1cfb60f6f70f77b45af" 
+    
+    # URL mise à jour avec le flux temps réel MODIS_NRT et votre clé
+    url = f"https://firms.modaps.eosdis.nasa.gov/api/area/csv/{MAP_KEY}/MODIS_NRT/8,-6,24,14/1"
     
     try:
         response = requests.get(url, timeout=15)
