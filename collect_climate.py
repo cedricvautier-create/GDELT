@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 
 def collect_thermal_anomalies():
     print("🛰️ NASA FIRMS : Extraction des anomalies thermiques...")
-    MAP_KEY = "VOTRE_CLE_FIRMS_ICI" # Remettez votre clé FIRMS active
+    MAP_KEY = "075c84c6c7cab1cfb60f6f70f77b45af" # Remettez votre clé FIRMS active
     url = f"https://firms.modaps.eosdis.nasa.gov/api/area/csv/{MAP_KEY}/MODIS_NRT/8,-6,24,14/1"
     try:
         response = requests.get(url, timeout=15)
