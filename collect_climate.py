@@ -77,11 +77,13 @@ def dynamize_water_stress():
             res = requests.get(url, timeout=10)
             if res.status_code == 200:
                 data = res.json()
-                # Extraction de la valeur d'humidité (comprise entre 0.0 et 1.0)
+                # Extraction de l'humidité (comprise entre 0.0 et 1.0)
                 all_values = data.get("properties", {}).get("parameter", {}).get("GWETPROF", {})
-                moisture = list(all_values.values())[0] if errorsmap := all_values else 0.5
                 
-                # Traduction de l'humidité en niveau de stress prospectif
+                # CORRECTION ICI : Syntaxe épurée et robuste sans walrus operator défectueux
+                moisture = list(all_values.values())[0] if all_values else 0.5
+                
+                # Traduction de l'humidité en niveau de stress prospective
                 if moisture < 0.25: level, idx = "Critique (Sécheresse)", 85.0
                 elif moisture < 0.45: level, idx = "Élevé (Déficit Hydrique)", 65.0
                 elif moisture < 0.65: level, idx = "Modéré / Normal", 35.0
