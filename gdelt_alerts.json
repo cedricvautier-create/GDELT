@@ -1,5 +1,59 @@
 [
     {
+        "lon": -1.0,
+        "lat": 5.5,
+        "location_name": "Central Region, Central, Ghana",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://theheraldghana.com/bece-candidate-in-police-custody-over-alleged-assault-of-teacher-at-abrem-agona/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": -1.4271,
+        "lat": 5.18513,
+        "location_name": "Abrem Agona, Ghana (general), Ghana",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://theheraldghana.com/bece-candidate-in-police-custody-over-alleged-assault-of-teacher-at-abrem-agona/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": -1.0,
+        "lat": 5.5,
+        "location_name": "Central Region, Central, Ghana",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://theheraldghana.com/bece-candidate-in-police-custody-over-alleged-assault-of-teacher-at-abrem-agona/",
+        "sources": 8,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
         "lon": 11.5,
         "lat": 12.0,
         "location_name": "Yobe, Yobe, Nigeria",
@@ -2390,240 +2444,6 @@
         "radius": 100000,
         "url": "https://www.thisdaylive.com/2026/05/26/insecurity-as-threat-to-nigerias-2027-polls/",
         "sources": 20,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 1.166667,
-        "lat": 8.0,
-        "location_name": "Togo",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202605260058.html",
-        "sources": 10,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.25,
-        "lat": 7.66667,
-        "location_name": "Ekiti State, Ekiti, Nigeria",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202605260051.html",
-        "sources": 6,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 15.0,
-        "lat": -1.0,
-        "location_name": "Congo",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://beat.com.au/seun-kuti-believes-a-better-world-is-possible-i-try-to-remind-people-our-strength-can-be-found-within-each-other/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.25,
-        "lat": 7.66667,
-        "location_name": "Ekiti State, Ekiti, Nigeria",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202605260051.html",
-        "sources": 10,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.25,
-        "lat": 7.66667,
-        "location_name": "Ekiti State, Ekiti, Nigeria",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202605260039.html",
-        "sources": 10,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.25,
-        "lat": 7.66667,
-        "location_name": "Ekiti State, Ekiti, Nigeria",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202605260051.html",
-        "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 4,
-        "color": [
-            251,
-            192,
-            45,
-            175
-        ],
-        "radius": 80000,
-        "url": "https://allafrica.com/stories/202605260094.html",
-        "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": -2.35154,
-        "lat": 4.93534,
-        "location_name": "Esiama, Western, Ghana",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://ghanaiantimes.com.gh/2-chinese-galamseyers-arrested-by-naimos/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": -2.35154,
-        "lat": 4.93534,
-        "location_name": "Esiama, Western, Ghana",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://ghanaiantimes.com.gh/2-chinese-galamseyers-arrested-by-naimos/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.743,
-        "lat": 7.80236,
-        "location_name": "Lokoja, Kogi, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://pmnewsnigeria.com/2026/05/26/miyetti-allah-condemns-kogi-killings/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.1028,
-        "lat": 6.0716,
-        "location_name": "Ikwo, Ebonyi, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://dailypost.ng/2026/05/26/ritual-killings-other-forms-of-gruesome-murder-worsen-in-nigeria/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.743,
-        "lat": 7.80236,
-        "location_name": "Lokoja, Kogi, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://pmnewsnigeria.com/2026/05/26/miyetti-allah-condemns-kogi-killings/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0886,
-        "lat": 10.9048,
-        "location_name": "Buratai, Borno, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://ghanaiantimes.com.gh/nigerias-military-rescue-92-people-abducted-by-jihadi-militants/",
-        "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     }
