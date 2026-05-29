@@ -1,5 +1,23 @@
 [
     {
+        "lon": 29.5048,
+        "lat": -2.631,
+        "location_name": "Kivu, Sud, Rwanda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://english.aawsat.com/world/5278292-aid-supplies-reach-heart-congo%E2%80%99s-ebola-outbreak",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
         "lon": 7.60063,
         "lat": 12.9894,
         "location_name": "Katsina, Katsina, Nigeria",
@@ -1166,78 +1184,6 @@
         "radius": 80000,
         "url": "https://punchng.com/csos-slam-fg-over-rising-killings-abductions/",
         "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.44028,
-        "lat": 10.5231,
-        "location_name": "Kaduna, Kaduna, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.worthynews.com/114694-u-s-military-targets-isis-network-accused-of-killing-christians-in-nigeria",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.44028,
-        "lat": 10.5231,
-        "location_name": "Kaduna, Kaduna, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.worthynews.com/114694-u-s-military-targets-isis-network-accused-of-killing-christians-in-nigeria",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.44028,
-        "lat": 10.5231,
-        "location_name": "Kaduna, Kaduna, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.worthynews.com/114694-u-s-military-targets-isis-network-accused-of-killing-christians-in-nigeria",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 30.0,
-        "lat": -2.0,
-        "location_name": "Rwanda",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://nassauweekly.com/un-knew-congolese-women-were-raped/",
-        "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     }
