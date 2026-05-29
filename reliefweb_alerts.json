@@ -1,5 +1,45 @@
 [
     {
+        "id": "4214133",
+        "score": 1,
+        "fields": {
+            "title": "Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 29/05/2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/620",
+                    "id": 620,
+                    "name": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
+                    "shortname": "ECHO",
+                    "longname": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
+                    "spanish_name": "Direcci\u00f3n General de Protecci\u00f3n Civil y Operaciones de Ayuda Humanitaria Europeas",
+                    "homepage": "https://civil-protection-humanitarian-aid.ec.europa.eu/index_en",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214133",
+            "date": {
+                "original": "2026-05-29T00:00:00+00:00",
+                "changed": "2026-05-29T16:17:06+00:00",
+                "created": "2026-05-29T16:17:19+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214133"
+    },
+    {
         "id": "4214092",
         "score": 1,
         "fields": {
@@ -39,6 +79,70 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4214092"
+    },
+    {
+        "id": "4214087",
+        "score": 1,
+        "fields": {
+            "title": "DRC Protection Analysis Update",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/40149",
+                    "id": 40149,
+                    "name": "UNHCR Innovation",
+                    "shortname": "UNHCR Innovation",
+                    "longname": "UNHCR Innovation",
+                    "homepage": "http://innovation.unhcr.org",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214087",
+            "date": {
+                "original": "2026-05-29T00:00:00+00:00",
+                "changed": "2026-05-29T13:02:39+00:00",
+                "created": "2026-05-29T11:33:23+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214087"
     },
     {
         "id": "4214086",
@@ -1645,111 +1749,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4213661"
-    },
-    {
-        "id": "4213654",
-        "score": 1,
-        "fields": {
-            "title": "Impact de la crise Ebola sur le secteur \u00c9ducation \u2013 Ituri, RDC - Mise \u00e0 jour du 21 mai 2026",
-            "body": "La RDC a annonc\u00e9 officiellement l'epidemie de la maladie \u00e0 virus Ebola (MVB) le 15 mai 2026 en Ituri. La MVB affecte directement le secteur de l\u2019\u00e9ducation, en particulier dans les zones de Bunia. A la suite de l'information apport\u00e9e par la PROVED Ituri 1 le 16 mai 2026 ([R\u00e9publique d\u00e9mocratique du Congo : Compte rendu de la r\u00e9union Extraordinaire du Cluster Education Ituri - R\u00e9ponse \u00e9ducative face \u00e0 l\u2019\u00e9pid\u00e9mie de la maladie \u00e0 virus Ebola Bunia, 16 mai 2026 - Democratic Republic of the Congo | ReliefWeb](https://reliefweb.int/report/democratic-republic-congo/republique-democratique-du-congo-compte-rendu-de-la-reunion-extraordinaire-du-cluster-education-ituri-reponse-educative-face-lepidemie-de-la-maladie-virus-ebola-bunia-16-mai-2026?_gl=1*1hnmclv*_gcl_au*MTg0OTcwOTI4MS4xNzc3MDA1NjQ1*_ga*NjczMjAwNTQ5LjE3NjE3ODg4MjY.*_ga_E60ZNX2F68*czE3Nzk3ODgzMzQkbzM2JGcxJHQxNzc5Nzg4OTg4JGo0NiRsMCRoMA..)), la mise \u00e0 jour actuelle porte sur Rwampara et ses axes environnants, o\u00f9 les \u00e9coles sont expos\u00e9es \u00e0 un risque \u00e9lev\u00e9 de transmission en raison de la forte mobilit\u00e9 des populations et de la fr\u00e9quentation d\u2019\u00e9l\u00e8ves symptomatiques.\n\nDans l\u2019axe Shari\u2013Rwampara (SDE Irumu 2), au moins 9 \u00e9l\u00e8ves et 12 parents d\u2019\u00e9l\u00e8ves ont d\u00e9j\u00e0 \u00e9t\u00e9 rapport\u00e9s d\u00e9c\u00e9d\u00e9s, avec plusieurs cas ayant continu\u00e9 \u00e0 fr\u00e9quenter l\u2019\u00e9cole pendant la phase de maladie, augmentant les risques de propagation en milieu scolaire.\n\nCette situation entra\u00eene une psychose au sein des communaut\u00e9s, une baisse importante de la fr\u00e9quentation scolaire et une perturbation de la continuit\u00e9 \u00e9ducative, dans un contexte marqu\u00e9 par de faibles capacit\u00e9s de pr\u00e9vention, de surveillance et de r\u00e9ponse au niveau des \u00e9coles.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/12989",
-                    "id": 12989,
-                    "name": "Education Cluster",
-                    "shortname": "Education Cluster",
-                    "homepage": "https://www.educationcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2865",
-                    "id": 2865,
-                    "name": "Save the Children",
-                    "shortname": "Save the Children",
-                    "longname": "Save the Children Alliance",
-                    "spanish_name": "Save the Children",
-                    "homepage": "https://www.savethechildren.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4213654",
-            "date": {
-                "original": "2026-05-26T00:00:00+00:00",
-                "changed": "2026-05-26T10:34:53+00:00",
-                "created": "2026-05-26T09:47:43+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4213654"
-    },
-    {
-        "id": "4213635",
-        "score": 1,
-        "fields": {
-            "title": "IRC Watchlist Flash Alert: Ebola outbreak in eastern DRC spreading faster than response",
-            "body": "**Rapidly escalating outbreak could become the deadliest on record without urgent international action**\n\n- The outbreak is spreading faster than the response, with over 900 suspected cases and at least 223 deaths already reported across DRC and Uganda, including in major transport hubs like Goma and Kampala.\n- Conflict is fueling the crisis and increasing the risk of regional spillover.\n- Aid cuts mean eastern DRC has a weaker health system now than it did before the 2018-2020 outbreak that killed more than 2,000 people.\n- The IRC calls for urgent international funding and coordination to contain the outbreak.\n\nKinshasa, Democratic Republic of Congo, May 26, 2026 \u2014 The International Rescue Committee (IRC) today warned that the rapidly escalating Ebola outbreak in eastern Democratic Republic of the Congo (DRC) could become the deadliest outbreak on record without urgent international action.\n\n[A new IRC Watchlist Flash Alert](https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-drc-watchlist-flash-alert-may-2026) identifies three warning signs that this outbreak could be particularly difficult to contain: the outbreak is spreading faster than the response; conflict and displacement are accelerating the risk of regional spread; and severe global aid cuts have weakened frontline health systems and outbreak preparedness across eastern DRC.\n\n\u201cThe warning signs are flashing red,\u201d **said Bob Kitchen, Vice President of Emergencies for the IRC.** \u201cEastern DRC is confronting this outbreak more fragile and less prepared than during the 2018-2020 outbreak that killed more than 2,000 people- and with fewer resources to fight it. Increased conflict and cuts to global aid funding have dismantled defenses at exactly the wrong moment. The lesson from every previous outbreak is clear: delays cost lives. The risks are growing and the resources are shrinking; that is the brutal arithmetic facing global aid today.\u201d\n\nThe alert warns that the outbreak has already expanded beyond Ituri province, the epicenter of the crisis, into North Kivu, South Kivu and neighboring Uganda. Cases have now been reported in major population centers including the capitals of Ituri (Bunia) and North Kivu (Goma) and Kampala, Uganda significantly increasing the risk of onward transmission across the region. The outbreak is caused by the Bundibugyo strain of Ebola, for which there are currently no approved vaccines or targeted treatments. At the same time, years of violence, mass displacement and cuts to global health funding have left eastern DRC less prepared to contain a major outbreak than during previous Ebola epidemics.\n\nThis outbreak can still be contained, but only if governments, donors, UN agencies and humanitarian organizations urgently work together alongside the Africa CDC to support frontline responders and affected communities. The IRC is calling for five urgent steps before the outbreak can no longer be contained:\n\n1. **Establish a UN coordinator**, through OCHA and WHO, to partner with the Africa CDC to lead the regional response. This complicated and international response requires a senior expert, embedded within the existing UN structure.\n2. **Remove all barriers to resourcing an effective response**. Restrictions on importing PPE must be relaxed instantly. Accreditation must be expedited for specialist NGOs with experience responding to Ebola. IRC is urging all parties to ensure safe humanitarian access and the rapid delivery of critical medical supplies, while emphasizing that community trust and engagement will be essential to containing the outbreak.\n3. **Surge funding immediately** to strengthen frontline healthcare, surveillance and treatment centers.\n4. **Center the response around women and girls**, who currently make up two thirds of suspected cases.\n5. **Invest in the DRC\u2019s healthcare system long term**. Years of underfunding and the withdrawal of donor support have left eastern DRC without the tools needed to catch a disease like Ebola before it takes hold.\n\n*Drawing on its extensive experience supporting Ebola and infectious disease responses across the continent, the IRC has launched a response in DRC, including the distribution of critical protective equipment. In Uganda, the IRC is working alongside the Ministry of Health with funding from the EU at border areas to strengthen response efforts and support infection prevention and control activities, including screening people crossing the border.*\n\n*The IRC\u2019s Emergency Watchlist is an annual global report identifying the countries most at risk of worsening humanitarian crises in the year ahead. Drawing on data analysis and field expertise from IRC teams operating in crisis affected communities worldwide, the Watchlist highlights where conflict, climate shocks, displacement, economic instability and political fragility are likely to drive humanitarian need. Watchlist Flash Alerts are rapid analyses published in response to fast-moving crises or major developments that risk significantly worsening humanitarian conditions and require urgent international attention.*",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2012",
-                    "id": 2012,
-                    "name": "International Rescue Committee",
-                    "shortname": "IRC",
-                    "longname": "International Rescue Committee",
-                    "spanish_name": "Comit\u00e9 Internacional de Rescate",
-                    "homepage": "https://www.rescue.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4213635",
-            "date": {
-                "original": "2026-05-26T00:00:00+00:00",
-                "changed": "2026-05-26T09:03:12+00:00",
-                "created": "2026-05-26T07:03:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4213635"
     }
 ]
