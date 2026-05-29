@@ -19,7 +19,8 @@ def fetch_reliefweb_v2_official():
             "operator": "OR"
         },
         "fields": {
-            "include": ["title", "url", "primary_country", "source", "date"]
+            # ➡️ AJOUT DE "body" ICI POUR ASPIRER LE TEXTE INTEGRAL
+            "include": ["title", "url", "primary_country", "source", "date", "body"]
         },
         "limit": 40,
         "sort": ["date:desc"]
