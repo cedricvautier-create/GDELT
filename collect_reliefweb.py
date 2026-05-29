@@ -9,7 +9,7 @@ def fetch_reliefweb_v2_official():
     url = "https://api.reliefweb.int/v2/reports?appname=AFD-monitoring-AfCent75"
     
     # Liste ciblée des pays de la zone CEMAC
-    countries = ["Cameroon", "Central African Republic", "Gabon", "Republic of the Congo", "Chad", "Equatorial Guinea"]
+    countries = ["Cameroon", "Central African Republic", "Gabon", "Republic of the Congo", "Chad", "Equatorial Guinea", "Democratic Republic of the Congo"]
     
     # Structure de requête POST native v2
     payload = {
