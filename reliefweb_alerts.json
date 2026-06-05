@@ -1,10 +1,348 @@
 [
     {
+        "id": "4215003",
+        "score": 1,
+        "fields": {
+            "title": "2025 Reset Humanitaire_RCA",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4215003",
+            "date": {
+                "original": "2026-06-05T00:00:00+00:00",
+                "changed": "2026-06-05T11:49:41+00:00",
+                "created": "2026-06-05T11:46:38+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4215003"
+    },
+    {
+        "id": "4214995",
+        "score": 1,
+        "fields": {
+            "title": "Promoting economic and social participation of internally displaced persons and host communities (PESoP) August 2025",
+            "body": "The conflict between the central government and non-state armed groups in the South-West and NorthWest regions of Cameroon has intensified since 2016.  \n\nSince then, both sides have been involved in violent conflict. In addition, attacks on border communities have also led to the displacement of people within the West region.\n\nAccording to the latest multi-sectoral needs assessment (MSNA) by OCHA and IOM, nearly 650,000 people have been displaced by the North-West crisis, affecting the West and Littoral regions. As security has improved in some conflict-affected areas, nearly 445,000 internally displaced persons have returned, as reported in the February 2023 MSNA (OCHA, 2023). A multi-sectoral needs analysis carried out by IOM in August 2022 deemed the humanitarian situation in the West region to be mainly critical (level 4 out of 5), highlighting considerable needs relating to shelter, food, access to water and sanitation, and underage child labour. However, the available data on internally displaced persons is underestimated and is being challenged by the Cameroonian government. Councils and local authorities (traditional chiefs, neighbourhood chiefs), as well as divisional officers and governors, have their own figures, but the quality of these data has not been verified. They have not been consolidated, and only a few of them are accessible.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214995",
+            "date": {
+                "original": "2026-05-31T00:00:00+00:00",
+                "changed": "2026-06-05T11:27:09+00:00",
+                "created": "2026-06-05T11:03:16+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214995"
+    },
+    {
+        "id": "4214994",
+        "score": 1,
+        "fields": {
+            "title": "Promouvoir la participation sociale et \u00e9conomique des personnes d\u00e9plac\u00e9es internes et des communaut\u00e9s h\u00f4tes (PESoP) - Ao\u00fbt 2025",
+            "body": "Le conflit entre le gouvernement central et les groupes arm\u00e9s non \u00e9tatiques dans les r\u00e9gions du sud-ouest et du nord-ouest du Cameroun s\u2019est intensifi\u00e9 depuis 2016. Depuis lors, les deux parties sont engag\u00e9es dans un conflit violent. En outre, les attaques contre les communaut\u00e9s frontali\u00e8res ont \u00e9galement entra\u00een\u00e9 le d\u00e9placement de populations dans la r\u00e9gion de l\u2019Ouest.\n\nSelon l\u2019\u00e9valuation multisectorielle des besoins (MSNA) men\u00e9e par l\u2019OCHA et l\u2019OIM, pr\u00e8s de 650 000 personnes ont \u00e9t\u00e9 d\u00e9plac\u00e9es du fait de la crise dans le Nord-Ouest, avec des r\u00e9percussions dans les r\u00e9gions de l\u2019Ouest et du Littoral. Avec l\u2019am\u00e9lioration progressive de la s\u00e9curit\u00e9 dans certaines zones affect\u00e9es, environ 445 000 personnes d\u00e9plac\u00e9es internes (PDI) sont retourn\u00e9es, comme indiqu\u00e9 dans le rapport MSNA de f\u00e9vrier 2023 (OCHA, 2023). Une analyse multisectorielle des besoins r\u00e9alis\u00e9e par l\u2019OIM en ao\u00fbt 2022 a jug\u00e9 la situation humanitaire dans la r\u00e9gion de l\u2019Ouest comme \u00e9tant principalement critique (niveau 4 sur 5), soulignant des besoins consid\u00e9rables en mati\u00e8re de logement, d\u2019alimentation, d\u2019acc\u00e8s \u00e0 l\u2019eau et \u00e0 l\u2019assainissement, et de travail des enfants mineurs. Cependant, les faits et chiffres disponibles sur les personnes d\u00e9plac\u00e9es internes sont sous-estim\u00e9s et remis en question par le gouvernement camerounais. Les autorit\u00e9s municipales et les leaders communautaires (chefs traditionnels, chefs de quartier), les chefs de division et les gouverneurs disposent de certains chiffres, mais leur qualit\u00e9 n\u2019a pas \u00e9t\u00e9 v\u00e9rifi\u00e9e.  \nIls n\u2019ont pas \u00e9t\u00e9 consolid\u00e9s et seuls quelques-uns sont disponibles.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214994",
+            "date": {
+                "original": "2026-05-31T00:00:00+00:00",
+                "changed": "2026-06-05T11:28:34+00:00",
+                "created": "2026-06-05T11:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214994"
+    },
+    {
+        "id": "4214945",
+        "score": 1,
+        "fields": {
+            "title": "GIEWS Country Brief: Gabon: 04-June-2026",
+            "body": "**FOOD SECURITY SNAPSHOT**\n\n1. Above\u2011average rainfall amounts during first half of 2026, may adversely affect secondary maize crop yields\n2. Cereal import requirements in 2026 forecast at above\u2011average level driven by low domestic cereal production\n3. National Gross Domestic Product (GDP) forecast at about 2.7 percent in 2026\n\n## Above\u2011average rainfall amounts during first half of 2026, may adversely affect secondary maize crop yields\n\nThe country\u2019s main food crops are cassava and plantains, but some small quantities of maize are produced. Sowing operations of cassava typically take place from January to March and are followed by planting activities of maize until the end of May. The growing cycle of maize crops, from planting to harvest, generally lasts about four to five months. Planting of the 2026 secondary season maize crop, to be harvested in June and July, was completed in March. Precipitation amounts have been at an above\u2011average level since the beginning of the season, resulting in flooding and soil oversaturation, which have likely affected yields.\n\n## Cereal import requirements in 2026 forecast at above\u2011average level driven by low domestic cereal production\n\nImports of cereals account for approximately 90 percent of the total cereal utilization. With a population of about 2.2 million people, total cereal import requirements in 2026 are forecast at an above\u2011average level of 255 000 tonnes, including about 170 000 tonnes of wheat and 70 000 tonnes of rice, reflecting rising domestic demand, amid limited domestic cereal production capacity.\n\n## National Gross Domestic Product (GDP) forecast at about 2.7 percent in 2026\n\nThe national economy is dominated by the petroleum sector, while agriculture contributes only to a small portion of the national GDP. In 2024, the GDP grew by approximately 2.4 percent, primarily due to a surge in crude oil prices, while in 2025 the GDP growth was about 2.5 percent. In 2026, the economy is forecast to grow by about 2.7 percent. According to [the International Monetary Fund (IMF) ](https://www.imf.org/external/datamapper/profile/GAB), the annual inflation rate was estimated at 3 percent in 2024 and at 2.6 percent in 2025, while it is forecast at 2.5 percent in 2026, mainly reflecting easing domestic food prices.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/96",
+                "id": 96,
+                "name": "Gabon",
+                "shortname": "Gabon",
+                "iso3": "gab",
+                "location": {
+                    "lat": -0.59,
+                    "lon": 11.8
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2836",
+                    "id": 2836,
+                    "name": "Food and Agriculture Organization of the United Nations",
+                    "shortname": "FAO",
+                    "longname": "Food and Agriculture Organization of the United Nations",
+                    "spanish_name": "Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n",
+                    "homepage": "https://www.fao.org/home/en/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214945",
+            "date": {
+                "original": "2026-06-04T00:00:00+00:00",
+                "changed": "2026-06-04T23:47:30+00:00",
+                "created": "2026-06-04T23:45:23+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214945"
+    },
+    {
+        "id": "4214943",
+        "score": 1,
+        "fields": {
+            "title": "Rapport de la situation epidemiologique du cholera en RD Congo (Interne OMS), semaine 21, 2026",
+            "body": "**I. POINTS SAILLANTS**\n\n\u2022 Une nouvelle ZS affect\u00e9e par le chol\u00e9ra a \u00e9t\u00e9 notifi\u00e9e : Itebero (Nord-Kivu) avec 23 cas et aucun d\u00e9c\u00e8s. \u2022 La notification des cas hebdomadaires d\u00e9passe \u00e0 nouveau le seuil de 1 000, avec 1 101 cas et 26 d\u00e9c\u00e8s \u00e0 la SE21 contre 899 cas \u00e0 la SE20, soit une hausse de 22,4 % apr\u00e8s trois semaines de baisse.\n\n\u2022 L\u2019\u00e9pid\u00e9mie touche 15 provinces et 81 zones de sant\u00e9 ayant rapport\u00e9 au moins un cas.\n\n\u2022 Le Nord-Kivu (467 cas, 2 d\u00e9c\u00e8s) et le Sud-Kivu (285 cas, aucun d\u00e9c\u00e8s) demeurent les principaux foyers, repr\u00e9sentant 68,3 % des cas des provinces end\u00e9miques de l\u2019Est.\n\n\u2022 Les provinces de l\u2019Ouest concentrent 17,6 % des cas, principalement \u00e0 Kinshasa, dans l\u2019\u00c9quateur, le Sud-Ubangi et le Kongo Central. \u2022 Le Minist\u00e8re de la Sant\u00e9 pr\u00e9pare une table ronde d\u00e9sormais orient\u00e9e vers le renforcement de la riposte au chol\u00e9ra.).\n\n\u2022 La campagne de vaccination le long du corridor fluvial entre les deux Congo demeure en pr\u00e9paration.\n\n\u2022 Les activit\u00e9s de riposte restent fortement ralenties en raison de l\u2019attente de la requ\u00eate op\u00e9rationnelle de l\u2019INSP",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214943",
+            "date": {
+                "original": "2026-06-04T00:00:00+00:00",
+                "changed": "2026-06-04T23:23:41+00:00",
+                "created": "2026-06-04T23:22:33+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214943"
+    },
+    {
+        "id": "4214931",
+        "score": 1,
+        "fields": {
+            "title": "Drone strikes at Chad-Sudan border: MSF treats 116 wounded in one month and warns of increasing civilian casualties.",
+            "body": "## T**Tin\u00e9, Chad \u2013 4 June 2026** \u2013 Since early May, drone strikes around Tina, Sudan, near the Chadian border, have intensified, leading to repeated influxes of wounded patients at Tin\u00e9 Hospital, supported by M\u00e9decins Sans Fronti\u00e8res (MSF) in Chad.\n\nIn recent weeks, residents have reported near-daily strikes, attributed to Sudan's Rapid Support Forces (RSF), with as many as five or six occurring on some days.\n\nSince the beginning of May, 116 people wounded in these strikes were treated at Tin\u00e9 Hospital. Between 17 and 26 May alone, 69 wounded patients were admitted. On 24 May, a strike hit a busy cafeteria in Tina market, resulting in the arrival of 35 wounded people in a single day. Three people were declared dead on arrival at the hospital, while several others reportedly died at the scene. Women and children were among the casualties.\n\n*\u201cWe are receiving patients after hours of travel, often in extremely difficult and critical condition,\u201d* says Issiaka Abdou, MSF Head of Mission in Chad. *\u201cThe injuries we are treating are often extremely severe, including serious burns, blast-related trauma and multiple injuries. We recently treated a child with severe burns to the face, arms and legs. Every delay in evacuation reduces the chances of survival for the most critically injured patients.\u201d*\n\nMSF medical teams are also observing a worrying shift in the profile of the patients being received. \u200b\n\n*\u201cIn recent days, we have seen more and more women and children among the wounded,\u201d says Issiaka Abdou. \u201cOn 26 May, all patients received following drone strikes were civilians. This shows just how exposed people living in this border area are to violence.\u201d*\n\nThe border region between Chad and Sudan is severely affected by the conflict in Darfur, population displacement and limited access to essential services, including healthcare. Repeated strikes are further exacerbating an already critical humanitarian situation.\n\n*\u201cHealth facilities in this region are operating in an extremely challenging environment, with high needs and limited resources,\u201d* says Ciss\u00e9 Boucari Hamadoum, MSF Project Coordinator in Tin\u00e9. *\u201cDespite these constraints, our teams continue to provide emergency medical care and respond to influxes of wounded patients in coordination with the Chadian health authorities.\u201d*\n\nMSF provides medical care to patients at Tin\u00e9 Hospital and, when necessary, organizes referrals to other medical facilities, including in Ab\u00e9ch\u00e9, for the most severe cases.\n\nCivilians should never pay the price of conflict. It is essential that populations are protected and that wounded people can access medical care quickly and safely. Since the start of the war in Sudan in April 2023, more than 900,000 Sudanese refugees have sought refuge in eastern Chad. In response to this crisis, MSF has expanded its activities in the provinces of Sila, Wadi Fira and Ouadda\u00ef.\n\nIn eastern Chad, MSF teams are working in Adr\u00e9, Our\u00e9 Cassoni, Iridimi, Touloum, and Aboutengu\u00e9, as well as in the surrounding villages in Ouadda\u00ef province, and in Tin\u00e9 in Wadi Fira province, providing emergency medical care and supporting health facilities that serve both refugee and host communities.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2904",
+                    "id": 2904,
+                    "name": "M\u00e9decins Sans Fronti\u00e8res",
+                    "shortname": "MSF",
+                    "longname": "M\u00e9decins Sans Fronti\u00e8res",
+                    "spanish_name": "M\u00e9dicos Sin Fronteras",
+                    "homepage": "https://www.msf.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214931",
+            "date": {
+                "original": "2026-06-04T00:00:00+00:00",
+                "changed": "2026-06-05T10:24:33+00:00",
+                "created": "2026-06-04T20:03:08+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214931"
+    },
+    {
+        "id": "4214921",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo : R\u00e9union de Coordination sur la r\u00e9ponse logistique dans la riposte \u00e0 la Maladie \u00e0 Virus Ebola : COUSP et Cluster Logistique, Kinshasa, 3 juin 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3594",
+                    "id": 3594,
+                    "name": "Logistics Cluster",
+                    "shortname": "Logistics Cluster",
+                    "homepage": "https://www.logcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "http://www.wfp.org",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214921",
+            "date": {
+                "original": "2026-06-03T00:00:00+00:00",
+                "changed": "2026-06-05T02:34:08+00:00",
+                "created": "2026-06-04T17:10:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214921"
+    },
+    {
+        "id": "4214920",
+        "score": 1,
+        "fields": {
+            "title": "La IFRC entrega suministros esenciales en el este de la Rep\u00fablica Democr\u00e1tica del Congo en medio del brote de \u00e9bola en curso",
+            "body": "**Kinshasa/Nairobi/Ginebra, 4 de junio de 2026** - La Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC) entreg\u00f3 el 3 de junio un env\u00edo de vital importancia de kits para entierros seguros y dignos (SDB, por sus siglas en ingl\u00e9s) y bolsas para cad\u00e1veres en Bunia, en el este de la Rep\u00fablica Democr\u00e1tica del Congo (RDC), donde el brote de \u00e9bola en curso sigue cobr\u00e1ndose vidas y poniendo a prueba los ya fr\u00e1giles sistemas de salud.\n\nEste env\u00edo fue transportado por v\u00eda a\u00e9rea desde Dub\u00e1i a Entebbe (Uganda) y, posteriormente, parti\u00f3 hacia Bunia por carretera el 29 de mayo de 2026. Conten\u00eda 13 kits SDB, suficientes para realizar aproximadamente 300 entierros seguros y dignos. La ruta terrestre de Entebbe a Bunia dura aproximadamente siete d\u00edas, revelando la complejidad log\u00edstica que supone llegar a las poblaciones afectadas en esta zona remota del pa\u00eds.\n\nEst\u00e1 previsto que un segundo env\u00edo, preposicionado en Kinshasa, llegue a Bunia por v\u00eda a\u00e9rea a lo largo de esta semana. Ahora que el aeropuerto ha reabierto, los suministros operativos pueden entregarse m\u00e1s r\u00e1pidamente. La carga incluye 10 kits SDB y 300 bolsas para cad\u00e1veres.\n\nEstos env\u00edos, que forman parte de una iniciativa de adquisici\u00f3n m\u00e1s amplia por un valor de 2,2 millones de francos suizos, proporcionar\u00e1n el equipo operativo que necesitan los equipos de la Cruz Roja para seguir realizando entierros seguros y dignos, una de las herramientas m\u00e1s importantes para contener la propagaci\u00f3n del \u00e9bola.\n\n\u00abCada kit de entierro seguro y digno que llega, y cada entierro realizado de forma segura y respetuosa, ayuda a romper una posible cadena de transmisi\u00f3n. Nuestro voluntariado trabaja en condiciones extraordinariamente dif\u00edciles y necesitan todo el apoyo que podamos brindarles, incluidos estos suministros, ahora mismo\u00bb, afirm\u00f3 Bruno Michon, director de operaciones de respuesta al \u00e9bola de la IFRC en la Rep\u00fablica Democr\u00e1tica del Congo.\n\nLos entierros seguros y dignos no son solo una tarea log\u00edstica, sino una intervenci\u00f3n de salud p\u00fablica en primera l\u00ednea y un acto de respeto hacia las familias en sus momentos m\u00e1s dolorosos. Hacer llegar estos suministros a nuestros equipos en el este de la Rep\u00fablica Democr\u00e1tica del Congo es una carrera contra el virus.\n\nLa IFRC hace un llamado a la comunidad internacional, a los donantes y a los socios para que apoyen el llamamiento de emergencia regional con el fin de garantizar que las comunidades de la Rep\u00fablica Democr\u00e1tica del Congo y de toda la regi\u00f3n reciban toda la asistencia vital que necesitan con urgencia.\n\nTraducci\u00f3n realizada con la versi\u00f3n gratuita del traductor DeepL.com\n\n**Fotos disponibles:** [https://shared.ifrc.org/collections/~2e8af4bc27](https://shared.ifrc.org/collections/~2e8af4bc27)\n\n**Para obtener m\u00e1s informaci\u00f3n o concertar una entrevista, p\u00f3ngase en contacto con:** [**\\[email protected\\]**](https://www.ifrc.org/cdn-cgi/l/email-protection#2d404849444c6d444b5f4e03425f4a)\n\n**En Kinshasa:** Catherine Kamatu, +254 728 815 266\n\n**En Nairobi:** Susan Mbalu, +254 733 827 654\n\n**En Ginebra:** Tommaso Della Longa +41 79 708 4367 | Paolo Cravero +41 79 894 8396",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1242",
+                    "id": 1242,
+                    "name": "International Federation of Red Cross and Red Crescent Societies",
+                    "shortname": "IFRC",
+                    "longname": "International Federation of Red Cross and Red Crescent Societies",
+                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                    "homepage": "https://www.ifrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214920",
+            "date": {
+                "original": "2026-06-04T00:00:00+00:00",
+                "changed": "2026-06-05T00:52:40+00:00",
+                "created": "2026-06-04T17:03:08+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214920"
+    },
+    {
         "id": "4214918",
         "score": 1,
         "fields": {
-            "title": "JENA_ Suivi de la crise Ebola sur le secteur Education_ en cours_ mise a jour au 2 juin 2026",
-            "body": "La R\u00e9publique D\u00e9mocratique du Congo a d\u00e9clar\u00e9 le 15 mai 2026 la 17\u00e8me\u00e9pid\u00e9mie de maladie Ebola. En date du vendredi 29 mai, 246 morts ont \u00e9t\u00e9 signal\u00e9s sur 1139 cas suspects (Source: Agence sanitaire de l\u2019Union africaine). L'\u00e9pid\u00e9mie entra\u00eene des r\u00e9percussions directes sur le secteur de l'\u00e9ducation, en particulier \u00e0 Bunia (Province de l\u2019Ituri), \u00e0 Rwampara et dans les environs, o\u00f9 les \u00e9coles sont expos\u00e9es \u00e0 un risque \u00e9lev\u00e9 de transmission en raison de la forte mobilit\u00e9 de la population et de la pr\u00e9sence d'\u00e9l\u00e8ves pr\u00e9sentant des sympt\u00f4mes.  \nDans ce contexte, le Cluster Education et ses partenaires ont d\u00e9cid\u00e9 d\u2019ajuster le questionnaire administr\u00e9 dans les \u00e9coles dans le cadre de leur \u00e9valuation conjointe des besoins en mati\u00e8re d\u2019\u00e9ducation. Des informations cl\u00e9s, portant sur les sources d\u2019information, les connaissances, l\u2019impact et les priorit\u00e9s des infrastructures scolaires concernant la maladie \u00e0 virus Ebola ont donc \u00e9t\u00e9 rassembl\u00e9es. Ce suivi de la situation donne un aper\u00e7u des r\u00e9sultats collect\u00e9s entre le 26 mai et le 2 juin au sein de 83 \u00e9tablissements scolaires, localis\u00e9s dans les provinces de Sud-Kivu, Nord-Kivu et de l\u2019Ituri.",
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Suivi de la crise Ebola sur le secteur Education (2 juin 2026)",
+            "body": "La R\u00e9publique D\u00e9mocratique du Congo a d\u00e9clar\u00e9 le 15 mai 2026 la 17\u00e8me\u00e9pid\u00e9mie de maladie Ebola. En date du vendredi 29 mai, 246 morts ont \u00e9t\u00e9 signal\u00e9s sur 1139 cas suspects (Source: Agence sanitaire de l\u2019Union africaine). L'\u00e9pid\u00e9mie entra\u00eene des r\u00e9percussions directes sur le secteur de l'\u00e9ducation, en particulier \u00e0 Bunia (Province de l\u2019Ituri), \u00e0 Rwampara et dans les environs, o\u00f9 les \u00e9coles sont expos\u00e9es \u00e0 un risque \u00e9lev\u00e9 de transmission en raison de la forte mobilit\u00e9 de la population et de la pr\u00e9sence d'\u00e9l\u00e8ves pr\u00e9sentant des sympt\u00f4mes.  \n Dans ce contexte, le Cluster Education et ses partenaires ont d\u00e9cid\u00e9 d\u2019ajuster le questionnaire administr\u00e9 dans les \u00e9coles dans le cadre de leur \u00e9valuation conjointe des besoins en mati\u00e8re d\u2019\u00e9ducation. Des informations cl\u00e9s, portant sur les sources d\u2019information, les connaissances, l\u2019impact et les priorit\u00e9s des infrastructures scolaires concernant la maladie \u00e0 virus Ebola ont donc \u00e9t\u00e9 rassembl\u00e9es. Ce suivi de la situation donne un aper\u00e7u des r\u00e9sultats collect\u00e9s entre le 26 mai et le 2 juin au sein de 83 \u00e9tablissements scolaires, localis\u00e9s dans les provinces de Sud-Kivu, Nord-Kivu et de l\u2019Ituri.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -58,7 +396,7 @@
             "url": "https://reliefweb.int/node/4214918",
             "date": {
                 "original": "2026-06-04T00:00:00+00:00",
-                "changed": "2026-06-04T16:55:04+00:00",
+                "changed": "2026-06-05T00:35:51+00:00",
                 "created": "2026-06-04T16:53:38+00:00"
             }
         },
@@ -68,7 +406,7 @@
         "id": "4214917",
         "score": 1,
         "fields": {
-            "title": "Note d'orientation du Cluster \u00c9ducation pour la pr\u00e9paration et la r\u00e9ponse \u00e0 l'\u00e9pid\u00e9mie d'Ebola en R\u00e9publique D\u00e9mocratique du Congo (RDC)",
+            "title": "Note d'orientation du Cluster \u00c9ducation pour la pr\u00e9paration et la r\u00e9ponse \u00e0 l'\u00e9pid\u00e9mie d'Ebola en R\u00e9publique D\u00e9mocratique du Congo (RDC) (3 juin 2026)",
             "body": "En date du 15 mai 2026, le Gouvernement de la R\u00e9publique D\u00e9mocratique du Congo (RDC) par l\u2019entremise de son Minist\u00e8re de la Sant\u00e9 a fait l\u2019annonce officielle de la survenue de la 17\u1d49 \u00e9pid\u00e9mie de la maladie \u00e0 virus Ebola (MVE) en RDC. Suite \u00e0 cette d\u00e9claration, le Cluster \u00c9ducation en R\u00e9publique d\u00e9mocratique du Congo (RDC) travaille avec les partenaires et les autorit\u00e9s afin de renforcer la prise en compte du secteur de l\u2019\u00c9ducation dans l\u2019architecture nationale de r\u00e9ponse, notamment \u00e0 travers l\u2019engagement avec le m\u00e9canisme de coordination du Centre des Op\u00e9rations d\u2019Urgence de Sant\u00e9 Publique (COUSP).\n\nDans le contexte actuel de r\u00e9surgence d\u2019Ebola dans le pays, le secteur de l\u2019\u00e9ducation joue un r\u00f4le essentiel dans la pr\u00e9vention, la protection et la continuit\u00e9 des services pour les enfants et les communaut\u00e9s affect\u00e9es. Les \u00e9coles, les enseignants et les structures \u00e9ducatives constituent des plateformes strat\u00e9giques de sensibilisation, de diffusion d\u2019informations vitales, de lutte contre la d\u00e9sinformation, de renforcement de la confiance communautaire, ainsi que de soutien psychosocial et de r\u00e9duction des risques de transmission.\n\nL\u2019\u00e9ducation doit ainsi \u00eatre consid\u00e9r\u00e9e comme une intervention essentielle et salvatrice, contribuant directement aux efforts de pr\u00e9vention, de pr\u00e9paration et de contr\u00f4le de l\u2019\u00e9pid\u00e9mie.\n\nCes lignes directrices visent \u00e0 orienter les acteurs du Cluster \u00c9ducation en RDC afin d\u2019assurer une r\u00e9ponse rapide, coordonn\u00e9e, s\u00fbre et centr\u00e9e sur les enfants d\u00e8s le Jour 1.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
@@ -123,7 +461,7 @@
             "url": "https://reliefweb.int/node/4214917",
             "date": {
                 "original": "2026-06-04T00:00:00+00:00",
-                "changed": "2026-06-04T16:44:13+00:00",
+                "changed": "2026-06-05T00:33:40+00:00",
                 "created": "2026-06-04T16:43:31+00:00"
             }
         },
@@ -133,7 +471,7 @@
         "id": "4214913",
         "score": 1,
         "fields": {
-            "title": "Proc\u00e9dures op\u00e9rationnelles pour l'organisation s\u00e9curis\u00e9e des examens dans le contexte de l'\u00e9pidemie d'Ebola",
+            "title": "R\u00e9publique d\u00e9mocratique du Congo Cluster \u00c9ducation : Proc\u00e9dures op\u00e9rationnelles pour l'organisation s\u00e9curis\u00e9e des examens dans le contexte de l'\u00e9pidemie d'Ebola (3 juin 2026)",
             "body": "**Contexte :**\n\nEn date du 15 mai 2026, le Gouvernement de la R\u00e9publique D\u00e9mocratique du Congo (RDC) par l\u2019entremise de son minist\u00e8re de la Sant\u00e9 a fait l\u2019annonce officielle de la survenue de la 17\u1d49 \u00e9pid\u00e9mie de la maladie \u00e0 virus Ebola en RDC. Le Cluster Education joue un r\u00f4le actif dans la coordination de la r\u00e9ponse humanitaire pour l\u2019\u00e9ducation, afin d\u2019assurer la continuit\u00e9 de l\u2019apprentissage dans un environnement s\u00fbr, tout en renfor\u00e7ant les mesures de pr\u00e9vention et de contr\u00f4le des infections dans les \u00e9coles.\n\n**Objective :**\n\nLe Cluster Education a actuellement pour priorit\u00e9 de soutenir la mise en \u0153uvre s\u00e9curis\u00e9e des examens de fin d\u2019ann\u00e9e. Cette proc\u00e9dure vise \u00e0 orienter les interventions des partenaires \u00e9ducatifs qui appuient la r\u00e9alisation des examens de fin d\u2019ann\u00e9e scolaire (y compris les \u00e9valuations certificatives) en renfor\u00e7ant les mesures de pr\u00e9vention et de contr\u00f4le des infections dans les \u00e9coles et les centres d\u2019examens.\n\n**Ces proc\u00e9dures op\u00e9rationnelles fournissent des mesures pratiques destin\u00e9es aux partenaires afin de garantir la d\u00e9tection pr\u00e9coce, la pr\u00e9vention et une r\u00e9ponse appropri\u00e9e aux cas suspects de maladie \u00e0 virus Ebola (MVE) dans les milieux scolaires (les \u00e9coles et les centres d\u2019examens).**",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
@@ -188,7 +526,7 @@
             "url": "https://reliefweb.int/node/4214913",
             "date": {
                 "original": "2026-06-04T00:00:00+00:00",
-                "changed": "2026-06-04T16:38:37+00:00",
+                "changed": "2026-06-05T00:32:19+00:00",
                 "created": "2026-06-04T16:37:01+00:00"
             }
         },
@@ -228,11 +566,253 @@
             "url": "https://reliefweb.int/node/4214912",
             "date": {
                 "original": "2026-06-04T00:00:00+00:00",
-                "changed": "2026-06-04T16:17:06+00:00",
+                "changed": "2026-06-05T01:59:50+00:00",
                 "created": "2026-06-04T16:17:18+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4214912"
+    },
+    {
+        "id": "4214909",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon: Locations of forcibly displaced persons (May 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214909",
+            "date": {
+                "original": "2026-05-31T00:00:00+00:00",
+                "changed": "2026-06-05T00:41:49+00:00",
+                "created": "2026-06-04T16:03:24+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214909"
+    },
+    {
+        "id": "4214908",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Cameroon Multi Country Office: Refugees and Internally Displaced Persons (May 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214908",
+            "date": {
+                "original": "2026-05-31T00:00:00+00:00",
+                "changed": "2026-06-05T00:39:37+00:00",
+                "created": "2026-06-04T16:03:21+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214908"
+    },
+    {
+        "id": "4214907",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon Multi-Country Office (MCO) global statistics (May 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214907",
+            "date": {
+                "original": "2026-05-31T00:00:00+00:00",
+                "changed": "2026-06-05T00:35:00+00:00",
+                "created": "2026-06-04T16:03:18+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214907"
+    },
+    {
+        "id": "4214906",
+        "score": 1,
+        "fields": {
+            "title": "MCO Cameroun : Statistiques de refugies et demandeurs d'asile (mai 2026) [EN/FR]",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214906",
+            "date": {
+                "original": "2026-05-31T00:00:00+00:00",
+                "changed": "2026-06-05T00:29:52+00:00",
+                "created": "2026-06-04T16:03:14+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214906"
+    },
+    {
+        "id": "4214898",
+        "score": 1,
+        "fields": {
+            "title": "l'IFRC achemine des fournitures essentielles dans l'est de la RDC face \u00e0 l'\u00e9pid\u00e9mie d'Ebola",
+            "body": "**Kinshasa/Nairobi/Gen\u00e8ve, le 4 juin 2026** - La F\u00e9d\u00e9ration internationale des Soci\u00e9t\u00e9s de la Croix-Rouge et du Croissant-Rouge (IFRC) a livr\u00e9 le 3 juin un important chargement de kits d'enterrements dignes et s\u00e9curis\u00e9s et de sacs mortuaires \u00e0 Bunia, dans l'est de la R\u00e9publique d\u00e9mocratique du Congo (RDC), o\u00f9 l'\u00e9pid\u00e9mie d'Ebola continue de faire des victimes et de mettre \u00e0 rude \u00e9preuve un syst\u00e8me de sant\u00e9 d\u00e9j\u00e0 fragile.\n\nCe chargement a \u00e9t\u00e9 transport\u00e9 par avion de Duba\u00ef \u00e0 Entebbe (Ouganda), puis par la route jusqu'\u00e0 Bunia le 29 mai 2026. Il contenait 13 de kits d'enterrements dignes et s\u00e9curis\u00e9s, permettant d'assurer environ 300 enterrements dignes et s\u00e9curis\u00e9es. Le trajet terrestre d'Entebbe \u00e0 Bunia prend environ sept jours, ce qui souligne la complexit\u00e9 logistique de l'acc\u00e8s aux populations touch\u00e9es dans cette r\u00e9gion recul\u00e9e du pays.\n\nUn deuxi\u00e8me chargement, pr\u00e9positionn\u00e9 \u00e0 Kinshasa, devrait arriver \u00e0 Bunia par avion dans la semaine. Gr\u00e2ce \u00e0 la r\u00e9ouverture de l'a\u00e9roport, les livraisons de mat\u00e9riel op\u00e9rationnel peuvent \u00eatre effectu\u00e9es plus rapidement. Ce chargement comprend 10 kits d'enterrements sans danger et 300 sacs mortuaires.\n\nCes livraisons, qui s'inscrivent dans le cadre d'un effort d'approvisionnement plus vaste de 2,2 millions de francs suisses, fourniront aux \u00e9quipes de la Croix-Rouge l'\u00e9quipement op\u00e9rationnel n\u00e9cessaire pour continuer \u00e0 assurer des inhumations s\u00fbres et dignes, un des outils les plus essentiels pour contenir la propagation d'Ebola.\n\n\u00ab Chaque kit d'inhumation qui arrive, et chaque inhumation r\u00e9alis\u00e9e dans le respect des r\u00e8gles sanitaires, contribue \u00e0 rompre une cha\u00eene de transmission potentielle. Nos volontaires travaillent dans des conditions extr\u00eamement difficiles et ont besoin de tout le soutien possible, y compris ces fournitures, d\u00e8s maintenant \u00bb, a d\u00e9clar\u00e9 Bruno Michon, responsable des op\u00e9rations de riposte \u00e0 Ebola de l'IFRC en R\u00e9publique d\u00e9mocratique du Congo.\n\nLes inhumations s\u00fbres et dignes ne sont pas qu'une simple t\u00e2che logistique : elles constituent une intervention de sant\u00e9 publique de premi\u00e8re ligne et un acte de respect envers les familles dans leurs moments les plus douloureux. L'acheminement de ces fournitures \u00e0 nos \u00e9quipes dans l'est de la RDC est une course contre la montre face au virus.\n\nL'IFRC appelle la communaut\u00e9 internationale, les donateurs et les partenaires \u00e0 soutenir l'appel d'urgence r\u00e9gional afin de garantir que les populations de la RDC et de toute la r\u00e9gion re\u00e7oivent l'aide vitale dont elles ont un besoin urgent.\n\n**Lien vers les photos** : [https://shared.ifrc.org/collections/~2e8af4bc27](https://shared.ifrc.org/collections/~2e8af4bc27)\n\n**Pour plus d'informations ou pour organiser une interview, veuillez contacter :** [**\\[email protected\\]**](https://www.ifrc.org/cdn-cgi/l/email-protection#771a12131e16371e11051459180510)\n\n\u00c0 Kinshasa : Catherine Kamatu, +254 728 815 266\n\n\u00c0 Nairobi : Susan Mbalu, +254 733 827 654\n\n\u00c0 Gen\u00e8ve : Tommaso Della Longa, +41 79 708 4367 | Paolo Cravero, +41 79 894 8396",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1242",
+                    "id": 1242,
+                    "name": "International Federation of Red Cross and Red Crescent Societies",
+                    "shortname": "IFRC",
+                    "longname": "International Federation of Red Cross and Red Crescent Societies",
+                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                    "homepage": "https://www.ifrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214898",
+            "date": {
+                "original": "2026-06-04T00:00:00+00:00",
+                "changed": "2026-06-05T00:53:05+00:00",
+                "created": "2026-06-04T15:33:05+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214898"
+    },
+    {
+        "id": "4214891",
+        "score": 1,
+        "fields": {
+            "title": "IFRC delivers critical supplies to eastern DRC amid ongoing Ebola outbreak",
+            "body": "**Kinshasa/Nairobi/Geneva, 04 June 2026** *-* The International Federation of Red Cross and Red Crescent Societies (IFRC) has delivered on 3 June a critical shipment of Safe and Dignified Burial (SDB) kits and body bags to Bunia, in eastern Democratic Republic of the Congo (DRC), where the ongoing Ebola outbreak continues to claim lives and strain already fragile health systems.\n\nThis shipment was airlifted from Dubai to Entebbe (Uganda) and then departed for Bunia by road on 29 May 2026. It contained 13 SDB kits, supporting approximately 300 safe and dignified burials. The land route from Entebbe to Bunia takes approximately seven days, underscoring the logistical complexity of reaching affected populations in this remote part of the country.\n\nA second shipment, pre-positioned in Kinshasa, is scheduled to arrive in Bunia by air within the week. With the airport now reopened, operational goods can be delivered more quickly. The cargo includes 10 SDB kits and 300 body bags.\n\nThese shipments, part of a broader CHF 2.2 million procurement effort, will provide operational equipment needed by Red Cross teams to continue performing safe and dignified burials, one of the most vital tools in containing the spread of Ebola.\n\n*\u201cEvery Safe and Dignified Burial kit that arrives, and every burial conducted safely and respectfully, helps break a potential chain of transmission. Our volunteers are working in extraordinarily difficult conditions, and they need all the support we can provide, including these supplies, now,\u201d* said Bruno Michon, IFRC Ebola response Operations Manager in the Democratic Republic of Congo.\n\nSafe and dignified burials are not just a logistical task \u2014 they are a frontline public health intervention and an act of respect for families in their most painful moments. Getting these supplies to our teams in eastern DRC is a race against the virus.\n\nThe IFRC calls on the international community, donors and partners to support the regional emergency appeal to ensure that communities in DRC and across the region receive the full scope of life-saving assistance they urgently need.\n\n**Link to photos:** [https://shared.ifrc.org/collections/~2e8af4bc27](https://shared.ifrc.org/collections/~2e8af4bc27)\n\n**For more information or to set up an interview contact:** [**\\[email protected\\]**](https://www.ifrc.org/cdn-cgi/l/email-protection#107d7574797150797662733e7f6277)\n\n**In Kinshasa:** Catherine Kamatu, +254 728 815 266\n\n**In Nairobi:** Susan Mbalu, +254 733 827 654\n\n**In Geneva:** Tommaso Della Longa +41 79 708 4367 | Paolo Cravero +41 79 894 8396\n\n***About IFRC:***\n\n*IFRC is the world\u2019s largest humanitarian network, comprising 191 National Red Cross and Red Crescent Societies working to save lives, build community resilience, strengthen localization and promote dignity around the world.*",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1242",
+                    "id": 1242,
+                    "name": "International Federation of Red Cross and Red Crescent Societies",
+                    "shortname": "IFRC",
+                    "longname": "International Federation of Red Cross and Red Crescent Societies",
+                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                    "homepage": "https://www.ifrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4214891",
+            "date": {
+                "original": "2026-06-04T00:00:00+00:00",
+                "changed": "2026-06-05T00:52:11+00:00",
+                "created": "2026-06-04T15:03:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4214891"
     },
     {
         "id": "4214877",
@@ -705,7 +1285,7 @@
             "url": "https://reliefweb.int/node/4214763",
             "date": {
                 "original": "2026-06-03T00:00:00+00:00",
-                "changed": "2026-06-04T03:54:30+00:00",
+                "changed": "2026-06-04T23:54:48+00:00",
                 "created": "2026-06-04T03:53:08+00:00"
             }
         },
@@ -1169,620 +1749,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4214640"
-    },
-    {
-        "id": "4214631",
-        "score": 1,
-        "fields": {
-            "title": "Population movements from Bunia, Mongbwalu and Rwampara based on privacy-secure analysis of mobile operator data from Vodacom Congo (28 May 2026)",
-            "body": "**Executive summary**\n\nThis report uses anonymised mobile operator data from Vodacom Congo to map population movements out of the three health zones \u2014 Bunia, Mongbwalu and Rwampara \u2014 that account for the vast majority of confirmed and suspected cases in the 2026 DRC Ebola Bundibugyo outbreak. The aim of the study is to identify which areas across the country face the greatest risk of importation and inform decision making in relation to where surveillance outside the three main affected health zones should be prioritised.\n\nAn anonymised study cohort of subscribers present in the three origin health zones during the period 3\u201323 April 2026, was followed between 24 April and 23 May 2026. Their subsequent movements provide a very recent estimate of how the population in the three main outbreak areas has spread across DRC.\n\nThe largest travel flows remain inside Ituri, with the top five recipient health zones being Lita, Nizi, Bambu, Kilo and Nyankunde. Lita alone has received 22% of the studied cohort \u2014 orders of magnitude more than other zones in the province. This points to very large differences in importation risk even within Ituri. Outside Ituri, there are clear flows south to Beni and Butembo in Nord-Kivu (~1% of the cohort), to Watsa in HautUele (0.7%), Makiso Kisangani in Tshopo (0.35%), and smaller but notable flows to Kinshasa (Nsele and Gombe), Sud-Kivu, Maniema, Tanganyika, Mongala, Equateur, Kasa\u00ef Central and Kongo Central, as well as along the Congo River corridor and the Kinshasa\u2013Kikwit\u2013Kananga axis.\n\nMobility patterns align with the observed case distribution: three of the top five recipient zones and eight out of ten health zones with confirmed cases outside the three main affected health zones fall within the top 30 destinations. Four important exceptions stand out. Lita, the largest recipient, has no confirmed or suspected cases to date. This warrants a review of surveillance quality in this health zone. Bambu, the third largest recipient, has no confirmed cases, but does have both suspected cases and suspected deaths.\n\nConversely, confirmed cases in Goma and Miti Murhesa sit well outside the top 30 (ranks 45 and 126 respectively), a reminder that lower-ranked zones cannot be discounted.\n\nThe report recommends that highly ranked health zones, which are not seen as currently affected, be given particular attention in surveillance planning. Important caveats apply: mobility is a key but not sole predictor of spread (contact patterns ultimately determine transmission), and the data reflect Vodacom subscribers only, though Vodacom is the market leader in Ituri. Further analyses covering additional origin areas, individual health-zone breakdowns, and extended time periods are planned.\n\n**Privacy note**\n\nThe analysis runs on anonymised Call Detail Records (CDRs), records of mobile activity that the operator generates automatically for billing, held inside Vodacom Congo's secure environment. No individual-level data leaves Vodacom's premises. All published results are aggregated to health zone level and to cohort percentages. Subscribers are not identified. The cohort is defined only by presence in the three outbreak health zones during 3\u201323 April 2026; no other personal attributes are used.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/35926",
-                    "id": 35926,
-                    "name": "Flowminder Foundation",
-                    "shortname": "Flowminder Foundation",
-                    "longname": "Flowminder Foundation",
-                    "homepage": "http://www.flowminder.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214631",
-            "date": {
-                "original": "2026-06-03T00:00:00+00:00",
-                "changed": "2026-06-04T09:35:23+00:00",
-                "created": "2026-06-03T09:12:02+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214631"
-    },
-    {
-        "id": "4214620",
-        "score": 1,
-        "fields": {
-            "title": "Ebola Outbreak in DRC and Uganda: Situation Report #3 (June 1, 2026)",
-            "body": "**Key Updates**\n\n\u2022 Project HOPE\u2019s team is in Uganda and working closely with government officials to support surveillance measures, contact tracing efforts, and prevent further spread.\n\n\u2022 Project HOPE, working with partners and suppliers, will be distributing 12 pallets of critical PPE and IPC materials in Uganda and the DRC, in coordination with local health officials.\n\n\u2022 Ebola case numbers continue to rise in the DRC as the humanitarian response races to catch up with the expanding outbreak.\n\n*Project HOPE\u2019s Emergency Response Team is in Uganda and working with government officials and local partners to respond to the worsening outbreak of the Bundibugyo strain of Ebola virus in the DRC and Uganda.*\n\n**Situation Overview**\n\nThe number of suspected and confirmed cases of Ebola virus continue to rise in the Democratic Republic of Congo (DRC) and in neighboring Uganda. As of May 31, 2026, there have been 291 confirmed cases of the Bundibugyo strain of Ebola virus and 43 confirmed deaths across the DRC and Uganda, with the majority of the outbreak occurring in the DRC\u2019s northeastern areas, reaching 22 health zones.\n\nThere are an additional 1,100 suspected cases still under investigation in the DRC, where women currently make up 60% of suspected cases.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2003",
-                    "id": 2003,
-                    "name": "Project HOPE",
-                    "shortname": "HOPE",
-                    "longname": "Project HOPE (The People-to-People Health Foundation)",
-                    "homepage": "http://www.projecthope.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214620",
-            "date": {
-                "original": "2026-06-03T00:00:00+00:00",
-                "changed": "2026-06-03T08:26:07+00:00",
-                "created": "2026-06-03T08:25:58+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214620"
-    },
-    {
-        "id": "4214619",
-        "score": 1,
-        "fields": {
-            "title": "Chad: Humanitarian Bulletin | March-April 2026",
-            "body": "HIGHLIGHT\n\n- CERF: two decades of rapid response, with the fund remaining a vital pillar in the face of crises and resource shortages.\n\n- A new allocation from the Regional Humanitarian Fund (FHRAOC) prioritising a localised response, involving 40 partners, the majority of whom are national NGOs.\n\n- Measles alert: over 9,823 suspected cases, including 2,156 confirmed cases, have been reported.\n\nAs the world navigates a period of unprecedented instability, marked by an increase in climate-related crises, protracted conflicts and mass population displacement, CERF has celebrated its 20th anniversary. Officially launched in March 2006, CERF was designed to provide resources within the first 72 hours of a crisis, enabling vital aid to be deployed immediately.\n\nEstablished by UN General Assembly Resolution 60/124 in December 2005 and made operational in 2006, CERF has profoundly transformed the humanitarian system\u2019s capacity to respond to emergencies. Over the past twenty years, it has mobilised nearly $10 billion for humanitarian action in more than 110 countries, including Chad, often before any other source of funding",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214619",
-            "date": {
-                "original": "2026-06-03T00:00:00+00:00",
-                "changed": "2026-06-03T09:07:57+00:00",
-                "created": "2026-06-03T08:17:00+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214619"
-    },
-    {
-        "id": "4214575",
-        "score": 1,
-        "fields": {
-            "title": "DRC, Ebola BVD Outbreak Emergency Response - Concept of Operations (ConOPs) - Last updated: 01/06/2026",
-            "body": "This Concept of Operations is a live document. Activities will be adapted and revised as the situation unfolds and as further communications needs are expressed by the response community.\n\n**Background**\n\n\u2022 Since the May 2026 Ebola declaration, humanitarian operations are expanding rapidly across Ituri (Bunia, Rwampara, Mongbwalu), which are expected to drive immediate demand for reliable, shared connectivity to sustain coordination and operations.\n\n\u2022 Due to the mix of urban, peri-urban, and rural areas under response, patchy and unreliable connectivity risks delaying case reporting, lab results, and contact tracing\u2014directly undermining early detection and slowing the response.\n\n\u2022 To enable critical humanitarian movement and response in affected areas, the humanitarian community requires reliable and timely communication, coordination, and data reporting.\n\n\u2022 Emergency telecommunications has now merged with the Logistics Cluster and is known as the Logistics and Telecommunications Cluster (LTC), which is aligning its response as a backbone enabling service for the broader humanitarian community. In particular, telecommunications support planning is under way to extend reliable connectivity beyond urban centres, ensuring uninterrupted communications for responders operating across dispersed and underserved outbreak-affected areas.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/13799",
-                    "id": 13799,
-                    "name": "Emergency Telecommunications Cluster",
-                    "shortname": "ETC",
-                    "longname": "Emergency Telecommunications Cluster",
-                    "homepage": "https://www.etcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3594",
-                    "id": 3594,
-                    "name": "Logistics Cluster",
-                    "shortname": "Logistics Cluster",
-                    "homepage": "https://www.logcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214575",
-            "date": {
-                "original": "2026-06-01T00:00:00+00:00",
-                "changed": "2026-06-04T03:52:52+00:00",
-                "created": "2026-06-03T01:33:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214575"
-    },
-    {
-        "id": "4214569",
-        "score": 1,
-        "fields": {
-            "title": "DRC Ebola BVD Outbreak Emergency Response - Rapid Telecommunications Assessment: Ituri Province (Last updated: 01/06/2026)",
-            "body": "**Overview**\n\nConnectivity across Ituri is limited, uneven, and unreliable. While urban centres such as Bunia have some 3G/4G coverage, signal rapidly diminishes outside main towns and corridors. Large areas (particularly in surrounding health zones) have weak or no signal, creating significant gaps in communication for response actors.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/13799",
-                    "id": 13799,
-                    "name": "Emergency Telecommunications Cluster",
-                    "shortname": "ETC",
-                    "longname": "Emergency Telecommunications Cluster",
-                    "homepage": "https://www.etcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3594",
-                    "id": 3594,
-                    "name": "Logistics Cluster",
-                    "shortname": "Logistics Cluster",
-                    "homepage": "https://www.logcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214569",
-            "date": {
-                "original": "2026-06-01T00:00:00+00:00",
-                "changed": "2026-06-02T23:48:35+00:00",
-                "created": "2026-06-02T23:47:56+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214569"
-    },
-    {
-        "id": "4214568",
-        "score": 1,
-        "fields": {
-            "title": "Centre d\u2019Op\u00e9rations d\u2019Urgence de Sant\u00e9 Publique \u00ab COUSP RDC \u00bb : Rapport de Situation de la 17\u00e8me Epid\u00e9mie de la Maladie \u00e0 Virus EBOLA /RDC (SitRep N\u00b0017/MVB_31/2026)",
-            "body": "**1. FAITS SAILLANTS**\n\n- Douze (12) nouveaux cas confirm\u00e9s notifi\u00e9s le 31 mai 2026, r\u00e9partis dans les zones de sant\u00e9 de Rwampara (5), Bunia (4), Nyankunde (1), Logo (1) et Nizi (1).\n- La zone de sant\u00e9 de Logo est nouvellement touch\u00e9e, portant \u00e0 15 sur 36 (41,7%) les zones de sant\u00e9 atteintes dans la province de l'Ituri. \uf0b7 Sortie de quatre (4) patients gu\u00e9ris du Centre M\u00e9dical \u00c9vang\u00e9lique de Bunia, c\u00e9r\u00e9monie pr\u00e9sid\u00e9e par le Directeur G\u00e9n\u00e9ral de l'INSP en pr\u00e9sence du Directeur G\u00e9n\u00e9ral de l'OMS.\n- Inauguration officielle du Centre de Traitement Ebola (CTE) norm\u00e9 de CME Rwampara, nouvellement r\u00e9habilit\u00e9 et remis par le Directeur G\u00e9n\u00e9ral de l'OMS \u00e0 l'Incident Manager MVE repr\u00e9sentant du Ministre de la Sant\u00e9 Publique.\n- R\u00e9ception de 162 poches de sang pour les soins transfusionnels dans le cadre de la continuit\u00e9 des services de soins de sant\u00e9 essentiels",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/732",
-                    "id": 732,
-                    "name": "Government of the Democratic Republic of the Congo",
-                    "shortname": "Govt. DR Congo",
-                    "longname": "Government of the Democratic Republic of the Congo",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214568",
-            "date": {
-                "original": "2026-06-01T00:00:00+00:00",
-                "changed": "2026-06-02T23:45:04+00:00",
-                "created": "2026-06-02T23:42:49+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214568"
-    },
-    {
-        "id": "4214553",
-        "score": 1,
-        "fields": {
-            "title": "2026 Ebola Outbreak: Mobility and Health System Vulnerabilities in Eastern DRC and Bordering Areas | Democratic Republic of Congo, Uganda, South Sudan (29 May 2026)",
-            "body": "**Key Messages**\n\n\u2022 Historical mobility data1 from the DRC shows that five provinces not currently classified as high-risk - Haut-Uele, Tshopo, Bas-Uele, Maniema, and Tanganyika as well as Health Zones in the greater Nord and Sud Kivu Provinces - maintain regular population exchange with areas where cases have since been confirmed. Assuming mobility patterns did not change during the period of undetected transmission, these areas should also be considered for surveillance, Risk Communication and Community Engagement (RCCE) and preparedness activities.\n\n\u2022 The DRC-Uganda border sustains dense economic and social ties that drive daily movement on both sides. Experience from past outbreaks shows that restrictions on formal crossings tend to shift movement toward informal and unmonitored routes, reducing transmission visibility, increasing protection risks, and adding significant stress to the livelihoods of border communities. As of 29 May, the border between DRC and Uganda is closed to all civilian traffic.\n\n\u2022 Yambio and Morobo in South Sudan are key areas receiving direct and indirect arrivals from DRC due to small trade activities, family movements, and healthcare seeking behaviors. Health system capacity in both counties is limited, with high rates of unmet healthcare needs which may impact timeliness of case identification in the community",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9965",
-                    "id": 9965,
-                    "name": "REACH Initiative",
-                    "shortname": "REACH",
-                    "longname": "REACH Initiative",
-                    "homepage": "http://www.reach-initiative.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214553",
-            "date": {
-                "original": "2026-06-02T00:00:00+00:00",
-                "changed": "2026-06-03T01:04:31+00:00",
-                "created": "2026-06-02T20:02:50+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214553"
-    },
-    {
-        "id": "4214540",
-        "score": 1,
-        "fields": {
-            "title": "Ebola Outbreak, DRC and Region, Situation Report #5, June 2, 2026",
-            "body": "**FAST FACTS**\n\n- The WHO reports that there are 321 confirmed cases in the DRC and 116 suspected cases, with 48 confirmed deaths and more than 240 suspected deaths. Uganda has confirmed nine cases and one death, and one suspected case.\n- Cases of the Bundibugyo strain of Ebola began in Ituri province, but have since been confirmed in North Kivu and South Kivu provinces, as well as in Uganda.\n- Case reporting has proved challenging due to insecurity in Ituri province, as well as limited access to laboratory testing and diagnostics.\n- There are serious security concerns in Ituri province, where there have been multiple attacks on Ebola Treatment Centers (ETCs) and hospitals where patients with suspected and confirmed cases are receiving treatment.\n\n**OUR RESPONSE**\n\n- International Medical Corps\u2019 rapid response teams have deployed to Ituri, Goma and Kinshasa in the DRC, and to Kampala in Uganda.\n- Our teams in the DRC are constructing ETCs at the Bunia General Hospital in Ituri and at the Virunga General Hospital in North Kivu, and are providing critical hygiene supplies to surrounding health facilities in Ituri, North Kivu and South Kivu provinces.\n- Our team in Uganda is providing health and infection-prevention and control services in Ntoroko and Bundibugyo districts.\n- Our team in South Sudan is conducting preparedness training for Ministry of Health staff and is prepositioning personal protective equipment to help facilities get ready for a potential outbreak.\n\nAcross all operational areas, International Medical Corps is coordinating closely with the Ministry of Health and relevant partners to support case management, screening-and-referral units, facility-based surveillance, IPC/WASH, logistics, just-in-time training and continuity of essential health services. International Medical Corps is also part of broader efforts to strengthen contact tracing\u2014one of the most urgent challenges in the current outbreak. Our support is helping strengthen mapping, daily monitoring and follow-up activities, to address the risk of undetected transmission across operational areas and beyond.\n\nWe also are preparing for possible expansion into additional high-risk areas, prepositioning surge teams and supplies in Kinshasa, with a fully trained cohort\u2014including responders with experience from the 2018\u201320 and 2025 Ebola outbreaks\u2014ready for immediate deployment. We are conducting assessments in high-risk areas\u2014including Kinshasa and surrounding areas, Uvira, Tshopo province (including Kisangani) and Haut-U\u00e9l\u00e9 province\u2014to identify preparedness gaps and determine where rapid scale-up may be required.\n\nBecause the high number of suspected cases among healthcare workers has contributed to the closure of some health facilities, International Medical Corps is preparing to surge clinical staff from other regions to maintain continuity and access to lifesaving services. This groundwork will enable International Medical Corps to rapidly establish screening, IPC support, mobile referral units, additional ETCs and expanded contact tracing as needed. International Medical Corps continues to maintain the operational reach and readiness to scale support across more than 130 health facilities nationwide, including in hard-to-reach and conflict-affected areas.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2019",
-                    "id": 2019,
-                    "name": "International Medical Corps",
-                    "shortname": "IMC",
-                    "longname": "International Medical Corps",
-                    "homepage": "https://internationalmedicalcorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214540",
-            "date": {
-                "original": "2026-06-02T00:00:00+00:00",
-                "changed": "2026-06-04T00:24:11+00:00",
-                "created": "2026-06-02T18:07:58+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214540"
-    },
-    {
-        "id": "4214531",
-        "score": 1,
-        "fields": {
-            "title": "David Miliband's address at the launch of John Hopkins Center for Humanitarian Health",
-            "body": "June 2, 2026 \u2014 *IRC CEO and President, David Miliband, speaks at the launch of John Hopkins Center for Humanitarian Health\u2014Lancet Commission on Health, Conflict and Forced Displacement:*\n\nThis report could not be more timely. As we meet, people in eastern Democratic Republic of Congo and Uganda are battling a renewed Ebola outbreak. This emergency is a reminder of how closely health outcomes are tied to conflict, displacement, fragility, and international support. In fact, the division between conflict states and the rest is the biggest inequality in the world today.\n\nWe know conflict disrupts food production, markets, livelihoods, and humanitarian access. It increases food insecurity and malnutrition. It interrupts vaccination campaigns and primary healthcare services. It undermines maternal and child health programs. It weakens disease surveillance and preparedness.\n\nYet as needs rise from Sudan to Gaza, the great aid recession of 2025 has cut ODA by nearly a quarter. Global health funding has fallen from roughly $80 billion in 2021 to a 15-year low of approximately $40 billion today. In low-income countries, spending on pandemic preparedness remains a small fraction of what is needed. Humanitarian appeals remain chronically underfunded. And health systems in conflict-affected settings are being asked to do more with less.\n\nIn Sudan, coverage of the first dose of the diphtheria, tetanus and pertussis vaccine has fallen from nearly 90 per cent to around 50 per cent since the outbreak of civil war. Across conflict-affected settings, low vaccination coverage has contributed to deadly outbreaks of preventable disease. Malnutrition continues to increase mortality among displaced children. And disruptions to reproductive, maternal and newborn healthcare continue to drive preventable illness and death.\n\nAt the heart of this report is the insight that the current health and humanitarian architecture faces an inflection point. I think that is right. 60 wars, chronic and mixed displacement, a climate crisis that will only deepen, rising impunity for civilians and aid workers, represent a new normal. But it is not an equilibrium. Either we arrest the slide or it will accelerate and spread.\n\nThe real solution lies in politics. Because while humanitarian aid can stop the dying, it takes politics to stop the killing.\n\nThe report does not shy away from calling out the impunity emergency in war zones around the world. I applaud that. It\u2019s my old stamping ground. But the report also faces head-on what is in our power to address.\n\nFor years, humanitarian discussions have often been framed around false choices: global standards versus local adaptation; humanitarian versus development aid; evidence versus context, local organizations versus global organizations. Too often the people who need most help, IRC\u2019s clients, are left out of the debate. This report should help address that. These clients face different contexts.\n\nIt may seem obvious, but the demarcation between acute widespread crisis, where there is no government support, protracted crisis where government is weak or in conflict, and settings where displaced populations can be served by new local and national systems, is too often neglected. I welcome the delineation. It has real implications for the way our sector works.\n\nIn each of these contexts, the actors, whether they be local civil society organizations, UN agencies, government ministries or international humanitarian organizations, have different roles to play. But the missing player is too often the people. Accountability needs to flow to them too. Not just \u201ccountry leadership\u201d. Whole of country leadership, including those marginalized by conflict or politics.\n\nThe report pushes for pooled funds, cash-based assistance and innovative financing instruments. This is right. Pooled procurement can reduce costs, cash and voucher assistance empower clients and support communities, and innovative financing has the potential to crowd in private and concessional money in more stable settings.\n\nI would like to see aligned outcomes across all the players, shared metrics and reporting systems, real transparency over who delivers and at what cost.\n\nEvery IRC program is organized around one of our key outcomes. That\u2019s how we put clients at the center. It challenges the dominant systems.\n\nFor example, it calls for reward for anticipatory action rather than late response. It means supporting evidence-based interventions at scale. It means creating incentives for efficiency, effectiveness and innovation\u2014prioritizing those that deliver the best outcomes for each dollar and deprioritizing others.\n\nIt also means concentrating resources where they are most needed. Today, more than half of the world's extreme poor live in fragile and conflict affected settings. Life expectancy is seven years shorter and infant mortality more than double that of other developing countries. Roughly half of the world's zero-dose and under-immunized children live in fragile and conflict-affected settings. And yet, these countries receive just a quarter of ODA funding, down from nearly half a decade ago. The IRC has argued that figure should be closer to 60 per cent.\n\nAt IRC we see our job as not just \u201cdelivery\u201d. We want our research and evidence to take away the excuses from policy makers when it comes to fragile states. Three quick examples.\n\nWhen we launched our vaccination program REACH in 2022, our goal was to immunize zero dose or low dose children in Chad, Ethiopia, Somalia, Nigeria, Sudan and South Sudan. Only 16% of the 156 target communities were accessible to humanitarian actors. Through a combination of humanitarian negotiations and portable vaccine carriers our consortium has delivered 30 million vaccines in 100 per cent of those communities.\n\nThrough scale, we drove efficiency. The average cost per dose started at around $3.75 in year one and averaged under $1 in 2025, well below UNICEF's standard benchmark of $2.34. We are now using technical innovations in satellite mapping and route mapping to reach even more children at lower cost.\n\nAnother example. Anticipatory action in the face of climate impacts that hit everyone hard and hit those in fragile contexts harder. More than one-third of health facilities lack basic water, more than three-quarters lack basic sanitation, and more than half lack basic hygiene. By integrating climate forecasting, disease surveillance and operational data, IRC teams have been able to trigger earlier water-system rehabilitation, pre-position hygiene supplies and expand community outreach before drought- and flood-related outbreaks escalate.\n\nThis allows us to anticipate crises rather than simply respond to them, improving outcomes while making more effective use of scarce resources.\n\nThird we are currently field-testing an AI-powered diagnostic tool to support the detection of Mpox. More than 100,000 people have now been affected, and rapid diagnosis remains a major challenge because symptoms are easily confused with those of other diseases. Through a simple photo of a lesion, frontline health workers can diagnose Mpox without needing clients to travel miles to see a doctor.\n\nIn each example, we work with a unique context-tailored combination of local and global actors that allows us to collectively drive toward better solutions and outcomes\u2014from 15 local partners to deliver vaccines, companies to provide the latest satellite data and weather forecasting, local and US universities to collect and analyze data. All supported by donors with a focus on outcomes and learning.\n\nI know that writing reports is difficult. Writing good reports is even more difficult. And this is a good report.\n\nBut turning good ideas and insights into practical action is still harder. This is especially the case when arguing for systemic change involving multiple actors.\n\nChange can only be gradual. But our clients cannot afford it to be slow.\n\nThat\u2019s why we at IRC are trying to embody the future not just debate it. Despite $400 million funding cuts over the last year, we have protected our commitment to impact evaluation, to innovation and to cost effectiveness. In fact, we have doubled down on them. Because the outcome we seek for the people we serve cannot be achieved without them.\n\nThat is the way to move beyond not just the false opposites that this report seeks to counter, but also the cruelty and neglect that it seeks to overcome.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2012",
-                    "id": 2012,
-                    "name": "International Rescue Committee",
-                    "shortname": "IRC",
-                    "longname": "International Rescue Committee",
-                    "spanish_name": "Comit\u00e9 Internacional de Rescate",
-                    "homepage": "https://www.rescue.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214531",
-            "date": {
-                "original": "2026-06-02T00:00:00+00:00",
-                "changed": "2026-06-03T01:18:23+00:00",
-                "created": "2026-06-02T16:33:26+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214531"
-    },
-    {
-        "id": "4214522",
-        "score": 1,
-        "fields": {
-            "title": "La riposte \u00e0 Ebola doit franchir les fronti\u00e8res plus vite que le virus, avertit l\u2019OIM",
-            "body": "**Gen\u00e8ve/Ituri, 2 juin 2026** \u2013 L\u2019Organisation internationale pour les migrations (OIM) exhorte les gouvernements et leurs partenaires \u00e0 renforcer d\u2019urgence la coordination transfrontali\u00e8re afin de contenir l\u2019\u00e9pid\u00e9mie en cours de la maladie \u00e0 virus Bundibugyo (une forme de la maladie \u00e0 virus Ebola). Elle avertit que les fermetures de fronti\u00e8res, \u00e0 elles seules, risquent de pousser les d\u00e9placements vers la clandestinit\u00e9 et d\u2019accro\u00eetre les risques de transmission.\n\nSelon les derniers chiffres de l\u2019Organisation mondiale de la Sant\u00e9 (OMS), on d\u00e9nombre 116 cas suspects, 321 cas confirm\u00e9s, 48 d\u00e9c\u00e8s et six personnes gu\u00e9ries en R\u00e9publique d\u00e9mocratique du Congo (RDC). En Ouganda, neuf cas confirm\u00e9s et un d\u00e9c\u00e8s ont \u00e9t\u00e9 signal\u00e9s \u00e0 ce jour.\n\n\u00ab Les virus ne s\u2019arr\u00eatent pas aux fronti\u00e8res, et notre riposte ne devrait pas non plus s\u2019y arr\u00eater \u00bb, a d\u00e9clar\u00e9 Ugochi Daniels, Directrice g\u00e9n\u00e9rale adjointe de l\u2019OIM charg\u00e9e des op\u00e9rations.\n\n\u00ab Lorsque les fronti\u00e8res ferment, les personnes continuent souvent de se d\u00e9placer par des routes informelles o\u00f9 le d\u00e9pistage sanitaire et la surveillance sont limit\u00e9s. La r\u00e9ponse la plus efficace repose sur une action coordonn\u00e9e qui maintient la mobilit\u00e9 visible, s\u00fbre et suivie. \u00bb\n\nL\u2019OIM avertit que les fermetures de fronti\u00e8res prises dans l\u2019urgence peuvent r\u00e9duire la visibilit\u00e9 des mouvements de population, compromettant le d\u00e9pistage sanitaire, la surveillance, le tra\u00e7age des contacts et les efforts de d\u00e9tection pr\u00e9coce. Les enseignements tir\u00e9s de pr\u00e9c\u00e9dentes urgences sanitaires montrent que les restrictions de mouvement n\u2019arr\u00eatent pas la mobilit\u00e9, mais la redirigent souvent vers des itin\u00e9raires informels et moins surveill\u00e9s.\n\nIl s\u2019agit de la 17e flamb\u00e9e d\u2019Ebola enregistr\u00e9e en RDC et de la troisi\u00e8me plus importante jamais recens\u00e9e, ce qui souligne \u00e0 la fois le caract\u00e8re r\u00e9current de la maladie et l\u2019importance d\u2019une pr\u00e9paration soutenue.\n\nL\u2019\u00e9pid\u00e9mie se d\u00e9veloppe dans l\u2019un des contextes humanitaires les plus complexes au monde. L\u2019est de la RDC est d\u00e9j\u00e0 touch\u00e9 par des conflits et des d\u00e9placements de grande ampleur. En mars 2026, [3,6 millions de personnes](https://dtm.iom.int/democratic-republic-congo) \u00e9taient d\u00e9plac\u00e9es \u00e0 l\u2019int\u00e9rieur du pays, dont pr\u00e8s de 922 000 dans la seule province de l\u2019Ituri, o\u00f9 l\u2019\u00e9pid\u00e9mie est concentr\u00e9e.\n\nLa confirmation d\u2019une transmission transfrontali\u00e8re entre la RDC et l\u2019Ouganda souligne davantage l\u2019urgence d\u2019une action r\u00e9gionale coordonn\u00e9e, en particulier dans les zones o\u00f9 les d\u00e9placements transfrontaliers quotidiens sont essentiels au commerce, aux moyens de subsistance et \u00e0 l\u2019acc\u00e8s aux services de base.\n\nLes donn\u00e9es issues du [registre de suivi des flux](https://dtm.iom.int/reports/uganda-flow-monitoring-ebola-virus-disease-outbreak?close=true) de populations de l\u2019OIM aux principaux points de passage formels et informels \u2014 notamment Cyanika, Busunga, Bunagana, Mpondwe, Goli, Vurra, Busanza et Ntoroko \u2014 montrent que la mobilit\u00e9 transfrontali\u00e8re se poursuit malgr\u00e9 les restrictions, y compris par des routes informelles, ce qui renforce la n\u00e9cessit\u00e9 de mesures de riposte coordonn\u00e9es et fond\u00e9es sur des donn\u00e9es.\n\nLes personnes vivant dans des sites de d\u00e9placement, des communaut\u00e9s frontali\u00e8res et des zones touch\u00e9es par les conflits sont particuli\u00e8rement vuln\u00e9rables en raison d\u2019un acc\u00e8s limit\u00e9 aux soins de sant\u00e9, \u00e0 l\u2019eau potable et \u00e0 d\u2019autres services essentiels, ce qui augmente le risque de transmission non d\u00e9tect\u00e9e.\n\nL\u2019OIM appuie les gouvernements et leurs partenaires en RDC, en Ouganda et dans les pays voisins en renfor\u00e7ant les op\u00e9rations sanitaires aux fronti\u00e8res, la cartographie de la mobilit\u00e9 des populations, la surveillance des maladies, la communication sur les risques et l\u2019engagement communautaire dans les zones \u00e0 forte mobilit\u00e9.\n\nComprendre o\u00f9, pourquoi et comment les personnes se d\u00e9placent reste essentiel pour pr\u00e9venir une propagation suppl\u00e9mentaire. Les mesures de sant\u00e9 publique doivent \u00eatre guid\u00e9es par les sch\u00e9mas de mobilit\u00e9 et coordonn\u00e9es au-del\u00e0 des fronti\u00e8res afin d\u2019assurer un endiguement efficace, tout en \u00e9vitant des cons\u00e9quences involontaires qui rendraient les mouvements invisibles.\n\nD\u2019importantes lacunes de financement continuent de freiner l\u2019ampleur et la rapidit\u00e9 des efforts de riposte, notamment les activit\u00e9s de pr\u00e9paration dans l\u2019ensemble de la r\u00e9gion.\n\nL\u2019OIM salue la contribution financi\u00e8re rapide des \u00c9tats-Unis, qui aide \u00e0 renforcer les efforts de riposte en premi\u00e8re ligne et \u00e0 sauver des vies. Une coordination \u00e9troite avec l\u2019Union africaine, les Centres africains de contr\u00f4le et de pr\u00e9vention des maladies, l\u2019OMS et les partenaires des Nations Unies demeure essentielle pour contenir l\u2019\u00e9pid\u00e9mie.\n\nBien qu\u2019Ebola soit une maladie \u00e9vitable et ma\u00eetrisable, des ressources suppl\u00e9mentaires sont urgemment n\u00e9cessaires pour soutenir les syst\u00e8mes de surveillance, maintenir les op\u00e9rations sanitaires aux fronti\u00e8res, renforcer la pr\u00e9vention communautaire et \u00e9largir l\u2019appui dans les contextes de d\u00e9placement.\n\nPour plus d\u2019informations, veuillez consulter le [Centre des m\u00e9dias de l\u2019OIM](https://www.iom.int/media-inquiries).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214522",
-            "date": {
-                "original": "2026-06-02T00:00:00+00:00",
-                "changed": "2026-06-03T00:40:13+00:00",
-                "created": "2026-06-02T16:03:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214522"
-    },
-    {
-        "id": "4214521",
-        "score": 1,
-        "fields": {
-            "title": "La respuesta al \u00c9bola debe cruzar las fronteras m\u00e1s r\u00e1pido que el virus, afirma la OIM",
-            "body": "**Ginebra/Ituri, 2 de junio de 2026** \u2013 La Organizaci\u00f3n Internacional para las Migraciones (OIM) insta a los gobiernos y a sus socios a reforzar urgentemente la coordinaci\u00f3n transfronteriza para contener el brote en curso de la enfermedad por el virus del \u00c9bola (cepa Bundibugyo), y advierte de que el cierre de fronteras por s\u00ed solo puede empujar la movilidad hacia la clandestinidad y aumentar los riesgos de transmisi\u00f3n.\n\nSeg\u00fan las \u00faltimas cifras de la Organizaci\u00f3n Mundial de la Salud (OMS), se han registrado 116 casos sospechosos, 321 casos confirmados, 48 fallecimientos y seis personas recuperadas en la Rep\u00fablica Democr\u00e1tica del Congo (RDC). En Uganda, hasta la fecha se han confirmado nueve casos y una muerte.\n\n\"Los virus no se detienen en las fronteras, y nuestra respuesta tampoco deber\u00eda hacerlo\", afirm\u00f3 Ugochi Daniels, Directora General Adjunta de la OIM para Operaciones. \"Cuando se cierran las fronteras, las personas suelen seguir desplaz\u00e1ndose por rutas informales donde los controles sanitarios y la vigilancia son limitados. La respuesta m\u00e1s eficaz es una acci\u00f3n coordinada que mantenga la movilidad visible, segura y supervisada\".\n\nLa OIM advierte de que los cierres fronterizos reactivos pueden reducir la visibilidad de los movimientos de poblaci\u00f3n, debilitando los controles sanitarios, la vigilancia, el rastreo de contactos y los esfuerzos de detecci\u00f3n temprana. La evidencia de emergencias sanitarias anteriores muestra que las restricciones a la movilidad no la detienen, sino que a menudo la redirigen hacia rutas informales y menos vigiladas.\n\nEste es el 17.\u00ba brote de \u00c9bola registrado en la RDC y el tercero de mayor magnitud hasta la fecha, lo que pone de relieve tanto el car\u00e1cter recurrente de la enfermedad como la importancia de una preparaci\u00f3n sostenida.\n\nEl brote se desarrolla en uno de los contextos humanitarios m\u00e1s complejos del mundo. El este de la RDC ya se ve afectado por conflictos y desplazamientos a gran escala. En marzo de 2026, [3,6 millones de personas](https://dtm.iom.int/democratic-republic-congo) se encontraban desplazadas internamente en el pa\u00eds, incluidas casi 922 000 solo en la provincia de Ituri, donde se concentra el brote.\n\nLa confirmaci\u00f3n de la transmisi\u00f3n transfronteriza entre la RDC y Uganda subraya a\u00fan m\u00e1s la urgencia de una acci\u00f3n regional coordinada, especialmente en las zonas donde el movimiento transfronterizo diario es esencial para el comercio, los medios de vida y el acceso a servicios b\u00e1sicos.\n\nLos datos del [Registro de Seguimiento de Flujos](https://dtm.iom.int/reports/uganda-flow-monitoring-ebola-virus-disease-outbreak?close=true) de la OIM en puntos de cruce formales e informales clave \u2014incluidos Cyanika, Busunga, Bunagana, Mpondwe, Goli, Vurra, Busanza y Ntoroko\u2014 muestran que la movilidad transfronteriza contin\u00faa pese a las restricciones, incluso a trav\u00e9s de rutas informales, lo que refuerza la necesidad de medidas de respuesta coordinadas y basadas en datos.\n\nLas personas que viven en emplazamientos de desplazamiento, comunidades fronterizas y zonas afectadas por conflictos afrontan una mayor vulnerabilidad debido al acceso limitado a la atenci\u00f3n sanitaria, al agua potable y a otros servicios esenciales, lo que incrementa el riesgo de transmisi\u00f3n no detectada.\n\nLa OIM apoya a los gobiernos y a sus socios en la RDC, Uganda y los pa\u00edses vecinos reforzando las operaciones sanitarias en las fronteras, el mapeo de la movilidad de la poblaci\u00f3n, la vigilancia de enfermedades, la comunicaci\u00f3n de riesgos y la participaci\u00f3n comunitaria en zonas de alta movilidad.\n\nComprender d\u00f3nde, por qu\u00e9 y c\u00f3mo se desplazan las personas sigue siendo fundamental para prevenir una mayor propagaci\u00f3n. Las medidas de salud p\u00fablica deben basarse en los patrones de movilidad y coordinarse m\u00e1s all\u00e1 de las fronteras para garantizar una contenci\u00f3n eficaz, evitando al mismo tiempo consecuencias no deseadas que empujen los movimientos fuera de la vista.\n\nLas importantes brechas de financiaci\u00f3n siguen limitando la escala y la rapidez de los esfuerzos de respuesta, incluidas las actividades de preparaci\u00f3n en toda la regi\u00f3n.\n\nLa OIM acoge con satisfacci\u00f3n la r\u00e1pida contribuci\u00f3n financiera de los Estados Unidos, que est\u00e1 ayudando a reforzar los esfuerzos de respuesta en primera l\u00ednea y a salvar vidas. La estrecha coordinaci\u00f3n con la Uni\u00f3n Africana, los Centros Africanos para el Control y la Prevenci\u00f3n de Enfermedades, la OMS y los socios de las Naciones Unidas sigue siendo esencial para contener el brote.\n\nAunque el \u00c9bola es una enfermedad prevenible y controlable, se necesitan urgentemente recursos adicionales para sostener los sistemas de vigilancia, mantener las operaciones sanitarias en las fronteras, reforzar los esfuerzos de prevenci\u00f3n comunitaria y ampliar el apoyo en contextos de desplazamiento.\n\nPara m\u00e1s informaci\u00f3n, visite [el Centro de Medios de la OIM](https://www.iom.int/media-inquiries).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214521",
-            "date": {
-                "original": "2026-06-02T00:00:00+00:00",
-                "changed": "2026-06-03T00:38:33+00:00",
-                "created": "2026-06-02T16:03:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214521"
-    },
-    {
-        "id": "4214505",
-        "score": 1,
-        "fields": {
-            "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (26 mai - 1er juin 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214505",
-            "date": {
-                "original": "2026-06-02T00:00:00+00:00",
-                "changed": "2026-06-03T00:57:31+00:00",
-                "created": "2026-06-02T14:31:56+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214505"
-    },
-    {
-        "id": "4214504",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: Latest Events at a glance (26 May - 1 June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214504",
-            "date": {
-                "original": "2026-06-02T00:00:00+00:00",
-                "changed": "2026-06-03T00:55:05+00:00",
-                "created": "2026-06-02T14:30:14+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214504"
-    },
-    {
-        "id": "4214487",
-        "score": 1,
-        "fields": {
-            "title": "Ebola Response Must Cross Borders Faster Than Virus, IOM Warns",
-            "body": "**Geneva/Ituri, 2 June 2026** \u2013 The International Organization for Migration (IOM) is urging governments and partners to strengthen urgently cross-border coordination to contain the ongoing Bundibugyo virus disease (Ebola) outbreak, warning that border closures alone risk driving movement underground and increasing transmission risks.\n\nLatest World Health Organization (WHO) figures show 116 suspected cases, 321 confirmed cases, 48 deaths, and six recovered cases in the Democratic Republic of the Congo (DRC). In Uganda, there have been nine confirmed cases, and one death to date.\n\n\"Viruses do not stop at borders, and neither should our response,\" said Ugochi Daniels, IOM Deputy Director General for Operations. \"When borders close, people often continue moving through informal routes where health screening and surveillance are limited. The most effective response is coordinated action that keeps mobility visible, safe and monitored.\"\n\nIOM warns that reactive border closures can reduce visibility of population movements, undermining health screening, surveillance, contact tracing and early detection efforts. Evidence from previous health emergencies shows that movement restrictions do not stop mobility but often redirect it towards informal and less-monitored routes.\n\nThis is the 17th Ebola outbreak recorded in the DRC and the third largest on record, highlighting both the recurring nature of the disease and the importance of sustained preparedness.\n\nThe outbreak is unfolding in one of the world\u2019s most complex humanitarian contexts. Eastern DRC is already affected by conflict and large-scale displacement. As of March 2026, [3.6 million people](https://dtm.iom.int/democratic-republic-congo) have been internally displaced in the country, including nearly 922,000 displaced in Ituri Province alone, where the outbreak is centred.\n\nThe confirmation of cross-border transmission between DRC and Uganda further highlights the urgency of coordinated regional action, particularly in areas where daily cross-border movement is essential for trade, livelihoods and access to basic services.\n\nData from IOM\u2019s [Flow Monitoring](https://dtm.iom.int/reports/uganda-flow-monitoring-ebola-virus-disease-outbreak?close=true) Registry at key formal and informal crossing points\u2014including Cyanika, Busunga, Bunagana, Mpondwe, Goli, Vurra, Busanza and Ntoroko\u2014shows that cross-border mobility continues despite restrictions, including through informal routes, reinforcing the need for data-driven and coordinated response measures.\n\nPeople living in displacement sites, border communities and conflict-affected areas face heightened vulnerability due to limited access to healthcare, clean water and other essential services, increasing the risk of undetected transmission.\n\nIOM is supporting governments and partners in DRC, Uganda and neighbouring countries by strengthening border health operations, population mobility mapping, disease surveillance, risk communication and community engagement in high-mobility areas.\n\nUnderstanding where, why and how people move remains critical to preventing further spread. Public health measures must be informed by mobility patterns and coordinated across borders to ensure effective containment while avoiding unintended consequences that push movement out of sight.\n\nSignificant funding gaps continue to constrain the scale and speed of response efforts, including preparedness activities across the region.\n\nIOM welcomes the swift financial contribution from the United States, which is helping to strengthen frontline response efforts and save lives. Close coordination with the African Union, Africa Centres for Disease Control and Prevention, WHO and United Nations partners remains essential to containing the outbreak.\n\nWhile Ebola is a preventable and containable disease, additional resources are urgently needed to sustain surveillance systems, maintain border health operations, strengthen community-based prevention efforts and expand support in displacement settings.\n\n*For more information, please visit [IOM\u2019s Media Centre.](https://www.iom.int/media-inquiries)*",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4214487",
-            "date": {
-                "original": "2026-06-02T00:00:00+00:00",
-                "changed": "2026-06-02T14:08:47+00:00",
-                "created": "2026-06-02T13:33:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4214487"
     }
 ]
