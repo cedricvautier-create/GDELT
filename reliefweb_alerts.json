@@ -1,5 +1,45 @@
 [
     {
+        "id": "4215945",
+        "score": 1,
+        "fields": {
+            "title": "Ebola Outbreak, DRC and Region, Situation Report #6, June 11, 2026",
+            "body": "**FAST FACTS**\n\n- On May 15, the DRC officially declared an outbreak of Ebola virus disease (EVD).\n- As of June 10, 635 confirmed EVD cases and 127 confirmed EVD deaths had been reported in the DRC, with 19 confirmed cases and two confirmed deaths in Uganda.\n- In the DRC, the outbreak remains centered in Ituri province, but cases have also been confirmed in North Kivu and South Kivu.\n- In Uganda, reported cases remain linked to transmission originating in the DRC, including imported cases and secondary infections among contacts and healthcare workers.\n- In South Sudan, no EVD cases have been confirmed, but risk of an outbreak remains high.\n\n**OUR RESPONSE**\n\n- Across the region, our teams are providing case management, infection prevention and control, screening and triage, risk communication and community engagement (RCCE), training and preparedness planning.\n- We are supporting 51 facilities in the screening, identification and treatment of EVD.\n- Our supported sites have conducted 8,278 EVD screenings and provided treatment to 59 patients.\n- We have so far trained 255 people on EVD case management, response and transmission prevention.\n- Our RCCE efforts have reached 27,357 people.\n\nWith the support of the US Department of State and other donors, International Medical Corps rapid-response teams are actively responding to the outbreak and engaging with ministries of health, key actors and response partners in 30 health zones across the DRC, Uganda and South Sudan. International Medical Corps, which is active in 51 health facilities across the region, has used a hub-and-spoke model since the outbreak was declared to provide case-management support at designated treatment and transit facilities, strengthen infection prevention and control in referring health facilities, conduct screening and triage, support RCCE in surrounding communities and train health workers on EVD response protocols. We are operating three Ebola Treatment Centers in the DRC, responding in Uganda through a local partner and helping the Ministry of Health in South Sudan (where we currently are the only implementing partner with active capacity for Ebola case management) prepare for a potential outbreak there.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2019",
+                    "id": 2019,
+                    "name": "International Medical Corps",
+                    "shortname": "IMC",
+                    "longname": "International Medical Corps",
+                    "homepage": "https://internationalmedicalcorps.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4215945",
+            "date": {
+                "original": "2026-06-11T00:00:00+00:00",
+                "changed": "2026-06-11T19:15:09+00:00",
+                "created": "2026-06-11T19:09:12+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4215945"
+    },
+    {
         "id": "4215858",
         "score": 1,
         "fields": {
@@ -1852,46 +1892,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4215447"
-    },
-    {
-        "id": "4215417",
-        "score": 1,
-        "fields": {
-            "title": "Ebola response faces critical supply shortages as border closures hamper essential aid",
-            "body": "- Health facilities in Ituri Province don't have the protective equipment needed to contain the Ebola outbreak.\n- IRC's emergency stocks to support them are running dangerously low.\n- Border closures, insecurity along transport routes have delayed essential supplies from reaching frontline health workers.\n- Authorities and donors must act urgently to restore humanitarian access and ensure lifesaving materials reach affected areas.\n\nKinshasa, Democratic Republic of the Congo,, June 9, 2026 \u2014 Restrictions on the movement of humanitarian supplies into eastern DRC are putting health workers and patients at risk as stocks of essential protective equipment are expected to run out within days. The International Rescue Committee (IRC) is calling for access and a surge in funding so that frontline facilities can contain the Ebola outbreak in Ituri province before it spreads further.\n\nThe outbreak is unfolding amid prolonged insecurity, rising costs, and deep cuts to global health funding. Temporary border closures with Uganda and Rwanda where many supplies are typically sourced, combined with insecurity along transport routes have increased uncertainty and caused delays, making it increasingly difficult to restock health facilities that were already stretched before the outbreak began.\n\n\"Health workers in Ituri are doing everything they can to stop this outbreak from spreading, but they cannot fight Ebola without the most basic tools,\" said Alice Ribes, Ebola response team lead for the IRC in Bunia. \"Every delay increases the risk to patients and communities. We know what it takes to contain Ebola, what we need now is the ability to get critical supplies to the places where they are needed most.\"\n\nInfection prevention and control is central to containing Ebola. Without adequate protective equipment, triage systems, and hygiene supplies, health workers in facilities cannot safely treat patients or protect workers from exposure, increasing the risk the outbreak will grow. At least 16 health workers have been reported to have contracted Ebola.\n\nDespite these constraints and drawing on long-standing relationships with international suppliers, IRC is currently sourcing critical materials through available channels including limited goods crossings as the air route from Uganda was reopened for humanitarian flights and air shipments from Kinshasa to keep supplies moving to frontline health workers.\n\nIRC is supporting health facilities in Ituri Province with infection prevention and control measures, including hygiene and sanitation improvements, triage systems, and the provision of protective equipment where available. IRC teams are working alongside health authorities and partners to strengthen outbreak preparedness and response efforts while supporting broader health system needs in affected communities.\n\nWhile IRC, the Ministry of Health and other organizations are doing everything possible to maintain the response, experience shows that containing Ebola requires full, unimpeded access for humanitarian supplies and a surge in funding without both, the risk of the outbreak spreading grows with every passing day.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2012",
-                    "id": 2012,
-                    "name": "International Rescue Committee",
-                    "shortname": "IRC",
-                    "longname": "International Rescue Committee",
-                    "spanish_name": "Comit\u00e9 Internacional de Rescate",
-                    "homepage": "https://www.rescue.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4215417",
-            "date": {
-                "original": "2026-06-09T00:00:00+00:00",
-                "changed": "2026-06-09T10:40:10+00:00",
-                "created": "2026-06-09T08:03:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4215417"
     }
 ]
