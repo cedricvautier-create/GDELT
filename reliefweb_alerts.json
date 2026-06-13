@@ -1,5 +1,45 @@
 [
     {
+        "id": "4216127",
+        "score": 1,
+        "fields": {
+            "title": "Genre en Bref\u00b7 Comit\u00e9 GiHA- RDC",
+            "body": "Alors que la RDC fait face \u00e0 sa 17e \u00e9pid\u00e9mie de maladie \u00e0 virus Ebola \u2014 d\u00e9clar\u00e9e le 15 mai 2026 dans les provinces de l'Ituri, du Nord-Kivu et du Sud-Kivu \u2014 les in\u00e9galit\u00e9s de genre d\u00e9terminent directement qui est expos\u00e9, qui peut acc\u00e9der aux soins et si la riposte sera accept\u00e9e par les communaut\u00e9s. Dans un contexte d\u00e9j\u00e0 fragilis\u00e9 par 1,16 million de d\u00e9plac\u00e9s internes au Nord-Kivu, 921 947 en Ituri et 3,90 millions de personnes en ins\u00e9curit\u00e9 alimentaire aigu\u00eb, l'int\u00e9gration du genre n'est pas optionnelle : elle est une condition de l'efficacit\u00e9 op\u00e9rationnelle.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/4512",
+                    "id": 4512,
+                    "name": "UN Women",
+                    "shortname": "UN Women",
+                    "spanish_name": "ONU para la Igualdad de G\u00e9nero y el Empoderamiento de la Mujer (ONU Mujeres)",
+                    "homepage": "https://www.unwomen.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216127",
+            "date": {
+                "original": "2026-06-13T00:00:00+00:00",
+                "changed": "2026-06-13T19:42:13+00:00",
+                "created": "2026-06-13T19:41:31+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216127"
+    },
+    {
         "id": "4216122",
         "score": 1,
         "fields": {
@@ -1823,46 +1863,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4215582"
-    },
-    {
-        "id": "4215572",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo - Mise \u00e0 jour des messages cl\u00e9s : R\u00e9sultats de Crise (Phase 3 de l\u2019IPC) persistent dans les zones de conflit malgr\u00e9 le d\u00e9but de la r\u00e9colte verte, Mai - Septembre 2026",
-            "body": "## Messages cl\u00e9\n\n- **Les zones en conflit dans l\u2019est du pays devront rester en situation de Crise (Phase 3 de l\u2019IPC), avec une frange des populations en Urgence (Phase 4 de l\u2019IPC) dans les zones des lignes des fronts.** L\u2019escalade des violences en RDC ne faiblit pas, avec les affrontements continues, malgr\u00e9 le retrait continu des rebelles du M23 dans certaines localit\u00e9s du [**Sud Kivu** ](https://www.rfi.fr/fr/afrique/20260512-rdc-le-groupe-afc-m23-se-retire-de-localit%C3%A9s-du-sud-kivu-et-s-%C3%A9loigne-d-uvira)et [**Nord Kivu**](https://www.grandslacsnews.com/posts/nord-kivu-le-m23-se-retire-de-plusieurs-villages-et-localites-de-la-plaine-de-la-ruzizi-dont-sange-11343). En mai, les conflits se concentrent dans les hauts plateaux de Fizi et de Kalehe et dans certaines localit\u00e9s du territoire de Masisi. D\u2019autre part, les attaques des Forces d\u00e9mocratiques alli\u00e9es (ADF) contre les populations locales continuent dans les territoires de Mambasa (Ituri) et Beni (Nord Kivu) dans lesquels ils ont fait [**plus de 130 morts**](https://www.radiookapi.net/2026/05/11/actualite/securite/au-moins-15-morts-apres-2-attaques-des-adf-dans-le-territoire-de) depuis le mois de mars. Ces violences occasionnent de plus en plus de d\u00e9placements de populations avec, [**environ 300 000 personnes d\u00e9plac\u00e9es**](https://ehtools.org/) du 1er janvier au 15 mai.\n- **Dans les provinces de la cuvette centrale et certaines provinces du centre et du sud-ouest, les m\u00e9nages devraient rester en Stress (Phase 2 de l\u2019IPC) \u00e0 cause des contraintes structurelles,** notamment le faible acc\u00e8s aux semences de qualit\u00e9, la d\u00e9t\u00e9rioration des infrastructures routi\u00e8res et les maladies des cultures (manioc et banane). Les provinces relativement stables de l\u2019ouest et du sud-est devraient, quant \u00e0 elles, rester en situation Minimale (Phase 1 de l\u2019IPC) \u00e0 cause de l\u2019int\u00e9gration \u00e9conomique avec Kinshasa qui permet aux m\u00e9nages de g\u00e9n\u00e9rer des revenus et acc\u00e9der \u00e0 la nourriture sur les march\u00e9s locaux. D\u2019autres m\u00e9nages dans ces zones font recours \u00e0 d\u2019autres opportunit\u00e9s \u00e9conomiques possibles (le petit commerce, la vente du b\u00e9tail, la p\u00eache, la chasse et la cueillette)\n- **Les pr\u00e9cipitations normales dans la majeure partie du pays ont favoris\u00e9 la poursuite des activit\u00e9s agricoles durant le cycle cultural Saison 1 (S1). Cependant, les inondations** observ\u00e9s dans certaines localit\u00e9s des provinces du [**Nord Kivu**](https://www.radiookapi.net/2026/05/15/actualite/societe/deux-morts-et-neuf-disparus-dans-un-eboulement-walikale), [**Sud Kivu,**](https://reliefweb.int/report/democratic-republic-congo/democratic-republic-congo-flood-2026-dref-operational-update-mdrcd050) Maniema, [**Kasai**](https://www.radiookapi.net/2026/04/17/actualite/societe/trois-morts-par-noyade-en-cinq-jours-apres-les-crues-luiza-au-kasai), [**Lomami,**](https://www.radiookapi.net/2026/04/16/actualite/societe/inondations-malemba-nkulu-appel-une-assistance-urgente-en-faveur-des) [**Tshopo**](https://www.radiookapi.net/2026/04/16/actualite/societe/inondations-malemba-nkulu-appel-une-assistance-urgente-en-faveur-des), Kinshasa et [**Tanganyika**](https://www.radiookapi.net/2026/04/21/actualite/societe/inondations-pres-de-90-dhabitants-des-quartiers-de-kalemie-abandonnent) en avril et mai ont caus\u00e9 des d\u00e9g\u00e2ts importants des infrastructures routiers, des maisons emport\u00e9es, des carri\u00e8res mini\u00e8res engloutis et des hectares emport\u00e9es par des inondations r\u00e9currentes et des glissements de terre. Des dizaines de personnes ont perdu la vie, ainsi que les moyens d\u2019existences ont \u00e9t\u00e9 perdus de nombreuses autres. Cette situation exacerbe la situation de l\u2019ins\u00e9curit\u00e9 alimentaire dans ces zones touch\u00e9es par les inondations et les \u00e9boulements.\n- **Malgr\u00e9 le d\u00e9but des r\u00e9coltes vertes de la S1 pr\u00e9vue dans les zones est et centre-est de la RDC, l\u2019am\u00e9lioration de la s\u00e9curit\u00e9 alimentaire et des moyens d\u2019existence des m\u00e9nages demeurent limit\u00e9.** En mai, les m\u00e9nages pauvres continuent \u00e0 \u00e9prouver des difficult\u00e9s \u00e0 acc\u00e9der \u00e0 la nourriture pendant la petite soudure en raison de l\u2019\u00e9puisement des stocks et l\u2019ins\u00e9curit\u00e9 persistante. L\u2019acc\u00e8s limit\u00e9 aux champs, les perturbations des activit\u00e9s agricoles li\u00e9es aux violences et les d\u00e9placements r\u00e9p\u00e9t\u00e9s r\u00e9duisent les b\u00e9n\u00e9fices attendus de la S1 dans plusieurs zones de l\u2019est. Dans le sud-est unimodal, les r\u00e9coltes de la saison ont commenc\u00e9 depuis mi-avril. Cependant, les r\u00e9coltes de la saison en cours seraient estim\u00e9es inf\u00e9rieures \u00e0 la normale, du fait du d\u00e9but tardif des pluies au courant de la saison agricole.\n- **Les d\u00e9veloppements au Moyen-Orient continuent de perturber l\u2019approvisionnement en produits p\u00e9troliers en RDC, entra\u00eenant une hausse soutenue des prix du carburant et une augmentation progressive des co\u00fbts des produits essentiels**. De f\u00e9vrier \u00e0 mi-mai, les prix de l\u2019essence, du diesel et de l\u2019huile raffin\u00e9e ont augment\u00e9 respectivement de 24 pour cent, 23 pour cent et 14 pour cent, mais avec une stabilit\u00e9 par rapport \u00e0 avril. Cette hausse des co\u00fbts de transport et de distribution des marchandises \u00e0 travers le pays provoque une hausse l\u00e9g\u00e8re des prix des denr\u00e9es de base plus marqu\u00e9 que la tendance saisonni\u00e8re. Le prix de la farine de ma\u00efs blanc a progress\u00e9 \u00e0 Beni, Bukavu et Uvira respectivement de 19,9 pour cent, 9,6 pour cent et 6,2 pour cent en mi-mai par rapport \u00e0 f\u00e9vrier. Dans plusieurs zones d\u00e9j\u00e0 touch\u00e9es par l\u2019ins\u00e9curit\u00e9 et les faibles revenus, les m\u00e9nages pauvres r\u00e9duisent progressivement leurs d\u00e9penses non alimentaires pour faire face \u00e0 l\u2019augmentation des d\u00e9penses alimentaires.\n- **L\u2019\u00e9pid\u00e9mie de la maladie a virus Ebola, souche Bundibugyo, d\u00e9clar\u00e9 le** [**15 mai**](https://reliefweb.int/report/democratic-republic-congo/sitrep-ndeg1-de-lepidemie-de-la-maladie-virus-ebola-bundibugyo-en-ituri-15-mai-2026) **\u00e0 Mungbwalu, territoire de Djugu (Ituri),** s\u2019est \u00e9tendue \u00e0 plusieurs localit\u00e9s notamment \u00e0 Bunia (Ituri), Butembo, Beni et Goma (Nord Kivu), Kabare (Sud Kivu) et en Ouganda, entra\u00eenant une d\u00e9claration d\u2019[**une urgence de sant\u00e9 publique de port\u00e9e internationale** ](https://www.who.int/fr/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern)par l\u2019OMS le 17 mai. Le [**Rwanda**](https://www.radiookapi.net/2026/05/18/actualite/sante/un-premier-cas-debola-confirme-goma-les-frontieres-avec-le-rwanda-fermees) et l\u2019[**Ouganda** ](https://apnews.com/article/ebola-congo-uganda-border-virus-b96734598ea95b1cdb71986c8b1adf43)ont ferm\u00e9 les fronti\u00e8res, perturbant les petits commerces transfrontaliers. L\u2019impact imm\u00e9diat sur l\u2019ins\u00e9curit\u00e9 alimentaire aigu\u00eb reste, \u00e0 ce jour, limit\u00e9 et localis\u00e9 comme les moyens d\u2019existence dans les zones affect\u00e9es \u00e9taient d\u00e9j\u00e0 \u00e9rod\u00e9s par des conflits r\u00e9p\u00e9t\u00e9s, qui avaient d\u00e9j\u00e0 perturb\u00e9 les march\u00e9s et les revenus. \u00c0 moyen terme, la prolongation des restrictions pourrait perturber davantage les \u00e9changes transfrontaliers et du fonctionnement des march\u00e9s dans le grand nord du Nord Kivu et l\u2019Ituri, d\u00e9pendant des importations. Cela pourrait entra\u00eener une hausse des prix ainsi qu\u2019une baisse de la demande de main-d\u2019\u0153uvre, en raison de probables mesures futures d\u2019auto-confinement et de restrictions de mouvement, dont d\u00e9pendent les personnes d\u00e9plac\u00e9es internes et les m\u00e9nages pauvres.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/529",
-                    "id": 529,
-                    "name": "Famine Early Warning System Network",
-                    "shortname": "FEWS NET",
-                    "longname": "Famine Early Warning System Network",
-                    "spanish_name": "Red de Sistemas de Alerta Temprana contra la Hambruna",
-                    "homepage": "https://fews.net/",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4215572",
-            "date": {
-                "original": "2026-06-09T00:00:00+00:00",
-                "changed": "2026-06-10T03:00:20+00:00",
-                "created": "2026-06-10T02:33:22+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4215572"
     }
 ]
