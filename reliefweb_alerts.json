@@ -1,5 +1,87 @@
 [
     {
+        "id": "4216122",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo - Sud-Kivu : Pr\u00e9sence op\u00e9rationnelle - 3W (Qui fait quoi o\u00f9) (mars 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216122",
+            "date": {
+                "original": "2026-06-13T00:00:00+00:00",
+                "changed": "2026-06-13T12:33:34+00:00",
+                "created": "2026-06-13T12:33:21+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216122"
+    },
+    {
+        "id": "4216121",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo - Ituri : Pr\u00e9sence op\u00e9rationnelle - 3W (Qui fait quoi o\u00f9) (mars 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216121",
+            "date": {
+                "original": "2026-06-13T00:00:00+00:00",
+                "changed": "2026-06-13T12:31:47+00:00",
+                "created": "2026-06-13T12:31:23+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216121"
+    },
+    {
         "id": "4216085",
         "score": 1,
         "fields": {
@@ -1782,99 +1864,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4215572"
-    },
-    {
-        "id": "4215571",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR Preparedness and Response: Ebola (Bundibugyo Virus Disease), July 2026 - November 2026",
-            "body": "**Overview**\n\nThe spread of the Ebola disease outbreak caused by the Bundibugyo virus is accelerating in eastern Democratic Republic of the Congo (DRC), with some cases also detected in Uganda. As of 8 June, WHO reports 515 cases confirmed across 25 health zones in the DRC, including 91 deaths. Uganda has confirmed 19 cases and two deaths.\n\nMore than 2 million forcibly displaced people including more than 320,000 refugees live in the areas at risk within the DRC. In eastern DRC, more than a year of escalated conflict has severely impacted local infrastructure and healthcare systems, as well as decreasing humanitarian access and disrupting protection services for increasing numbers of affected civilians. This has increased protection risks faced by displaced people and weakened their inclusion into surveillance systems and access to healthcare.\n\nTo date, two Ebola related deaths have been reported in Kpangba IDP site in Ituri Province, and transmission risk remains high across eastern DRC due to weakened infrastructure and a highly volatile protection environment.\n\nIn Uganda\u2013host to more than 2 million refugees\u2013 several reception and transit centres are operating at around 190% capacity. The Government of Uganda has activated robust preparedness and response measures, including restriction of admission of asylum seekers from DRC and South Sudan. Support is urgently required to boost and adapt the existing protection, healthcare, monitoring, shelter and WASH resources, infrastructure and procedures, particularly in border areas, transit and reception centres as well as in settlements.\n\nBurundi, Rwanda and South Sudan are at elevated risk of transmission, particularly due to ongoing refugee movements driven by escalating conflict in eastern DRC and South Sudan.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4215571",
-            "date": {
-                "original": "2026-06-09T00:00:00+00:00",
-                "changed": "2026-06-10T06:28:19+00:00",
-                "created": "2026-06-10T02:24:55+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4215571"
-    },
-    {
-        "id": "4215563",
-        "score": 1,
-        "fields": {
-            "title": "COD: D\u00e9placement de population - 06-2026 - COD: D\u00e9placement de population - 06-2026 - Mouvement des populations dans le Territoire de Lubutu, Province de Maniema en R\u00e9publique D\u00e9mocratique du Congo (2026-06-09)",
-            "body": "## **Description**\n\nLes affrontements ont \u00e9clat\u00e9 le samedi 6 juin 2026 \u00e0 14h47 et se sont poursuivis jusqu\u2019au dimanche 7 juin 2026. Tout a commenc\u00e9 par l\u2019incursion d\u2019\u00e9l\u00e9ments du groupe arm\u00e9 dit \u00ab Wazalendo \u00bb, plac\u00e9s sous le commandement d\u2019un g\u00e9n\u00e9ral autoproclam\u00e9 r\u00e9pondant au nom d\u2019Alphani Bukuy. Ces combattants ont fait irruption au bloc Lazaret, situ\u00e9 dans le quartier Nyafanza, relevant de la commune rurale de Lubutu, dans la province du Maniema, \u00e0 l\u2019est de la R\u00e9publique d\u00e9mocratique du Congo.\n\nD\u00e8s leur arriv\u00e9e, ils ont sem\u00e9 la terreur parmi la population locale. Leur objectif imm\u00e9diat \u00e9tait d\u2019attaquer les positions des Forces arm\u00e9es de la RDC (FARDC), avant de se disperser rapidement \u00e0 travers le milieu, sans doute pour \u00e9viter une riposte organis\u00e9e. Cette offensive soudaine a imm\u00e9diatement provoqu\u00e9 une vive panique parmi les habitants, qui ont fui ou cherch\u00e9 \u00e0 s\u2019abriter. Par la suite, un cr\u00e9pitement intense de balles s\u2019est fait entendre, t\u00e9moignant de la violence des \u00e9changes de tirs entre les assaillants et les soldats loyalistes.\n\n## **Demandes d'aide**\n\nDemandes d'assistance internationale des gouvernements: **Oui**\n\nDemandes d'assistance internationale des Soci\u00e9t\u00e9s Nationales: **Oui**\n\n## **Bulletin d'information publi\u00e9**\n\nNon\n\n## **Actions entreprises par Soci\u00e9t\u00e9 nationale**\n\n### **General**\n\nPremiers secours\n\nSant\u00e9\n\n\u00c9vacuation\n\nRefuge\n\nRecherche et sauvetage\n\n\u00c9valuation des dommages/besoins\n\nAide alimentaire\n\nGestion et identification des restes humains\n\nDistribution de secours/d\u2019approvisionnement\n\nRLF\n\nServices de soutien psychosocial\n\n**R\u00e9sum\u00e9:** -\n\n## **Actions initi\u00e9es par d'autres**\n\n\\- D\u00e9ploiement des militaires des FARDC et des Wazalendo du g\u00e9n\u00e9ral Mando, lourdement arm\u00e9s, sur les lieux, et expulsion de l\u2019ennemi. - Mise en place d\u2019un dispositif s\u00e9curitaire sur l\u2019ensemble de la commune rurale de Lubutu. - Patrouilles pour s\u00e9curiser les populations et leurs biens.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52293",
-                    "id": 52293,
-                    "name": "Croix-Rouge de la RDC",
-                    "shortname": "Croix-Rouge de la RDC",
-                    "longname": "Croix-Rouge de la R\u00e9publique D\u00e9mocratique du Congo",
-                    "homepage": "https://www.croixrouge-rdc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4215563",
-            "date": {
-                "original": "2026-06-09T00:00:00+00:00",
-                "changed": "2026-06-10T02:38:32+00:00",
-                "created": "2026-06-10T02:06:20+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4215563"
     }
 ]
