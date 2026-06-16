@@ -1,5 +1,151 @@
 [
     {
+        "id": "4216503",
+        "score": 1,
+        "fields": {
+            "title": "WFP Cameroon Country Brief, June 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "http://www.wfp.org",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216503",
+            "date": {
+                "original": "2026-06-16T00:00:00+00:00",
+                "changed": "2026-06-16T16:44:52+00:00",
+                "created": "2026-06-16T16:44:44+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216503"
+    },
+    {
+        "id": "4216482",
+        "score": 1,
+        "fields": {
+            "title": "Cadre op\u00e9rationnel et paquet minimum \u00c9ducation pour la pr\u00e9paration et la r\u00e9ponse \u00e0 l'\u00e9pid\u00e9mie d'Ebola en RDC",
+            "body": "## Objectif du Cadre: \n\nCe document pr\u00e9sente le paquet minimum d'interventions prioritaires du secteur \u00c9ducation pour la pr\u00e9paration et la r\u00e9ponse \u00e0 l'\u00e9pid\u00e9mie d'Ebola dans les zones affect\u00e9es et \u00e0 risque. Il vise \u00e0 soutenir la coordination, la planification op\u00e9rationnelle, le plaidoyer et la mobilisation des ressources\n\n## 1. Epid\u00e9mie Ebola et implications pour l\u2019\u00e9ducation\n\nLes mesures contenues dans le communiqu\u00e9 du minist\u00e8re de la Sant\u00e9, en particulier celles ayant un lien direct avec le secteur de l\u2019\u00e9ducation, le pr\u00e9sent cadre met l\u2019accent sur la contribution de l\u2019\u00e9ducation \u00e0 travers les \u00e9coles dans la pr\u00e9vention, l\u2019alerte pr\u00e9coce et la r\u00e9ponse.\n\nLe secteur de l\u2019\u00e9ducation a \u00e9t\u00e9 rattach\u00e9 \u00e0 la commission Communication et M\u00e9dias dans le m\u00e9canisme coordination de la r\u00e9ponse. Dans le plan national, les activit\u00e9s en lien avec l\u2019\u00e9ducation se situent dans les composantes de Communication sur les risques, mobilisation sociale et engagement communautaire CREC (transversale), d'une part et d'autre part dans le Renforcement des Mesures de Pr\u00e9vention et Contr\u00f4le de l\u2019infection (PCI/ Wash) et EDS.\n\nVu l'urgence sanitaire, les besoins sp\u00e9cifiques du secteur de l\u2019\u00e9ducation peuvent parfois \u00eatre insuffisamment visibles. Il a donc \u00e9t\u00e9 recommand\u00e9 de renforcer la pr\u00e9sence du Cluster Education dans les espaces de coordination et de produire des \u00e9vidences claires pour soutenir le plaidoyer.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216482",
+            "date": {
+                "original": "2026-06-16T00:00:00+00:00",
+                "changed": "2026-06-16T14:15:06+00:00",
+                "created": "2026-06-16T14:11:20+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216482"
+    },
+    {
+        "id": "4216472",
+        "score": 1,
+        "fields": {
+            "title": "The race against Ebola",
+            "body": "\u201c*The volunteers working in the Bunia health sector have been roaming the streets to bring messages regarding the Ebola virus disease: What is this disease? how does it get transmitted and how can we prevent it?*\u201d says **Delphin Chanumula**, community engagement coordinator for the DRC Red Cross.\n\nChanumula has seen some hopeful signs in communities that once resisted safe and dignified burials.\n\nWhere there was once skepticism, she sees more people approaching volunteers and asking questions about how to protect themselves.\n\n\u201c*This in the same places where people were blocking volunteers from performing safe and dignified burial*s.\u201d\n\nThis kind of daily presence of people from the affected community, or nearby, is critical to building and maintaining the trust needed to ensure people know how to identify, report, prepare for and prevent Ebola.\n\n\"*They are not outsiders; they are part of these communities*,\" says **Gabriela Arenas Regional, Operations Coordinator for IFRC Africa Region.**\n\n\"*People know them and trust that they have the community\u2019s best interests at heart, provide vital information, and handle their dead with safe and dignified burials.\"*\n\n*\"During an Ebola outbreak, trust and community acceptance can mean the difference between containment and wider transmission*.\"\n\n\"*They need practical, respectful, culturally appropriate support rooted in the realities of their communities,*\" adds Arenas.\n\nThe Red Cross is uniquely placed to support this work through its long-standing presence and trusted relationships within affected communities, combined with a global network of experts.\n\n*\"The stigma surrounding this disease is very significant, and the volunteers\u2019 work is essential to debunk the myths surrounding it,\" says* **IFRC Operations Coordinator Bruno Michon**, while working in in Mongbwalu.\n\n*\"The DRC Red Cross has been doing exemplary work with and for the community. Thanks to the work of the DRC Red Cross, we will succeed in overcoming this 17th Ebola outbreak*.\"",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1242",
+                    "id": 1242,
+                    "name": "International Federation of Red Cross and Red Crescent Societies",
+                    "shortname": "IFRC",
+                    "longname": "International Federation of Red Cross and Red Crescent Societies",
+                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                    "homepage": "https://www.ifrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216472",
+            "date": {
+                "original": "2026-06-16T00:00:00+00:00",
+                "changed": "2026-06-16T14:10:41+00:00",
+                "created": "2026-06-16T14:03:08+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216472"
+    },
+    {
         "id": "4216425",
         "score": 1,
         "fields": {
@@ -1785,127 +1931,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4216103"
-    },
-    {
-        "id": "4216085",
-        "score": 1,
-        "fields": {
-            "title": "Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 12/06/2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/620",
-                    "id": 620,
-                    "name": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
-                    "shortname": "ECHO",
-                    "longname": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
-                    "spanish_name": "Direcci\u00f3n General de Protecci\u00f3n Civil y Operaciones de Ayuda Humanitaria Europeas",
-                    "homepage": "https://civil-protection-humanitarian-aid.ec.europa.eu/index_en",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4216085",
-            "date": {
-                "original": "2026-06-12T00:00:00+00:00",
-                "changed": "2026-06-15T00:06:19+00:00",
-                "created": "2026-06-12T15:17:19+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4216085"
-    },
-    {
-        "id": "4216054",
-        "score": 1,
-        "fields": {
-            "title": "WASH Learning Paper: Promoting Hygiene in IDP settings through Soap-Making Initiatives in the Democratic Republic of Congo | Concern Worldwide",
-            "body": "This learning paper examines how soap-making when integrated with hygiene-focused behaviour promotion, contributed to improved access to soap and reinforced handwashing practices in a highly constrained Internally Displaced Persons (IDP) setting.  \n  \n**Context**  \n  \nHandwashing with soap remains one of the most effective measures for reducing the incidence of diarrhoeal and respiratory diseases. According to the WHO, good hand hygiene can reduce deaths from diarrhoeal diseases by 21% and from respiratory infections by 30% among children under five.  \n  \nThe Bulengo IDP site in the Democratic Republic of Congo (DRC) has faced wide scale displacement around Goma following intensified conflict between the March 23 Movement (M23) and the Congolese Armed Forces (FARDC). Between March 2022 and December 2024, almost 1.95 million people were displaced, with over 800,000 seeking refuge in IDP sites in Nyiragongo and Goma. This rapid influx placed significant pressure on sanitation facilities and access to basic hygiene items, including soap.  \n  \nThe prolonged insecurity in North Kivu continues to drive displacement and constrain access to essential services. In response, Concern Worldwide\u2019s WASH programme (August 2024-February 2025), funded by BHA, in and around Goma was focused on improving access to safe water and sanitation infrastructure, alongside hygiene promotion activities. These include support to latrine management committees, distribution of hygiene items, and community\u2011based behaviour change interventions aimed at reducing the risk of water\u2011borne diseases.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/359",
-                    "id": 359,
-                    "name": "Concern Worldwide",
-                    "shortname": "Concern",
-                    "longname": "Concern",
-                    "homepage": "https://www.concern.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4216054",
-            "date": {
-                "original": "2026-06-12T00:00:00+00:00",
-                "changed": "2026-06-12T12:54:41+00:00",
-                "created": "2026-06-12T12:33:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4216054"
-    },
-    {
-        "id": "4216047",
-        "score": 1,
-        "fields": {
-            "title": "Tchad : Pr\u00e9sence op\u00e9rationnelle des partenaires \u00e0 L\u2019Est (3W) Janvier 2026",
-            "body": "L\u2019outil 3W est d\u00e9velopp\u00e9 par OCHA pour une meilleure visibilit\u00e9 des partenaires humanitaires sur le terrain. Les informations utilis\u00e9es dans ce produit sont issues des m\u00e9canismes de coordination.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4216047",
-            "date": {
-                "original": "2026-01-02T00:00:00+00:00",
-                "changed": "2026-06-12T12:57:28+00:00",
-                "created": "2026-06-12T11:15:30+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4216047"
     }
 ]
