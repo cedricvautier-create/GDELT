@@ -1,5 +1,127 @@
 [
     {
+        "id": "4216712",
+        "score": 1,
+        "fields": {
+            "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (9-15 juin 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216712",
+            "date": {
+                "original": "2026-06-16T00:00:00+00:00",
+                "changed": "2026-06-17T16:37:25+00:00",
+                "created": "2026-06-17T16:36:44+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216712"
+    },
+    {
+        "id": "4216711",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: Latest Events at a glance (9\u201315 June 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216711",
+            "date": {
+                "original": "2026-06-16T00:00:00+00:00",
+                "changed": "2026-06-17T16:36:07+00:00",
+                "created": "2026-06-17T16:35:18+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216711"
+    },
+    {
+        "id": "4216702",
+        "score": 1,
+        "fields": {
+            "title": "Cluster Protection RDC : Note d\u2019analyse \u00ab Do No Harm \u00bb - R\u00e9ponse humanitaire \u00e0 la MVB - Juin 2026",
+            "body": "La note identifie trois axes de risques prioritaires :\n\n- L\u2019aggravation des impacts des conflits arm\u00e9s ;\n- La militarisation de la r\u00e9ponse ;\n- La d\u00e9priorisation des besoins humanitaires essentiels au profit de la riposte MVB.\n\nElle propose \u00e9galement une matrice d\u00e9taill\u00e9e des risques (incluant VBG, stigmatisation, acc\u00e8s inappropri\u00e9 aux donn\u00e9es, exclusion des groupes vuln\u00e9rables, etc.) accompagn\u00e9e de recommandations op\u00e9rationnelles \u00e0 int\u00e9grer dans nos activit\u00e9s.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216702",
+            "date": {
+                "original": "2026-06-15T00:00:00+00:00",
+                "changed": "2026-06-17T16:01:47+00:00",
+                "created": "2026-06-17T16:01:14+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216702"
+    },
+    {
         "id": "4216699",
         "score": 1,
         "fields": {
@@ -1579,126 +1701,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4216270"
-    },
-    {
-        "id": "4216265",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR CHAD | CORE Emergency Situation in Chad - Update on arrivals from Sudan (14 June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4216265",
-            "date": {
-                "original": "2026-06-15T00:00:00+00:00",
-                "changed": "2026-06-15T12:18:48+00:00",
-                "created": "2026-06-15T12:03:17+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4216265"
-    },
-    {
-        "id": "4216264",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR CHAD | CORE Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (14 juin 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4216264",
-            "date": {
-                "original": "2026-06-15T00:00:00+00:00",
-                "changed": "2026-06-15T12:16:18+00:00",
-                "created": "2026-06-15T12:03:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4216264"
-    },
-    {
-        "id": "4216215",
-        "score": 1,
-        "fields": {
-            "title": "DRC: One month on, MSF warns dangerous gaps persist in Ebola disease response",
-            "body": "**BUNIA, Democratic Republic of the Congo, 15 June 2026 \u2014** One month after the Ebola disease outbreak was declared in the Democratic Republic of Congo (DRC), M\u00e9decins Sans Fronti\u00e8res (MSF) warns that , despite the recent scale-up in the response, major gaps in surveillance, diagnosis, contact tracing and community engagement continue to undermine efforts to bring the outbreak under control. A response that is proportionate to the scale of the outbreak is urgently needed.\n\n\u201cOne month on, the Ebola disease outbreak is outpacing the response effort,\u201d says Kate White, emergency medical coordinator for MSF in DRC. \u201cNo one knows the true scale or exactly where the disease is spreading in DRC. What we do know is that most treatment centres in Ituri province are overwhelmed; many of our patients arrive at a late stage of the disease, and the majority were never identified or monitored as contacts before seeking care.\u201d\n\nThe disease is spreading across Ituri, North Kivu, and South Kivu provinces in eastern DRC, with Ituri accounting for nearly 95 per cent of the cases. The response, led by the Congolese Ministry of Health and supported by several international partners, is being put in place in the affected areas. Unfortunately, insecurity makes it difficult to reach certain communities, and even in more stable areas, efforts to detect cases, test patients, identify contacts, and monitor transmission are insufficient. In neighbouring Uganda, 19 confirmed cases have also been reported by the health authorities.\n\nCongolese health authorities officially reported more than 650 confirmed cases and over 130 deaths. However, MSF warns that these figures likely represent only part of the picture.\n\n\u201cTesting remains one of the most significant weaknesses in the response, despite recent improvements in laboratory capacity and the arrival of hundreds of mobile test kits in eastern DRC, designed specifically for the Bundibugyo virus,\u201d says White. \u201cMany communities, especially those affected by ongoing insecurity, still have limited access to these kits, while treatment centres continue to face significant delays in receiving laboratory results. Without faster and more widely available testing, we will struggle to detect cases early enough to contain the outbreak.\u201d\n\nIn areas where the outbreak is unfolding, millions of people have already been living with decades of active conflict, repeated displacement, chronic gaps in healthcare, and a limited humanitarian response. These conditions severely hamper response efforts and create an environment in which the disease can spread more easily.\n\nIn Ituri, where MSF has been present for decades, we have observed fear and mistrust among communities, with some being wary of the sudden arrival of Ebola response teams.\n\n\u201cSetting up activities and explaining the disease is not enough to build community trust - people\u2019s concerns need to be listened to, and communities should help shape the response,\u201d says Frederic Lai Manantsoa, emergency coordinator for MSF in DRC.\n\nFor many communities, the outbreak is just one of several health emergencies that have been inadequately addressed for years. Maintaining access to routine healthcare is just as important as controlling the outbreak itself to save lives.\n\n\u201cPregnant women still need maternal care, children still need vaccinations, and patients still need treatment for malaria and cholera,\u201d says White. \u201cMaintaining access to routine healthcare also helps support Ebola disease surveillance among communities.\u201d\n\nAlthough the number of confirmed cases reported in North Kivu and South Kivu is relatively low, they face many of the same challenges around surveillance and testing. In North Kivu, there is only one laboratory to test blood samples, and they take several days to process. Since there is no automated system for sending them to healthcare facilities, it can sometimes take almost a week to get results.\n\nAlongside direct patient care, MSF is also sending teams to more remote and insecure areas to strengthen detection and response capacity where alerts have been reported.\n\n \u201cThis outbreak can still be brought under control, but the window for action is narrowing,\u201d says Lai Manantsoa. \u201cDiagnostics, surveillance, access to care, and community engagement must be urgently strengthened. We urge authorities, and all stakeholders involved in the response, to do everything possible to facilitate the movement of health workers and supplies, and enable a response that matches the scale of this crisis.\u201d\n\nENDS\n\n***Note to editors:***\n\nMSF Ebola Disease Outbreak Response   \n*Since the beginning of the outbreak, MSF teams in Ituri, North Kivu and South Kivu have established Ebola treatment centres in Bunia, Mongbwalu, Komanda, Goma, Bukavu, and Lwiro, and we are preparing more isolation and treatment facilities across the three provinces. MSF has reinforced infection prevention and control measures in the health facilities we support*. *We are also carrying out a wide range of critical activities, including engaging with communities, supporting surveillance activities, training health workers in infection prevention and control, supporting on safe and dignified burials, supplying health facilities with equipment and medicines, and helping to ensure continuity of essential healthcare services beyond the Ebola disease response. Hundreds of tonnes of equipment and medicines have been shipped from Kinshasa and abroad, and nearly 600 staff are currently involved in MSF's Ebola disease outbreak response.*\n\nMSF activities in DRC\n\n*In parallel with our support for the Ebola outbreak response, MSF remains committed to providing impartial medical care to people across DRC, where we work in 16 of the country's 26 provinces. Our teams respond to the needs of people affected by conflict, violence, displacement, and disease outbreaks. Key activities include surgical care for the wounded; treatment of malnutrition; HIV and tuberculosis care; reproductive health services; paediatric care; malaria prevention and treatment; disease outbreak prevention, surveillance, and response; and mental health support. Our teams are also currently responding to other preventable disease outbreaks, including cholera and measles.*\n\n*MSF is an independent, neutral, and impartial medical humanitarian organisation that provides emergency medical care to people affected by armed conflict, epidemics, natural disasters, and exclusion from healthcare.*",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2904",
-                    "id": 2904,
-                    "name": "M\u00e9decins Sans Fronti\u00e8res",
-                    "shortname": "MSF",
-                    "longname": "M\u00e9decins Sans Fronti\u00e8res",
-                    "spanish_name": "M\u00e9dicos Sin Fronteras",
-                    "homepage": "https://www.msf.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4216215",
-            "date": {
-                "original": "2026-06-15T00:00:00+00:00",
-                "changed": "2026-06-15T08:33:47+00:00",
-                "created": "2026-06-15T08:33:47+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4216215"
     }
 ]
