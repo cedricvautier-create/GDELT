@@ -1,5 +1,87 @@
 [
     {
+        "id": "4216796",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo_ Ituri: calendrier des r\u00e9unions Bunia (juin 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216796",
+            "date": {
+                "original": "2026-06-15T00:00:00+00:00",
+                "changed": "2026-06-18T09:48:05+00:00",
+                "created": "2026-06-18T09:42:24+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216796"
+    },
+    {
+        "id": "4216783",
+        "score": 1,
+        "fields": {
+            "title": "Building trust is key to stopping the Ebola outbreak in the Democratic Republic of Congo, the IFRC says",
+            "body": "**Bunia/Nairobi/Geneva, 18 June 2026 -** Building trust with communities is the most powerful tool to stop the ongoing Ebola outbreak in the Democratic Republic of the Congo (DRC), according to a new community feedback report conducted by the International Federation of Red Cross and Red Crescent Societies (IFRC).\n\nAs Red Cross volunteers work with health authorities to contain the outbreak caused by the Bundibugyo species of Ebola virus disease, community feedback reveals that fear, misinformation and mistrust remain major obstacles to saving lives.\n\n\"*There is no shortcut to ending an Ebola outbreak*,\" said Bruno Michon, Operations Manager for the Ebola outbreak. \"*Communities need trusted information, opportunities to ask questions and genuine engagement. People are more likely to seek care, report symptoms and accept public health measures when they feel heard and respected*.\"\n\nThrough community feedback collected during door-to-door visits, focus group discussions and community engagement activities, local Red Cross teams listen to concerns and adapt their response accordingly.\n\nCommunity feedback from affected areas shows many people still question the disease's existence or view the response with suspicion. Rumours on social media claim herbal remedies can prevent Ebola, while others say the outbreak is a business designed to attract international funding.\n\nIn some communities, treatment centres are perceived as places \"where people go to die\", fuelling resistance to referrals and, in some cases, violence against responders. Red Cross volunteers have reported verbal abuse, physical attacks and growing stigma linked to their work.\n\nThe feedback also highlights concerns about safe and dignified burials, with some families refusing burial protocols because they conflict with traditional practices or because they do not fully understand the risks posed by Ebola after death.\n\n\"*We cannot dismiss these concerns*,\" added Bruno Michon. \"*When people question the response, it is our responsibility to listen and explain. Every rumour is an opportunity for dialogue*.\"\n\nListening to communities is already helping shape the response.\n\nWhen residents reported fears that chlorine and disinfectants were being used to poison people, volunteers began demonstrating how these products are prepared and explaining their role in infection prevention.\n\nThe response is also working with Ebola survivors and trusted community leaders to share first-hand experiences and provide credible information about the disease. Survivors are helping demonstrate that seeking care early can significantly improve the chances of survival.\n\nThe lesson from every Ebola outbreak is clear. Communities are not beneficiaries of the response; they are partners in it. The only sustainable way to stop Ebola is by building trust, listening to people and ensuring that communities help shape the decisions that affect their lives.\n\nThe IFRC Network continues to support community engagement, risk communication, surveillance, infection prevention and control, and safe and dignified burials as part of the broader effort to contain the outbreak and protect lives.\n\n**For more information or to request an interview, please contact:** [**\\[email protected\\]**](https://www.ifrc.org/cdn-cgi/l/email-protection#b6dbd3d2dfd7f6dfd0c4d598d9c4d1)\n\n**In Bunia:** Alex Lock, +243 859 795 302\n\n**In Nairobi:** Cate Kamatu, +254 728 815266\n\n**In Geneva:** Tommaso Della Longa +41 79 708 4367 | Paolo Cravero +41 79 894 8396",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1242",
+                    "id": 1242,
+                    "name": "International Federation of Red Cross and Red Crescent Societies",
+                    "shortname": "IFRC",
+                    "longname": "International Federation of Red Cross and Red Crescent Societies",
+                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                    "homepage": "https://www.ifrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4216783",
+            "date": {
+                "original": "2026-06-18T00:00:00+00:00",
+                "changed": "2026-06-18T10:00:09+00:00",
+                "created": "2026-06-18T09:03:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4216783"
+    },
+    {
         "id": "4216749",
         "score": 1,
         "fields": {
@@ -247,6 +329,19 @@
             },
             "source": [
                 {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
                     "href": "https://api.reliefweb.int/v2/sources/8619",
                     "id": 8619,
                     "name": "Protection Cluster",
@@ -275,7 +370,7 @@
             "url": "https://reliefweb.int/node/4216702",
             "date": {
                 "original": "2026-06-12T00:00:00+00:00",
-                "changed": "2026-06-18T00:35:06+00:00",
+                "changed": "2026-06-18T09:49:54+00:00",
                 "created": "2026-06-17T16:01:14+00:00"
             }
         },
@@ -1655,87 +1750,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4216318"
-    },
-    {
-        "id": "4216316",
-        "score": 1,
-        "fields": {
-            "title": "Selon Oxfam, l'ampleur de l'\u00e9pid\u00e9mie d'Ebola serait sous-estim\u00e9e",
-            "body": "## ***Un mois apr\u00e8s le d\u00e9but de la plus importante \u00e9pid\u00e9mie d'Ebola Bundibugyo jamais enregistr\u00e9e, la r\u00e9ponse humanitaire accuse un retard important.*** \n\nDans l'un des \u00e9picentres de l'\u00e9pid\u00e9mie d'Ebola en R\u00e9publique d\u00e9mocratique du Congo (RDC), seul un \u00e9tablissement de sant\u00e9 sur cinq dispose d'assez d\u2019eau potable, selon de nouvelles donn\u00e9es recueillies sur le terrain par Oxfam. Ces r\u00e9sultats soul\u00e8vent de vives inqui\u00e9tudes quant \u00e0 la propagation du virus Ebola de souche Bundibugyo \u2014 l'acc\u00e8s \u00e0 l'eau potable restant la premi\u00e8re ligne de d\u00e9fense contre la transmission\u2014 et font craindre que l'ampleur r\u00e9elle des infections ne soit sous-estim\u00e9e.\n\nLes donn\u00e9es recueillies sur le terrain par Oxfam montrent qu\u2019\u00e0 Mongbwalo, une ville de pr\u00e8s de 140 000 habitants qui constitue l\u2019un des \u00e9picentres de l\u2019\u00e9pid\u00e9mie dans la province d\u2019Ituri, seuls 20 % de la population ont acc\u00e8s \u00e0 l\u2019eau potable et 25 % ont acc\u00e8s \u00e0 des infrastructures sanitaires et d\u2019hygi\u00e8ne en \u00e9tat de fonctionner. De nombreuses familles sont contraintes d\u2019utiliser de l\u2019eau contamin\u00e9e par les ruissellements chimiques provenant des activit\u00e9s mini\u00e8res.\n\nCes donn\u00e9es mettent en lumi\u00e8re une crise plus g\u00e9n\u00e9rale qui touche l'ensemble de la province d'Ituri : des sources d'eau contamin\u00e9es, des infrastructures de lavage des mains inutilisables et des centres de sant\u00e9 qui peinent \u00e0 \u00e9liminer les d\u00e9chets infectieux en toute s\u00e9curit\u00e9, tandis que de nombreux agents de premi\u00e8re ligne ne disposent toujours pas d'\u00e9quipements de protection de base. Ces conditions entravent les efforts visant \u00e0 endiguer la propagation du virus.\n\n**Manel Rebordosa, Coordinateur de terrain de la r\u00e9ponse d'Oxfam \u00e0 l'\u00e9pid\u00e9mie d'Ebola, bas\u00e9 au c\u0153ur de l'\u00e9pid\u00e9mie en Ituri, dans l'est de la RDC, a d\u00e9clar\u00e9 :**\n\n\u00ab L'eau, qui constitue la premi\u00e8re ligne de d\u00e9fense absolue en cas d'urgence sanitaire, fait tout simplement d\u00e9faut. Les mineurs qui travaillent dans les environs n'ont ni toilettes ni points d'eau pour se laver les mains, puis rentrent chez eux dans des communaut\u00e9s d\u00e9j\u00e0 aux prises avec le virus. L'eau potable co\u00fbte deux dollars les 20 litres. Pour la plupart des familles d'ici, c'est bien au-del\u00e0 de leurs moyens. \u00bb\n\n### **Une r\u00e9ponse fragilis\u00e9e par le recul du tra\u00e7age des contacts**\n\nLes Centres pour le contr\u00f4le et la pr\u00e9vention des maladies (CDC) des \u00c9tats-Unis ont confirm\u00e9 qu'il s'agissait d\u00e9sormais de la plus importante \u00e9pid\u00e9mie de Bundibugyo jamais enregistr\u00e9e. Le minist\u00e8re de la Sant\u00e9 de la RDC a confirm\u00e9 **781 cas et 182 d\u00e9c\u00e8s d**ans 25 zones sanitaires, mais Oxfam pr\u00e9vient que le bilan r\u00e9el est probablement bien plus \u00e9lev\u00e9. Contrairement \u00e0 l'\u00e9pid\u00e9mie de 2018, il n'existe aucun vaccin homologu\u00e9 ni aucun traitement approuv\u00e9 contre la souche Bundibugyo, ce qui fait de l'eau potable et de l'assainissement des \u00e9l\u00e9ments essentiels de la lutte contre ce virus.\n\nLe tra\u00e7age des contacts, pilier de toute riposte \u00e0 Ebola, n'atteint plus qu'un taux de 43 %. Ce niveau est nettement inf\u00e9rieur au taux de 79 % enregistr\u00e9 un mois apr\u00e8s le d\u00e9but de l'\u00e9pid\u00e9mie de 2018-2020 dans la m\u00eame r\u00e9gion.\n\n\u00ab Un mois apr\u00e8s le d\u00e9but de l\u2019\u00e9pid\u00e9mie de 2018, les professionnels de sant\u00e9 avaient atteint des taux de tra\u00e7age des contacts permettant de suivre avec succ\u00e8s pr\u00e8s de huit contacts connus sur dix. Aujourd\u2019hui, suite au retrait du financement am\u00e9ricain destin\u00e9 \u00e0 la surveillance \u00e9pid\u00e9miologique et face au grave manque de ressources, la recherche des contacts touche moins de la moiti\u00e9 des cas. Cet \u00e9cart n\u2019est pas seulement une statistique, c\u2019est une dure r\u00e9alit\u00e9 qui permet au virus de se propager \u00e0 l\u2019insu de tout le monde au sein des communaut\u00e9s \u00bb, a d\u00e9clar\u00e9 Rebordosa.\n\nAvec seulement 0,2 m\u00e9decin pour 1 000 habitants et plus de 70 \u00e9tablissements de sant\u00e9 d\u00e9truits par le conflit, les autorit\u00e9s sanitaires de la RDC peinent \u00e0 d\u00e9tecter les nouveaux cas assez rapidement pour enrayer la transmission. Dans le Nord-Kivu, des d\u00e9c\u00e8s sont signal\u00e9s dans les communaut\u00e9s avant m\u00eame que les patients ne soient identifi\u00e9s comme atteints d\u2019Ebola. De plus en plus de familles s\u2019occupent de leurs proches malades \u00e0 domicile, exposant ainsi, sans le savoir, d\u2019autres personnes au virus.\n\n### **Des financements en chute qui affaiblissent la r\u00e9ponse**\n\nLe financement humanitaire mondial destin\u00e9 \u00e0 la RDC a \u00e9t\u00e9 r\u00e9duit de 46 % \u2013 passant de 2,58 milliards de dollars en 2024 \u00e0 1,4 milliard de dollars en 2026 \u2013, ce qui repr\u00e9sente le taux de couverture le plus bas depuis dix ans et contraint les organisations humanitaires \u00e0 r\u00e9duire consid\u00e9rablement leurs activit\u00e9s. Selon le Forum des ONG de la RDC, les organisations locales, qui sont souvent les premi\u00e8res \u00e0 intervenir lors d\u2019\u00e9pid\u00e9mies, ont re\u00e7u moins de 6 % des fonds humanitaires allou\u00e9s r\u00e9cemment.\n\nLes coupes budg\u00e9taires ont contraint les organisations \u00e0 r\u00e9duire leurs \u00e9quipes de liaison avec les communaut\u00e9s, privant ainsi l'intervention d'un pilier essentiel. De plus, la grave p\u00e9nurie d'\u00e9quipements de protection individuelle, d'installations sanitaires et d'infrastructures d'approvisionnement en eau potable continue de freiner les op\u00e9rations d'intervention, rendant de plus en plus difficile la lutte contre la d\u00e9sinformation et la propagation du virus.\n\n\u00ab Lorsque les \u00e9quipes de liaison qui ont la confiance des communaut\u00e9s disparaissent, les rumeurs se propagent plus vite que le virus. Les gens craignent d\u00e9sormais les \u00e9tablissements de sant\u00e9, qu\u2019ils consid\u00e8rent comme des pi\u00e8ges mortels. Les familles se tournent vers les rem\u00e8des traditionnels, ce qui risque de retarder les traitements et de permettre au virus de se propager davantage. Chaque jour qui passe sans financement, le virus fait de nouvelles victimes \u00bb, a d\u00e9clar\u00e9 Rebordosa.\n\nTibakanya Mireille, m\u00e8re de cinq enfants \u00e0 Bunia, a d\u00e9clar\u00e9 : \u00ab J\u2019ai emmen\u00e9 ma fille \u00e0 l\u2019h\u00f4pital quand j\u2019ai remarqu\u00e9 qu\u2019elle avait de la fi\u00e8vre, et elle passe actuellement des tests. Nous sommes tr\u00e8s inquiets. Ici, deux maisons ont \u00e9t\u00e9 mises en quarantaine, et une famille a perdu plusieurs proches apr\u00e8s s\u2019\u00eatre occup\u00e9e d\u2019un membre de la famille malade, ce qui a contamin\u00e9 d\u2019autres personnes. La maladie a d\u00e9j\u00e0 fait plusieurs victimes dans notre communaut\u00e9 de Shari, \u00e0 Bunia. \u00bb\n\nOxfam collabore avec ses partenaires et a renforc\u00e9 son intervention face \u00e0 l'\u00e9pid\u00e9mie d'Ebola, en mettant en place un programme initial de 11,6 millions de dollars sur six mois visant \u00e0 fournir de l'eau potable et des kits d'hygi\u00e8ne \u00e0 200 000 personnes dans la province d'Ituri et \u00e0 soutenir les actions de sensibilisation men\u00e9es par les communaut\u00e9s. Cependant, cela est loin d'\u00eatre suffisant.\n\n## **Notes aux r\u00e9dactions**\n\n- Selon [**l'OMS**](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON606?) et le minist\u00e8re de la Sant\u00e9 publique de la RDC, le taux de recherche des contacts s'\u00e9levait \u00e0 43,2 % le 8 juin, alors qu'il \u00e9tait de [**79 % un mois apr\u00e8s le d\u00e9but de l'\u00e9pid\u00e9mie d'Ebola de 2018 en RDC**](https://iris.who.int/server/api/core/bitstreams/c2d90542-8bc5-447a-b8e5-1b3492a83270/content).\n- Au 13 juin, [**le minist\u00e8re de la Sant\u00e9 publique**](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/2/atp-safelinks.html) de la RDC ont signal\u00e9 781 cas confirm\u00e9s et 182 d\u00e9c\u00e8s en RDC.\n- Cette \u00e9pid\u00e9mie est caus\u00e9e par une souche rare du virus Ebola, dite \u00ab Bundibugyo \u00bb, pour laquelle il n'existe ni vaccin ni traitement approuv\u00e9. Selon le CDC, l'\u00e9pid\u00e9mie actuelle de Bundibugyo est la plus importante de ce type et [**la troisi\u00e8me plus importante \u00e9pid\u00e9mie d'Ebola**](https://www.bmj.com/content/393/bmj-2026-727772) jamais enregistr\u00e9e, derri\u00e8re l'\u00e9pid\u00e9mie d'Ebola qui a touch\u00e9 le Kivu en RDC entre 2018 et 2020 et celle qui a frapp\u00e9 l'Afrique de l'Ouest entre 2014 et 2016.\n- Les [**besoins de financement humanitaire pour la RDC**](https://fts.unocha.org/countries/52/summary/2025) sont pass\u00e9s de 2,58 milliards de dollars en 2024 \u00e0 1,4 milliard de dollars en 2026 (soit une baisse de pr\u00e8s de 46 %).\n- Selon le Conseil national des forums des ONG humanitaires et de d\u00e9veloppement en RDC (CONAFOHD RDC), moins de 6 % des ressources destin\u00e9es \u00e0 la lutte contre Ebola ont \u00e9t\u00e9 allou\u00e9es aux organisations locales en RDC.\n- Selon les [**donn\u00e9es de la Banque mondiale**](https://data.worldbank.org/indicator/SH.MED.PHYS.ZS?locations=CD&utm_source=chatgpt.com), la RDC compte environ 0,2 m\u00e9decin pour 1 000 habitants\n- L'Ouganda compte d\u00e9sormais 195 cas confirm\u00e9s d'Ebola, dont huit nouveaux cas et un d\u00e9c\u00e8s. Oxfam fournit du mat\u00e9riel de protection et apporte son soutien aux efforts de pr\u00e9vention des infections et de mobilisation communautaire.\n\n## **Contact**\n\nFatuma Noor | **Fatuma.Noor@oxfam.org** | +254 723 944 682\n\nYves Kalwira in Goma | **Ykalwira@oxfam.org.uk** | +243 814043637\n\nPour des mises \u00e0 jour en temps r\u00e9el, suivez-nous sur [**X**](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fx.com%2Fnewsfromoxfam&data=05%7C02%7CJulia.Manresa%40oxfam.org%7C7e37b949752c44b768fb08dd1a0259a1%7Cc42c6655bda0417590bab6e48cacd561%7C0%7C0%7C638695319575494496%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Wj3MfRTfhFeAwhGY7cKDCzGB6%2BQW55FQy1LhYZJRlw8%3D&reserved=0) et [**Bluesky**](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Fnewsfromoxfam.bsky.social&data=05%7C02%7CJulia.Manresa%40oxfam.org%7C7e37b949752c44b768fb08dd1a0259a1%7Cc42c6655bda0417590bab6e48cacd561%7C0%7C0%7C638695319575520391%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=2QPA1a6djH%2F7R%2BDckmUIrPeFwIfNB6BHnufPnnp%2F3p0%3D&reserved=0), et rejoignez notre [ **WhatsApp cha\u00eene** ](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029VazLrHzAu3aWt5thcL2o&data=05%7C02%7CJulia.Manresa%40oxfam.org%7C7e37b949752c44b768fb08dd1a0259a1%7Cc42c6655bda0417590bab6e48cacd561%7C0%7C0%7C638695319575538521%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HHSSl4RpqjDiU1UlZchAxMC4S9Q5YkgNQQgdP8fJYv4%3D&reserved=0) sp\u00e9cialement con\u00e7ue pour les journalistes et les professionnels des m\u00e9dias.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2007",
-                    "id": 2007,
-                    "name": "Oxfam",
-                    "shortname": "Oxfam",
-                    "longname": "Oxfam International",
-                    "homepage": "https://www.oxfam.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4216316",
-            "date": {
-                "original": "2026-06-15T00:00:00+00:00",
-                "changed": "2026-06-16T00:06:50+00:00",
-                "created": "2026-06-15T21:33:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4216316"
-    },
-    {
-        "id": "4216288",
-        "score": 1,
-        "fields": {
-            "title": "RD Congo : Situation humanitaire dans la province de l'Ituri \u2013 rapport de situation #6, 15 juin 2026",
-            "body": "*Ce rapport est produit par OCHA RDC en collaboration avec les partenaires humanitaires. Il couvre la p\u00e9riode du 1er au 31 mai 2026*\n\n**FAITS MAJEURS**\n\n\u2022 La province de l\u2019Ituri est l\u2019\u00e9picentre de la 17\u1d49 \u00e9pid\u00e9mie de maladie \u00e0 virus Ebola due \u00e0 la souche Bundibugyo, aggravant les d\u00e9fis sanitaires dans un contexte marqu\u00e9 par les conflits et les d\u00e9placements de population ;\n\n\u2022 La poursuite des violences dans les territoires de Djugu, Irumu et Mambasa continue d\u2019exposer les civils aux attaques, aux enl\u00e8vements et aux d\u00e9placements forc\u00e9s, aggravant les besoins de protection ;\n\n\u2022 Plus de 45 000 personnes restent d\u00e9plac\u00e9es dans la zone de Biakato (territoire de Mambasa), tandis que plus de 17 000 autres ont r\u00e9cemment \u00e9t\u00e9 d\u00e9plac\u00e9es dans le territoire de Mahagi, accentuant les besoins multisectoriels.\n\n**CHIFFRES CL\u00c9S**\n\n77 368 personnes ont re\u00e7u une assistance alimentaire dans les territoires d'Aru et Djugu (Source : Cluster SECAL, le 30/5/2026)\n\n999 000 personnes d\u00e9plac\u00e9es internes au 31 mai en Ituri (Source : CMP Ituri, le 11/6/2026)\n\n100 000 personnes ont re\u00e7u une assistance mon\u00e9taire dans le territoire de Djugu (Source: Cluster SECAL et ACTIONAID, le 30/5/2026)\n\n**APER\u00c7U DE LA SITUATION**\n\n**Territoire d'Aru**\n\nLe territoire d\u2019Aru continue de faire face \u00e0 des incursions r\u00e9currentes d\u2019acteurs arm\u00e9s \u00e9trangers le long de la fronti\u00e8re avec le Soudan du Sud, exposant les populations civiles \u00e0 des enl\u00e8vements, des violences physiques et des pillages. Ces attaques alimentent des d\u00e9placements pr\u00e9ventifs vers la brousse et accentuent les pr\u00e9occupations en mati\u00e8re de protection dans les localit\u00e9s frontali\u00e8res. Entre les 11 et 12 mai, plus de 70 civils auraient \u00e9t\u00e9 enlev\u00e9s dans les villages d\u2019Ulendere et d\u2019Arile, dans la zone de sant\u00e9 (ZS) d\u2019Adi, tandis que le 31 mai, trois autres civils auraient \u00e9t\u00e9 enlev\u00e9s dans le village de Nyangbare, selon des sources locales. Les acteurs de la protection appellent au renforcement des mesures de protection des civils dans cette zone frontali\u00e8re.\n\n**Territoire de Djugu**\n\nMalgr\u00e9 l\u2019annonce d\u2019un cessez-le-feu le 14 mai par un groupe arm\u00e9 actif dans le territoire, les violences ont rapidement repris, aggravant les risques de protection pour les populations civiles, en particulier les personnes d\u00e9plac\u00e9es vivant dans les sites et communaut\u00e9s d\u2019accueil.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4216288",
-            "date": {
-                "original": "2026-06-15T00:00:00+00:00",
-                "changed": "2026-06-16T00:12:05+00:00",
-                "created": "2026-06-15T14:19:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4216288"
     }
 ]
