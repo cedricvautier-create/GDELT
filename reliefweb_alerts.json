@@ -1,5 +1,162 @@
 [
     {
+        "id": "4218012",
+        "score": 1,
+        "fields": {
+            "title": "Compte rendu de la r\u00e9union mensuelle du Cluster Education du mois de mai 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218012",
+            "date": {
+                "original": "2026-06-25T00:00:00+00:00",
+                "changed": "2026-06-25T19:27:17+00:00",
+                "created": "2026-06-25T19:16:21+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218012"
+    },
+    {
+        "id": "4218011",
+        "score": 1,
+        "fields": {
+            "title": "Cluster Protection RDC : Analyse des r\u00e9ponses et des lacunes au 31 mai 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218011",
+            "date": {
+                "original": "2026-06-25T00:00:00+00:00",
+                "changed": "2026-06-25T18:52:05+00:00",
+                "created": "2026-06-25T18:51:47+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218011"
+    },
+    {
+        "id": "4217985",
+        "score": 1,
+        "fields": {
+            "title": "Groupe de Travail Cash : Compte rendu de la r\u00e9union mensuelle de mai, vendredi 29 mai 2026 (10h00 \u2013 11h30) [Meeting Minutes]",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "http://www.wfp.org",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4217985",
+            "date": {
+                "original": "2026-06-25T00:00:00+00:00",
+                "changed": "2026-06-25T15:20:44+00:00",
+                "created": "2026-06-25T15:13:04+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4217985"
+    },
+    {
         "id": "4217957",
         "score": 1,
         "fields": {
@@ -1155,8 +1312,8 @@
         "id": "4217698",
         "score": 1,
         "fields": {
-            "title": "Cluster sante Veille informationnelle des activites des membres du cluster Semaine du 30 mars au 5 avril 2026",
-            "body": "Activit\u00e9s et faits saillants  \n\\- Une s\u00e9rie de deux ateliers d\u2019orientation sur la surveillance de la mortalit\u00e9 \u00e0 base communautaire ont  \n \u00e9t\u00e9 organis\u00e9s dans les districts sanitaires de Bagasola et de Liwa ;  \n\\- Formation des prestataires de soins sur les interventions psychologiques dont 24 personnes dont (18  \n hommes et 06 femmes) ;  \n\\- Investigation et suivi des cas contacts de la m\u00e9ningite au Camp Aboutengu\u00e9 et \u00e0 Dodorok ;  \n\\- Pr\u00e9l\u00e8vement et acheminement de onze (11) \u00e9chantillons de cas suspects de meningite \u00e0 N\u2019Djamena  \n pour investigation ;  \n\\- Op\u00e9rations de d\u00e9contamination et de d\u00e9mant\u00e8lement s\u00e9curis\u00e9 des tentes et latrines \u00e0 l\u2019UTC de  \n Tr\u00e9guine dans le cadre de la r\u00e9ponse au chol\u00e9ra, \u00e0 poursuivre la semaine prochaine \u00e0 Allacha, Arkoum  \n et Farchana.",
+            "title": "Cluster Sante Tchad: Veille informationnelle des activites - Avril 2026",
+            "body": "Activit\u00e9s et faits saillants  \n\\- Une s\u00e9rie de deux ateliers d\u2019orientation sur la surveillance de la mortalit\u00e9 \u00e0 base communautaire ont  \n\u00e9t\u00e9 organis\u00e9s dans les districts sanitaires de Bagasola et de Liwa ;  \n\\- Formation des prestataires de soins sur les interventions psychologiques dont 24 personnes dont (18  \nhommes et 06 femmes) ;  \n\\- Investigation et suivi des cas contacts de la m\u00e9ningite au Camp Aboutengu\u00e9 et \u00e0 Dodorok ;  \n\\- Pr\u00e9l\u00e8vement et acheminement de onze (11) \u00e9chantillons de cas suspects de meningite \u00e0 N\u2019Djamena  \npour investigation ;  \n\\- Op\u00e9rations de d\u00e9contamination et de d\u00e9mant\u00e8lement s\u00e9curis\u00e9 des tentes et latrines \u00e0 l\u2019UTC de  \nTr\u00e9guine dans le cadre de la r\u00e9ponse au chol\u00e9ra, \u00e0 poursuivre la semaine prochaine \u00e0 Allacha, Arkoum  \net Farchana.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/55",
                 "id": 55,
@@ -1197,7 +1354,7 @@
             "url": "https://reliefweb.int/node/4217698",
             "date": {
                 "original": "2026-06-24T00:00:00+00:00",
-                "changed": "2026-06-24T11:53:19+00:00",
+                "changed": "2026-06-25T14:43:06+00:00",
                 "created": "2026-06-24T11:31:57+00:00"
             }
         },
@@ -1631,127 +1788,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4217569"
-    },
-    {
-        "id": "4217557",
-        "score": 1,
-        "fields": {
-            "title": "IOM Seeks USD 55.8 Million to Prevent Regional Spread of Ebola",
-            "body": "**Geneva, 23 June** **2026**\u2013 The International Organization for Migration (IOM) today launched a six-month Regional Ebola Preparedness and Response Plan seeking USD 55.8 million to strengthen coordinated action across 11 countries following the latest Ebola outbreak in eastern Democratic Republic of the Congo (DRC).\n\nSo far, USD 20 million has been secured, leaving a funding gap of around USD 35 million. The appeal will support preparedness and response measures aimed at stopping further spread of the virus, with particular focus on communities affected by displacement and high levels of cross-border movement.\n\n\u201cThe outbreak is centred on areas where people cross borders every day for trade, work, family visits and access to services,\u201d said Ugochi Daniels, IOM Deputy Director General for Operations. \u201cResponding effectively requires reaching communities affected by conflict, displacement, and insecurity. It requires maintaining surveillance where formal and informal cross-border movements continue. It requires building trust where fear and misinformation have led some communities to question public health interventions.\u201d\n\nIOM has conducted more than one million health screenings at borders and along key cross-border routes and travel corridors across Ebola-affected and at-risk countries, as it scales up its efforts to support the control of an outbreak that has spread across eastern Democratic Republic of the Congo (DRC) and Uganda.\n\nThe outbreak is unfolding in eastern DRC in areas already affected by conflict, displacement and insecurity. As a result, families are facing growing disruption to daily life, including reduced access to markets, workplaces and essential services, while health systems remain under significant strain and struggle to deliver timely response measures.\n\nEffective response therefore requires reaching communities affected by insecurity and displacement, maintaining surveillance at both formal and informal border points, and ensuring access to clear, timely and trusted health information. In some locations, insecurity and attacks on health workers have further disrupted response operations, including case detection and contact tracing.\n\n\u201cOne missed case can change everything,\u201d said Blate David, a National Medical Officer with IOM at Nimule Point of Entry in South Sudan, where teams screen thousands of travellers daily in a highly mobile environment.\n\nCross-border movement remains a central challenge in controlling the outbreak. Maintaining safe mobility while strengthening screening and surveillance systems is essential to reducing the risk of wider spread. At the same time, isolation, quarantine and infection prevention capacities in affected areas require additional support.\n\n*For more information, please visit* [*IOM\u2019s Media Centre*](https://www.iom.int/iom-media-centre)*.*",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217557",
-            "date": {
-                "original": "2026-06-23T00:00:00+00:00",
-                "changed": "2026-06-24T03:08:41+00:00",
-                "created": "2026-06-23T22:03:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217557"
-    },
-    {
-        "id": "4217539",
-        "score": 1,
-        "fields": {
-            "title": "In DRC, misinformation and lack of supplies are making the Ebola outbreak harder to contain - CARE",
-            "body": "CARE has been working in the DRC for over 20 years, and has coordinated with the Ministry of Health since the start of the outbreak. Response efforts are covering 22 health zones where CARE is training local health workers, helping track cases, sharing reliable health information, and distributing hygiene kits containing soap, hand sanitizer, and protective equipment like gloves and gowns.\n\nBocoum says recent [funding cuts,](https://hsph.harvard.edu/news/ebolas-spread-fueled-by-cuts-in-humanitarian-aid/) however, are limiting the work organizations like CARE can provide. In many of these communities, outreach is done \u201cdoor-to-door, family-to-family, using culturally appropriate communication to reach people.\u201d But staffing shortages mean there aren\u2019t enough response teams to reach every area and every family, making early detection, case reporting, and distributing accurate information even harder.\n\nCuts in funding also mean critical items that could help stop the spread of the disease, like gloves and masks, are now in short supply. Lab equipment and testing supplies are also running low.\n\nCARE has had a long-term presence in this area and supported [previous Ebola responses in the DRC](https://www.care.org/our-work/disaster-response/emergencies/ebola-crisis-in-the-democratic-republic-of-congo/), including during the 2018 outbreak in North Kivu. Bocoum believes that CARE\u2019s commitment to the community has created trust.\n\n\u201cPeople believe in the prevention messages we are passing and feel safe acting on them. Because of that trust, we address the rumors and fake news using culturally appropriate communication through channels such as community dialogue, radio, mobile outreach, and local leaders to get verified information into remote and conflict-affected areas.\u201d\n\nAs of publication, CARE\u2019s response is covering around 220,000 people across Ituri, North Kivu, and South Kivu provinces. Adequate funding will help the response reach 1 million people through the distribution of hygiene kits to 20,000 households, expanded communication efforts, community engagement actions to improve awareness of early warning signs, and stronger support for local health facilities.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1457",
-                    "id": 1457,
-                    "name": "CARE",
-                    "shortname": "CARE",
-                    "longname": "CARE International",
-                    "homepage": "https://www.care-international.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217539",
-            "date": {
-                "original": "2026-06-23T00:00:00+00:00",
-                "changed": "2026-06-24T10:54:36+00:00",
-                "created": "2026-06-23T18:03:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217539"
-    },
-    {
-        "id": "4217536",
-        "score": 1,
-        "fields": {
-            "title": "L\u2019OIM lance un appel de 55,8 millions de dollars pour pr\u00e9venir la propagation r\u00e9gionale d\u2019Ebola",
-            "body": "**Gen\u00e8ve, 23 juin 2026** \u2013 L\u2019Organisation internationale pour les migrations (OIM) a lanc\u00e9 aujourd\u2019hui un plan r\u00e9gional de pr\u00e9paration et de riposte \u00e0 Ebola sur six mois, visant \u00e0 mobiliser 55,8 millions de dollars afin de renforcer la coordination des interventions dans 11 pays, \u00e0 la suite de la derni\u00e8re flamb\u00e9e d\u2019Ebola dans l\u2019est de la R\u00e9publique d\u00e9mocratique du Congo (RDC).\n\n\u00c0 ce jour, 20 millions de dollars ont \u00e9t\u00e9 obtenus, laissant un d\u00e9ficit de financement d\u2019environ 35 millions de dollars. Cet appel soutiendra des mesures de pr\u00e9paration et de riposte destin\u00e9es \u00e0 stopper la propagation du virus, en mettant particuli\u00e8rement l\u2019accent sur les populations affect\u00e9es par les d\u00e9placements et les niveaux \u00e9lev\u00e9s de mobilit\u00e9 transfrontali\u00e8re, conform\u00e9ment \u00e0 l\u2019approche inclusive de l\u2019OIM envers les personnes en situation de mobilit\u00e9.\n\n\u00ab L\u2019\u00e9pid\u00e9mie est centr\u00e9e dans des zones o\u00f9 les populations traversent quotidiennement les fronti\u00e8res pour le commerce, le travail, les visites familiales et l\u2019acc\u00e8s aux services \u00bb, a d\u00e9clar\u00e9 Ugochi Daniels, Directrice g\u00e9n\u00e9rale adjointe de l\u2019OIM pour les op\u00e9rations. \u00ab Une r\u00e9ponse efficace exige d\u2019atteindre les communaut\u00e9s touch\u00e9es par les conflits, les d\u00e9placements et l\u2019ins\u00e9curit\u00e9. Elle suppose \u00e9galement le maintien de la surveillance l\u00e0 o\u00f9 les mouvements transfrontaliers formels et informels se poursuivent. Elle requiert enfin d\u2019instaurer la confiance dans des contextes o\u00f9 la peur et la d\u00e9sinformation ont conduit certaines communaut\u00e9s \u00e0 remettre en question les interventions de sant\u00e9 publique. \u00bb\n\nL\u2019OIM a r\u00e9alis\u00e9 plus d\u2019un million de contr\u00f4les sanitaires aux points d\u2019entr\u00e9e et le long des principaux corridors transfrontaliers dans les pays touch\u00e9s ou \u00e0 risque, tout en intensifiant ses efforts pour contribuer \u00e0 ma\u00eetriser une \u00e9pid\u00e9mie qui s\u2019est propag\u00e9e dans l\u2019est de la R\u00e9publique d\u00e9mocratique du Congo (RDC) et en Ouganda.\n\nLa flamb\u00e9e se d\u00e9veloppe dans l\u2019est de la RDC, dans des zones d\u00e9j\u00e0 affect\u00e9es par les conflits, les d\u00e9placements et l\u2019ins\u00e9curit\u00e9. En cons\u00e9quence, les populations concern\u00e9es font face \u00e0 des perturbations croissantes de la vie quotidienne, notamment un acc\u00e8s r\u00e9duit aux march\u00e9s, aux moyens de subsistance et aux services essentiels, tandis que les syst\u00e8mes de sant\u00e9 restent fortement sous pression et peinent \u00e0 assurer une riposte rapide.\n\nUne r\u00e9ponse efficace n\u00e9cessite donc d\u2019atteindre les communaut\u00e9s touch\u00e9es par l\u2019ins\u00e9curit\u00e9 et les d\u00e9placements, de maintenir la surveillance aux points d\u2019entr\u00e9e formels et informels, et de garantir l\u2019acc\u00e8s \u00e0 une information sanitaire claire, pr\u00e9cise et fiable. Dans certaines zones, l\u2019ins\u00e9curit\u00e9 et les attaques contre le personnel de sant\u00e9 ont encore perturb\u00e9 les op\u00e9rations de riposte, notamment la d\u00e9tection des cas et le suivi des contacts.\n\n\u00ab Un seul cas non d\u00e9tect\u00e9 peut tout changer \u00bb, a d\u00e9clar\u00e9 Blate David, agent m\u00e9dical national de l\u2019OIM au point d\u2019entr\u00e9e de Nimule, au Soudan du Sud, o\u00f9 les \u00e9quipes contr\u00f4lent quotidiennement des milliers de voyageurs dans un contexte de forte mobilit\u00e9.\n\nLes mouvements transfrontaliers restent un d\u00e9fi central pour contenir l\u2019\u00e9pid\u00e9mie. Assurer une mobilit\u00e9 s\u00fbre tout en renfor\u00e7ant les syst\u00e8mes de d\u00e9pistage et de surveillance est essentiel pour r\u00e9duire le risque de propagation, en coh\u00e9rence avec les approches de migration s\u00fbre et ordonn\u00e9e promues par l\u2019OIM. Dans le m\u00eame temps, les capacit\u00e9s d\u2019isolement, de quarantaine et de pr\u00e9vention et contr\u00f4le des infections dans les zones touch\u00e9es n\u00e9cessitent un soutien suppl\u00e9mentaire.\n\n*Pour plus d'informations, veuillez consulter le [Centre m\u00e9dias de l'OIM](https://www.iom.int/fr/centre-des-medias-de-loim).*",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217536",
-            "date": {
-                "original": "2026-06-23T00:00:00+00:00",
-                "changed": "2026-06-24T03:09:21+00:00",
-                "created": "2026-06-23T17:03:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217536"
     }
 ]
