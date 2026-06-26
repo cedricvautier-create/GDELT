@@ -1,9 +1,115 @@
 [
     {
+        "id": "4218036",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo | Ituri : Bulletin d\u2019information n\u00b0 1 sur la maladie \u00e0 Virus Ebola (MVE) dans les sites de personnes d\u00e9plac\u00e9es en Ituri (24 juin 2026)",
+            "body": "**R\u00e9sum\u00e9 de la situation**\n\nLa province de l\u2019Ituri fait face \u00e0 une situation sanitaire et humanitaire pr\u00e9occupante li\u00e9e \u00e0 la maladie \u00e0 virus Ebola. Sur 107 sites de personnes d\u00e9plac\u00e9es internes, 69 b\u00e9n\u00e9ficient d\u2019un accompagnement dans le cadre du m\u00e9canisme CCCM, tandis que plusieurs autres ne disposent actuellement d\u2019aucun appui r\u00e9gulier en gestion de site. La pr\u00e9sence de d\u00e9c\u00e8s suspects et de cas confirm\u00e9s augmente le risque de propagation, particuli\u00e8rement dans les sites confront\u00e9s \u00e0 des lacunes importantes en WASH, notamment l\u2019acc\u00e8s limit\u00e9 \u00e0 l\u2019eau potable, l\u2019insuffisance des latrines et la mauvaise gestion des d\u00e9chets. Les r\u00e9ticences communautaires, la d\u00e9sinformation et le recours \u00e0 la m\u00e9decine traditionnelle compliquent \u00e9galement la d\u00e9tection pr\u00e9coce et la r\u00e9ponse. Une action multisectorielle renforc\u00e9e, int\u00e9grant la Sant\u00e9, le WASH, le CCCM et l\u2019engagement communautaire, demeure essentielle pour contenir la situation.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9677",
+                    "id": 9677,
+                    "name": "CCCM Cluster",
+                    "shortname": "CCCM Cluster",
+                    "longname": "Camp Coordination and Camp Management Cluster",
+                    "homepage": "https://www.cccmcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218036",
+            "date": {
+                "original": "2026-06-26T00:00:00+00:00",
+                "changed": "2026-06-26T00:03:50+00:00",
+                "created": "2026-06-26T00:00:20+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218036"
+    },
+    {
+        "id": "4218032",
+        "score": 1,
+        "fields": {
+            "title": "Ebola Outbreak, DRC and Region, Situation Report #8, June 24, 2026",
+            "body": "**FAST FACTS**\n\n- On May 15, the DRC officially declared an outbreak of Ebola virus disease (EVD), later to be confirmed as the Bundibugyo strain.\n- As of June 23, 1,094 confirmed cases and 277 confirmed deaths had been reported in the DRC, with 20 confirmed cases and two confirmed deaths in Uganda.\n- In the DRC, where the outbreak remains centered in Ituri province, cases have also been confirmed in North Kivu and South Kivu.\n- In Uganda, reported cases remain linked to transmission originating in the DRC, including imported cases and secondary infections among contacts and healthcare workers.\n- In South Sudan, no cases have yet been confirmed, but risk of an outbreak remains high due to transient populations and porous borders with the DRC.\n\n**OUR RESPONSE**\n\n- Across the region, our teams are providing case management, infection prevention and control (IPC), screening and triage, risk communication and community engagement, training and preparedness planning.\n- We are supporting 71 facilities in the screening, identification and treatment of EVD.\n- Our supported sites have conducted 23,572 screenings and provided treatment to 225 patients, including 74 confirmed cases.\n- We have so far trained 354 people on case management, response and transmission prevention.\n\nWith the support of the US Department of State, DG ECHO and other donors, International Medical Corps teams are actively responding to the outbreak and engaging with ministries of health, key actors and response partners. International Medical Corps, which is active in more than 70 health facilities across the region, has used a hub-and-spoke model since the outbreak was declared to provide case-management support at designated treatment and transit facilities, strengthen IPC in referring health facilities, conduct screening and triage, support risk communication and community engagement in surrounding communities and train health workers on EVD response protocols.\n\nAcross all operational areas, International Medical Corps is coordinating closely with the Ministry of Health and relevant partners to support case management, screening-and-referral units, facility-based surveillance, mental health and psychosocial support, IPC, logistics, just-in-time training, continuity of essential health services, and water, sanitation and hygiene services. International Medical Corps is part of broader efforts to strengthen contact tracing, helping to strengthen mapping, daily monitoring and follow-up activities to address the risk of undetected transmission across operational areas and beyond.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2019",
+                    "id": 2019,
+                    "name": "International Medical Corps",
+                    "shortname": "IMC",
+                    "longname": "International Medical Corps",
+                    "homepage": "https://internationalmedicalcorps.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218032",
+            "date": {
+                "original": "2026-06-24T00:00:00+00:00",
+                "changed": "2026-06-26T01:07:13+00:00",
+                "created": "2026-06-25T23:45:47+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218032"
+    },
+    {
         "id": "4218012",
         "score": 1,
         "fields": {
-            "title": "Compte rendu de la r\u00e9union mensuelle du Cluster Education du mois de mai 2026",
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Compte rendu de la r\u00e9union mensuelle du Cluster Education du mois de mai 2026 [Meeting Minutes]",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -56,8 +162,8 @@
             ],
             "url": "https://reliefweb.int/node/4218012",
             "date": {
-                "original": "2026-06-25T00:00:00+00:00",
-                "changed": "2026-06-25T19:27:17+00:00",
+                "original": "2026-05-28T00:00:00+00:00",
+                "changed": "2026-06-26T01:02:49+00:00",
                 "created": "2026-06-25T19:16:21+00:00"
             }
         },
@@ -91,12 +197,25 @@
                         "id": 272,
                         "name": "International Organization"
                     }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
                 }
             ],
             "url": "https://reliefweb.int/node/4218011",
             "date": {
                 "original": "2026-06-25T00:00:00+00:00",
-                "changed": "2026-06-25T18:52:05+00:00",
+                "changed": "2026-06-26T00:56:09+00:00",
                 "created": "2026-06-25T18:51:47+00:00"
             }
         },
@@ -149,8 +268,8 @@
             ],
             "url": "https://reliefweb.int/node/4217985",
             "date": {
-                "original": "2026-06-25T00:00:00+00:00",
-                "changed": "2026-06-25T15:20:44+00:00",
+                "original": "2026-05-29T00:00:00+00:00",
+                "changed": "2026-06-26T00:40:21+00:00",
                 "created": "2026-06-25T15:13:04+00:00"
             }
         },
@@ -1099,7 +1218,8 @@
         "id": "4217761",
         "score": 1,
         "fields": {
-            "title": "DR Congo Anticipatory Action Framework: Cholera - 2026",
+            "title": "Cadre d\u2019action anticipatoire I R\u00e9publique d\u00e9mocratique du Congo : chol\u00e9ra (Version revis\u00e9e du 10 juin 2026)",
+            "body": "**1.R\u00e9sum\u00e9**\n\nL'objectif de ce cadre est d\u2019att\u00e9nuer l\u2019ampleur et l\u2019impact de flamb\u00e9es de chol\u00e9ra \u00e0 grande \u00e9chelle en R\u00e9publique d\u00e9mocratique du Congo (RDC). Le cadre a \u00e9t\u00e9 approuv\u00e9 pour la premi\u00e8re fois par le coordinateur des secours d\u2019urgence (ERC) en d\u00e9cembre 2022 pour une p\u00e9riode de deux ans, et a \u00e9t\u00e9 prolong\u00e9 en 2025. Le cadre a \u00e9t\u00e9 activ\u00e9 deux fois en 2023, trois fois en 2025 et une fois en 2026, g\u00e9n\u00e9rant des enseignements qui ont aliment\u00e9 la r\u00e9vision du pr\u00e9sent cadre.\n\nLe cadre a \u00e9t\u00e9 \u00e9labor\u00e9 conjointement par le Programme national pour l\u2019\u00e9limination du chol\u00e9ra et la lutte contre les autres maladies diarrh\u00e9iques (PNECHOL-MD), l\u2019UNICEF, l\u2019OMS et OCHA.\n\nLe cadre envisage deux sc\u00e9narios distincts, chacun d'entre eux pouvant d\u00e9clencher le cadre ind\u00e9pendamment :\n\n\u2022 Sc\u00e9nario 1 : Risque accru d'une grande \u00e9pid\u00e9mie de chol\u00e9ra dans les provinces o\u00f9 la maladie est persistante ou la transmission continue de la maladie, c\u2019est-\u00e0-dire les provinces de Nord-Kivu, SudKivu, Tanganyika, Haut Lomami et Haut Katanga (ci-apr\u00e8s \u00ab provinces end\u00e9miques \u00bb).\n\n\u2022 Sc\u00e9nario 2 : Risque accru d'une grande \u00e9pid\u00e9mie de chol\u00e9ra dans le reste du pays (ci-apr\u00e8s \u00ab provinces non end\u00e9miques \u00bb).\n\nPour les deux sc\u00e9narios, le niveau de risque est mesur\u00e9 par un suivi continu du nombre de cas suspects de chol\u00e9ra. Si l\u2019indicateur d\u00e9passe un seuil pr\u00e9d\u00e9termin\u00e9 sur une p\u00e9riode de trois semaines dans une zone de sant\u00e9 donn\u00e9e, le cadre sera activ\u00e9.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -1130,7 +1250,7 @@
             "url": "https://reliefweb.int/node/4217761",
             "date": {
                 "original": "2026-06-24T00:00:00+00:00",
-                "changed": "2026-06-24T15:03:01+00:00",
+                "changed": "2026-06-26T00:36:27+00:00",
                 "created": "2026-06-24T15:02:38+00:00"
             }
         },
@@ -1313,7 +1433,7 @@
         "score": 1,
         "fields": {
             "title": "Cluster Sante Tchad: Veille informationnelle des activites - Avril 2026",
-            "body": "Activit\u00e9s et faits saillants  \n\\- Une s\u00e9rie de deux ateliers d\u2019orientation sur la surveillance de la mortalit\u00e9 \u00e0 base communautaire ont  \n\u00e9t\u00e9 organis\u00e9s dans les districts sanitaires de Bagasola et de Liwa ;  \n\\- Formation des prestataires de soins sur les interventions psychologiques dont 24 personnes dont (18  \nhommes et 06 femmes) ;  \n\\- Investigation et suivi des cas contacts de la m\u00e9ningite au Camp Aboutengu\u00e9 et \u00e0 Dodorok ;  \n\\- Pr\u00e9l\u00e8vement et acheminement de onze (11) \u00e9chantillons de cas suspects de meningite \u00e0 N\u2019Djamena  \npour investigation ;  \n\\- Op\u00e9rations de d\u00e9contamination et de d\u00e9mant\u00e8lement s\u00e9curis\u00e9 des tentes et latrines \u00e0 l\u2019UTC de  \nTr\u00e9guine dans le cadre de la r\u00e9ponse au chol\u00e9ra, \u00e0 poursuivre la semaine prochaine \u00e0 Allacha, Arkoum  \net Farchana.",
+            "body": "Activit\u00e9s et faits saillants  \n\\- Une s\u00e9rie de deux ateliers d\u2019orientation sur la surveillance de la mortalit\u00e9 \u00e0 base communautaire ont  \n \u00e9t\u00e9 organis\u00e9s dans les districts sanitaires de Bagasola et de Liwa ;  \n\\- Formation des prestataires de soins sur les interventions psychologiques dont 24 personnes dont (18  \n hommes et 06 femmes) ;  \n\\- Investigation et suivi des cas contacts de la m\u00e9ningite au Camp Aboutengu\u00e9 et \u00e0 Dodorok ;  \n\\- Pr\u00e9l\u00e8vement et acheminement de onze (11) \u00e9chantillons de cas suspects de meningite \u00e0 N\u2019Djamena  \n pour investigation ;  \n\\- Op\u00e9rations de d\u00e9contamination et de d\u00e9mant\u00e8lement s\u00e9curis\u00e9 des tentes et latrines \u00e0 l\u2019UTC de  \n Tr\u00e9guine dans le cadre de la r\u00e9ponse au chol\u00e9ra, \u00e0 poursuivre la semaine prochaine \u00e0 Allacha, Arkoum  \n et Farchana.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/55",
                 "id": 55,
@@ -1354,7 +1474,7 @@
             "url": "https://reliefweb.int/node/4217698",
             "date": {
                 "original": "2026-06-24T00:00:00+00:00",
-                "changed": "2026-06-25T14:43:06+00:00",
+                "changed": "2026-06-26T00:22:45+00:00",
                 "created": "2026-06-24T11:31:57+00:00"
             }
         },
@@ -1707,86 +1827,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4217613"
-    },
-    {
-        "id": "4217611",
-        "score": 1,
-        "fields": {
-            "title": "UNFPA Cameroon Situation Report: Humanitarian Crisis (1 - 31 May 2026)",
-            "body": "Cameroon continues to face a volatile humanitarian environment, with persistent insecurity in the North-West, South-West, and Far North regions, driving displacement and heightening protection risks. This environment is heavily dominated by the activities of non-state armed groups (NSAGs) and high levels of criminality, leading to direct clashes between NSAGs and state security forces. This has led to kidnappings, sexual violence, and looting, underscoring the vulnerability of communities already under severe humanitarian pressure. More than 2.9 million people remain in need of urgent assistance, with women, children, and marginalized groups most affected.  \n  \nIn May 2026, UNFPA supported 33 midwives to be deployed across 22 health facilities, providing critical sexual and reproductive health (SRH) services to 11,697 people, including assisted deliveries, emergency Caesarean sections, family planning, and care for sexually transmitted infections. Concurrently, UNFPA reached 5,259 individuals through gender-based violence (GBV) prevention and support initiatives, which encompassed psychosocial support, case management, life skills development in safe spaces, and the distribution of 225 dignity kits to vulnerable women and girls.  \n  \nFor 2026, UNFPA requires US $4,013,060 to implement critical reproductive health and protection services in Cameroon. As of May, UNFPA has secured US$1,944,046. Despite a 50 per cent funding gap, UNFPA continues to serve as a stabilizing force for women and girls in conflict-affected communities.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1070",
-                    "id": 1070,
-                    "name": "United Nations Population Fund",
-                    "shortname": "UNFPA",
-                    "longname": "United Nations Population Fund",
-                    "spanish_name": "Fondo de Poblaci\u00f3n de las Naciones Unidas",
-                    "homepage": "https://www.unfpa.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217611",
-            "date": {
-                "original": "2026-06-24T00:00:00+00:00",
-                "changed": "2026-06-24T03:23:41+00:00",
-                "created": "2026-06-24T03:23:08+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217611"
-    },
-    {
-        "id": "4217569",
-        "score": 1,
-        "fields": {
-            "title": "Cameroun: Suivi des urgences - Mouvements de populations - Synth\u00e8se des d\u00e9placements dans le d\u00e9partement du Mayo-Danay, Tableau de bord #145 (18-22 juin 2026) | Date de publication : 23 juin 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217569",
-            "date": {
-                "original": "2026-06-23T00:00:00+00:00",
-                "changed": "2026-06-24T03:23:42+00:00",
-                "created": "2026-06-23T23:33:20+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217569"
     }
 ]
