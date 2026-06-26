@@ -1,5 +1,109 @@
 [
     {
+        "id": "4218096",
+        "score": 1,
+        "fields": {
+            "title": "Compte rendu de la r\u00e9union mensuelle du Cluster Education du mois d\u2019Avril 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218096",
+            "date": {
+                "original": "2026-06-26T00:00:00+00:00",
+                "changed": "2026-06-26T09:13:38+00:00",
+                "created": "2026-06-26T09:07:42+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218096"
+    },
+    {
+        "id": "4218055",
+        "score": 1,
+        "fields": {
+            "title": "Suivi de la situation humanitaire - Fiche d\u2019information des Zone de sant\u00e9 (ZS) de Bambu, Drodro, Fataki, Komanda, Mambasa, Mandima et Nia Nia Territoire de Djugu, Irumu et Mambasa Province d'Ituri, R\u00e9publique D\u00e9mocratique du Congo - Avril 2026",
+            "body": "**CONTEXTE**\n\nLa province de l\u2019Ituri continue de faire face \u00e0 une situation humanitaire complexe marqu\u00e9e par la pr\u00e9sence de nombreux groupes arm\u00e9s, des tensions intercommunautaires persistantes, des \u00e9pid\u00e9mies r\u00e9currentes, ainsi qu\u2019une pauvret\u00e9 chronique. Depuis la fin de l\u2019ann\u00e9e 2025, une recrudescence des affrontements arm\u00e9s, particuli\u00e8rement dans le territoire de Djugu, a entra\u00een\u00e9 de nouveaux d\u00e9placements de population, aggravant les vuln\u00e9rabilit\u00e9s existantes et limitant davantage l\u2019acc\u00e8s des populations aux services essentiels. Les violences ont \u00e9galement perturb\u00e9 l\u2019acc\u00e8s aux services de sant\u00e9, \u00e0 l\u2019\u00e9ducation et \u00e0 l\u2019assistance humanitaire dans plusieurs zones de la province. Selon OCHA, plus de 920 000 personnes d\u00e9plac\u00e9es \u00e9taient recens\u00e9es en Ituri en 2026, dont plus de 100 000 nouveaux d\u00e9plac\u00e9s au cours du premier trimestre de l\u2019ann\u00e9e.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218055",
+            "date": {
+                "original": "2026-06-26T00:00:00+00:00",
+                "changed": "2026-06-26T05:12:48+00:00",
+                "created": "2026-06-26T03:42:40+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218055"
+    },
+    {
         "id": "4218036",
         "score": 1,
         "fields": {
@@ -1735,97 +1839,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4217672"
-    },
-    {
-        "id": "4217622",
-        "score": 1,
-        "fields": {
-            "title": "Compte Rendu de la R\u00e9union de Coordination sur la r\u00e9ponse logistique dans la riposte \u00e0 la Maladie \u00e0 Virus Ebola COUSP et Cluster Logistique, 17 juin 2026 R\u00e9publique D\u00e9mocratique du Congo, Kinshasa",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3594",
-                    "id": 3594,
-                    "name": "Logistics Cluster",
-                    "shortname": "Logistics Cluster",
-                    "homepage": "https://www.logcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217622",
-            "date": {
-                "original": "2026-06-17T00:00:00+00:00",
-                "changed": "2026-06-24T07:11:19+00:00",
-                "created": "2026-06-24T06:40:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217622"
-    },
-    {
-        "id": "4217613",
-        "score": 1,
-        "fields": {
-            "title": "UNFPA Ebola Outbreak - Democratic Republic of the Congo Appeal (June - November 2026)",
-            "body": "The Democratic Republic of the Congo (DRC) is facing a rapidly evolving Ebola outbreak affecting Ituri Province and neighbouring areas of North and South Kivu. The outbreak is unfolding in a highly complex context marked by persistent armed conflict, large-scale population displacement, attacks on health facilities, and severe constraints on humanitarian access.\n\nAn estimated 7.7 million people are affected by the outbreak and its secondary impacts on health systems and essential services. Women, girls, and newborns are among the most vulnerable. Disruptions to maternal health services increase the risk of preventable maternal and neonatal mortality, while frontline health workers face heightened exposure to infection. At the same time, weakened community protection mechanisms are increasing the risk of gender-based violence (GBV) for women and girls.\n\nIn response, UNFPA will support national and provincial authorities to sustain access to essential sexual and reproductive health services, including maternal and newborn care, family planning, emergency obstetric services, and the clinical management of rape. These efforts will be complemented by strengthened infection prevention and control measures in health facilities and communities in Ebola-affected areas.\n\nTo address escalating protection concerns, UNFPA will reinforce GBV prevention and response systems by adapting service delivery modalities to ensure continued access to psychosocial support, case management, women\u2019s and girls\u2019 safe spaces, and community-based protection services. UNFPA will also strengthen protection from sexual exploitation and abuse mechanisms and support community awareness-raising on available reporting channels and survivor-centred services.\n\nUNFPA is urgently appealing for US$17.1 million to deliver life-saving sexual and reproductive health services, GBV prevention and response interventions, protection from sexual exploitation and abuse, and risk communication and community engagement activities in support of the national Ebola response. To date, only 9 per cent of the appeal has been funded. Rapid and flexible funding is critical to prevent excess maternal and neonatal mortality, strengthen community resilience, and contribute to containing the outbreak before it escalates further.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1070",
-                    "id": 1070,
-                    "name": "United Nations Population Fund",
-                    "shortname": "UNFPA",
-                    "longname": "United Nations Population Fund",
-                    "spanish_name": "Fondo de Poblaci\u00f3n de las Naciones Unidas",
-                    "homepage": "https://www.unfpa.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217613",
-            "date": {
-                "original": "2026-06-24T00:00:00+00:00",
-                "changed": "2026-06-24T03:36:07+00:00",
-                "created": "2026-06-24T03:35:41+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217613"
     }
 ]
