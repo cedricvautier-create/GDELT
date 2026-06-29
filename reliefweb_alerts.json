@@ -1,5 +1,98 @@
 [
     {
+        "id": "4218487",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo _ Sud-Kivu: calendrier des r\u00e9unions Bukavu (juillet 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218487",
+            "date": {
+                "original": "2026-06-29T00:00:00+00:00",
+                "changed": "2026-06-29T18:19:49+00:00",
+                "created": "2026-06-29T18:16:44+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218487"
+    },
+    {
+        "id": "4218467",
+        "score": 1,
+        "fields": {
+            "title": "CLUSTER SANTE RDCONGO-PRESENCE OPERATIONNELLE DES PARTENAIRES DE LA REPONSE EBOLA AU 27 JUIN 2026",
+            "body": "Au 27 juin, le Cluster Sant\u00e9 de la R\u00e9publique D\u00e9mocratique du Congo avait recens\u00e9 83 acteurs humanitaires actifs ayant fourni des informations pour le 3W.\n\nParmi eux : 04 agences des Nations Unies, 28 ONG internationales, 47 ONG nationales, 02 observateurs, et 02 partenaires \u00e9tatiques\n\nUne dynamique qui illustre l\u2019engagement de certains acteurs dans le processus de collecte et de partage d\u2019informations.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218467",
+            "date": {
+                "original": "2026-06-29T00:00:00+00:00",
+                "changed": "2026-06-29T16:02:48+00:00",
+                "created": "2026-06-29T15:59:32+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218467"
+    },
+    {
         "id": "4218427",
         "score": 1,
         "fields": {
@@ -1739,88 +1832,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4217796"
-    },
-    {
-        "id": "4217788",
-        "score": 1,
-        "fields": {
-            "title": "Construir confianza es clave para detener el brote de \u00e9bola en la Rep\u00fablica Democr\u00e1tica del Congo, dice la IFRC",
-            "body": "**Bunia/Nairobi/Ginebra, 18 de junio de 2026** - Generar confianza entre las comunidades es la herramienta m\u00e1s eficaz para detener el brote de \u00e9bola que se est\u00e1 produciendo en la Rep\u00fablica Democr\u00e1tica del Congo (RDC), seg\u00fan un nuevo informe de opiniones comunitarias elaborado por la Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (IFRC).\n\nMientras las y los voluntarios de la Cruz Roja colaboran con las autoridades sanitarias para contener el brote causado por la cepa Bundibugyo del virus del \u00c9bola, las opiniones de la comunidad revelan que el miedo, la desinformaci\u00f3n y la desconfianza siguen siendo obst\u00e1culos importantes para salvar vidas.\n\n*\"No hay atajos para poner fin a un brote de \u00e9bola\"*, afirm\u00f3 Bruno Michon, director de operaciones para el brote de \u00e9bola. *\"Las comunidades necesitan informaci\u00f3n confiable, oportunidades para plantear preguntas y una participaci\u00f3n genuina. Las personas son m\u00e1s propensas a buscar atenci\u00f3n m\u00e9dica, notificar s\u00edntomas y aceptar las medidas de salud p\u00fablica cuando se sienten escuchadas y respetadas\".*\n\nA trav\u00e9s de los comentarios de la comunidad recopilados durante visitas puerta a puerta, debates en grupos focales y actividades de participaci\u00f3n comunitaria, los equipos locales de la Cruz Roja escuchan las preocupaciones y adaptan su respuesta en consecuencia.\n\nLos comentarios de las comunidades de las zonas afectadas revelan que muchas personas siguen cuestionando la existencia de la enfermedad o ven la respuesta con recelo. En las redes sociales circulan rumores que afirman que los remedios a base de hierbas pueden prevenir el \u00e9bola, mientras que otros sostienen que el brote es una estrategia comercial dise\u00f1ada para atraer financiaci\u00f3n internacional.\n\nEn algunas comunidades, los centros de tratamiento se perciben como lugares \u00abdonde la gente va a morir\u00bb, lo que alimenta la resistencia a las derivaciones y, en algunos casos, la violencia contra el personal de respuesta. El voluntariado de la Cruz Roja ha denunciado insultos, agresiones f\u00edsicas y un estigma cada vez mayor relacionado con su trabajo.\n\nLos comentarios tambi\u00e9n revelan la preocupaci\u00f3n por entierros seguros y dignos, ya que algunas familias rechazan los protocolos funerarios porque entran en conflicto con las pr\u00e1cticas tradicionales o porque no comprenden del todo los riesgos que plantea el \u00e9bola tras la muerte.\n\n*\"No podemos hacer caso omiso de estas preocupaciones\"*, a\u00f1adi\u00f3 Bruno Michon. *\"Cuando la gente cuestiona la respuesta, es nuestra responsabilidad escuchar y explicar. Cada rumor es una oportunidad para el di\u00e1logo\".*\n\nEscuchar a las comunidades ya est\u00e1 contribuyendo a dar forma a la respuesta.\n\nCuando la poblaci\u00f3n expres\u00f3 su temor a que se estuvieran utilizando cloro y desinfectantes para envenenar a la gente, las personas voluntarias comenzaron a mostrar c\u00f3mo se preparan estos productos y a explicar su funci\u00f3n en la prevenci\u00f3n de infecciones.\n\nLa respuesta tambi\u00e9n consiste en colaborar con sobrevivientes del \u00e9bola y liderazgos comunitarios de confianza para compartir experiencias de primera mano y proporcionar informaci\u00f3n confiable sobre la enfermedad. Las personas sobrevivientes est\u00e1n ayudando a demostrar que acudir al m\u00e9dico cuanto antes puede mejorar significativamente las posibilidades de supervivencia.\n\nLa lecci\u00f3n que se extrae de cada brote de \u00e9bola es clara. Las comunidades no son solo beneficiarias de la respuesta, sino socios activos en ella. La \u00fanica forma sostenible de detener el \u00e9bola es generando confianza, escuchando a las personas y garantizando que las comunidades participen en la toma de las decisiones que afectan a sus vidas.\n\nLa red de la IFRC sigue apoyando la participaci\u00f3n comunitaria, la comunicaci\u00f3n de riesgos, la vigilancia, la prevenci\u00f3n y el control de infecciones, as\u00ed como los entierros seguros y dignos, como parte de un esfuerzo m\u00e1s amplio por contener el brote y proteger vidas.\n\n**Para m\u00e1s informaci\u00f3n o para solicitar una entrevista, p\u00f3ngase en contacto con:** [**\\[email protected\\]**](https://www.ifrc.org/cdn-cgi/l/email-protection#167b73727f77567f70647538796471)\n\n**En Bunia:** Alex Lock, +243 859 795 302\n\n**En Nairobi:** Cate Kamatu, +254 728 815266\n\n**En Ginebra:** Tommaso Della Longa +41 79 708 4367 | Paolo Cravero +41 79 894 8396",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217788",
-            "date": {
-                "original": "2026-06-18T00:00:00+00:00",
-                "changed": "2026-06-25T00:37:38+00:00",
-                "created": "2026-06-24T18:33:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217788"
-    },
-    {
-        "id": "4217761",
-        "score": 1,
-        "fields": {
-            "title": "Cadre d\u2019action anticipatoire I R\u00e9publique d\u00e9mocratique du Congo : chol\u00e9ra (Version revis\u00e9e du 10 juin 2026)",
-            "body": "**1.R\u00e9sum\u00e9**\n\nL'objectif de ce cadre est d\u2019att\u00e9nuer l\u2019ampleur et l\u2019impact de flamb\u00e9es de chol\u00e9ra \u00e0 grande \u00e9chelle en R\u00e9publique d\u00e9mocratique du Congo (RDC). Le cadre a \u00e9t\u00e9 approuv\u00e9 pour la premi\u00e8re fois par le coordinateur des secours d\u2019urgence (ERC) en d\u00e9cembre 2022 pour une p\u00e9riode de deux ans, et a \u00e9t\u00e9 prolong\u00e9 en 2025. Le cadre a \u00e9t\u00e9 activ\u00e9 deux fois en 2023, trois fois en 2025 et une fois en 2026, g\u00e9n\u00e9rant des enseignements qui ont aliment\u00e9 la r\u00e9vision du pr\u00e9sent cadre.\n\nLe cadre a \u00e9t\u00e9 \u00e9labor\u00e9 conjointement par le Programme national pour l\u2019\u00e9limination du chol\u00e9ra et la lutte contre les autres maladies diarrh\u00e9iques (PNECHOL-MD), l\u2019UNICEF, l\u2019OMS et OCHA.\n\nLe cadre envisage deux sc\u00e9narios distincts, chacun d'entre eux pouvant d\u00e9clencher le cadre ind\u00e9pendamment :\n\n\u2022 Sc\u00e9nario 1 : Risque accru d'une grande \u00e9pid\u00e9mie de chol\u00e9ra dans les provinces o\u00f9 la maladie est persistante ou la transmission continue de la maladie, c\u2019est-\u00e0-dire les provinces de Nord-Kivu, SudKivu, Tanganyika, Haut Lomami et Haut Katanga (ci-apr\u00e8s \u00ab provinces end\u00e9miques \u00bb).\n\n\u2022 Sc\u00e9nario 2 : Risque accru d'une grande \u00e9pid\u00e9mie de chol\u00e9ra dans le reste du pays (ci-apr\u00e8s \u00ab provinces non end\u00e9miques \u00bb).\n\nPour les deux sc\u00e9narios, le niveau de risque est mesur\u00e9 par un suivi continu du nombre de cas suspects de chol\u00e9ra. Si l\u2019indicateur d\u00e9passe un seuil pr\u00e9d\u00e9termin\u00e9 sur une p\u00e9riode de trois semaines dans une zone de sant\u00e9 donn\u00e9e, le cadre sera activ\u00e9.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217761",
-            "date": {
-                "original": "2026-06-24T00:00:00+00:00",
-                "changed": "2026-06-26T00:36:27+00:00",
-                "created": "2026-06-24T15:02:38+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217761"
     }
 ]
