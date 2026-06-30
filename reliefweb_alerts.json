@@ -1,10 +1,214 @@
 [
     {
+        "id": "4218640",
+        "score": 1,
+        "fields": {
+            "title": "Ebola Bundibugyo virus disease outbreak: Democratic Republic of the Congo | Uganda Weekly External Situation Report 07, Data as of 28 June 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218640",
+            "date": {
+                "original": "2026-06-30T00:00:00+00:00",
+                "changed": "2026-06-30T13:16:28+00:00",
+                "created": "2026-06-30T13:03:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218640"
+    },
+    {
+        "id": "4218637",
+        "score": 1,
+        "fields": {
+            "title": "Rapid Socioeconomic Assessment of Ebola Outbreak in the DRC",
+            "body": "## **Ebola Outbreak Could Push Nearly One Million More People into Poverty and Cost Africa Billions, warns UN Development Programme**\n\n**New UNDP analysis shows Ebola extends beyond a health emergency. It is also a development and economic crisis triggering severe socioeconomic shocks, particularly for women**\n\nNEW YORK/KINSHASA, 30 June 2026\u2014 A new United Nations Development Programme (UNDP) assessment warns that the Ebola Virus Disease (EVD) outbreak in the Democratic Republic of the Congo (DRC) is sparking a far-reaching socioeconomic crisis which could push 985,000 more people into poverty, with women disproportionately suffering the economic and health fallout. The Ebola crisis also risks eliminating tens of thousands of jobs, disrupting education and healthcare services, and costing African economies up to US$ 3.6 billion if broader regional and global shocks intensify.\n\nThe report, *Rapid Socioeconomic Assessment of Ebola Outbreak in the DRC*, warns that the current outbreak of the *Bundibugyo Ebolavirus* is functioning as a highly regressive poverty shock in the DRC and across neighbouring countries, including Uganda, Rwanda and South Sudan. While the immediate public health threat is severe and requires containment measures such as quarantines, some of the broader restrictions on travel and trade are inadvertently devastating local economies and informal livelihoods.\n\n\"Ebola does not stop at the hospital gate,\" said Ahunna Eziakonwa, UN Assistant Secretary-General and UNDP Regional Director for Africa. \u201cIt affects livelihoods, education, food security, trade, public finances and trust. If we treat this Ebola outbreak solely as a health challenge, we risk missing the much larger development emergency unfolding around it.\"\n\nThe analysis shows that the economic damage extends well beyond those infected with the disease, disproportionately harming the most vulnerable populations, who lack the financial buffers to weather the disruption. Even under a baseline scenario where the virus is successfully contained in the DRC and Uganda, the economic damage remains severe, with the DRC projected to see real GDP losses exceeding US$ 1 billion and the loss of 55,000 jobs.\n\nTrade disruptions, border restrictions, transport delays, declining consumer confidence and interruptions to informal markets could reduce continental GDP by US$ 2.37 billion, even if transmission remains largely contained. The poorest 20 percent of households are expected to face a 1.76 percent contraction in daily consumption, a loss that erases fragile development gains and threatens to create a long-term poverty crisis.\n\nThis poverty shock is also heavily gendered. The assessment outlines how women face a compounding crisis due to their societal roles and economic positions. As women dominate the informal cross-border trade sector, restrictions have a disproportionate impact on their ability to earn an income. Women also constitute the majority of frontline health workers and often also serve as primary caregivers at home, which places them at heightened risk of direct virus exposure.\n\nThe diversion of healthcare resources toward the Ebola response also risks triggering a secondary crisis. The report projects that disrupted medical services could result in up to 2,520 excess infant deaths in the DRC from non-Ebola causes.\n\nTo mitigate this devastating socioeconomic impact, the UNDP assessment proposes a multi-layered, gender-responsive policy framework:\n\n- **Deploying Targeted Support:** Implementing direct cash transfers and consumption subsidies specifically targeted at the most vulnerable populations, especially female-headed households.\n- **Implementing \"Smart\" Borders:** Shifting from blanket border closures to targeted screening protocols, coupled with community-based protection systems, to allow women in informal trade to sustain their economic activities safely.\n- **Ring-fencing Social Spending:** Establishing emergency financing mechanisms to ensure maternal, reproductive, and infant healthcare services remain fully operational alongside the Ebola response.\n\nUNDP is urging governments, development partners and international financial institutions to move beyond traditional outbreak response models and invest simultaneously in health systems, social protection, livelihoods and economic resilience.\n\n[Full report can be downloaded here.](https://www.undp.org/africa/publications/rapid-socioeconomic-assessment-ebola-outbreak-drc)\n\n**Note to editors:**\n\nThe assessment follows the World Health Organization\u2019s 17 May declaration of the outbreak as a Public Health Emergency of International Concern. The outbreak, centered in eastern DRC, is caused by the Bundibugyo strain of Ebola virus, for which there is currently no licensed vaccine or approved treatment.\n\n**Media Contacts:**\n\n- Gaby Goldman I Crisis Communications Lead I gabriela.goldman@undp.org I +1-917-2887900\n- Eve Sabbah I Strategic Communication Specialist, Regional Bureau for Africa I eve.sabbagh@undp.org I +1-484-904-5730",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1293",
+                    "id": 1293,
+                    "name": "UN Development Programme",
+                    "shortname": "UNDP",
+                    "longname": "United Nations Development Programme",
+                    "spanish_name": "Programa de las Naciones Unidas para el Desarrollo",
+                    "homepage": "https://www.undp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218637",
+            "date": {
+                "original": "2026-06-30T00:00:00+00:00",
+                "changed": "2026-06-30T13:47:26+00:00",
+                "created": "2026-06-30T12:54:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218637"
+    },
+    {
+        "id": "4218619",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: Latest Events at a glance (23-29 June 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218619",
+            "date": {
+                "original": "2026-06-30T00:00:00+00:00",
+                "changed": "2026-06-30T12:30:55+00:00",
+                "created": "2026-06-30T12:10:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218619"
+    },
+    {
+        "id": "4218617",
+        "score": 1,
+        "fields": {
+            "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (23-29 juin 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218617",
+            "date": {
+                "original": "2026-06-30T00:00:00+00:00",
+                "changed": "2026-06-30T13:55:40+00:00",
+                "created": "2026-06-30T12:07:57+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218617"
+    },
+    {
+        "id": "4218610",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 29 June 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218610",
+            "date": {
+                "original": "2026-06-30T00:00:00+00:00",
+                "changed": "2026-06-30T13:52:35+00:00",
+                "created": "2026-06-30T11:56:28+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218610"
+    },
+    {
         "id": "4218575",
         "score": 1,
         "fields": {
             "title": "Protocole national de prise en charge nutritionnelle et soutien alimentaire MVE version 2026",
-            "body": "Depuis la d\u00e9couverte du virus \u00c9bola en 1976 \u00e0 Yambuku, dans l\u2019actuelle province de l\u2019\u00c9quateur, la R\u00e9publique D\u00e9mocratique du Congo (RDC) fait face de mani\u00e8re r\u00e9currente \u00e0 des flamb\u00e9es \u00e9pid\u00e9miques de grande ampleur. Avec 16 \u00e9pid\u00e9mies de la Maladie \u00e0 Virus \u00c9bola (MVE) recens\u00e9es \u00e0 ce jour, la RDC est le pays le plus touch\u00e9 au monde par cette pathologie. Ces \u00e9pid\u00e9mies ont concern\u00e9 plusieurs provinces \u00e0 diff\u00e9rentes p\u00e9riodes, notamment l\u2019\u00c9quateur (1976, 1995, 2020, 2022), le Kasa\u00ef Occidental (2007), la Province orientale (2012), le Sankuru (2014), ainsi que les provinces du Nord-Kivu et de l\u2019Ituri, particuli\u00e8rement frapp\u00e9es entre 2018 et 2020 lors d\u2019une \u00e9pid\u00e9mie majeure ayant caus\u00e9 plus de 2,000 d\u00e9c\u00e8s. Depuis 2025, le pays a connu une nouvelle s\u00e9rie \u00e9pid\u00e9mie de la MVE, avec une dans la province du Kasai et particuli\u00e8rement dans le territoire de Mweka, zone de sante de Bulape et celle d\u00e9clar\u00e9e en mai 2026 dans la province de l\u2019Ituri avec une expansion dans les autres provinces du Nord et du Sud Kivu.  \nMais au-del\u00e0 d\u2019\u00c9bola, la RDC est r\u00e9guli\u00e8rement confront\u00e9e \u00e0 d\u2019autres \u00e9pid\u00e9mies majeures, souvent simultan\u00e9es, qui fragilisent davantage le syst\u00e8me de sant\u00e9 d\u00e9j\u00e0 sous tension. La rougeole a provoqu\u00e9 l\u2019une des plus grandes \u00e9pid\u00e9mies mondiales entre 2019 et 2020, avec plus de 300 000 cas et plusieurs milliers de d\u00e9c\u00e8s, notamment par des complications li\u00e9es a la malnutrition, principalement chez les enfants (UNICEF, 2019 ; ONU Info, 2020). Le chol\u00e9ra demeure end\u00e9mique, avec des flamb\u00e9es r\u00e9currentes dans les provinces de l\u2019Est et du centre du pays (OMS, 2023 ; Kayembe et al., 2024). Par ailleurs, la pand\u00e9mie de Covid-19 a gravement perturb\u00e9 les services essentiels, y compris les soins nutritionnels et la vaccination (Bosonkie et al., 2025 ; Banque mondiale, 2023).",
+            "body": "Depuis la d\u00e9couverte du virus \u00c9bola en 1976 \u00e0 Yambuku, dans l\u2019actuelle province de l\u2019\u00c9quateur, la R\u00e9publique D\u00e9mocratique du Congo (RDC) fait face de mani\u00e8re r\u00e9currente \u00e0 des flamb\u00e9es \u00e9pid\u00e9miques de grande ampleur. Avec 16 \u00e9pid\u00e9mies de la Maladie \u00e0 Virus \u00c9bola (MVE) recens\u00e9es \u00e0 ce jour, la RDC est le pays le plus touch\u00e9 au monde par cette pathologie. Ces \u00e9pid\u00e9mies ont concern\u00e9 plusieurs provinces \u00e0 diff\u00e9rentes p\u00e9riodes, notamment l\u2019\u00c9quateur (1976, 1995, 2020, 2022), le Kasa\u00ef Occidental (2007), la Province orientale (2012), le Sankuru (2014), ainsi que les provinces du Nord-Kivu et de l\u2019Ituri, particuli\u00e8rement frapp\u00e9es entre 2018 et 2020 lors d\u2019une \u00e9pid\u00e9mie majeure ayant caus\u00e9 plus de 2,000 d\u00e9c\u00e8s. Depuis 2025, le pays a connu une nouvelle s\u00e9rie \u00e9pid\u00e9mie de la MVE, avec une dans la province du Kasai et particuli\u00e8rement dans le territoire de Mweka, zone de sante de Bulape et celle d\u00e9clar\u00e9e en mai 2026 dans la province de l\u2019Ituri avec une expansion dans les autres provinces du Nord et du Sud Kivu.  \n Mais au-del\u00e0 d\u2019\u00c9bola, la RDC est r\u00e9guli\u00e8rement confront\u00e9e \u00e0 d\u2019autres \u00e9pid\u00e9mies majeures, souvent simultan\u00e9es, qui fragilisent davantage le syst\u00e8me de sant\u00e9 d\u00e9j\u00e0 sous tension. La rougeole a provoqu\u00e9 l\u2019une des plus grandes \u00e9pid\u00e9mies mondiales entre 2019 et 2020, avec plus de 300 000 cas et plusieurs milliers de d\u00e9c\u00e8s, notamment par des complications li\u00e9es a la malnutrition, principalement chez les enfants (UNICEF, 2019 ; ONU Info, 2020). Le chol\u00e9ra demeure end\u00e9mique, avec des flamb\u00e9es r\u00e9currentes dans les provinces de l\u2019Est et du centre du pays (OMS, 2023 ; Kayembe et al., 2024). Par ailleurs, la pand\u00e9mie de Covid-19 a gravement perturb\u00e9 les services essentiels, y compris les soins nutritionnels et la vaccination (Bosonkie et al., 2025 ; Banque mondiale, 2023).",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -45,7 +249,7 @@
             "url": "https://reliefweb.int/node/4218575",
             "date": {
                 "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-06-30T09:16:39+00:00",
+                "changed": "2026-06-30T11:10:30+00:00",
                 "created": "2026-06-30T09:08:28+00:00"
             }
         },
@@ -56,7 +260,7 @@
         "score": 1,
         "fields": {
             "title": "Compte Rendu R\u00e9union mensuelle - Coordination nationale Cluster Nutrition, R\u00e9publique d\u00e9mocratique du Congo, 28 mai 2026",
-            "body": "1\\. Pr\u00e9sentation de la pr\u00e9sence op\u00e9rationnelle \u2013 15 min  \n2\\. Mise \u00e0 jour sur la situation de la MVE (2026) \u2013 15 min  \n3\\. Analyse des donn\u00e9es sur le positionnement des partenaires dans la conduite des enqu\u00eates nutritionnelles \u2013 20 min  \n4\\. Tour de table des partenaires \u2013 30 min  \n5\\. Divers",
+            "body": "1\\. Pr\u00e9sentation de la pr\u00e9sence op\u00e9rationnelle \u2013 15 min  \n 2. Mise \u00e0 jour sur la situation de la MVE (2026) \u2013 15 min  \n 3. Analyse des donn\u00e9es sur le positionnement des partenaires dans la conduite des enqu\u00eates nutritionnelles \u2013 20 min  \n 4. Tour de table des partenaires \u2013 30 min  \n 5. Divers",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -96,8 +300,8 @@
             ],
             "url": "https://reliefweb.int/node/4218569",
             "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-06-30T09:05:11+00:00",
+                "original": "2026-05-28T00:00:00+00:00",
+                "changed": "2026-06-30T10:33:54+00:00",
                 "created": "2026-06-30T09:00:26+00:00"
             }
         },
@@ -1653,254 +1857,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4217884"
-    },
-    {
-        "id": "4217883",
-        "score": 1,
-        "fields": {
-            "title": "Central African Republic - Sudan Situation (As of June 19, 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217883",
-            "date": {
-                "original": "2026-06-25T00:00:00+00:00",
-                "changed": "2026-06-25T13:39:07+00:00",
-                "created": "2026-06-25T10:03:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217883"
-    },
-    {
-        "id": "4217877",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo : Suivi de la crise Ebola sur le secteur Education (23 juin 2026)",
-            "body": "La R\u00e9publique D\u00e9mocratique du Congo a d\u00e9clar\u00e9 le 15 mai 2026 la 17\u00e8me \u00e9pid\u00e9mie de maladie Ebola. En date du 21 juin 2026, [1 048 cas ont \u00e9t\u00e9 confirm\u00e9s en laboratoire (dont 267 d\u00e9c\u00e8s), ](https://insp.cd/sitrep-n38-mvb_21-06-2026/)signal\u00e9s dans les trois provinces touch\u00e9es, \u00e0 savoir l'Ituri, le Nord-Kivu et le Sud-Kivu. L'\u00e9pid\u00e9mie entra\u00eene des r\u00e9percussions directes sur le secteur de l'\u00e9ducation\\*\\*, En particulier \u00e0 Bunia, Rwampara, Mongbwalu (province de l\u2019Ituri) et dans les environs, o\u00f9 les \u00e9coles sont expos\u00e9es \u00e0 un risque \u00e9lev\u00e9 de transmission en raison de la forte mobilit\u00e9 de la population et de la pr\u00e9sence d\u2019\u00e9l\u00e8ves pr\u00e9sentant des sympt\u00f4mes. Cette situation est exacerb\u00e9e dans la province de l\u2019Ituri avec la tenue actuelle des \u00e9valuations certificatives annuelles, qui entra\u00eenent le regroupement de nombreux \u00e9l\u00e8ves candidats dans les m\u00eames centres d\u2019examen.\\*\\*\n\nDans ce contexte, **le Cluster Education et ses partenaires ont d\u00e9cid\u00e9 d\u2019ajuster le questionnaire administr\u00e9 dans les \u00e9coles dans le cadre de leur \u00e9valuation conjointe des besoins en mati\u00e8re d\u2019\u00e9ducation.** Des informations cl\u00e9s, portant sur les sources d\u2019information, les connaissances, l\u2019impact et les priorit\u00e9s des infrastructures scolaires concernant la maladie \u00e0 virus Ebola ont donc \u00e9t\u00e9 rassembl\u00e9es.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/12989",
-                    "id": 12989,
-                    "name": "Education Cluster",
-                    "shortname": "Education Cluster",
-                    "homepage": "https://www.educationcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2865",
-                    "id": 2865,
-                    "name": "Save the Children",
-                    "shortname": "Save the Children",
-                    "longname": "Save the Children Alliance",
-                    "spanish_name": "Save the Children",
-                    "homepage": "https://www.savethechildren.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217877",
-            "date": {
-                "original": "2026-06-23T00:00:00+00:00",
-                "changed": "2026-06-25T13:22:12+00:00",
-                "created": "2026-06-25T09:33:36+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217877"
-    },
-    {
-        "id": "4217870",
-        "score": 1,
-        "fields": {
-            "title": "Democratic Republic of the Congo - DRC At A Glance - 31 May 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217870",
-            "date": {
-                "original": "2026-06-22T00:00:00+00:00",
-                "changed": "2026-06-25T13:36:30+00:00",
-                "created": "2026-06-25T09:03:20+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217870"
-    },
-    {
-        "id": "4217868",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo - La RDC en bref - 31 mai 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217868",
-            "date": {
-                "original": "2026-06-22T00:00:00+00:00",
-                "changed": "2026-06-25T11:51:42+00:00",
-                "created": "2026-06-25T09:03:14+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217868"
-    },
-    {
-        "id": "4217852",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo Cluster \u00c9ducation : Situation des incidents contre l\u2019\u00e9ducation (au 31 mai 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/12989",
-                    "id": 12989,
-                    "name": "Education Cluster",
-                    "shortname": "Education Cluster",
-                    "homepage": "https://www.educationcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2865",
-                    "id": 2865,
-                    "name": "Save the Children",
-                    "shortname": "Save the Children",
-                    "longname": "Save the Children Alliance",
-                    "spanish_name": "Save the Children",
-                    "homepage": "https://www.savethechildren.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4217852",
-            "date": {
-                "original": "2026-06-25T00:00:00+00:00",
-                "changed": "2026-06-25T10:12:10+00:00",
-                "created": "2026-06-25T07:54:17+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4217852"
     }
 ]
