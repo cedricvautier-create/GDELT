@@ -1,5 +1,45 @@
 [
     {
+        "id": "4218884",
+        "score": 1,
+        "fields": {
+            "title": "Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026",
+            "body": "**FAST FACTS**\n\n- On May 15, the DRC officially declared an outbreak of Ebola virus disease (EVD), later confirmed to be caused by the Bundibugyo strain.\n- As of June 29, 1,333 confirmed EVD cases and 399 confirmed EVD deaths had been reported in the DRC, with 20 confirmed cases and two confirmed deaths in Uganda.\n- In the DRC, the outbreak remains centered in Ituri province, but cases have also been confirmed in Haut-Uele, North Kivu and South Kivu.\n- In Uganda, reported cases remain linked to transmission originating in the DRC, including imported cases and secondary infections among contacts and healthcare workers.\n- In South Sudan, no EVD cases have been confirmed, but risk of an outbreak remains high due to transient populations and porous borders with the DRC.\n\n**OUR RESPONSE**\n\n- Across the region, our teams are providing case management, infection prevention and control (IPC), screening and triage, risk communication and community engagement, training and preparedness planning.\n- We are supporting 80 facilities in the screening, identification and treatment of EVD.\n- Our supported sites have conducted 53,217 EVD screenings and provided treatment to 314 patients, including 110 confirmed cases.\n- To date in the DRC, we have trained 403 people on EVD case management, response and transmission prevention.\n\nWith the support of the US Department of State, DG ECHO and other donors, International Medical Corps teams are actively responding to the outbreak and engaging with ministries of health, key actors and response partners. International Medical Corps has used a hub-and-spoke model since the outbreak was declared to provide case management support at designated treatment and transit facilities, strengthen IPC in referring health facilities, conduct screening and triage, support risk communication and community engagement (RCCE) in surrounding communities and train health workers on EVD response protocols.\n\nAcross all operational areas in DRC, International Medical Corps continues to closely coordinate with the Ministry of Health and relevant partners to support case management, screening-and-referral units, facility-based surveillance, mental health services, IPC, logistics, just-in-time training, continuity of essential health services, and water, sanitation and hygiene services. International Medical Corps also is part of broader efforts to strengthen contact tracing, helping to strengthen mapping, daily monitoring and follow-up activities to address the risk of undetected transmission across operational areas and beyond.\n\nIn Uganda, we continue to work with a partner to implement critical Ebola preparedness and response activities, including screening at transit points, IPC assessments and supervision, and EVD- and RCCE-related training and activities. In South Sudan, we continue to strengthen health-system readiness for EVD\u2014including rehabilitation of infectious-disease units, capacity building for service providers and frontline staff, and positioning of essential supplies, including personal protective equipment.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2019",
+                    "id": 2019,
+                    "name": "International Medical Corps",
+                    "shortname": "IMC",
+                    "longname": "International Medical Corps",
+                    "homepage": "https://internationalmedicalcorps.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4218884",
+            "date": {
+                "original": "2026-07-01T00:00:00+00:00",
+                "changed": "2026-07-01T18:02:21+00:00",
+                "created": "2026-07-01T17:56:44+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4218884"
+    },
+    {
         "id": "4218851",
         "score": 1,
         "fields": {
@@ -1718,46 +1758,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4218201"
-    },
-    {
-        "id": "4218186",
-        "score": 1,
-        "fields": {
-            "title": "IOM: Multi-Country Bundibugyo Ebola Virus Disease Outbreak - Situation Report No. 6 (15 - 21 June 2026)",
-            "body": "As of 23 June, the Democratic Republic of the Congo (DRC) had confirmed more than 1,000 cases of the Ebola disease caused by the Bundibugyo virus (BVD) as per the World Health Organization; as of 24 June, an additional 20 cases had been confirmed in Uganda. Cross-border movements, displacement and population flows are shaping disease transmission, requiring an urgent, rapid response to save lives and protect people on the move, while mitigating regional health risks.\n\n**Key highlights :**\n\n- Over 1.7 million health screenings conducted at points of entry and control across affected countries.\n- 117,258 individuals reached through risk communication and community engagement campaigns in cross-border communities.\n- Strengthened surveillance and preparedness at 35 PoEs and 57 PoCs in DRC, and additional support in Ethiopia, Rwanda, and South Sudan.\n- Deployment of critical supplies, including thermal scanners and hand sanitizer dispensers, and training of frontline personnel.\n\nhe outbreak is unfolding in a context where 14.9 million people in DRC alone require humanitarian assistance. Insecurity, access constraints, and community resistance continue to impact response operations. There is an urgent need for sustained, multisectoral support to:\n\n- Scale up humanitarian response in high-risk and hard-to-reach areas.\n- Strengthen cross-border coordination and surveillance.\n- Ensure inclusion of internally displaced persons, returnees, and migrants in preparedness and response plans.\n\nGiven unfolding public health risks, IOM\u2019s preparedness and response efforts focus on supporting cross-border communities, points of entry (PoEs) and points of control (PoCs) to inform and guide broader public health interventions. In line with the Inter-Agency Standing Committee (IASC) system-wide scale-up activation for infectious disease events, IOM is scaling-up its response, enabling enhanced surge support, operational capacity and coordination across affected countries. IOM\u2019s response continues to focus on Priority 1a countries, DRC and Uganda, where active outbreak response operations are ongoing, and Priority 1b countries, Burundi, Rwanda and South Sudan, which face an elevated risk of cross-border transmission. Preparedness interventions are also being implemented in other at-risk countries across the region, including Priority 2 countries, Angola, the Central African Republic, Ethiopia, Kenya, the Republic of the Congo, the United Republic of Tanzania and Zambia, to strengthen readiness and enhance regional health security, while supporting continent-wide efforts in countries, particularly as co-lead of the PoE technical working group at the continental level. [Learn more here](https://crisisresponse.iom.int/sites/g/files/tmzbdl1481/files/uploaded-files/Multi-Country-Ebola-Bundibugyo-Outbreak-Sit-Rep-6-15-21-June-2026.pdf)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218186",
-            "date": {
-                "original": "2026-06-26T00:00:00+00:00",
-                "changed": "2026-06-29T06:55:51+00:00",
-                "created": "2026-06-26T15:56:55+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218186"
     }
 ]
