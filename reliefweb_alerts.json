@@ -1,5 +1,46 @@
 [
     {
+        "id": "4219376",
+        "score": 1,
+        "fields": {
+            "title": "Humanitarian Action for Children 2026 - Democratic Republic of the Congo",
+            "body": "Humanitarian Action is at the core of UNICEF\u2019s mandate to realize the rights of every child. This edition of *Humanitarian Action for Children* \u2013 UNICEF\u2019s annual humanitarian fundraising appeal \u2013 describes the ongoing crises affecting children in the Democratic Republic of the Congo; the strategies that we are using to respond to these situations; and the donor support that is essential in this response.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219376",
+            "date": {
+                "original": "2026-03-01T00:00:00+00:00",
+                "changed": "2026-07-03T04:12:29+00:00",
+                "created": "2026-07-03T04:10:19+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219376"
+    },
+    {
         "id": "4219329",
         "score": 1,
         "fields": {
@@ -330,7 +371,7 @@
             "url": "https://reliefweb.int/node/4219236",
             "date": {
                 "original": "2026-07-02T00:00:00+00:00",
-                "changed": "2026-07-02T13:44:01+00:00",
+                "changed": "2026-07-03T09:04:07+00:00",
                 "created": "2026-07-02T12:33:01+00:00"
             }
         },
@@ -371,7 +412,7 @@
             "url": "https://reliefweb.int/node/4219233",
             "date": {
                 "original": "2026-07-02T00:00:00+00:00",
-                "changed": "2026-07-02T13:51:01+00:00",
+                "changed": "2026-07-03T09:10:30+00:00",
                 "created": "2026-07-02T12:29:51+00:00"
             }
         },
@@ -412,7 +453,7 @@
             "url": "https://reliefweb.int/node/4219229",
             "date": {
                 "original": "2026-07-02T00:00:00+00:00",
-                "changed": "2026-07-02T13:51:33+00:00",
+                "changed": "2026-07-03T07:40:55+00:00",
                 "created": "2026-07-02T12:13:04+00:00"
             }
         },
@@ -1682,69 +1723,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4218521"
-    },
-    {
-        "id": "4218514",
-        "score": 1,
-        "fields": {
-            "title": "DRC: Ebola BVD Outbreak: LTC Situation Report (Telecoms) #4 (Reporting period: 18 - 28 June 2026)",
-            "body": "*This situation report provides updates on the Ebola Bundibugyo Virus Disease (BVD) Outbreak in the Democratic Republic of Congo (DRC). It outlines planned and ongoing telecommunications activities of the Logistics & Telecommunications Cluster1 (LTC) - Telecoms to support the ongoing humanitarian response.*\n\n**Summary Points**\n\n\u2022 The Ebola outbreak in the Democratic Republic of the Congo (DRC) has surpassed 1,000 confirmed cases, increasing demand for reliable connectivity at health facilities, laboratories and coordination hubs to sustain surveillance, data management, coordination and service delivery.\n\n\u2022 Following deployment to Bunia on 25 June, LTC Telecoms conducted a field assessment in Mongbwalu on 26 June, identifying unstable mobile networks, limited Wi-Fi coverage, intermittent satellite performance and power supply constraints as key barriers to reliable communications for health workers and responders.\n\n\u2022 LTC Telecoms strengthened coordination with intercluster, government, health and IT partners in Kinshasa and Bunia, supporting alignment on response priorities, connectivity gaps, Humanitarian Needs and Response Plan (HNRP) revision requirements, and planned telecoms support.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/13799",
-                    "id": 13799,
-                    "name": "Emergency Telecommunications Cluster",
-                    "shortname": "ETC",
-                    "longname": "Emergency Telecommunications Cluster",
-                    "homepage": "https://www.etcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3594",
-                    "id": 3594,
-                    "name": "Logistics Cluster",
-                    "shortname": "Logistics Cluster",
-                    "homepage": "https://www.logcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218514",
-            "date": {
-                "original": "2026-06-29T00:00:00+00:00",
-                "changed": "2026-06-30T01:19:41+00:00",
-                "created": "2026-06-30T01:18:45+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218514"
     }
 ]
