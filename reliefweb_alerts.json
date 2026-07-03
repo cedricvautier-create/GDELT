@@ -1,5 +1,47 @@
 [
     {
+        "id": "4219525",
+        "score": 1,
+        "fields": {
+            "title": "TABLEAU DE BORD HUMANITAIRE : RESPONSABILIT\u00c9 ENVERS LES PERSONNES AFFECT\u00c9ES (AAP) (janvier - mars 2026)",
+            "body": "Au premier trimestre 2026, l\u2019AAP pr\u00e9sente des progr\u00e8s significatifs malgr\u00e9 la baisse des financements humanitaires. Au total, 22 987 repr\u00e9sentants locaux ont \u00e9t\u00e9 consult\u00e9s dans 32 sous-pr\u00e9fectures, tandis que 129 572 personnes ont \u00e9t\u00e9 sensibilis\u00e9es, confirmant une int\u00e9gration croissante de l\u2019approche centr\u00e9e sur les personnes affect\u00e9es dans la planification et la r\u00e9ponse humanitaire. Les activit\u00e9s de renforcement des capacit\u00e9s ont permis de former 1 719 acteurs, dont 166 travailleurs humanitaires, refl\u00e9tant une priorisation strat\u00e9gique de l\u2019AAP aux niveaux institutionnel et communautaire. Par ailleurs, l\u2019utilisation des donn\u00e9es communautaires dans les processus d\u00e9cisionnels s'est consolid\u00e9e, avec 67 pr\u00e9sentations AAP r\u00e9alis\u00e9es dans les cadres de coordination, contribuant \u00e0 une meilleure prise en compte des retours communautaires dans l'orientation de la r\u00e9ponse humanitaire.  \nCependant, la fermeture de la boucle de redevabilit\u00e9 demeure limit\u00e9e : sur 17 746 plaintes et retours d'information collect\u00e9s, seules 6 525 r\u00e9ponses ont \u00e9t\u00e9 fournies, affectant l\u2019efficacit\u00e9 des m\u00e9canismes de retour d'information et la confiance des communaut\u00e9s envers les acteurs humanitaires. Compar\u00e9e \u00e0 la m\u00eame p\u00e9riode en 2025, l\u2019ann\u00e9e 2026 montre ainsi une progression globale de l\u2019AAP en mati\u00e8re d\u2019engagement communautaire, de renforcement capacit\u00e9s et d\u2019utilisation des donn\u00e9es AAP. Ces avanc\u00e9es demeurent n\u00e9anmoins fragiles dans un contexte de ressources limit\u00e9es, n\u00e9cessitant des efforts cibl\u00e9s pour renforcer la capacit\u00e9 de r\u00e9ponse, consolider les m\u00e9canismes AAP et syst\u00e9matiser le retour ainsi que l\u2019utilisation des donn\u00e9es communautaires dans la r\u00e9ponse humanitaire.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219525",
+            "date": {
+                "original": "2026-07-03T00:00:00+00:00",
+                "changed": "2026-07-03T15:34:54+00:00",
+                "created": "2026-07-03T15:33:46+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219525"
+    },
+    {
         "id": "4219512",
         "score": 1,
         "fields": {
@@ -18,12 +60,26 @@
             },
             "source": [
                 {
-                    "href": "https://api.reliefweb.int/v2/sources/2780",
-                    "id": 2780,
-                    "name": "UN Country Team in Central African Republic",
-                    "shortname": "UNCT CAR",
-                    "longname": "United Nations Country Team in Central African Republic",
-                    "homepage": "https://republiquecentrafricaine.un.org/fr",
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/22341",
+                    "id": 22341,
+                    "name": "UN Resident Coordinator in the Central African Republic",
+                    "shortname": "UN RC CAR",
+                    "longname": "United Nations Resident Coordinator in the Central African Republic",
+                    "homepage": "https://republiquecentrafricaine.un.org/fr/about/about-the-resident-coordinator-office",
                     "type": {
                         "id": 272,
                         "name": "International Organization"
@@ -33,7 +89,7 @@
             "url": "https://reliefweb.int/node/4219512",
             "date": {
                 "original": "2026-07-03T00:00:00+00:00",
-                "changed": "2026-07-03T14:11:17+00:00",
+                "changed": "2026-07-03T14:19:38+00:00",
                 "created": "2026-07-03T13:40:05+00:00"
             }
         },
@@ -1632,46 +1688,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4218640"
-    },
-    {
-        "id": "4218637",
-        "score": 1,
-        "fields": {
-            "title": "Rapid Socioeconomic Assessment of Ebola Outbreak in the DRC",
-            "body": "## **Ebola Outbreak Could Push Nearly One Million More People into Poverty and Cost Africa Billions, warns UN Development Programme**\n\n**New UNDP analysis shows Ebola extends beyond a health emergency. It is also a development and economic crisis triggering severe socioeconomic shocks, particularly for women**\n\nNEW YORK/KINSHASA, 30 June 2026\u2014 A new United Nations Development Programme (UNDP) assessment warns that the Ebola Virus Disease (EVD) outbreak in the Democratic Republic of the Congo (DRC) is sparking a far-reaching socioeconomic crisis which could push 985,000 more people into poverty, with women disproportionately suffering the economic and health fallout. The Ebola crisis also risks eliminating tens of thousands of jobs, disrupting education and healthcare services, and costing African economies up to US$ 3.6 billion if broader regional and global shocks intensify.\n\nThe report, *Rapid Socioeconomic Assessment of Ebola Outbreak in the DRC*, warns that the current outbreak of the *Bundibugyo Ebolavirus* is functioning as a highly regressive poverty shock in the DRC and across neighbouring countries, including Uganda, Rwanda and South Sudan. While the immediate public health threat is severe and requires containment measures such as quarantines, some of the broader restrictions on travel and trade are inadvertently devastating local economies and informal livelihoods.\n\n\"Ebola does not stop at the hospital gate,\" said Ahunna Eziakonwa, UN Assistant Secretary-General and UNDP Regional Director for Africa. \u201cIt affects livelihoods, education, food security, trade, public finances and trust. If we treat this Ebola outbreak solely as a health challenge, we risk missing the much larger development emergency unfolding around it.\"\n\nThe analysis shows that the economic damage extends well beyond those infected with the disease, disproportionately harming the most vulnerable populations, who lack the financial buffers to weather the disruption. Even under a baseline scenario where the virus is successfully contained in the DRC and Uganda, the economic damage remains severe, with the DRC projected to see real GDP losses exceeding US$ 1 billion and the loss of 55,000 jobs.\n\nTrade disruptions, border restrictions, transport delays, declining consumer confidence and interruptions to informal markets could reduce continental GDP by US$ 2.37 billion, even if transmission remains largely contained. The poorest 20 percent of households are expected to face a 1.76 percent contraction in daily consumption, a loss that erases fragile development gains and threatens to create a long-term poverty crisis.\n\nThis poverty shock is also heavily gendered. The assessment outlines how women face a compounding crisis due to their societal roles and economic positions. As women dominate the informal cross-border trade sector, restrictions have a disproportionate impact on their ability to earn an income. Women also constitute the majority of frontline health workers and often also serve as primary caregivers at home, which places them at heightened risk of direct virus exposure.\n\nThe diversion of healthcare resources toward the Ebola response also risks triggering a secondary crisis. The report projects that disrupted medical services could result in up to 2,520 excess infant deaths in the DRC from non-Ebola causes.\n\nTo mitigate this devastating socioeconomic impact, the UNDP assessment proposes a multi-layered, gender-responsive policy framework:\n\n- **Deploying Targeted Support:** Implementing direct cash transfers and consumption subsidies specifically targeted at the most vulnerable populations, especially female-headed households.\n- **Implementing \"Smart\" Borders:** Shifting from blanket border closures to targeted screening protocols, coupled with community-based protection systems, to allow women in informal trade to sustain their economic activities safely.\n- **Ring-fencing Social Spending:** Establishing emergency financing mechanisms to ensure maternal, reproductive, and infant healthcare services remain fully operational alongside the Ebola response.\n\nUNDP is urging governments, development partners and international financial institutions to move beyond traditional outbreak response models and invest simultaneously in health systems, social protection, livelihoods and economic resilience.\n\n[Full report can be downloaded here.](https://www.undp.org/africa/publications/rapid-socioeconomic-assessment-ebola-outbreak-drc)\n\n**Note to editors:**\n\nThe assessment follows the World Health Organization\u2019s 17 May declaration of the outbreak as a Public Health Emergency of International Concern. The outbreak, centered in eastern DRC, is caused by the Bundibugyo strain of Ebola virus, for which there is currently no licensed vaccine or approved treatment.\n\n**Media Contacts:**\n\n- Gaby Goldman I Crisis Communications Lead I gabriela.goldman@undp.org I +1-917-2887900\n- Eve Sabbah I Strategic Communication Specialist, Regional Bureau for Africa I eve.sabbagh@undp.org I +1-484-904-5730",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1293",
-                    "id": 1293,
-                    "name": "UN Development Programme",
-                    "shortname": "UNDP",
-                    "longname": "United Nations Development Programme",
-                    "spanish_name": "Programa de las Naciones Unidas para el Desarrollo",
-                    "homepage": "https://www.undp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218637",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-06-30T13:47:26+00:00",
-                "created": "2026-06-30T12:54:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218637"
     }
 ]
