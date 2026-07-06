@@ -1,5 +1,127 @@
 [
     {
+        "id": "4219769",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique centrafricaine : Calendrier des r\u00e9unions de Bangui (juillet 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219769",
+            "date": {
+                "original": "2026-07-06T00:00:00+00:00",
+                "changed": "2026-07-06T13:36:12+00:00",
+                "created": "2026-07-06T13:30:23+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219769"
+    },
+    {
+        "id": "4219743",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon: 2026 - Humanitarian Needs and Response Plan (HNRP) Funding Overview (as of 1 July 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219743",
+            "date": {
+                "original": "2026-07-01T00:00:00+00:00",
+                "changed": "2026-07-06T11:56:58+00:00",
+                "created": "2026-07-06T10:45:39+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219743"
+    },
+    {
+        "id": "4219729",
+        "score": 1,
+        "fields": {
+            "title": "DR Congo Annual Report 2025 | NRC",
+            "body": "In 2025, the Norwegian Refugee Council (NRC) reached 459,229 people across Ituri, North Kivu, and South Kivu with life-saving humanitarian assistance. Yet behind this achievement lies a stark reality: the Democratic Republic of the Congo has been ranked among the world's most neglected displacement crises for the tenth consecutive year.\n\nAs prolonged conflict, repeated displacement, and the deterioration of essential services continued to deepen humanitarian needs, NRC remained committed to delivering timely, principled, and needs-based assistance to communities affected by the crisis.\n\nThrough an integrated, multi-sectoral response, NRC provided support in education, protection, information, counselling and legal assistance, housing, land and property rights, shelter, water, sanitation and hygiene, and emergency cash assistance. These interventions helped meet urgent needs while strengthening the resilience of displaced and vulnerable communities.\n\nThe 2025 Annual Report demonstrates that flexible, predictable, and sustained humanitarian funding can deliver meaningful results, even in some of the world's most challenging operational environments. At the same time, it highlights a persistent gap between growing humanitarian needs and the resources available to address them.\n\nAs NRC looks ahead to 2026, the organization remains committed to expanding protection, improving equitable access to essential services, and advancing durable solutions for displaced people and host communities. Continued support from donors and partners will be critical to sustaining this impact and reaching those who remain in need.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1331",
+                    "id": 1331,
+                    "name": "Norwegian Refugee Council",
+                    "shortname": "NRC",
+                    "longname": "Norwegian Refugee Council",
+                    "homepage": "https://www.nrc.no/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219729",
+            "date": {
+                "original": "2026-07-06T00:00:00+00:00",
+                "changed": "2026-07-06T13:19:39+00:00",
+                "created": "2026-07-06T10:03:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219729"
+    },
+    {
         "id": "4219617",
         "score": 1,
         "fields": {
@@ -1603,126 +1725,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4218774"
-    },
-    {
-        "id": "4218771",
-        "score": 1,
-        "fields": {
-            "title": "Supporting surveillance and response priorities for the 2026 DRC Ebola Bundibugyo outbreak - Population movements to and from affected health zones, based on privacy-secure analysis of mobile operator data from Vodacom Congo (DRC)",
-            "body": "**. Executive Summary**\n\n**1.1 Key Findings**\n\nThis report uses anonymised mobile operator data from Vodacom Congo (DRC) to map population movements out of the most affected health zones in the 2026 Ebola Bundibugyo outbreak, and to identify which areas across the country face the greatest risk of importation of infectious persons, to inform surveillance prioritisation. It updates and extends our 4 June 2026 Rapid Update, using a more recent reference period (4 May 2026\u201317 May 2026) and an improved methodology.\n\nWe provide data on movements away from two groups of health zones. The first, in Ituri, consists of Bunia, Mongbwalu, Nyankunde and Rwampara, which account for the vast majority of confirmed and suspected cases in DRC (Nyankunde has been added since the previous report). The second, in Nord-Kivu, consists of Beni, Butembo and Katwa. For each group we follow an anonymised cohort of subscribers present in the origin zones during 4 May 2026\u201317 May 2026, and measure their average subscriber-days per cohort member in every health zone over the follow-up period (18 May 2026\u20138 June 2026), a metric capturing both how many cohort members reached a zone and how long they stayed.\n\nFor the Ituri cohort, the nine highest-ranked recipient zones are all within the province: Lita, Nizi, Bambu, Tchomia, Kilo, Gety, Damas, Komanda and Drodro, led by Lita at 1.09 subscriber-days per cohort member; the first zone outside Ituri is Katwa (Nord-Kivu, rank 10), followed by Butembo (15), Beni (17), Watsa (Haut-Uele, 18) and Makiso Kisangani (Tshopo, 22). For the Nord-Kivu cohort, the top five recipients are all within Nord-Kivu: Musienene (1.64), Kalunguta, Oicha, Kyondo and Mabalako, with the main destinations beyond the two provinces being Watsa (rank 15) and Makiso Kisangani (rank 17).\n\nMobility patterns align closely with the observed case distribution: for the Ituri cohort, all ten top-ranked destination zones have at least one confirmed case as of 25 Jun 20261,2,3, and 21 of the top 30 do (70%); confirmed cases are far less common further down the ranking, with only 6 of zones ranked 31\u201360 affected (20%). For the Nord-Kivu cohort, 14 of the top 30 destinations have confirmed cases (47%)1,2,3, including all five of the top five.\n\nThe exportation risk from the Nord-Kivu cluster is considerably more uncertain than from the Ituri cluster. For NordKivu, case counts remain low and likely underestimate the true burden given detection and testing constraints in the northeast1,2,3, so exportation from this cluster cannot be reliably estimated from the data presented here; we therefore present these flows as a separate, interim analysis. Recent spatial spread nonetheless suggests some exportation beyond the main Ituri outbreak, which may reflect the importance of this group. Responders should evaluate the data through their knowledge of the local context in Nord-Kivu, rather than reading the rankings as a direct measure of risk; the Nord-Kivu cohort also shows substantially stronger urban connectivity: roughly six times the Ituri cohort's exposure to Goma (NK rank 22), five times to Bukavu (NK rank 36) and nearly twice to Lubumbashi (NK rank 78), which would become particularly important should this cluster grow.\n\nWe recommend that highly ranked health zones without confirmed cases receive particular attention in surveillance planning. If the three Nord-Kivu origin zones do contribute sizeable exportation, several zones ranking highly for Nord-Kivu but not Ituri warrant attention: Mandima (Nord-Kivu rank 6, Ituri rank 24), Mutwanga (Nord-Kivu rank 8) and Lubero (Nord-Kivu rank 12), together with Makiso Kisangani, which faces compound exposure from both clusters yet has no confirmed cases to date. Ten health zones rank in the top 30 of both cohorts, facing possible compound importation pressure not visible in either ranking alone.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/35926",
-                    "id": 35926,
-                    "name": "Flowminder Foundation",
-                    "shortname": "Flowminder Foundation",
-                    "longname": "Flowminder Foundation",
-                    "homepage": "http://www.flowminder.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218771",
-            "date": {
-                "original": "2026-07-01T00:00:00+00:00",
-                "changed": "2026-07-01T09:14:12+00:00",
-                "created": "2026-07-01T09:13:22+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218771"
-    },
-    {
-        "id": "4218743",
-        "score": 1,
-        "fields": {
-            "title": "WFP Response to the Ebola Outbreak - External Situation Report (26 June 2026)",
-            "body": "**SITUATION UPDATE**\n\n\u2022 More than a month after the Ebola outbreak was declared, transmission remains confined to the Democratic Republic of Congo (DRC), Uganda and France. The DRC accounts for the majority of cases, spread across Ituri and North Kivu, where WFP has a substantial operational footprint.\n\n\u2022 The DRC remains one of the largest food crises globally, with an estimated 26.5 million people facing acute food insecurity including 10 million people in the eastern provinces (Ituri, North Kivu, South Kivu and Tanganyika).\n\n\u2022 Ituri, the epicentre of the outbreak, is one of the country\u2019s food insecurity hotspots, with approximately 1.9 million people \u2212 more than a third of the population \u2212 facing crisis or worse levels of food insecurity (IPC Phase 3 or above).\n\n\u2022 The latest Hunger Hotspot Report classifies DRC as a hotspot of very high concern with acute food insecurity expected to persist through the second half of 2026. The Ebola outbreak presents an additional threat to livelihoods and food security with cross-border restrictions impacting markets, livelihoods, labour activities, humanitarian access, and access to food for vulnerable communities.\n\n\u2022 Response efforts continue to face operational challenges such as access constraints including lack of air access into Goma, and critical funding gaps for food assistance. In addition, cross-border restrictions and administrative bottlenecks are also delaying deployments, staff rotations and delivery of critical supplies to the deep field.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218743",
-            "date": {
-                "original": "2026-06-26T00:00:00+00:00",
-                "changed": "2026-07-02T04:53:57+00:00",
-                "created": "2026-07-01T05:55:21+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218743"
-    },
-    {
-        "id": "4218718",
-        "score": 1,
-        "fields": {
-            "title": "MINUSCA strongly condemns the attack against Am Dafock and the firing targeting the Mission's base",
-            "body": "**Bangui, 30 June 2026** \u2013 The Special Representative of the Secretary-General for the Central African Republic and Head of the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA), Valentine Rugwabiza, strongly condemns the attack carried out early this morning by armed elements affiliated with the *Front populaire pour la renaissance de la Centrafrique* (FPRC), the *Mouvement d\u00e9mocratique pour le rassemblement du peuple centrafricain* (MDRPC), and other unidentified armed elements against the locality of Am Dafock, on the border with Sudan, in Vakaga Prefecture (60 km north-east of Birao), as well as the gunfire targeting MINUSCA's Temporary Operating Base (TOB). The Head of MINUSCA deplores the numerous people injured during these acts of violence, including three Zambian peacekeepers, one of whom was seriously injured while conducting a patrol to protect civilians. The injured peacekeepers immediately received first aid before being airlifted to appropriate medical facilities. MINUSCA also deployed air assets to support its personnel on the ground and carry out the medical evacuation of all the injured.\n\nThe Special Representative of the Secretary-General expresses her deep concern over this latest attack against the Mission's peacekeepers. She recalls that attacks directed against United Nations peacekeepers may constitute war crimes under international law. She calls on the perpetrators and those who ordered these attacks to immediately cease hostilities and reminds them that they will be held accountable for their actions. She urges the Government to spare no effort in ensuring the protection of and humanitarian assistance to the affected civilians and assures it of the full support of MINUSCA and the United Nations Country Team.\n\nThe Special Representative of the Secretary-General and Head of MINUSCA reaffirms that these attacks will in no way undermine the Mission's determination to implement its mandate, particularly the protection of civilians.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/14612",
-                    "id": 14612,
-                    "name": "UN Multidimensional Integrated Stabilization Mission in the Central African Republic",
-                    "shortname": "MINUSCA",
-                    "longname": "United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic",
-                    "homepage": "https://minusca.unmissions.org/en",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218718",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-01T01:00:40+00:00",
-                "created": "2026-07-01T01:00:40+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218718"
     }
 ]
