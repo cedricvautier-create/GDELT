@@ -1,10 +1,250 @@
 [
     {
+        "id": "4219617",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9union Nationale Conjointe Abri &AME / LTP / CCCM (Shelter, Land and Site Coordination) (25 juin 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9677",
+                    "id": 9677,
+                    "name": "CCCM Cluster",
+                    "shortname": "CCCM Cluster",
+                    "longname": "Camp Coordination and Camp Management Cluster",
+                    "homepage": "https://www.cccmcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/13726",
+                    "id": 13726,
+                    "name": "Shelter Cluster",
+                    "shortname": "Shelter Cluster",
+                    "homepage": "https://www.sheltercluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219617",
+            "date": {
+                "original": "2026-06-25T00:00:00+00:00",
+                "changed": "2026-07-06T02:29:53+00:00",
+                "created": "2026-07-06T02:22:35+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219617"
+    },
+    {
+        "id": "4219616",
+        "score": 1,
+        "fields": {
+            "title": "Rapport de la situation epidemiologique du cholera en RD Congo (Interne OMS), semaine 25, 2026",
+            "body": "**I. Points saillants de la semaine 25, 2026**\n\n\u2022 Aucune nouvelle zone de sant\u00e9 n\u2019a \u00e9t\u00e9 affect\u00e9e par des cas suspects de chol\u00e9ra \u00e0 la semaine  \n\u00e9pid\u00e9miologique 25 de l\u2019an 2026.\n\n\u2022 Un total de 905 cas dont 15 d\u00e9c\u00e8s (l\u00e9talit\u00e9 de 1,7 %) ont \u00e9t\u00e9 rapport\u00e9s \u00e0 la SE25 contre 939 cas dont 15 d\u00e9c\u00e8s (l\u00e9talit\u00e9 de 1,6 %) \u00e0 la semaine 24.\n\n\u2022 L\u2019\u00e9pid\u00e9mie touche 14 provinces pour un total de 58 zones de sant\u00e9 ayant rapport\u00e9 au moins un cas \u00e0 la  \nSE25.\n\n\u2022 Au cours de la SE25, le Nord-Kivu (325 cas, 0 d\u00e9c\u00e8s) et le Sud-Kivu (192 cas, 1 d\u00e9c\u00e8s) demeurent les  \nprincipaux foyers, repr\u00e9sentant 57,13 % des cas suspects de chol\u00e9ra.\n\n\u2022 Les provinces de l\u2019Ouest concentrent 26 % de cas dont les plus affect\u00e9es sont principalement le  \nKwango, Kongo Central, Maindombe, Sankuru et Equateur.\n\n\u2022 Relance de la finalisation de la requ\u00eate de la vaccination sur le corridor du fleuve Congo entre les deux  \nCongo avec l'int\u00e9gration des feedbacks de l'ICG.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219616",
+            "date": {
+                "original": "2026-07-06T00:00:00+00:00",
+                "changed": "2026-07-06T02:23:03+00:00",
+                "created": "2026-07-06T02:22:27+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219616"
+    },
+    {
+        "id": "4219611",
+        "score": 1,
+        "fields": {
+            "title": "Chad | Floods - Operation Update #5 (MDRTD024)",
+            "body": "**A. SITUATION ANALYSIS**\n\n**Description of the crisis**\n\nOver the past three years, Chad has been among the most vulnerable nations hit hard by weather extremes (droughts, floods) and lack of adaptive capacity, according to climate risk index data. In addition to the consequences of the 2024  \n floods, the populations of the affected areas are also suffering from the negative impacts of the floods in 2025 which  \n affected about 407,759 people and caused the death of 79 people in four provinces (Mayo-Kebbi East, Logone  \n Oriental, Moyen Chari and Tandjil\u00e9). These two floods, aggravated by persistent community conflicts, have displaced  \n many people, thus aggravating their vulnerabilities in the areas of food security and livelihoods, health, shelter,  \n hygiene, and sanitation. According to the 2026 seasonal forecasts produced by ACMAD (long-term forecast bulletin),  \n normal to probable excess rainfall is expected over most of central and southern Chad. The risk of intense rainfall  \n episodes between July and September increases, with a risk of localized flooding. Despite the efforts made by the CRT  \n to assist the most vulnerable, the gap remains significant in the field of health, disaster risk reduction and adaptation  \n to climate change. Repeated exposure to floods, displacement, loss of livelihoods, community tensions, and bereavement may also increase mental health and psychosocial support (MHPSS) needs among affected populations,  \n particularly among children, women, older adults, and displaced persons, highlighting the need for community-based  \n psychosocial support, strengthened social cohesion and resilience activities, capacity building of frontline staff and  \n volunteers e.g. in Psychological First Aid (PFA), and strengthened referral pathways for individuals requiring  \n specialized support.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1242",
+                    "id": 1242,
+                    "name": "International Federation of Red Cross and Red Crescent Societies",
+                    "shortname": "IFRC",
+                    "longname": "International Federation of Red Cross and Red Crescent Societies",
+                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                    "homepage": "https://www.ifrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219611",
+            "date": {
+                "original": "2026-07-03T00:00:00+00:00",
+                "changed": "2026-07-06T02:05:00+00:00",
+                "created": "2026-07-06T01:59:24+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219611"
+    },
+    {
+        "id": "4219546",
+        "score": 1,
+        "fields": {
+            "title": "Aumentan la violencia y el desplazamiento en la cuenca del lago Chad, advierte ACNUR",
+            "body": "GINEBRA \u2013 ACNUR, la Agencia de la ONU para los Refugiados, est\u00e1 alarmada por el hecho de que la escalada de violencia en toda la cuenca del lago Chad est\u00e9 provocando un fuerte aumento del desplazamiento forzado y de la inseguridad, lo que amenaza con revertir la fr\u00e1gil estabilizaci\u00f3n alcanzada recientemente en toda la regi\u00f3n.\n\nEn toda la cuenca del lago Chad, que comprende amplias zonas de Camer\u00fan, Chad, N\u00edger y Nigeria, m\u00e1s de 3,5 millones de personas se encuentran desplazadas por la fuerza, mientras que 8,2 millones necesitan asistencia humanitaria. La situaci\u00f3n de seguridad se ha deteriorado dr\u00e1sticamente en los \u00faltimos tiempos, con un aumento del 80 por ciento en los incidentes registrados entre enero de 2024 y abril de 2026.\n\nSolo entre septiembre de 2025 y mayo de 2026, se registraron casi 1.800 incidentes de seguridad y m\u00e1s de 5.700 v\u00edctimas mortales en toda la cuenca. Entre estos incidentes se incluyen ataques contra la poblaci\u00f3n civil, asesinatos, secuestros, explosiones, enfrentamientos entre grupos armados e incursiones en aldeas.\n\nEl estado de Borno, al noreste de Nigeria, sigue siendo el epicentro de la crisis. Los repetidos ataques de grupos armados no estatales, las operaciones militares y la inseguridad a lo largo de las carreteras y las rutas de desplazamiento est\u00e1n desarraigando a las familias y limitando gravemente el acceso humanitario. Las repercusiones se extienden m\u00e1s all\u00e1 del noreste, ya que los desplazamientos, la inseguridad y la competencia por los escasos recursos se extienden cada vez m\u00e1s a otras regiones, como el noroeste y el denominado \u2018cintur\u00f3n central\u2019, lo que agrava las fragilidades. Desde enero de 2026, m\u00e1s de 77.500 personas se han visto desplazadas en los cuatro pa\u00edses, incluidas m\u00e1s de 16.000 personas refugiadas que huyeron de los ataques en el noreste de Nigeria y cruzaron recientemente a la regi\u00f3n de Diffa, en N\u00edger, donde ACNUR y sus socios est\u00e1n ayudando a identificar las necesidades urgentes, registrar a las personas reci\u00e9n llegadas, supervisar los riesgos de protecci\u00f3n y proporcionar asistencia vital.\n\nLa violencia tiene cada vez m\u00e1s consecuencias transfronterizas, ya que los ataques en un pa\u00eds desencadenan r\u00e1pidamente desplazamientos en otro. En el Extremo Norte de Camer\u00fan, los ataques persistentes, los secuestros y la violencia a nivel de aldea siguen provocando una inseguridad cr\u00f3nica y nuevos desplazamientos. En la provincia del Lago, en Chad, los ataques recurrentes y las operaciones militares han desplazado a unas 60.000 personas; en mayo se declar\u00f3 el estado de emergencia tras un ataque contra instalaciones militares. Las personas desplazadas y las retornadas se encuentran ahora especialmente expuestas en zonas con servicios de protecci\u00f3n limitados y pocas opciones seguras para desplazarse.\n\nLa poblaci\u00f3n civil est\u00e1 sufriendo las peores consecuencias de la crisis. Un reciente monitoreo de protecci\u00f3n en las zonas afectadas de la cuenca del lago Chad muestra que uno de cada cinco hogares afirma que ya no se siente seguro en su propia comunidad, lo que refleja el alcance de la inseguridad generalizada.\n\nLas mujeres y las ni\u00f1as se enfrentan a un riesgo cada vez mayor de violencia, mientras que los servicios especializados siguen adoleciendo de una grave falta de recursos. Seg\u00fan los datos, el n\u00famero de personas que conocen a supervivientes de la violencia ha aumentado hasta el 27 por ciento en lo que va de 2026, frente al 19 por ciento de 2025, lo que indica un empeoramiento del entorno de protecci\u00f3n en un contexto de importante subestimaci\u00f3n, ya que las supervivientes dependen de redes de apoyo familiares y comunitarias que se encuentran al l\u00edmite de su capacidad.\n\nNi\u00f1as y ni\u00f1os est\u00e1n particularmente expuestos. Aproximadamente la mitad de las ni\u00f1as y los ni\u00f1os de las zonas m\u00e1s afectadas no asisten a la escuela, porcentaje que se eleva a m\u00e1s del 78 por ciento en la provincia del Lago, en Chad. El seguimiento peri\u00f3dico de la protecci\u00f3n muestra que una de cada cuatro personas informa de la presencia de ni\u00f1as y ni\u00f1os separados de sus familias o no acompa\u00f1ados en sus comunidades, cifra que asciende a uno de cada tres en la regi\u00f3n del Extremo Norte de Camer\u00fan. Los hogares monoparentales, las personas mayores y las personas con discapacidad tambi\u00e9n se enfrentan a riesgos elevados, ya que los desplazamientos repetidos erosionan unas redes de apoyo ya de por s\u00ed limitadas.\n\nLas autoridades locales y nacionales de toda la regi\u00f3n siguen desempe\u00f1ando un papel fundamental para mantener abiertos los espacios de asilo y apoyar a las comunidades que se encuentran bajo presi\u00f3n. ACNUR colabora con ellas en los cuatro pa\u00edses para asistir a las personas que huyen de la violencia, supervisar los riesgos, apoyar a las personas reci\u00e9n llegadas y garantizar que las familias puedan acceder a documentaci\u00f3n, asistencia y, cuando las condiciones lo permitan, a v\u00edas de retorno, reintegraci\u00f3n y recuperaci\u00f3n.\n\nSin embargo, la respuesta tiene dificultades para seguir el ritmo de la magnitud de las necesidades. [ACNUR y sus socios necesitan urgentemente 29 millones de d\u00f3lares estadounidenses hasta diciembre de 2026](https://www.unhcr.org/africa/media/lake-chad-basin-regional-protection-and-displacement-crisis) para mantener las operaciones, garantizar la protecci\u00f3n y la asistencia esenciales en las zonas de alto riesgo y respaldar los esfuerzos de estabilizaci\u00f3n regional liderados por los gobiernos.\n\nSin un apoyo oportuno y flexible, las lagunas en materia de protecci\u00f3n se ampliar\u00e1n, el desplazamiento seguir\u00e1 extendi\u00e9ndose m\u00e1s all\u00e1 de las fronteras y aumentar\u00e1 el riesgo de que la crisis regional se agrave a\u00fan m\u00e1s. La evoluci\u00f3n de la situaci\u00f3n sigue siendo muy preocupante, pero a\u00fan puede revertirse si se brinda un apoyo sostenido desde ahora.\n\n**Para m\u00e1s informaci\u00f3n sobre este tema, favor de contactar:**",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219546",
+            "date": {
+                "original": "2026-07-03T00:00:00+00:00",
+                "changed": "2026-07-05T23:38:39+00:00",
+                "created": "2026-07-03T22:03:05+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219546"
+    },
+    {
+        "id": "4219530",
+        "score": 1,
+        "fields": {
+            "title": "Disease Outbreak News: Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda (3 July 2026)",
+            "body": "## **Situation at a glance**\n\nThe Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to evolve rapidly, with sustained transmission and increasing numbers of reported cases. As of 1 July, a cumulative of 1460 confirmed cases, including 452 deaths, have been reported from the Democratic Republic of the Congo. As of 2 July, Uganda has reported 20 confirmed cases including two deaths, as well as one probable case who has died. In addition, on 24 June 2026, French authorities notified WHO of a laboratory-confirmed case of Ebola disease caused by Bundibugyo virus in a medical doctor returning from the Democratic Republic of the Congo. In Uganda, the outbreak remains epidemiologically linked to transmission originating in the Democratic Republic of the Congo, with evidence of both imported infections and secondary transmission among contacts and healthcare workers. Uganda has not reported any new cases since 21 June 2026. National authorities in the two affected countries, in collaboration with WHO and partners, are implementing an extensive set of response measures. A regional preparedness and prioritization framework continues to guide readiness activities across the African Region.\n\nSince the last [Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608) was published on 19 June 2026, the number of confirmed cases and deaths have increased rapidly in the Democratic Republic of the Congo. In total, 1481 confirmed cases; 1460 from the Democratic Republic of the Congo, 20 from Uganda and one from France (linked to DRC); and 454 deaths including two from Uganda, have been reported. At least 229 patients have recovered from the disease; 213 patients from the Democratic Republic of the Congo and 16 patients from Uganda.\n\n**Democratic Republic of the Congo**\n\nSince 19 June when the last Disease Outbreak News was published, an additional 564 confirmed cases, including 220 confirmed deaths, have been reported from the Democratic Republic of the Congo. The increase is in part due to the scale up of surveillance activities, testing and diagnostic capacities.\n\nAs of 1 July 2026, a total of 1460 confirmed cases including 452 deaths (crude case fatality ratio \\[CFR\\] 30.9%) have been reported from the Democratic Republic of Congo. So far, 213 patients have recovered. Cases have been reported from 36 health zones (HZ) from Ituri (24/36 HZ), North Kivu (11/35 HZ) and South Kivu provinces (1/34 HZ).\\[1\\] To date, 102 confirmed cases including 25 deaths have been reported among health and care workers.\n\nOf the 36 affected health zones, the outbreak remains active in 21 health zones from where cases have been reported in the past 21 days. The remaining health zones have not reported any new cases during this period. In the past 21 days, 838 confirmed cases, including 314 confirmed deaths, have been reported.\n\nIturi Province remains the most affected, accounting for 91.3% (1333/1460) of all confirmed cases and 84% (380/452) of all reported deaths nationwide. Within the province, the highest number of confirmed cases have been reported from Bunia (416 cases), Rwampara (308 cases), Mongbwalu (270 cases), Nyankunde (95 cases), and Nizi (65 cases) health zones. As of 1 July, the outbreak has spread to three additional health zones in the province. Following epidemiological investigations, three confirmed cases with travel history from Nia Nia health zone in Ituri province have been reported on 30 June in Wamba health zone in Haut Uele Province and Kisangani in Tshopo province. These cases have been reported under Nia Nia health zone. Response activities, including contact tracing and follow-up, are ongoing in both provinces. Of the total confirmed cases, 17 are yet to be assigned to a specific health zone.As of 1 July, 10 821 contacts have been identified and are under follow-up across Ituri (8376), and North Kivu (2445). Of these, 8954 contacts have been followed up, corresponding to follow-up rates of 83.2% in Ituri, and 81% in North Kivu. Previously listed contacts from South Kivu province have completed 21 days of follow up. In addition, 107 contacts of the case reported in France have been listed and are under follow up in Kinshasa.\n\nThe outbreak is unfolding in a complex humanitarian and conflict-affected environment, characterized by highly mobile and often displaced populations, often lacking access to basic services, including food, clean water, shelter, healthcare and protection which poses an increased risk of transmission to the populations living in overcrowded internally displaced camps. These dynamics, combined with increasing security-related incidents affecting health facilities, have posed additional operational challenges in affected provinces, such as constrained access for response teams, disrupted surveillance and response activities, and heightened risk of undetected transmission. These conditions underscore the need for response efforts to be led by local leaders and anchored in communities.\n\n*NB: Newly reported confirmed cases/deaths may be part of the backlog of samples and therefore not necessarily newly acquired infections.*\n\n**Uganda**\n\nThe last confirmed case was reported to be identified on 21 June 2026. As of 2 July 2026, a cumulative of 20 confirmed cases including two deaths in imported cases (reported on 15 May and 5 June), and one probable case who has died, have been reported. Of the confirmed cases, 15 are imported cases, while five are secondary cases among contacts and health workers with links to imported cases from the Democratic Republic of the Congo. The cases have been reported in two districts, Kampala and Wakiso, both part of the Kampala Metropolitan Area. To date, there has been no documented community transmission in Uganda. Exposure risks are associated with healthcare settings and cross-border movements. Following case reclassification, the number of affected healthcare workers was revised from five to four. In total, 16 recoveries have been reported to date.\n\nOf the 831 contacts listed as of 28 June, 821 contacts have completed their 21-day follow-up period as of 2 July.\n\n**France:**\n\nOn 24 June 2026, French authorities notified WHO of a laboratory-confirmed case of Ebola disease caused by Bundibugyo virus in a middle-aged male medical doctor returning from the Democratic Republic of the Congo. The patient had been deployed for five weeks in Ituri Province, where he was involved in the care of patients with BVD. Upon arrival at Charles de Gaulle Airport on 23 June 2026, the patient self-reported symptoms to airport health authorities, prompting immediate isolation and referral to a designated high-containment healthcare facility.\n\nAt the time of reporting, the patient was clinically stable and had no fever, with no reported vomiting, diarrhoea, or haemorrhagic manifestations during travel. PCR testing detected Bundibugyo virus. Comprehensive contact tracing has been initiated in the Democratic Republic of the Congo and in France.\n\n**Epidemiology**\n\nBundibugyo virus disease (BVD) is a severe Ebola disease caused by the Bundibugyo virus, one of the *Orthoebolavirus* species. It is a zoonotic disease, with fruit bats suspected to be the natural reservoir. Human infection is thought to occur through close contact with the blood or secretions of infected wildlife, such as bats or non-human primates, and it subsequently spreads from person to person through direct contact with the blood, secretions, organs, or other bodily fluids of infected individuals or contaminated surfaces or items. Transmission is particularly amplified in health-care settings when infection prevention and control (IPC) measures are inadequate, and during unsafe burial practices involving direct contact with the deceased.\n\nThe incubation period for BVD ranges from two to 21 days, and individuals are not infectious until symptom onset. Early symptoms such as fever, fatigue, muscle pain, headache, and sore throat, are non-specific, which complicates clinical diagnosis and can delay detection. These symptoms then progress to gastrointestinal symptoms, organ dysfunction, and in some cases haemorrhagic manifestations. CFRs in the past two BVD outbreaks, reported in Uganda and in the Democratic Republic of the Congo in 2007 and 2012 were 30% and 50%, respectively.\n\nDifferentiating BVD from other endemic febrile illnesses such as malaria is challenging without laboratory confirmation using PCR or antigen/antibody-based assays. Outbreak control relies on rapid case identification, isolation and care, contact tracing, safe burials, and strong community engagement, as no approved vaccines or specific treatments currently exist for BVD.\n\n**Public health response**\n\nHealth authorities in the Democratic Republic of the Congo and Uganda, in collaboration with WHO and partners, are implementing extensive public health measures including implementing the continental response plan, engaging donors and mobilizing additional resources to address critical funding gaps and sustain response operations across affected and at-risk areas.\n\nFor further information about public health response actions by the respective Ministry of Health, WHO, and partners, please refer to the latest situation reports published by the WHO Regional Office for Africa [Ebola Bundibugyo Virus Disease Outbreak Democratic Republic of the Congo | Uganda Weekly External Situation Report | WHO | Regional Office for Africa](https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26)\n\n**WHO risk assessment**\n\nOn 6 June 2026, WHO reassessed the risk of the outbreak of BVD to incorporate newly available information and align with the WHO [Temporary Recommendations](https://www.who.int/news/item/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations). The risk for countries sharing land borders with countries with documented Bundibugyo virus (BVDV) detection, currently the Democratic Republic of the Congo and Uganda, has been separated out from the risk for other countries in the African Region.\n\nThe risk in the Democratic Republic of the Congo remains assessed as very high due to ongoing transmission and the continued expansion of the outbreak into new health zones, increasing the potential for further national and regional spread.\n\nThe risk in Uganda is assessed as high due to confirmed cross-border spread through imported cases and ongoing epidemiological links along the eastern Democratic Republic of the Congo\u2013western Uganda corridor, historically affected by Ebola outbreaks, including Bundibugyo and Sudan virus disease outbreaks.\n\nThe risk for countries with land borders adjoining countries with documented BDBV detection is assessed as high due to sustained population mobility linked to cross-border trade and mining activities, variation in capacities and experience of BVD response, and variable levels of readiness.\n\nThe risk for the rest of the Africa region and at the global level is assessed as low.\n\nFor further information, please see the [WHO Rapid Risk Assessment \u2013 Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo, Uganda and countries with land borders adjoining countries with documented BDBV detection v3](https://www.who.int/publications/m/item/who-rapid-risk-assessment-ebola-disease-caused-by-bundibugyo-virus--democratic-republic-of-the-congo--uganda-and-countries-with-land-borders-adjoining-countries-with-documented-bdbv-detection-v3).\n\n**WHO advice**\n\nWHO advises against any restriction of travel to, or trade with, the Democratic Republic of the Congo or Uganda based on the currently available information. WHO continues to closely monitor and, where necessary, verify travel and trade measures in relation to this event.\n\nFor further information on the considerations for implementing border health and international travel-related temporary recommendations, please see the relevant [technical note issued on 26 May 2026](https://iris.who.int/items/b07def43-df30-41b8-83e0-deb33bcfd697).\n\nThe [Temporary Recommendations](https://www.who.int/news/item/22-05-2026-first-meeting-of-the-ihr-emergency-committee-regarding-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-and-uganda-2026-temporary-recommendations) issued to State Parties on 22 May 2026 underscore the importance of coordinated outbreak control, enhanced cross\u2011border collaboration, and sustained surveillance and preparedness to prevent further regional spread and ensure an effective public health response.\n\nWHO has convened several technical advisory groups, including the Strategic Advisory Group of Experts on Immunization (SAGE) to assess candidate vaccines and therapeutics for BVD. Key recommendations made are available in the [news release published on 28 May 2026.](https://www.who.int/news/item/28-05-2026-experts-convened-by-who-advise-on-candidate-treatments-and-vaccines-for-ebola-disease-caused-by-bundibugyo-virus)\n\n**Regular Information products on the outbreak of BVD in the Democratic Republic of the Congo and Uganda**\n\n- **Daily update:** [Epidemiological update on BVD outbreak in Democratic Republic of the Congo and Uganda](https://www.who.int/emergencies/alert-and-response)\n- **Published Weekly:** [Weekly External Situation Report on Ebola Bundibugyo Virus Disease Outbreak, Democratic Republic of the Congo | Uganda](https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26)\n- **Published Fortnightly:** [Disease Outbreak News | All Hazards Public Health Events, Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo](https://www.who.int/emergencies/disease-outbreak-news)\n\n## **Further information**\n\n**Current outbreak: declarations and status**\n\n- [Africa CDC and WHO launch joint continental Ebola response plan](https://www.who.int/news/item/05-06-2026-africa-cdc-and-who-launch-joint-continental-ebola-response-plan)\n- [Bundibugyo Ebola virus | Continental preparedness and response plan: June-November 2026](https://www.afro.who.int/publications/bundibugyo-ebola-virus-continental-preparedness-and-response-plan-june-november-2026)\n- [Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern)\n- [The Ministry of Public Health, Hygiene and Social Welfare, DRC, officially declares the 17th Ebola Disease outbreak](https://administration.sante.gouv.cd/wp-content/uploads/2026/05/Declaration-de-la-17e-Epidemie-de-la-maladie-a-virus-Ebola-dans-les-zones-de-sante-de-Rwampara-Mongwalu-et-Bunia-dans-la-province-dIturi.pdf)\n- [WHO Democratic Republic of Congo confirms new Ebola outbreak](https://www.afro.who.int/countries/democratic-republic-of-congo/news/democratic-republic-congo-confirms-new-ebola-outbreak-who-scales-upsupport)\n- [Message by the WHO Director-General to the people of the Democratic Republic of the Congo](https://www.who.int/news/item/28-05-2026-message-by-the-who-director-general-to-the-people-of-the-democratic-republic-of-the-congo)\n- [At the frontline of trust: a day with Julienne Anoko WHO's Ebola Community Engagement Officer in DRC](https://www.afro.who.int/countries/democratic-republic-of-congo/news/frontline-trust-day-julienne-anoko-whos-ebola-community-engagement-officer-drc)\n- [Decentralized testing speeds up Ebola response in the Democratic Republic of the Congo](https://www.afro.who.int/countries/democratic-republic-of-congo/news/decentralized-testing-speeds-ebola-response-democratic-republic-congo)\n\n**Epidemiological updates and situation reports**\n\n- [Weekly External Situation Report. EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda.](https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26)\n- [Ebola Outbreak: Current Situation | Ebola | CDC](https://www.cdc.gov/ebola/situation-summary/index.html)\n- [Daily situation report, Ministry of Health, Democratic Republic of the Congo.](https://insp.cd/category/sitrep/)\n- [Press Statements - Ministry of Health - Uganda](https://health.go.ug/press-statements/)\n- [Ebola updates, Ministry of Health, Uganda](https://evd-daily.health.go.ug/)\n\n**Published Disease Outbreak News (current outbreak)**\n\n- [Disease outbreak news. Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo and Uganda 16 May 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602)\n- [Disease outbreak news. Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo. 21 May 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON603)\n- [Disease outbreak news. Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo. 29 May 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON605)\n- [Disease outbreak news. Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo and Uganda 8 June 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON606)\n- [Disease outbreak news. Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo and Uganda 13 June 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON607)\n- [Disease outbreak news. Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo and Uganda 19 June 2026](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608)\n\n**Clinical management, IPC, and occupational safety**\n\n- [WHO guidelines for the clinical management of filovirus disease](https://www.who.int/publications/i/item/B09774)\n- [Infection prevention and control guideline for Ebola and Marburg disease. WHO.17 May 2026](https://www.who.int/publications/i/item/9789240111332)\n- [Infection prevention and control and water, sanitation and hygiene in health facilities during Ebola or Marburg disease outbreaks: rapid assessment tool, user guide.](https://www.who.int/publications/i/item/9789240107205)\n- [Assessment and management of health and care workers with possible occupational exposures to Orthoebolavirus or Orthomarburgvirus: implementation guidance](https://www.who.int/publications/i/item/9789240107328)\n- [Optimized Supportive Care for Ebola Virus Disease. Clinical management standard operating procedures. WHO. 2019](https://www.who.int/publications/i/item/9789241515894)\n- [Framework and toolkit for infection prevention and control in outbreak preparedness, readiness and response at the national level](https://www.who.int/publications/i/item/9789240032729)\n- [Diagnostic testing for Ebola and Marburg virus diseases: interim guidance, 20 December 2024](https://www.who.int/publications/i/item/B09221)\n- [Considerations for border health and points of entry for filovirus disease outbreaks](https://www.who.int/publications/m/item/considerations-for-border-health-and-points-of-entry-for-filovirus-disease-outbreaks)\n\n**Training**\n\n- [WHO Launches Online Training to Strengthen Filovirus Outbreak Response](https://www.who.int/news/item/26-03-2025-who-launches-online-training-to-strengthen-filovirus-outbreak-response)\n\n**Prior Bundibugyo virus disease events, DRC (2012)**\n\n- [Disease Outbreak News. Ebola outbreak in Democratic Republic of Congo \u2013 update. WHO. 14 September 2012](https://www.who.int/emergencies/disease-outbreak-news/item/2012_09_14-en)\n- [Disease Outbreak News. Ebola outbreak in Democratic Republic of Congo \u2013 update. WHO. 26 October 2012](https://www.who.int/emergencies/disease-outbreak-news/item/2012_10_26-en)\n\n**Background and reference**\n\n- [Ebola disease fact sheet](https://www.who.int/news-room/fact-sheets/detail/ebola-disease)\n- [Ebola vaccines](https://www.who.int/news-room/questions-and-answers/item/ebola-vaccines)\n\n**Citable reference:** World Health Organization (3 July 2026). Disease Outbreak News; Bundibugyo Virus Disease, Democratic Republic of the Congo and Uganda. Available at [https://www/who.int/emergencies/disease-outbreak/news/item/2026-DON612](https://www/who.int/emergencies/disease-outbreak/news/item/2026-DON612)\n\n \\[1\\] #Data source: Centre des op\u00e9rations d'urgences de sante publique (COUSP-DRC)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219530",
+            "date": {
+                "original": "2026-07-03T00:00:00+00:00",
+                "changed": "2026-07-05T23:15:22+00:00",
+                "created": "2026-07-03T16:33:05+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219530"
+    },
+    {
         "id": "4219525",
         "score": 1,
         "fields": {
-            "title": "TABLEAU DE BORD HUMANITAIRE : RESPONSABILIT\u00c9 ENVERS LES PERSONNES AFFECT\u00c9ES (AAP) (janvier - mars 2026)",
-            "body": "Au premier trimestre 2026, l\u2019AAP pr\u00e9sente des progr\u00e8s significatifs malgr\u00e9 la baisse des financements humanitaires. Au total, 22 987 repr\u00e9sentants locaux ont \u00e9t\u00e9 consult\u00e9s dans 32 sous-pr\u00e9fectures, tandis que 129 572 personnes ont \u00e9t\u00e9 sensibilis\u00e9es, confirmant une int\u00e9gration croissante de l\u2019approche centr\u00e9e sur les personnes affect\u00e9es dans la planification et la r\u00e9ponse humanitaire. Les activit\u00e9s de renforcement des capacit\u00e9s ont permis de former 1 719 acteurs, dont 166 travailleurs humanitaires, refl\u00e9tant une priorisation strat\u00e9gique de l\u2019AAP aux niveaux institutionnel et communautaire. Par ailleurs, l\u2019utilisation des donn\u00e9es communautaires dans les processus d\u00e9cisionnels s'est consolid\u00e9e, avec 67 pr\u00e9sentations AAP r\u00e9alis\u00e9es dans les cadres de coordination, contribuant \u00e0 une meilleure prise en compte des retours communautaires dans l'orientation de la r\u00e9ponse humanitaire.  \nCependant, la fermeture de la boucle de redevabilit\u00e9 demeure limit\u00e9e : sur 17 746 plaintes et retours d'information collect\u00e9s, seules 6 525 r\u00e9ponses ont \u00e9t\u00e9 fournies, affectant l\u2019efficacit\u00e9 des m\u00e9canismes de retour d'information et la confiance des communaut\u00e9s envers les acteurs humanitaires. Compar\u00e9e \u00e0 la m\u00eame p\u00e9riode en 2025, l\u2019ann\u00e9e 2026 montre ainsi une progression globale de l\u2019AAP en mati\u00e8re d\u2019engagement communautaire, de renforcement capacit\u00e9s et d\u2019utilisation des donn\u00e9es AAP. Ces avanc\u00e9es demeurent n\u00e9anmoins fragiles dans un contexte de ressources limit\u00e9es, n\u00e9cessitant des efforts cibl\u00e9s pour renforcer la capacit\u00e9 de r\u00e9ponse, consolider les m\u00e9canismes AAP et syst\u00e9matiser le retour ainsi que l\u2019utilisation des donn\u00e9es communautaires dans la r\u00e9ponse humanitaire.",
+            "title": "R\u00e9publique Centrafricaine - Tableau de bord humanitaire : Responsabilit\u00e9 envers les personnes affect\u00e9es (AAP) (janvier - mars 2026)",
+            "body": "Au premier trimestre 2026, l\u2019AAP pr\u00e9sente des progr\u00e8s significatifs malgr\u00e9 la baisse des financements humanitaires. Au total, 22 987 repr\u00e9sentants locaux ont \u00e9t\u00e9 consult\u00e9s dans 32 sous-pr\u00e9fectures, tandis que 129 572 personnes ont \u00e9t\u00e9 sensibilis\u00e9es, confirmant une int\u00e9gration croissante de l\u2019approche centr\u00e9e sur les personnes affect\u00e9es dans la planification et la r\u00e9ponse humanitaire. Les activit\u00e9s de renforcement des capacit\u00e9s ont permis de former 1 719 acteurs, dont 166 travailleurs humanitaires, refl\u00e9tant une priorisation strat\u00e9gique de l\u2019AAP aux niveaux institutionnel et communautaire. Par ailleurs, l\u2019utilisation des donn\u00e9es communautaires dans les processus d\u00e9cisionnels s'est consolid\u00e9e, avec 67 pr\u00e9sentations AAP r\u00e9alis\u00e9es dans les cadres de coordination, contribuant \u00e0 une meilleure prise en compte des retours communautaires dans l'orientation de la r\u00e9ponse humanitaire.  \n Cependant, la fermeture de la boucle de redevabilit\u00e9 demeure limit\u00e9e : sur 17 746 plaintes et retours d'information collect\u00e9s, seules 6 525 r\u00e9ponses ont \u00e9t\u00e9 fournies, affectant l\u2019efficacit\u00e9 des m\u00e9canismes de retour d'information et la confiance des communaut\u00e9s envers les acteurs humanitaires. Compar\u00e9e \u00e0 la m\u00eame p\u00e9riode en 2025, l\u2019ann\u00e9e 2026 montre ainsi une progression globale de l\u2019AAP en mati\u00e8re d\u2019engagement communautaire, de renforcement capacit\u00e9s et d\u2019utilisation des donn\u00e9es AAP. Ces avanc\u00e9es demeurent n\u00e9anmoins fragiles dans un contexte de ressources limit\u00e9es, n\u00e9cessitant des efforts cibl\u00e9s pour renforcer la capacit\u00e9 de r\u00e9ponse, consolider les m\u00e9canismes AAP et syst\u00e9matiser le retour ainsi que l\u2019utilisation des donn\u00e9es communautaires dans la r\u00e9ponse humanitaire.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
                 "id": 54,
@@ -35,11 +275,52 @@
             "url": "https://reliefweb.int/node/4219525",
             "date": {
                 "original": "2026-07-03T00:00:00+00:00",
-                "changed": "2026-07-03T15:34:54+00:00",
+                "changed": "2026-07-06T00:33:15+00:00",
                 "created": "2026-07-03T15:33:46+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4219525"
+    },
+    {
+        "id": "4219523",
+        "score": 1,
+        "fields": {
+            "title": "IOM: Multi-Country Bundibugyo Ebola Virus Disease Outbreak - Situation Report No. 7 (22 - 28 June 2026)",
+            "body": "**SITUATION OVERVIEW**\n\nAccording to the World Health Organization, as of 30 June, the Democratic Republic of the Congo (DRC) has confirmed more than 1,400 cases of Ebola disease caused by the Bundibugyo virus (BVD). As of 1 July, Uganda has confirmed 20 cases with no new cases during the reporting period.\n\nCross-border movements, displacement and population mobility are shaping disease transmission, requiring urgent and rapid response to save lives and protect people on the move, while mitigating regional health risks. Given unfolding public health risks, IOM\u2019s preparedness and response efforts focus on supporting cross-border communities, points of entry (PoEs) and points of control (PoCs) to inform and guide broader public health interventions.\n\nIn line with the Inter-Agency Standing Committee (IASC) system-wide scale-up activation for infectious disease events, IOM is scaling-up its response, enabling enhanced surge support, operational capacity and coordination across affected countries. IOM\u2019s response continues to focus on Priority 1a countries, DRC and Uganda, where active outbreak response operations are ongoing, and Priority 1b countries, Burundi, Rwanda and South Sudan, which face an elevated risk of cross-border transmission. Preparedness interventions are also being implemented in other at-risk countries across the region, including Priority 2 countries, Angola, the Central African Republic, Ethiopia, Kenya, the Republic of the Congo, the United Republic of Tanzania and Zambia, to strengthen readiness and enhance regional health security, while supporting continent-wide efforts, particularly as co-lead of the PoE technical working group at the continental level.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4219523",
+            "date": {
+                "original": "2026-07-03T00:00:00+00:00",
+                "changed": "2026-07-05T23:35:43+00:00",
+                "created": "2026-07-03T15:03:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4219523"
     },
     {
         "id": "4219512",
@@ -1443,250 +1724,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4218718"
-    },
-    {
-        "id": "4218717",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon Food Security Outlook Update, June 2026 - January 2027: Conflict and high food prices sustain Crisis (IPC Phase 3) outcomes despite harvest",
-            "body": "## Key Messages\n\n- **Crisis (IPC Phase 3) outcomes are expected through September in Logone-et-Chari, Mayo-Sava, and Mayo-Tsanaga, driven by conflict and flooding**. Households in Crisis will rise and peak during the June-August lean season, with some in Emergency (IPC Phase 4) as rising food price, low purchasing power, and eroded coping capacity widen food consumption gaps and drive rising malnutrition levels. From October to January, area-level outcomes are anticipated to improve to Stressed (IPC Phase 2) with the availability of own harvests. However, many displaced households \u2014 expected to lack access to harvests \u2014 will likely remain in Crisis (IPC Phase 3) or worse through January 2027.\n- **Current Crisis (IPC Phase 3) outcomes are projected to ease to Stressed (IPC Phase 2) from July to October in parts of the Northwest and Southwest** as harvests temporarily improve food access. From November to January 2027, Crisis (IPC Phase 3) is likely to re-emerge at the area level due to below-average harvests, early stock depletion and high food prices amid conflict. More insecure and remote divisions with severe livelihood disruptions \u2014 specifically Ndian, Lebialem, Menchum, Momo, and Bui \u2014 are expected to remain in Crisis (IPC Phase 3) throughout the scenario period.\n- **Stressed (IPC Phase 2) outcomes will persist through January 2027** in Mber\u00e9 (Adamawa), Kadey (East), and Lom et Djerem (East), where Central African Republic (CAR) refugees drive localized food inflation and job competition, restricting food and income access for refugees and poor hosts. Similar outcomes will persist in **Yaound\u00e9 and Douala**, as poor urban displaced households face constrained food access due to reduced livelihoods, limited income, and high food prices.\n- **FEWS NET estimated 1.5-1.99 million people to be in need of food assistance in 2026.** Needs peaked between May and June, coinciding with the height of the southern lean season and the onset of the northern lean season. While needs in the south are expected to ease with the main harvest, northern requirements will intensify through the June-August lean season amid the escalating Islamist insurgency and flooding risks that threaten food access and humanitarian operations.\n\n***The analysis in this report is based on information available as of June 22, 2026.***",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/529",
-                    "id": 529,
-                    "name": "Famine Early Warning System Network",
-                    "shortname": "FEWS NET",
-                    "longname": "Famine Early Warning System Network",
-                    "spanish_name": "Red de Sistemas de Alerta Temprana contra la Hambruna",
-                    "homepage": "https://fews.net/",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218717",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-01T00:58:11+00:00",
-                "created": "2026-07-01T00:57:22+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218717"
-    },
-    {
-        "id": "4218703",
-        "score": 1,
-        "fields": {
-            "title": "EU and IOM Launch EUR 13.3 Million Initiative to Support 250,000 People Across Northern Chad",
-            "body": "**N\u2019Djamena, 30 July 2026 \u2013** More than 250,000 people across northern Chad are set to benefit from a new EUR 13.3 million European Union and IOM programme that will support national priorities and efforts to strengthen stability, create economic opportunities and improve migration governance along one of Africa's busiest migration corridors.\n\nOver the next three years, the programme will directly support 1,500 young people, with particular attention to women and youths, through vocational training, income-generating activities and cash-for-work initiatives, while expanding access to essential services, strengthening local governance and promoting peaceful coexistence in some of the Sahel's most vulnerable communities.\n\n\u201cThis programme reflects our shared belief that long-term investment in stabilization, through stronger services, sustainable livelihoods and effective local governance, is essential to lasting development,\u201d said Giovanni Cassani, IOM\u2019s Chief of Mission in Chad. \u201cWhen communities have the opportunity to thrive, they are better equipped to shape their own future and contribute to lasting peace and stability.\u201d\n\nNorthern Chad sits at the crossroads of Sub-Saharan Africa, the Sahel and North Africa, making it one of the continent's busiest migration corridors. Faya, the region\u2019s largest town, is home to communities facing economic, environmental and mobility challenges. The town has become a key transit hub for thousands of migrants travelling in the Sahel in search of economic opportunities.\n\nIn 2025 alone, IOM recorded more than [225,000 migrant movements](https://dtm.iom.int/fr/reports/tchad-analyse-denquetes-individuelles-des-flux-de-populations-octobre-decembre-2025?close=true) through Chad, many along remote desert routes that offer little protection and limited access to assistance. At the same time, the region receives large numbers of migrants returned from Libya, many with acute protection needs, including survivors of violence, exploitation and detention.\n\nThe programme will support national efforts to strengthen Chad\u2019s capacity to manage migration in a safe, orderly and dignified manner by expanding access to legal documentation and essential social and protection services for migrants and host communities. It will also strengthen efforts to prevent trafficking in persons and migrant smuggling by supporting migration data collection, analysis and management.\n\nBy investing in livelihoods, local governance and social cohesion, the initiative aims to address some of the underlying drivers of irregular migration while helping communities become more resilient to future shocks.\n\nThe initiative builds on previous investments by IOM and its partners to strengthen resilience in northern Chad, including the Germany-funded Balke project (2021-2023) and the World Bank-supported RESITCHAD programme (2024-2026). Together, these efforts form part of a long-term strategy to address the structural drivers of fragility and irregular migration across Chad and the wider Sahel.\n\n\u201cThis intervention represents an opportunity to foster stability in a region of Chad facing significant migratory pressure within a fragile context shaped by cross-border dynamics with Libya,\u201d said Amador Sanchez Rico, European Union Ambassador to Chad. \u201cThe project will show that promoting dialogue and inclusive action can bring tangible benefits to communities, regardless of origin, while strengthening the country's overall stability.\u201d\n\nThe programme is funded by the European Union and will be implemented by IOM in close partnership with the Government of Chad, decentralized authorities and local organizations, in line with national priorities for stabilization, development and migration governance.\n\n*For more information, please visit* [*IOM\u2019s Media Centre*](https://www.iom.int/media-inquiries)*.*",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218703",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-01T01:07:28+00:00",
-                "created": "2026-06-30T22:03:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218703"
-    },
-    {
-        "id": "4218692",
-        "score": 1,
-        "fields": {
-            "title": "La UE y la OIM lanzan una iniciativa de 13,3 millones de euros para apoyar a 250.000 personas en el norte del Chad",
-            "body": "**N'Djamena, 30 de julio de 2026** \u2013 M\u00e1s de 250.000 personas en el norte del Chad se beneficiar\u00e1n de un nuevo programa de 13,3 millones de euros financiado por la Uni\u00f3n Europea y la OIM, que apoyar\u00e1 las prioridades nacionales y los esfuerzos destinados a fortalecer la estabilidad, generar oportunidades econ\u00f3micas y mejorar la gobernanza de la migraci\u00f3n a lo largo de uno de los principales corredores migratorios de \u00c1frica.\n\nDurante los pr\u00f3ximos tres a\u00f1os, el programa brindar\u00e1 apoyo directo a 1.500 j\u00f3venes, con especial atenci\u00f3n a las mujeres y a la juventud, mediante formaci\u00f3n profesional, actividades generadoras de ingresos e iniciativas de efectivo por trabajo, al tiempo que ampliar\u00e1 el acceso a servicios esenciales, fortalecer\u00e1 la gobernanza local y promover\u00e1 la convivencia pac\u00edfica en algunas de las comunidades m\u00e1s vulnerables del Sahel.\n\n\"Este programa refleja nuestra convicci\u00f3n compartida de que la inversi\u00f3n a largo plazo en la estabilizaci\u00f3n \u2014a trav\u00e9s de servicios m\u00e1s s\u00f3lidos, medios de subsistencia sostenibles y una gobernanza local eficaz\u2014 es esencial para alcanzar un desarrollo sostenible\", afirm\u00f3 Giovanni Cassani, Jefe de Misi\u00f3n de la OIM en Chad. \"Cuando las comunidades tienen oportunidades para prosperar, est\u00e1n mejor preparadas para forjar su propio futuro y contribuir a una paz y estabilidad duraderas.\"\n\nEl norte del Chad se sit\u00faa en la intersecci\u00f3n entre \u00c1frica subsahariana, el Sahel y el norte de \u00c1frica, lo que lo convierte en uno de los corredores migratorios m\u00e1s transitados del continente. Faya, la ciudad m\u00e1s importante de la regi\u00f3n, alberga comunidades que enfrentan desaf\u00edos econ\u00f3micos, medioambientales y de movilidad, y se ha consolidado como un punto clave de tr\u00e1nsito para miles de migrantes que atraviesan el Sahel en busca de oportunidades econ\u00f3micas.\n\nSolo en 2025, la OIM registr\u00f3 m\u00e1s de [225.000 movimientos migratorios](https://dtm.iom.int/fr/reports/tchad-analyse-denquetes-individuelles-des-flux-de-populations-octobre-decembre-2025?close=true) a trav\u00e9s del Chad, muchos de ellos por rutas des\u00e9rticas remotas con acceso limitado a protecci\u00f3n y asistencia. Al mismo tiempo, la regi\u00f3n acoge a un gran n\u00famero de migrantes retornados desde Libia, muchos de ellos con necesidades urgentes de protecci\u00f3n, incluidos supervivientes de violencia, explotaci\u00f3n y detenci\u00f3n.\n\nEl programa respaldar\u00e1 los esfuerzos nacionales para fortalecer la capacidad del Chad de gestionar la migraci\u00f3n de manera segura, ordenada y digna, ampliando el acceso a la documentaci\u00f3n legal y a servicios sociales y de protecci\u00f3n esenciales para los migrantes y las comunidades de acogida. Asimismo, reforzar\u00e1 las acciones de prevenci\u00f3n de la trata de personas y el tr\u00e1fico il\u00edcito de migrantes mediante el apoyo a la recopilaci\u00f3n, el an\u00e1lisis y la gesti\u00f3n de datos migratorios.\n\nAl invertir en medios de subsistencia, gobernanza local y cohesi\u00f3n social, la iniciativa tiene como objetivo abordar algunos de los factores estructurales de la migraci\u00f3n irregular, al tiempo que contribuye a reforzar la resiliencia de las comunidades frente a futuras crisis.\n\nLa iniciativa se basa en inversiones anteriores de la OIM y sus asociados, destinadas a fortalecer la resiliencia en el norte del Chad, incluidos el proyecto Balke financiado por Alemania (2021-2023) y el programa RESITCHAD respaldado por el Banco Mundial (2024-2026). En conjunto, estos esfuerzos forman parte de una estrategia a largo plazo orientada a abordar los factores estructurales de la fragilidad y la migraci\u00f3n irregular en el Chad y en el Sahel en general.\n\n\"Esta intervenci\u00f3n representa una oportunidad para fomentar la estabilidad en una regi\u00f3n del Chad que enfrenta una importante presi\u00f3n migratoria en un contexto fr\u00e1gil marcado por din\u00e1micas transfronterizas con Libia\", declar\u00f3 Amador S\u00e1nchez Rico, Embajador de la Uni\u00f3n Europea en Chad. \"El proyecto demostrar\u00e1 que la promoci\u00f3n del di\u00e1logo y de acciones inclusivas puede generar beneficios tangibles para las comunidades, independientemente de su origen, al tiempo que fortalece la estabilidad general del pa\u00eds.\"\n\nEl programa est\u00e1 financiado por la Uni\u00f3n Europea y ser\u00e1 implementado por la OIM en estrecha colaboraci\u00f3n con el Gobierno del Chad, las autoridades descentralizadas y las organizaciones locales, en consonancia con las prioridades nacionales en materia de estabilizaci\u00f3n, desarrollo y gobernanza de la migraci\u00f3n.\n\n*Para m\u00e1s informaci\u00f3n, visite el [Centro de Prensa de la OIM](https://www.iom.int/media-inquiries).*",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218692",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-01T01:08:06+00:00",
-                "created": "2026-06-30T19:03:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218692"
-    },
-    {
-        "id": "4218691",
-        "score": 1,
-        "fields": {
-            "title": "L\u2019UE et l\u2019OIM lancent une initiative de 13,3 millions d\u2019euros pour soutenir 250 000 personnes dans le nord du Tchad",
-            "body": "**N\u2019Djamena, 30 juillet 2026** \u2013 Plus de 250 000 personnes dans le nord du Tchad devraient b\u00e9n\u00e9ficier d\u2019un nouveau programme de l\u2019Union europ\u00e9enne et de l\u2019OIM, dot\u00e9 de 13,3 millions d\u2019euros. Cette initiative soutiendra les priorit\u00e9s nationales visant \u00e0 renforcer la stabilit\u00e9, \u00e0 d\u00e9velopper des opportunit\u00e9s \u00e9conomiques et \u00e0 am\u00e9liorer la gouvernance des migrations le long de l\u2019un des corridors migratoires les plus fr\u00e9quent\u00e9s d\u2019Afrique.\n\nAu cours des trois prochaines ann\u00e9es, le programme apportera un soutien direct \u00e0 1 500 jeunes, en accordant une attention particuli\u00e8re aux femmes et aux jeunes. Il comprendra des formations professionnelles, des activit\u00e9s g\u00e9n\u00e9ratrices de revenus ainsi que des initiatives de cash-for-work (travail contre r\u00e9mun\u00e9ration). En parall\u00e8le, il contribuera \u00e0 \u00e9largir l\u2019acc\u00e8s aux services essentiels, \u00e0 renforcer la gouvernance locale et \u00e0 promouvoir la coh\u00e9sion sociale dans certaines des communaut\u00e9s les plus vuln\u00e9rables du Sahel.\n\n\u00ab Ce programme refl\u00e8te notre conviction commune que l\u2019investissement \u00e0 long terme dans la stabilisation \u2014 \u00e0 travers le renforcement des services, des moyens de subsistance durables et d\u2019une gouvernance locale efficace \u2014 est indispensable \u00e0 un d\u00e9veloppement durable \u00bb, a d\u00e9clar\u00e9 Giovanni Cassani, Chef de mission de l\u2019OIM au Tchad. \u00ab Lorsque les communaut\u00e9s disposent des moyens de s\u2019\u00e9panouir, elles sont mieux \u00e0 m\u00eame de fa\u00e7onner leur propre avenir et de contribuer \u00e0 une paix et une stabilit\u00e9 durables. \u00bb\n\nLe nord du Tchad se situe au carrefour de l\u2019Afrique subsaharienne, du Sahel et de l\u2019Afrique du Nord, ce qui en fait l\u2019un des principaux corridors migratoires du continent. Faya, la principale ville de la r\u00e9gion, accueille des communaut\u00e9s confront\u00e9es \u00e0 des d\u00e9fis \u00e9conomiques, environnementaux et li\u00e9s \u00e0 la mobilit\u00e9. La ville est devenue un important hub de transit pour des milliers de migrants en d\u00e9placement dans le Sahel \u00e0 la recherche d\u2019opportunit\u00e9s \u00e9conomiques.\n\nRien qu\u2019en 2025, l\u2019OIM a enregistr\u00e9 plus de [225 000 mouvements de migrants](https://dtm.iom.int/fr/reports/tchad-analyse-denquetes-individuelles-des-flux-de-populations-octobre-decembre-2025?close=true) \u00e0 travers le Tchad, dont beaucoup empruntent des routes d\u00e9sertiques recul\u00e9es offrant peu de protection et un acc\u00e8s limit\u00e9 \u00e0 l\u2019assistance. Parall\u00e8lement, la r\u00e9gion accueille un grand nombre de migrants de retour de Libye, dont beaucoup pr\u00e9sentent des besoins importants en mati\u00e8re de protection, notamment des survivants de violences, d\u2019exploitation et de d\u00e9tention.\n\nLe programme soutiendra les efforts nationaux visant \u00e0 renforcer la capacit\u00e9 du Tchad \u00e0 g\u00e9rer la migration de mani\u00e8re s\u00fbre, ordonn\u00e9e et digne, en \u00e9largissant l\u2019acc\u00e8s \u00e0 la documentation juridique ainsi qu\u2019aux services sociaux et de protection essentiels pour les migrants et les communaut\u00e9s d\u2019accueil. Il contribuera \u00e9galement \u00e0 pr\u00e9venir la traite des personnes et le trafic de migrants gr\u00e2ce au renforcement de la collecte, de l\u2019analyse et de la gestion des donn\u00e9es migratoires.\n\nEn investissant dans les moyens de subsistance, la gouvernance locale et la coh\u00e9sion sociale, cette initiative vise \u00e0 s\u2019attaquer aux facteurs sous-jacents de la migration irr\u00e9guli\u00e8re, tout en aidant les communaut\u00e9s \u00e0 mieux r\u00e9sister aux chocs futurs.\n\nL\u2019initiative s\u2019appuie sur des investissements ant\u00e9rieurs de l\u2019OIM et de ses partenaires pour renforcer la r\u00e9silience dans le nord du Tchad, notamment le projet Balke financ\u00e9 par l\u2019Allemagne (2021-2023) et le programme RESITCHAD soutenu par la Banque mondiale (2024-2026). Ensemble, ces efforts s\u2019inscrivent dans une strat\u00e9gie \u00e0 long terme visant \u00e0 s\u2019attaquer aux facteurs structurels de fragilit\u00e9 et de migration irr\u00e9guli\u00e8re \u00e0 travers le Tchad et l\u2019ensemble du Sahel.\n\n\u00ab Cette intervention repr\u00e9sente une opportunit\u00e9 de promouvoir la stabilit\u00e9 dans une r\u00e9gion du Tchad soumise \u00e0 une pression migratoire importante dans un contexte de fragilit\u00e9 fa\u00e7onn\u00e9 par des dynamiques transfrontali\u00e8res avec la Libye \u00bb, a d\u00e9clar\u00e9 Amador Sanchez Rico, Ambassadeur de l\u2019Union europ\u00e9enne au Tchad. \u00ab Le projet d\u00e9montrera que la promotion du dialogue et d\u2019une action inclusive peut apporter des b\u00e9n\u00e9fices tangibles aux communaut\u00e9s, quelle que soit leur origine, tout en renfor\u00e7ant la stabilit\u00e9 globale du pays. \u00bb\n\nLe programme est financ\u00e9 par l\u2019Union europ\u00e9enne et sera mis en \u0153uvre par l\u2019OIM en \u00e9troite collaboration avec le Gouvernement du Tchad, les autorit\u00e9s d\u00e9centralis\u00e9es et les organisations locales, conform\u00e9ment aux priorit\u00e9s nationales en mati\u00e8re de stabilisation, de d\u00e9veloppement et de gouvernance des migrations.\n\n*Pour plus d\u2019informations, veuillez consulter le [Centre de presse de l\u2019OIM](https://www.iom.int/media-inquiries).*",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218691",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-01T01:08:52+00:00",
-                "created": "2026-06-30T19:03:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218691"
-    },
-    {
-        "id": "4218664",
-        "score": 1,
-        "fields": {
-            "title": "IFRC deeply saddened following killing of Red Cross volunteers in the Democratic Republic of the Congo",
-            "body": "**Geneva / Kinshasa, 30 June 2026** - The International Federation of Red Cross and Red Crescent Societies (IFRC) is deeply saddened by the killing of two volunteers of the Red Cross of the Democratic Republic of the Congo on 16 June 2026 in Kakumba village, Irongo Groupement, Walungu Territory, South Kivu Province.\n\nThe two volunteers, Byamungu Mugisho Kabuha and Mugisho Mparanya Romain, were carrying out a humanitarian mission linked to the rehabilitation of a water supply system serving communities when they were brutally killed by unidentified armed individuals.\n\nAt the time of the attack, both volunteers were wearing Red Cross visibility gear, and the motorcycle they were riding was also clearly marked with the Red Cross emblem, a universally recognized symbol of neutrality, impartiality and humanitarian assistance.\n\nThis tragic incident highlights the increasing risks faced by humanitarian personnel, particularly in areas affected by protracted conflict and insecurity. Attacks against aid workers not only violate international humanitarian law, but also severely undermine the delivery of essential services to people in need.\n\nThe IFRC extends its deepest condolences to the families of the deceased volunteers, the Red Cross of the DRC, and the entire Red Cross and Red Crescent Movement. Humanitarian personnel must be protected and respected at all times.\n\nThe IFRC stands in solidarity with the Red Cross of the DRC and reaffirms its commitment to continue supporting humanitarian efforts to assist communities in eastern DRC.\n\n**In Kinshasa:** Jean-Michel Ntalemwa: +243 808 804 037\n\n**In Nairobi:** Cate Kamatu: +254 728 815 266\n\n**In Geneva:** Scott Craig: +41 76 370 3575\n\nThe IFRC is the world's largest humanitarian network, comprising 191 National Red Cross and Red Crescent Societies working to save lives and promote dignity around the world.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218664",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-01T02:00:29+00:00",
-                "created": "2026-06-30T14:03:04+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218664"
-    },
-    {
-        "id": "4218640",
-        "score": 1,
-        "fields": {
-            "title": "Ebola Bundibugyo virus disease outbreak: Democratic Republic of the Congo | Uganda Weekly External Situation Report 07, Data as of 28 June 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218640",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-06-30T13:16:28+00:00",
-                "created": "2026-06-30T13:03:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218640"
     }
 ]
