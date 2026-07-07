@@ -1,5 +1,46 @@
 [
     {
+        "id": "4220267",
+        "score": 1,
+        "fields": {
+            "title": "IOM Multi-Country EVD Preparedness & Response Plan (Jun - Nov 2026)",
+            "body": "1\\. Regional Situation Analysis\n\nThe East, Horn and Southern Africa (EHSA) region is experiencing a significant cross-border public health threat following the declaration of the 17th Ebola virus disease (EVD) outbreak in the Democratic Republic of the Congo (DRC) on 15 May 2026, caused by the Bundibugyo virus. As of 27 June 2026, the outbreak had resulted in 1,274 confirmed cases and 360 deaths in DRC, concentrated in the eastern provinces of Ituri, North Kivu and South Kivu. Cross-border transmission has already been confirmed in Uganda, which had reported 20 confirmed cases and 2 confirmed deaths, along with 1 confirmed case in France as of the same date, with the outbreak epidemiologically linked to population movement from DRC. Neighbouring countries and those in the broader region, including Burundi, Rwanda, South Sudan, Ethiopia, Kenya, Angola, the United Republic of Tanzania, Zambia, the Central African Republic (CAR) and the Republic of Congo, remain at elevated risk of importation due to strong population mobility links, established cross-border trade and transit corridors and shared, porous borders with affected areas. Based on regional risk prioritization approaches aligned with WHO, Africa Centres for Disease Control and Prevention (Africa CDC) and national preparedness frameworks, countries have been categorized into priority groupings reflecting their level of risk and preparedness needs (including Priority 1 and Priority 2 contexts). Across these settings, preparedness measures have been intensified, including enhanced disease surveillance, traveller screening, infection prevention and control (IPC) readiness and cross-border coordination.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220267",
+            "date": {
+                "original": "2026-07-07T00:00:00+00:00",
+                "changed": "2026-07-07T09:41:19+00:00",
+                "created": "2026-07-07T08:33:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220267"
+    },
+    {
         "id": "4219828",
         "score": 1,
         "fields": {
@@ -1741,45 +1782,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4218846"
-    },
-    {
-        "id": "4218813",
-        "score": 1,
-        "fields": {
-            "title": "Concern ramps up its response in DRC as Ebola continues to spread",
-            "body": "Concern staff load vehicles with tequipment and supplies before the teams depart to support targeted communities in North Kivu, Democratic Republic of Congo. Concern is providing communities with the means to prevent the spread of Ebola, including constructing and rehabilitating boreholes so that people have access to clean water, building emergency latrines and showers, and training community leaders on prevention, identification, and referral. Photo: Samuel Isenge/ Concern Worldwide\n\nConcern Worldwide is ramping up its work to protect communities from the escalating Ebola crisis in Democratic Republic of Congo, as the number of confirmed deaths and cases continues to rise.\n\nUp to June 29 there were 1,333 confirmed cases of the disease in DRC and 399 deaths. \u201cIt\u2019s difficult to estimate the true scale of the outbreak, but we can confidently say the real figures are significantly higher,\u201d Concern\u2019s Country Director in DRC, David Jones, said. \u201cMany people who have symptoms are not coming forward, due to a combination of distrust and fear.\n\n\u201cFear is driving people to hide suspected cases. If somebody is brought to a clinic with symptoms they are taken away immediately and isolated. If they subsequently die, families are not allowed to be buried by the family in the way they would otherwise do. This is driving a swell of distrust and fear for what happens to their loved ones.\u201d\n\nThe fact that infected people are not coming forward for treatment, is a major challenge as it increases the risk of Ebola spreading further, he noted.\n\nIturi province in eastern DRC is the epicentre of the outbreak, accounting for more than 90% of cases and 88% of deaths to date. The fatality rate among confirmed cases there is 27.6%. However, in neighbouring North Kivu province, where Concern is responding, the death rate among confirmed cases is currently 54.3%.\n\n\u201cThe focus of the response to date has been on Ituri, with more medical support, so that symptoms are being identified at an earlier stage and those infected by have a fighting chance. In contrast, in North Kivu there are fewer medical resources and less information, and people are being diagnosed at a much later stage.\u201d\n\nConcern has worked in DRC since 1994 and has well established relationships with local communities. However, Concern and other organisations responding to the outbreak are being hindered by continuing conflict in the region, which is terrorising local communities.\n\n\u201cIn the last fortnight alone, none state actors have attacked six villages near where we are working,\u201d Mr Jones said. \u201cMany of the attacks occur at night. Large numbers of people have been bringing their families into larger towns each evening for safety. They sleep in the town centre, and then return home the next morning,\u201d he said.\n\nIn addition to its existing programme work in DRC, Concern is aiming to reach over 113,000 people through Ebola-related interventions. Concern\u2019s response is focusing on:\n\n- Informing communities about the disease, its symptoms, how it spreads and how to protect themselves;\n- Providing communities with the means to prevent the spread of Ebola, including constructing and rehabilitating boreholes so that people have access to clean water, building emergency latrines and showers, and training community leaders on prevention, identification, and referral.\n- Supporting health clinics by distributing Infection Prevention and Control kits to healthcare staff, supplying handwashing / hygiene kits, and installing handwashing stations.\n\n\u201cWith the emergency support of Irish Aid and Concern\u2019s Ebola Emergency Appeal, Concern is able to provide critical water, sanitation, hygiene, and protection work to support the communities based at the edges of the epicentre, to continue to inform, prevent, and protect people from the spread of this deadly disease,\u201d Mr Jones said.\n\nTo support Concern\u2019s Ebola Emergency Appeal click [here](http://www.concern.net/donate/ebola-emergency-social-appeal/inline-checkout)\n\n**For media queries and to organise media interviews contact Eamon Timmins, Media Relations Manager, Concern Worldwide at eamon.timmins@concern.net or 00 353 87 9880524**",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/359",
-                    "id": 359,
-                    "name": "Concern Worldwide",
-                    "shortname": "Concern",
-                    "longname": "Concern",
-                    "homepage": "https://www.concern.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4218813",
-            "date": {
-                "original": "2026-07-01T00:00:00+00:00",
-                "changed": "2026-07-01T14:11:31+00:00",
-                "created": "2026-07-01T11:33:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4218813"
     }
 ]
