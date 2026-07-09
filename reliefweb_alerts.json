@@ -1,5 +1,108 @@
 [
     {
+        "id": "4220696",
+        "score": 1,
+        "fields": {
+            "title": "Cluster sant\u00e9: veille informationnelles des activit\u00e9s_Juin 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220696",
+            "date": {
+                "original": "2026-07-09T00:00:00+00:00",
+                "changed": "2026-07-09T09:33:34+00:00",
+                "created": "2026-07-09T09:33:03+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220696"
+    },
+    {
+        "id": "4220690",
+        "score": 1,
+        "fields": {
+            "title": "Analyse des risques communautaires li\u00e9s \u00e0 l\u2019EAS et \u00e0 l\u2019AAP dans la r\u00e9ponse \u00e0 la Maladie \u00e0 Virus Ebola (MVE) en Ituri \u2013 Juin 2026",
+            "body": "\u00c9valuation des risques communautaires en mati\u00e8re d\u2019Exploitation et Abus Sexuels (EAS) et de Redevabilit\u00e9 envers les Populations Affect\u00e9es (AAP) dans le cadre de la r\u00e9ponse \u00e0 la MVE en Ituri \u2013 Juin 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/52337",
+                    "id": 52337,
+                    "name": "PSEA Network DRC",
+                    "shortname": "PSEA Network DRC",
+                    "longname": "Inter-Agency Protection from Sexual Exploitation and Abuse (PSEA) Network in the Democratic Republic of the Congo",
+                    "homepage": "https://response.reliefweb.int/democratic-republic-congo/psea",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2782",
+                    "id": 2782,
+                    "name": "UN Country Team in DR Congo",
+                    "shortname": "UNCT DRC",
+                    "longname": "United Nations Country Team in Democratic Republic of the Congo",
+                    "homepage": "https://drcongo.un.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220690",
+            "date": {
+                "original": "2026-06-18T00:00:00+00:00",
+                "changed": "2026-07-09T09:19:16+00:00",
+                "created": "2026-07-09T09:11:16+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220690"
+    },
+    {
         "id": "4220631",
         "score": 1,
         "fields": {
@@ -118,6 +221,47 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4220610"
+    },
+    {
+        "id": "4220558",
+        "score": 1,
+        "fields": {
+            "title": "Speech by Commissioner Lahbib at the European Parliament on the Ebola Outbreak in Democratic Republic of the Congo and Uganda",
+            "body": "**\"Check against delivery\"**\n\nThe Ebola outbreak continues to expand rapidly in a region marked by conflict, displacement and fragile health systems.\n\nIt is a crisis within a crisis, and a reminder that in today's interconnected world, no country can face a major health threat alone. Sustained financing and global coordination are essential.\n\nAccording to European Centre for Disease Control and Prevention (ECDC), the risk of infection for people living in the EU remains very low. But this is no reason for complacency. We remain vigilant, and the Health Security Committee issued an Opinion on the current recommendations for a common EU approach.\n\nThe EU and our Member States are prepared for an imported Ebola case, as France's rapid response has shown.\n\nA few weeks ago, I travelled to Bunia, in Ituri, the epicentre of the outbreak, to show EU solidarity and reaffirm our support. I saw the extraordinary bravery of healthcare and humanitarian workers operating in extremely difficult conditions.\n\nBut I also saw that Europe's support matters. Our presence, our reliability and our ability to act quickly are recognised and highly valued by our partners. Our assistance is saving lives.\n\nMajor challenges remain. Our priority is to boost surveillance and contact tracing, deploy diagnostics and medical teams, support exit screening, keep humanitarian and health access open, strengthen community trust, and ensure respect for International Humanitarian Law.\n\nSince day one, we have worked with WHO, the Africa CDC, affected countries and partners. European Centre for Disease Prevention and Control experts have been deployed through the EU Health Task Force to support Africa CDC and strengthen exit screening.\n\nOverall, the EU is providing immediate and long-term support of EUR 493 million for humanitarian aid, vaccines, treatments and health security in the region.\n\nThis includes more than EUR 100 million for the current preparedness and response efforts, with EUR 16.5 million to rapidly deploy diagnostics and strengthen field testing capacities.\n\nWe have invested EUR 39.3 million in CEPI \u2013 the Coalition for Epidemic Preparedness Innovations \u2013 to support the development of new, broadly protective filovirus vaccines.\n\nWe have also mobilised EUR 15 million in humanitarian assistance for WHO and frontline humanitarian partners and transported over 590 tonnes of essential supplies to eastern DRC through 8 EU Humanitarian Air Bridges.\n\nOur response builds on years of EU investment in health security in Africa: healthcare workforce training, public health institutes and laboratory capacities, clinical trials infrastructure, surveillance, logistics, and research into vaccines, therapeutics, and diagnostics.\n\nBeyond our bilateral and Team Europe action, we continue to provide significant multilateral contributions to the global health initiatives such as the Pandemic Fund, Gavi and the Global Fund, which are mobilising flexible funding to help countries respond to Ebola and maintain essential health services.\n\nWhile responding to the immediate crisis, we must also continue building long-term preparedness and response capacity. This is the aim of the Global Health Resilience Initiative: to help countries prevent, prepare for and respond to current and future outbreaks.\n\nContaining Ebola requires solidarity, political commitment to bring a lasting solution to the conflict, sustained financing, and reliable access to lifesaving humanitarian supplies and medical equipment. I have pleaded for that already in February during my first visit to the Great Lakes region.\n\nWe must invest in what is needed today while preparing for tomorrow. This is why sustainable financing and health preparedness must go hand in hand in the next Multiannual Financial Framework.\n\nYou can count on my commitment to support the response, mobilise resources, and advocate for humanitarian access and respect for international humanitarian law.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/533",
+                    "id": 533,
+                    "name": "European Commission",
+                    "shortname": "EC",
+                    "longname": "European Commission",
+                    "spanish_name": "Comisi\u00f3n Europea",
+                    "homepage": "https://commission.europa.eu/index_en",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220558",
+            "date": {
+                "original": "2026-07-08T00:00:00+00:00",
+                "changed": "2026-07-09T04:58:17+00:00",
+                "created": "2026-07-08T14:33:15+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220558"
     },
     {
         "id": "4220552",
@@ -1547,162 +1691,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4219828"
-    },
-    {
-        "id": "4219825",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo : Cluster S\u00e9curit\u00e9 alimentaire - Crise Ebola \u2013 sitrep #7 (Du 29 au 05 Juillet 26)",
-            "body": "**Messages cl\u00e9s**\n\n\u2022 L\u2019\u00e9pid\u00e9mie d\u2019Ebola continue \u00e0 s\u2019\u00e9tendre dans des zones d\u00e9j\u00e0 confront\u00e9es \u00e0 des niveaux \u00e9lev\u00e9s d\u2019ins\u00e9curit\u00e9 alimentaire.\n\n\u2022 La couverture de l\u2019assistance alimentaire reste insuffisante pour les cas confirm\u00e9s, leurs familles et les contacts.\n\n\u2022 Un positionnement rapide des partenaires et des financements flexibles sont n\u00e9cessaires dans les zones de sant\u00e9 prioritaires.\n\n**Qu'est-ce qui a chang\u00e9 cette semaine**\n\n\u2022 A ce jour, on note 36 zones de sant\u00e9s affect\u00e9es par la MVE\n\n\u2022 Deux nouvelles zones touch\u00e9es dans la province de l\u2019Ituri \u00e0 savoir Mandima et Lolwa. 67% des zones de sant\u00e9 de ces provinces sont actuellement touch\u00e9es par la MVE.\n\n\u2022 Parmi les zones de sant\u00e9 affect\u00e9es, 8 d\u2019entre elles sont class\u00e9es en phase 4 avec environ 49% des personnes class\u00e9es en IPC 3+\n\n\u2022 Deux nouvelles zones de sant\u00e9 couvertes par les repas chauds \u00e0 savoir Aru et Nia-Nia.\n\n\u2022 L\u2019\u00e9pid\u00e9mie d\u2019Ebola a fortement d\u00e9stabilis\u00e9 les march\u00e9s, perturbant les importations et fragilisant les circuits d\u2019approvisionnement internes. Cette situation, conjugu\u00e9e \u00e0 la flamb\u00e9e des prix, compromet l\u2019acc\u00e8s \u00e0 l\u2019alimentation, en particulier pour les m\u00e9nages les plus vuln\u00e9rables.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2836",
-                    "id": 2836,
-                    "name": "Food and Agriculture Organization of the United Nations",
-                    "shortname": "FAO",
-                    "longname": "Food and Agriculture Organization of the United Nations",
-                    "spanish_name": "Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n",
-                    "homepage": "https://www.fao.org/home/en/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/13679",
-                    "id": 13679,
-                    "name": "Food Security Cluster",
-                    "shortname": "FSC",
-                    "homepage": "https://fscluster.org",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4219825",
-            "date": {
-                "original": "2026-07-06T00:00:00+00:00",
-                "changed": "2026-07-06T23:13:30+00:00",
-                "created": "2026-07-06T23:11:22+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4219825"
-    },
-    {
-        "id": "4219796",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo : Compte Rendu de la R\u00e9union de Coordination sur la r\u00e9ponse logistique dans la riposte \u00e0 la Maladie \u00e0 Virus Ebola - COUSP et Cluster Logistique, 1 juillet 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3594",
-                    "id": 3594,
-                    "name": "Logistics Cluster",
-                    "shortname": "Logistics Cluster",
-                    "homepage": "https://www.logcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4219796",
-            "date": {
-                "original": "2026-07-01T00:00:00+00:00",
-                "changed": "2026-07-07T00:54:35+00:00",
-                "created": "2026-07-06T16:40:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4219796"
-    },
-    {
-        "id": "4219769",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique centrafricaine : Calendrier des r\u00e9unions de Bangui (juillet 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4219769",
-            "date": {
-                "original": "2026-07-06T00:00:00+00:00",
-                "changed": "2026-07-06T13:36:12+00:00",
-                "created": "2026-07-06T13:30:23+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4219769"
     }
 ]
