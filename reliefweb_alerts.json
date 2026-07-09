@@ -1,9 +1,49 @@
 [
     {
+        "id": "4220717",
+        "score": 1,
+        "fields": {
+            "title": "Acute Humanitarian Response in Education \u2013 Learning Review | NRC",
+            "body": "Since 2024, NRC has delivered First-line Education Responses in eight crisis-affected countries. The response modality uses Learning through Play to support children to recover from trauma, build relationships, and prepare for continued learning.  \n  \n**Background**\n\nNRC\u2019s Acute Humanitarian Response in Education, funded by the LEGO Foundation, ensures flexible funds are earmarked for education needs in acute crises. This funding, reserved solely for education responses, has enabled NRC to develop its FLER approach and rapidly deliver critical education support. The funding supports children aged 5-12+ years, as well as the caregivers, families, education practitioners, and community members who care for them, by initiating lifesaving education activities within 42 days. Since 2024, NRC has delivered FLERs in DR Congo, Ethiopia, Lebanon, Palestine, Somalia, Sudan, Syria, and Uganda.\n\nWith Learning through Play (LtP) at the center of the approach, NRC FLER seeks to best meet children\u2019s educational, psychosocial, and socialemotional needs in the immediate aftermath of a crisis. Interventions are contextually tailored to maximise children\u2019s improved wellbeing. Programming often includes the establishment of safe and accessible learning spaces, distribution of teaching and learning materials, training for facilators, light school feeding, engagement of parents and caregivers, and LtP sessions for children inclusive of NRC\u2019s flagship Better Learning Programme.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1331",
+                    "id": 1331,
+                    "name": "Norwegian Refugee Council",
+                    "shortname": "NRC",
+                    "longname": "Norwegian Refugee Council",
+                    "homepage": "https://www.nrc.no/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220717",
+            "date": {
+                "original": "2026-07-09T00:00:00+00:00",
+                "changed": "2026-07-09T12:28:14+00:00",
+                "created": "2026-07-09T10:33:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220717"
+    },
+    {
         "id": "4220696",
         "score": 1,
         "fields": {
-            "title": "Cluster sant\u00e9: veille informationnelles des activit\u00e9s_Juin 2026",
+            "title": "Cluster sant\u00e9: Veille informationnelle des activit\u00e9s (Juin 2026)",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/55",
                 "id": 55,
@@ -44,7 +84,7 @@
             "url": "https://reliefweb.int/node/4220696",
             "date": {
                 "original": "2026-07-09T00:00:00+00:00",
-                "changed": "2026-07-09T09:33:34+00:00",
+                "changed": "2026-07-09T11:03:46+00:00",
                 "created": "2026-07-09T09:33:03+00:00"
             }
         },
@@ -96,11 +136,113 @@
             "url": "https://reliefweb.int/node/4220690",
             "date": {
                 "original": "2026-06-18T00:00:00+00:00",
-                "changed": "2026-07-09T09:19:16+00:00",
+                "changed": "2026-07-09T10:58:14+00:00",
                 "created": "2026-07-09T09:11:16+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4220690"
+    },
+    {
+        "id": "4220665",
+        "score": 1,
+        "fields": {
+            "title": "DRC - Ebola Response Logistics Services Quick Guide, July 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3594",
+                    "id": 3594,
+                    "name": "Logistics Cluster",
+                    "shortname": "Logistics Cluster",
+                    "homepage": "https://www.logcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "http://www.wfp.org",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220665",
+            "date": {
+                "original": "2026-07-09T00:00:00+00:00",
+                "changed": "2026-07-09T10:21:48+00:00",
+                "created": "2026-07-09T07:40:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220665"
+    },
+    {
+        "id": "4220664",
+        "score": 1,
+        "fields": {
+            "title": "DRC - Standard Operating Procedures (SOPs) for Common Logistics Services, July 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3594",
+                    "id": 3594,
+                    "name": "Logistics Cluster",
+                    "shortname": "Logistics Cluster",
+                    "homepage": "https://www.logcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "http://www.wfp.org",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220664",
+            "date": {
+                "original": "2026-07-09T00:00:00+00:00",
+                "changed": "2026-07-09T10:21:20+00:00",
+                "created": "2026-07-09T07:40:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220664"
     },
     {
         "id": "4220631",
@@ -1544,152 +1686,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4220306"
-    },
-    {
-        "id": "4220304",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: Latest Events at a glance (30 June - 6 July 2026)",
-            "body": "**West Africa**\n\n*Deadly floods batter West Africa as extreme rains intensify*\n\nAccording to media sources, severe rains and flooding have swept across C\u00f4te d\u2019Ivoire, Ghana, Benin, Togo and Nigeria, leaving dozens dead and causing widespread destruction. Since the start of the rainy season in mid-May this year, at least 59 people have died in C\u00f4te d\u2019Ivoire, while recent floods have killed at least 13 people in Ghana and five in Togo.   \n  \nThe flooding follows exceptionally heavy rainfall, with Ghana recording more than 140 mm of rain in just 24 hours\u2014one of its highest daily totals since 1995. Entire neighborhoods and roads in the capital, Accra, were submerged, leaving residents stranded and forcing some to swim through neck-deep water to rescue neighbors. Similar scenes unfolded in Benin, where torrential rains flooded large parts of the capital, Cotonou.   \n  \nScientists warn that climate change is making extreme rainfall more frequent and more intense. Governments across the region have announced emergency measures. In Ghana, President John Mahama ordered the demolition of buildings constructed on waterways and released US$29 million for relief efforts. In C\u00f4te d\u2019Ivoire, authorities warned the death toll could rise as rescue operations continue and urged residents to leave flood-prone areas. The government also announced plans to build 12,000 affordable homes to relocate around 60,000 people living in high-risk zones.\n\nAccording to the World Meteorological Organization, Africa\u2014despite contributing only a small share of global greenhouse gas emissions\u2014is among the regions most vulnerable to climate extremes.\n\n**Democratic Republic of the Congo**\n\n*Ebola outbreak intensifies in the east amid funding gaps*\n\nAs of 4 July, health authorities have reported 1,561 confirmed Ebola cases across Ituri, North Kivu and South Kivu. Ituri Province remains the epicentre, accounting for 90.8% of all confirmed infections. Poor water, sanitation and hygiene conditions in displacement sites continue to fuel concerns, including at least four sites where Ebola cases have been detected. Response operations are ongoing in affected areas, but humanitarian partners warn that severe funding shortfalls are limiting their ability to respond at scale. OCHA is urging increased resources to support life-saving interventions across 69 displacement sites in Ituri, where over 273,000 displaced people are facing acute needs across multiple sectors.\n\n**Cameroon**\n\n*Rising violence and cholera outbreak deepen humanitarian crisis*\n\nViolence across the Lake Chad Basin region has sharply intensified, with security incidents increasing by 80 per cent between January 2024 and April 2026 across Cameroon, Chad, Niger, and Nigeria, UN High Commissioner for Refugees warned on 3 July. In Cameroon\u2019s Far North, ongoing attacks, abductions, and insecurity continue to drive displacement. Nearly one million people are now displaced, refugees or returnees, while 1.3 million require humanitarian assistance. Protection concerns are escalating, with reports that one in four communities includes separated or unaccompanied children, and women and girls facing heightened risks amid severely underfunded protection services. The situation is further compounded by a cholera outbreak confirmed on 23 June, with 123 cases and 10 deaths reported as of 3 July, amid concerns of cross-border transmission. Humanitarian funding remains critically low, with the 2026 response plan only 24 per cent funded.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220304",
-            "date": {
-                "original": "2026-07-07T00:00:00+00:00",
-                "changed": "2026-07-07T14:09:44+00:00",
-                "created": "2026-07-07T10:37:22+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220304"
-    },
-    {
-        "id": "4220267",
-        "score": 1,
-        "fields": {
-            "title": "IOM Multi-Country EVD Preparedness & Response Plan (Jun - Nov 2026)",
-            "body": "1\\. Regional Situation Analysis\n\nThe East, Horn and Southern Africa (EHSA) region is experiencing a significant cross-border public health threat following the declaration of the 17th Ebola virus disease (EVD) outbreak in the Democratic Republic of the Congo (DRC) on 15 May 2026, caused by the Bundibugyo virus. As of 27 June 2026, the outbreak had resulted in 1,274 confirmed cases and 360 deaths in DRC, concentrated in the eastern provinces of Ituri, North Kivu and South Kivu. Cross-border transmission has already been confirmed in Uganda, which had reported 20 confirmed cases and 2 confirmed deaths, along with 1 confirmed case in France as of the same date, with the outbreak epidemiologically linked to population movement from DRC. Neighbouring countries and those in the broader region, including Burundi, Rwanda, South Sudan, Ethiopia, Kenya, Angola, the United Republic of Tanzania, Zambia, the Central African Republic (CAR) and the Republic of Congo, remain at elevated risk of importation due to strong population mobility links, established cross-border trade and transit corridors and shared, porous borders with affected areas. Based on regional risk prioritization approaches aligned with WHO, Africa Centres for Disease Control and Prevention (Africa CDC) and national preparedness frameworks, countries have been categorized into priority groupings reflecting their level of risk and preparedness needs (including Priority 1 and Priority 2 contexts). Across these settings, preparedness measures have been intensified, including enhanced disease surveillance, traveller screening, infection prevention and control (IPC) readiness and cross-border coordination.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220267",
-            "date": {
-                "original": "2026-07-07T00:00:00+00:00",
-                "changed": "2026-07-07T09:41:19+00:00",
-                "created": "2026-07-07T08:33:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220267"
-    },
-    {
-        "id": "4219828",
-        "score": 1,
-        "fields": {
-            "title": "DRC: Ebola BVD Outbreak: LTC Situation Report (Telecoms) #5 (Reporting period: 29 June - 05 July 2026)",
-            "body": "*This situation report provides updates on the Ebola Bundibugyo Virus Disease (BVD) Outbreak in the Democratic Republic of the Congo (DRC). It outlines planned and ongoing telecommunications activities of the Logistics & Telecommunications Cluster1 (LTC) - Telecoms to support the ongoing humanitarian response.*\n\n**Summary Points**\n\n\u2022 Six weeks after the World Health Organization (WHO) declared the Ebola outbreak in the Democratic Republic of the Congo (DRC) a public health concern, confirmed cases have surpassed 1,400. This underscores the growing need for reliable connectivity at health facilities, laboratories and coordination hubs to support surveillance, data management, coordination and service delivery.\n\n\u2022 LTC Telecoms supported UNDSS in repairing damaged radio repeaters in Bunia, restoring the dedicated UN security communications channel after six months downtime to restore and improve critical communications for humanitarian responders. This restoration is vital to humanitarians, especially health partners who are delivering services in Bunia, to safely conduct their missions.\n\n\u2022 Following the 26 June field assessment in Mongbwalu, LTC Telecoms is initiating local procurement of a solar backup power system to sustain satellite connectivity at Mongbwalu General Hospital and reduce service disruptions caused by frequent power outages",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/13799",
-                    "id": 13799,
-                    "name": "Emergency Telecommunications Cluster",
-                    "shortname": "ETC",
-                    "longname": "Emergency Telecommunications Cluster",
-                    "homepage": "https://www.etcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3594",
-                    "id": 3594,
-                    "name": "Logistics Cluster",
-                    "shortname": "Logistics Cluster",
-                    "homepage": "https://www.logcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4219828",
-            "date": {
-                "original": "2026-07-06T00:00:00+00:00",
-                "changed": "2026-07-07T00:17:52+00:00",
-                "created": "2026-07-07T00:16:55+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4219828"
     }
 ]
