@@ -1,5 +1,85 @@
 [
     {
+        "id": "4220848",
+        "score": 1,
+        "fields": {
+            "title": "DR Congo: Ebola outbreak a crisis within a neglected crisis | NRC",
+            "body": "Statement by Eric Batonon, the Norwegian Refugee Council\u2019s (NRC) country director in DR Congo on the ongoing Ebola outbreak:\n\n Published 10. Jul 2026\n\n\u201cThe current Bundibugyo Ebola outbreak is unfolding in communities already exhausted by years of conflict and repeated displacement.\n\n\u201cIn DR Congo\u2019s Ituri province \u2013 the current epicentre \u2013 displaced communities have faced years in shelters designed for temporary stay, with poor sanitation and little access to healthcare. As armed groups have fought for control of land and valuable minerals, donors and diplomats have often looked the other way and so abandoned millions to lives dominated by repeated displacement and deprivation. This is the context in which the current Ebola outbreak has taken hold, and in part why case numbers continue to rise rapidly.\n\n\u201cInfection prevention and control measures have a vital role to play in the response. Communities must be placed at the heart of all response plans, and direct engagement and trust building remain the cornerstones of any successful strategy. Ebola can only be stopped when communities\u2019 priorities dictate policy.\n\n\u201cIn this regard, NRC is currently stepping up its Ebola response, with public engagement activities and community prevention measures. Through the establishment of handwashing stations and the distribution of hygiene products, NRC teams in Ituri are working to bolster infection prevention measures. In addition, our staff are working to prevent disruption to children\u2019s learning and ensure that they can continue to access education in safe conditions. NRC staff are also working to assess the impact of this epidemic on the millions of internally displaced persons (IDPs) in Ituri as well as North and South Kivu provinces. This will help to better shape the response for communities that currently live in IDP sites, often in crowded conditions with poor sanitation.\n\n\u201cDR Congo has appeared on NRC\u2019s annual list of top neglected displacement crisis every year in the last decade. And the international community continues to neglect the humanitarian situation in eastern DR Congo, even as international companies grow rich from its resources. It is now essential that donors ramp up efforts to ensure that the response to Ebola is able to move faster than the disease itself. Flexible and sustained funding and political engagement are vitally important, not only to support those caught in this outbreak but also to meet the pre-existing needs which have contributed to the severity of this epidemic.\"\n\n**Notes to editors:**\n\n- DR Congo has featured on NRC\u2019s neglected displacement crises list for ten consecutive years ([NRC](https://reliefweb.int/news/2026/dr-congo-on-worlds-most-neglected-displacement-crises-list-for-tenth-consecutive-year)).\n- The humanitarian response plan in DRC is currently 53.9 per cent funded with 756.1 million of the 1,403.7 million US dollars required having been delivered ([FTS OCHA](https://fts.unocha.org/plans/overview/2026)).\n- The 2025 humanitarian response plan in DRC was just 27.7 per cent funded, while the 2024 plan was 51.4 per cent funded ([FTS OCHA](https://fts.unocha.org/plans/overview/2025)).\n- As of the end of 2025, 4.3 million people were internally displaced in DRC. 932,000 displacements were recorded in the Ituri province throughout the year ([IDMC](https://www.internal-displacement.org/countries/democratic-republic-of-the-congo/)).\n\n**For more information or to arrange an interview, please contact:**\n\n- NRC global media hotline: media@nrc.no, +47 905 62 329",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1331",
+                    "id": 1331,
+                    "name": "Norwegian Refugee Council",
+                    "shortname": "NRC",
+                    "longname": "Norwegian Refugee Council",
+                    "homepage": "https://www.nrc.no/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220848",
+            "date": {
+                "original": "2026-07-10T00:00:00+00:00",
+                "changed": "2026-07-10T07:02:12+00:00",
+                "created": "2026-07-10T06:33:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220848"
+    },
+    {
+        "id": "4220846",
+        "score": 1,
+        "fields": {
+            "title": "UNICEF Rapid Response in the Democratic Republic of Congo (UniRR) Provinces of Ituri, Nord-Kivu, Sud-Kivu, Tanganyika | One Page Bulletin of June 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220846",
+            "date": {
+                "original": "2026-07-10T00:00:00+00:00",
+                "changed": "2026-07-10T06:28:14+00:00",
+                "created": "2026-07-10T06:06:55+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220846"
+    },
+    {
         "id": "4220805",
         "score": 1,
         "fields": {
@@ -301,7 +381,7 @@
                     "shortname": "WFP",
                     "longname": "United Nations World Food Programme",
                     "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
+                    "homepage": "https://www.wfp.org/",
                     "type": {
                         "id": 272,
                         "name": "International Organization"
@@ -352,7 +432,7 @@
                     "shortname": "WFP",
                     "longname": "United Nations World Food Programme",
                     "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
+                    "homepage": "https://www.wfp.org/",
                     "type": {
                         "id": 272,
                         "name": "International Organization"
@@ -565,7 +645,7 @@
                     "shortname": "WFP",
                     "longname": "United Nations World Food Programme",
                     "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "http://www.wfp.org",
+                    "homepage": "https://www.wfp.org/",
                     "type": {
                         "id": 272,
                         "name": "International Organization"
@@ -1596,86 +1676,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4220355"
-    },
-    {
-        "id": "4220354",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR Chad | Forcibly Displaced Persons in Chad by Province (June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220354",
-            "date": {
-                "original": "2026-07-07T00:00:00+00:00",
-                "changed": "2026-07-07T13:33:01+00:00",
-                "created": "2026-07-07T13:03:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220354"
-    },
-    {
-        "id": "4220339",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 6 July 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220339",
-            "date": {
-                "original": "2026-07-06T00:00:00+00:00",
-                "changed": "2026-07-07T13:39:39+00:00",
-                "created": "2026-07-07T12:37:04+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220339"
     }
 ]
