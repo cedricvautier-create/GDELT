@@ -1,5 +1,86 @@
 [
     {
+        "id": "4221163",
+        "score": 1,
+        "fields": {
+            "title": "Sustaining Protection Under Pressure: The Continuing Impact of Funding Cuts on Protection Programming in West and Central Africa",
+            "body": "In mid-2025, the Regional Protection Working Group for West and Central Africa (RPWG-WCA) issued an advocacy note documenting the alarming impact of humanitarian funding reductions on protection programming across West and Central Africa. This snapshot provides an update as of June 2026, drawing on a Global Protection Cluster (GPC)-led survey of 258 partner organisations in the region, complemented by operational reporting from national and international NGOs and UN agencies.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221163",
+            "date": {
+                "original": "2026-07-13T00:00:00+00:00",
+                "changed": "2026-07-13T13:12:29+00:00",
+                "created": "2026-07-13T13:03:08+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221163"
+    },
+    {
+        "id": "4221142",
+        "score": 1,
+        "fields": {
+            "title": "Ebola outbreak intensifies across DRC as risk of spread to South Sudan grows",
+            "body": "- 1,926 and 702 deaths confirmed by Ministry of Health as of 11 July\n- 5 provinces are now affected by the outbreak: Ituri, North Kivu, South Kivu, Tshopo and Haut Uele\n- Operational constraints continue to limit response implementation, increasing the risk that undetected chains of transmission will continue to spread\n- Contact tracing has increased to 78.3%, but remains below the 90-95% target recommended by WHO to contain an outbreak\n\nKinshasa, Democratic Republic of the Congo, July 13, 2026 \u2014 The International Rescue Committee (IRC) warns that the Ebola outbreak in the Democratic Republic of the Congo (DRC) is worsening on two fronts: transmission is accelerating in locations already affected, while the virus is spreading into new areas, significantly increasing the risk of cross-border spread into South Sudan.\n\nCase numbers have continued to rise steadily, suggesting the outbreak has not yet reached its peak. There are now five provinces in the DRC affected by the Ebola outbreak, including Tshopo province where the town of Kisangani is situated - over 500km west of the current epicentre, Bunia. The Ministry of Health added ten provinces that are now considered at high risk, including Kinshasa, and are targeted with additional protocols and preparedness activities.\n\n*\u201cThe risk to South Sudan is particularly alarming. If Ebola crosses the border, it could spread silently before being detected, making the response far more complex and putting countless lives at risk,\u201d* said Bob Kitchen, Vice President of Emergencies for the IRC. *\u201c Weak surveillance systems, limited health infrastructure, ongoing conflict and a sparse humanitarian presence could delay detection and response.\u201d*\n\nThe confirmation of two cases in Wamba, Haut-U\u00e9l\u00e9 Province, near the South Sudan border has significantly heightened the risk of cross-border transmission. The [WHO](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099%2826%2900320-8/fulltext) estimates a 70% likelihood that Ebola will spread into the country. The emergence of cases in Kisangani, is also deeply concerning, as the city sits on the Congo River, a major transport corridor linking eastern DRC with Kinshasa, raising the risk of wider geographic spread.\n\nThe IRC is supporting preparedness and response efforts in high-risk areas, strengthening infection prevention and control, surveillance, community engagement, and support for frontline health workers to help contain the outbreak and prevent further spread.\n\nOperational constraints, including border and airport closures and security challenges within the DRC, continue to limit response implementation. With response efforts not yet fully operational across all affected areas, undetected chains of transmission may continue to spread.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2012",
+                    "id": 2012,
+                    "name": "International Rescue Committee",
+                    "shortname": "IRC",
+                    "longname": "International Rescue Committee",
+                    "spanish_name": "Comit\u00e9 Internacional de Rescate",
+                    "homepage": "https://www.rescue.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221142",
+            "date": {
+                "original": "2026-07-13T00:00:00+00:00",
+                "changed": "2026-07-13T11:59:49+00:00",
+                "created": "2026-07-13T11:33:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221142"
+    },
+    {
         "id": "4221079",
         "score": 1,
         "fields": {
@@ -1609,7 +1690,7 @@
             "url": "https://reliefweb.int/node/4220408",
             "date": {
                 "original": "2026-07-07T00:00:00+00:00",
-                "changed": "2026-07-08T09:03:32+00:00",
+                "changed": "2026-07-13T13:20:09+00:00",
                 "created": "2026-07-07T16:06:46+00:00"
             }
         },
@@ -1654,85 +1735,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4220407"
-    },
-    {
-        "id": "4220406",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon - Ngarissingo site profile vulnerability analysis/camp profile information (June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220406",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-08T01:25:10+00:00",
-                "created": "2026-07-07T16:03:44+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220406"
-    },
-    {
-        "id": "4220405",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon - Ngam site profile vulnerability analysis/camp profile information (June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220405",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-08T01:26:01+00:00",
-                "created": "2026-07-07T16:03:41+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220405"
     }
 ]
