@@ -1,5 +1,150 @@
 [
     {
+        "id": "4220987",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo, Province du Tanganyika : Enregistrements et enqu\u00eates d'intentions personnes d\u00e9plac\u00e9es internes, 13 sites dans les zones de sant\u00e9 de Kalemie et Nyemba (10 - 22 juin 2026)",
+            "body": "Le rapport d\u2019enregistrement et d\u2019enqu\u00eates d\u2019intentions de la DTM dans la province du Tanganyika pr\u00e9sente un aper\u00e7u de la pr\u00e9sence, de la d\u00e9mographie, des vuln\u00e9rabilit\u00e9s et des intentions de retour des personnes d\u00e9plac\u00e9es internes (PDI) enregistr\u00e9es dans 13 sites du territoire de Kalemie. Les donn\u00e9es ont \u00e9t\u00e9 collect\u00e9es entre le 10 et le 22 juin 2026, permettant l\u2019enregistrement de 8 331 m\u00e9nages repr\u00e9sentant 18 259 individus. Les d\u00e9placements \u00e9taient principalement li\u00e9s aux attaques de groupes arm\u00e9s (51%), aux al\u00e9as naturels (24 %) et aux conflits intercommunautaires (19%). La majorit\u00e9 des m\u00e9nages (83%) ont indiqu\u00e9 leur intention de rester sur leur site actuel au cours des six prochains mois, tandis que 15 pour cent envisagent un retour dans leur zone d\u2019origine. Parmi les besoins prioritaires identifi\u00e9s pour faciliter des retours s\u00fbrs et durables figurent l\u2019acc\u00e8s aux services de base, l\u2019am\u00e9lioration de la s\u00e9curit\u00e9, les moyens de subsistance et la r\u00e9habilitation des logements.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220987",
+            "date": {
+                "original": "2026-07-11T00:00:00+00:00",
+                "changed": "2026-07-13T00:58:07+00:00",
+                "created": "2026-07-11T13:33:12+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220987"
+    },
+    {
+        "id": "4220982",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Compte Rendu de la R\u00e9union de Coordination sur la r\u00e9ponse logistique dans la riposte \u00e0 la Maladie \u00e0 Virus Ebola - COUSP et Cluster Logistique, 7 juillet 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/13799",
+                    "id": 13799,
+                    "name": "Emergency Telecommunications Cluster",
+                    "shortname": "ETC",
+                    "longname": "Emergency Telecommunications Cluster",
+                    "homepage": "https://www.etcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3594",
+                    "id": 3594,
+                    "name": "Logistics Cluster",
+                    "shortname": "Logistics Cluster",
+                    "homepage": "https://www.logcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220982",
+            "date": {
+                "original": "2026-07-07T00:00:00+00:00",
+                "changed": "2026-07-12T23:27:28+00:00",
+                "created": "2026-07-11T11:40:08+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220982"
+    },
+    {
+        "id": "4220977",
+        "score": 1,
+        "fields": {
+            "title": "Ebola Bundibugyo virus disease outbreak: Democratic Republic of the Congo | Uganda Weekly External Situation Report 08, Data as of 05 July 2026",
+            "body": "**Event description**\n\nThe Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to intensify, driven by sustained transmission in hotspot health zones of Ituri and North Kivu provinces. The outbreak is marked by growing numbers of community deaths, and the continued spread of infection into previously unaffected health zones. While Uganda has not reported any new confirmed cases during the past week, and the imported case reported in France has fully recovered without evidence of secondary transmission among identified contacts, the ongoing epidemic in eastern Democratic Republic of the Congo continues to pose a significant regional and global public health threat.\n\n*Democratic Republic of the Congo*\n\nCompared with the previous update issued on 28 June 2026 (Situation Report #7), the epidemiological situation in the Democratic Republic of the Congo has deteriorated further. An additional 317 confirmed cases and 144 confirmed deaths have been reported, representing increases of 24.3% and 38.2%, in cumulative cases and deaths respectively. The crude case fatality ratio (CFR) rose from 28.8% to 32.1%. Geographic spread continues as the first confirmed case was detected in Lolwa health zone in Ituri Province, increasing the total number of affected health zones to 36.\n\nMabalako and Vuhovi health zones have now completed 21 consecutive days, without reporting a confirmed case and have been added to the list of areas with no recent transmission. However, Rimba Health Zone, which had previously gone 25 days without reporting a case, has now reported a new confirmed case. This brings the total number of previously affected health zones that have surpassed the 21-day threshold to eight. These include MitiMurhesa in South Kivu Province (46 days); Gety (45 days), Mambasa (33 days), and Aru (31 days) in Ituri Province; and Kalunguta (42 days), Goma (41 days), Vuhovi (24 days), and Mabalako (22 days) in North Kivu Province.\n\nThe outbreak remains active in 28 health zones across Ituri and North Kivu provinces that have reported confirmed cases within the past 21 days. During this period, 787 confirmed cases and 325 confirmed deaths were reported. Ituri Province continues to bear the overwhelming burden of the outbreak, accounting for 710 cases (90.2%) and 282 deaths (86.8%) across 21 active health zones. The remaining seven active health zones in North Kivu reported 77 cases (9.8%) and 43 deaths (13.2%).\n\nThe highest transmission was recorded in Bunia (237 cases), Rwampara (190 cases), Mongbwalu (103 cases), Nizi (62 cases), Nyankunde (51 cases), and Lita (24 cases) in Ituri Province. In North Kivu Province, Katwa (27 cases) and Butembo (21 cases) remained the main areas of transmission. Collectively, these health zones accounted for 90.9% of all confirmed cases reported during the past 21 days. A similar pattern was observed for mortality. Bunia reported the highest number of deaths (101), followed by Mongbwalu (66), Rwampara (45), Katwa (22), Nizi (18), Nyankunde (15), Lita (12), Mangala (11), and Butembo (11). Together, these health zones accounted for 92.6% of all confirmed deaths reported during the same period.\n\nThe crude CFR of the outbreak also increased over recent weeks. In Ituri Province, the CFR rose from 20.5% on 15 June to 29.7% on 05 July 2026, while North Kivu continued to record the highest provincial CFR, remaining above 56% throughout the reporting period. The largest increase in CFR was observed in Lita Health Zone (+36.4 percentage points), followed by Komanda (+22.1 percentage points), Nizi (+18.1 percentage points), and Bunia (+17.6 percentage points). These elevated CFRs likely reflect continued delays in case detection and healthcare-seeking behaviour, compounded by the persistently high proportion of deaths occurring in the community.\n\nSince the beginning of the outbreak, the Democratic Republic of the Congo has reported 1624 confirmed cases, including 521 confirmed deaths (CFR 32.1%\\]. Ituri Province remains the epicentre of the outbreak, accounting for 90.9% (1477) of all confirmed cases and 84.3% (439) of all reported deaths nationwide. The most affected health zones are Bunia (452 cases, 121 deaths), Rwampara (349 cases, 72 deaths), Mongbwalu (288 cases, 149 deaths), Nyankunde (96 cases, 19 deaths), Nizi (78 cases, 19 deaths), Lita (33 cases, 12 deaths), and Mangala (33 cases, 14 deaths), all located in Ituri Province, as well as Katwa (52 cases, 38 deaths), Butembo (40 cases, 18 deaths), and Beni (29 cases, 17 deaths) in North Kivu Province. Together, these health zones account for nearly 89.3% of all confirmed cases and 91.9% of confirmed deaths reported nationally.\n\nInvestigation of 430 confirmed deaths as of 05 July 2026, showed that 397 (92.3%) occurred in the community or before admission to a treatment facility, highlighting persistent delays in case detection, referral, isolation, and access to clinical care. Only 33 deaths (7.7%) occurred after patients had been admitted to treatment centres or healthcare facilities.\n\nAs of 05 July 2026, a total of 12412 contacts were under follow-up of whom 9624 (77.5%) were successfully seen within the previous 24 hours. Ituri Province accounted for the majority of contacts under follow-up, with 9757 contacts, including 7574 (77.6%) seen during the reporting period. In North Kivu, 2050 out of 2655 contacts (77.2%) were followed up, while all contacts in South Kivu had completed the required 21-day monitoring period. Although contact tracing performance has improved overall, follow-up remains below optimal levels, leaving a significant proportion of contacts unreached and increasing the likelihood of undetected infections and continued transmission.\n\nThe proportion of new confirmed cases identified among registered contacts increased steadily as the outbreak progressed, exceeding 40% by late June 2026. Overall, 32.4% of confirmed cases were detected through contact follow-up. However, a substantial number of infections continued to occur outside known contact lists, indicating ongoing gaps in surveillance. These gaps are likely driven by insecurity in affected areas, population displacement and mobility, delayed case detection, community resistance, incomplete epidemiological investigations, and the movement of suspected cases and deceased individuals across affected areas.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4220977",
+            "date": {
+                "original": "2026-07-11T00:00:00+00:00",
+                "changed": "2026-07-13T00:26:55+00:00",
+                "created": "2026-07-11T02:03:08+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4220977"
+    },
+    {
         "id": "4220932",
         "score": 1,
         "fields": {
@@ -1588,125 +1733,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4220404"
-    },
-    {
-        "id": "4220403",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon - Mbile site profile vulnerability analysis/camp profile information (June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220403",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-08T01:27:46+00:00",
-                "created": "2026-07-07T16:03:35+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220403"
-    },
-    {
-        "id": "4220402",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon - Lolo site profile vulnerability analysis/camp profile information (June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220402",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-08T01:23:08+00:00",
-                "created": "2026-07-07T16:03:32+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220402"
-    },
-    {
-        "id": "4220401",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon - Gado site profile vulnerability analysis/camp profile information (June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220401",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-08T01:21:35+00:00",
-                "created": "2026-07-07T16:03:29+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220401"
     }
 ]
