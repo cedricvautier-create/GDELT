@@ -1,5 +1,47 @@
 [
     {
+        "id": "4221199",
+        "score": 1,
+        "fields": {
+            "title": "Statement on the Ebola outbreak in the Democratic Republic of the Congo by Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, 9 July 2026",
+            "body": "*9 July 2026*\n\nWe need to move faster to break the back of Ebola in the Democratic Republic of the Congo (DRC).\n\nIturi province remains the centre of the outbreak, but the virus is spreading across other provinces where conflict and the constant movement of people increase the risk of further transmission.\n\nSince the outbreak was declared on 15 May, more than 1,700 people have been infected and 600 have died in DRC. Uganda has confirmed 20 cases. Our colleagues at the World Health Organization and Africa Centres for Disease Control and Prevention are expertly supporting the epidemiological response under the leadership of the Government.\n\nBut this is more than a public health emergency. Before Ebola struck, millions were already facing conflict, hunger, displacement, weak basic services and limited healthcare. DRC is one of the world's most complex humanitarian crises. Recent cuts in humanitarian funding have made the response even harder.\n\nWe know how to stop Ebola and we\u2019re implementing our strategy.\n\nThe Inter-Agency Standing Committee \u2013 the leaders of the world's largest aid organisations \u2013 has activated a System-Wide Scale-Up to control the disease in the DRC.\n\nWe have deployed a Senior Ebola Coordinator to the outbreak areas to strengthen leadership across the response, support operations and remove bottlenecks.\n\nI have released up to US$60 million from the Central Emergency Response Fund to accelerate the response in the DRC and help preparedness in neighbouring countries at risk \u2013 Uganda, South Sudan and Burundi.\n\nWe coordinate across borders. We prepare to respond where the outbreak may go next. I remain in constant contact with the UN Resident and Humanitarian Coordinators in the region.\n\nNow we need others to act with the same urgency.\n\nAll parties must facilitate safe and sustained access for humanitarian and health workers, supplies and response equipment.\n\nBorders and supply routes must remain open. Closures and blanket travel restrictions disrupt humanitarian operations, health services and essential trade without preventing the spread of disease.\n\nDonors must ensure that pledged funding reaches responders quickly and flexibly. We must support both the Ebola response and the wider humanitarian operation that vulnerable communities depend on.\n\nAnd now is the time to invest in preparedness. The best defence against Ebola remains strong surveillance, laboratory testing, referral systems, infection prevention and control, and community engagement.\n\nAbove all, trust saves lives. Communities must remain the centre of this response. Local leadership, accountability to people, protection against sexual exploitation and abuse, and a response tailored to both women and men must be integral to every part of the operation.\n\nAny delay will be measured in Ebola deaths and in lives lost to the wider humanitarian consequences of this outbreak.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221199",
+            "date": {
+                "original": "2026-07-13T00:00:00+00:00",
+                "changed": "2026-07-13T14:54:55+00:00",
+                "created": "2026-07-13T14:52:30+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221199"
+    },
+    {
         "id": "4221163",
         "score": 1,
         "fields": {
@@ -74,7 +116,7 @@
             "url": "https://reliefweb.int/node/4221142",
             "date": {
                 "original": "2026-07-13T00:00:00+00:00",
-                "changed": "2026-07-13T11:59:49+00:00",
+                "changed": "2026-07-13T15:17:31+00:00",
                 "created": "2026-07-13T11:33:06+00:00"
             }
         },
@@ -1695,45 +1737,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4220408"
-    },
-    {
-        "id": "4220407",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon - Timangolo site profile vulnerability analysis/camp profile information (June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220407",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-07-08T01:24:09+00:00",
-                "created": "2026-07-07T16:03:47+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220407"
     }
 ]
