@@ -1,5 +1,99 @@
 [
     {
+        "id": "4221286",
+        "score": 1,
+        "fields": {
+            "title": "CLUSTER SANTE EBOLA- ANALYSE DES GAPS PAR PILIER DE REPONSE AU 11 JUILLET 2026",
+            "body": "**RESUME DE L ANALYSE DES GAPS AU 11 JUILLET:**\n\nAu 11 Juillet 2026, 05 provinces affect\u00e9es (Haut Uele, Ituri, Nord Kivu, Sud Kivu et Tshopo) par la maladie \u00e0 virus Ebola dans 42 zones de sant\u00e9 .  \nL\u2019analyse des \u00e9carts (gaps) au 11 Juillet 2026, met en \u00e9vidence d\u2019importants d\u00e9fis op\u00e9rationnels li\u00e9s aux piliers de la r\u00e9ponse dans plusieurs zones de sant\u00e9 touch\u00e9es par la maladie \u00e0 virus Ebola.\n\n  \n**En Ituri, \u00e9picentre de la maladie, avec 26 zones de sant\u00e9 touch\u00e9es,**\n\n\\- 10 zones de sant\u00e9 sont en situation critique, avec un gap sup\u00e9rieur \u00e0 86 % (en moyenne 16 piliers non couverts sur 21), \u00e0 savoir Ariwara, Aungba, Damas, Gety, Kambala,Lolwa, Mandima, Mangala, Nia-Nia et Rimba.   \n\\- 12 zones de sant\u00e9 affichent un gap sup\u00e9rieur \u00e0 66 % (environ 14 piliers non couverts sur 21), notamment Aru, Bambu, Drodro, Fataki, Kilo, Komanda, Lita, Logo, Mambasa, Nizi et Tchomia.  \n\\- 04 zones de sant\u00e9 pr\u00e9sentent un faible niveau de gap (24%) ce qui conrrespond en moyenne \u00e0 05 piliers de la reponse non couverts sur 21, il s agit notamment de Bunia, Mongwalu, Nyankunde et Rwampara.\n\n**Au Nord-Kivu, 11 zones de sant\u00e9 touch\u00e9es,**\n\n\\- 03 zones de sant\u00e9 sont dans une situation urgente, avec un gap d\u00e9passant 95 % (environ 20 piliers non couverts sur 21) : Kyondo, Masereka et Vuhovi.  \n\\- 07 zones de sant\u00e9 pr\u00e9sentent un gap sup\u00e9rieur \u00e0 62 % (environ 13 piliers non couverts sur 21), notamment Beni, Butembo, Kalunguta, Katwa, Mabalako, Musienene et Oicha.   \n\\- 01 zone de sant\u00e9, Goma, pr\u00e9sente un gap de 28 % (06 piliers non couverts sur 21).\n\n**Au Sud-Kivu, une seule (1) zone de sant\u00e9 est affect\u00e9e ,**\n\n\\- Miti-Murhesa, avec un gap de 57 %, soit 12 piliers non couverts sur 21.\n\n  \n**Dans la province de Haut Uele, une seule (1) zone de sant\u00e9 est affect\u00e9e** ,\n\n\\- Wamba, avec un gap de 100 %, soit 21 piliers non couverts sur 21.\n\n  \n**Dans la province de Tshopo, 03 zones de sant\u00e9 touch\u00e9es,**\n\n\\- 03 zones de sant\u00e9 sont dans une situation critique et urgente, avec un gap de 100 % ( 21 piliers non couverts sur 21) : Lubunga, Makiso-Kisangani et Mangobo.\n\nEn r\u00e9sum\u00e9:\n\nLes gaps observ\u00e9s au niveau des piliers de la r\u00e9ponse compromettent significativement l\u2019efficacit\u00e9 globale de la riposte \u00e0 l\u2019\u00e9pid\u00e9mie.  \nIls limitent la capacit\u00e9 \u00e0 assurer une d\u00e9tection pr\u00e9coce, un isolement rapide, une prise en charge ad\u00e9quate et des actions de pr\u00e9vention efficaces.  \nAinsi, plus ces insuffisances sont importantes, plus le risque est \u00e9lev\u00e9 de voir l\u2019\u00e9pid\u00e9mie se prolonger, s\u2019aggraver et se propager vers de nouvelles zones.\n\nNB: les partenaires sont encourag\u00e9s \u00e0 partager leur positionnement dans les zones affect\u00e9es et \u00e0 risques afin de refl\u00e9ter la r\u00e9alit\u00e9 des gaps du terrain.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221286",
+            "date": {
+                "original": "2026-07-14T00:00:00+00:00",
+                "changed": "2026-07-14T07:55:19+00:00",
+                "created": "2026-07-14T07:55:12+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221286"
+    },
+    {
+        "id": "4221280",
+        "score": 1,
+        "fields": {
+            "title": "TCHAD : Aper\u00e7u des conflits inter/intracommunautaires (Janvier _ Juin 2026)",
+            "body": "Au premier semestre 2026, un total de 35 conflits ont \u00e9t\u00e9 enregistr\u00e9s au Tchad contre 25 au premier semestre 2025, soit une hausse des incidents de 40%. Le bilan humain (81 morts et 167 bless\u00e9s) est quant \u00e0 lui en baisse, comparativement \u00e0 la m\u00eame p\u00e9riode en 2025 (136 morts et 166 bless\u00e9s). Sur l\u2019ann\u00e9e 2025, au total 50 conflits avaient \u00e9t\u00e9 rapport\u00e9s pour 200 d\u00e9c\u00e8s et 273 bl\u00e9s\u00e9es.  \nLes conflits restent concentr\u00e9s dans certaines zones, avec 37 % des incidents au Lac, 37 % au sud, 23 % \u00e0 l\u2019est et 3 % au centre, traduisant une r\u00e9partition g\u00e9ographique \u00e9tendue des violences.  \nLes conflits intercommunautaires dominent largement les incidents (23 cas sur 35, soit 66% des conflits), illustrant une aggravation des tensions entre les communaut\u00e9s. Un conflit intracommunautaire, un conflit agriculteurs - agriculteurs, et un conflit de type religieux ont \u00e9t\u00e9 \u00e9galement enregistr\u00e9s au cours de la p\u00e9riode sous revue. Enfin, les ressources naturelles demeurent un facteur de conflit, avec 05 cas de conflits agro-pastoraux et 04 cas de conflits li\u00e9s au foncier.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221280",
+            "date": {
+                "original": "2026-07-14T00:00:00+00:00",
+                "changed": "2026-07-14T07:17:09+00:00",
+                "created": "2026-07-14T07:13:17+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221280"
+    },
+    {
         "id": "4221252",
         "score": 1,
         "fields": {
@@ -1668,87 +1762,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4220520"
-    },
-    {
-        "id": "4220468",
-        "score": 1,
-        "fields": {
-            "title": "UNICEF Central African Republic Humanitarian Flash Update No. 1 (Cholera Outbreak Response), 6 July 2026",
-            "body": "**Situation Update**\n\nOn 26 June 2026, the Ministry of Health and Population of the Central African Republic officially declared a cholera outbreak in the health districts of Bimbo and Mba\u00efki, following laboratory confirmation by the Institut Pasteur in Bangui.\n\nAs of 1 July 2026, active cholera transmission has been confirmed in three health districts, including the capital city: Bangui 2, Bimbo, and Mba\u00efki. A cumulative total of 214 suspected cases and 24 community deaths have been reported, resulting in a high case fatality rate of 11.21 per cent. Children under the age of 10 are disproportionately affected, accounting for 44 per cent of all reported cases. Males represent the majority of cases, with a male-to-female ratio of 1.21, corresponding to 117 male cases and 97 female cases. The epidemiological profile highlights the significant vulnerability of children and underscores the severity of the ongoing outbreak.\n\nThe outbreak continues to spread along the Ubangi River, affecting multiple communities across the impacted districts and increasing the risk of further geographical expansion. Given the high mobility of populations and the river\u2019s role as a major transport corridor, there is a significant risk of transmission to additional localities and vulnerable communities along the river basin.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220468",
-            "date": {
-                "original": "2026-07-06T00:00:00+00:00",
-                "changed": "2026-07-08T03:30:11+00:00",
-                "created": "2026-07-08T03:23:20+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220468"
-    },
-    {
-        "id": "4220467",
-        "score": 1,
-        "fields": {
-            "title": "UNICEF Ebola Virus Disease Outbreak Humanitarian Flash Update No. 1 (Preparedness and Readiness in Western Eastern and Southern Africa Region), 6 July 2026",
-            "body": "**Highlights:**\n\n- The Bundibugyo virus disease (BVD) outbreak remains confined to DRC and Uganda, with no confirmed cases reported in neighbouring countries to date. However, extensive cross-border movement, porous borders and humanitarian vulnerabilities continue to create a high risk of regional spread, underscoring the need to sustain readiness before the virus crosses borders.\n- UNICEF is supporting governments in IPC/WASH, RCCE, emergency coordination and preparedness at priority points of entry. Countries are reinforcing frontline capacities through simulation exercises, pre- positioning of essential supplies, health worker training and community engagement to ensure any imported case can be detected timely, contained and responded to.\n- UNICEF requires US$70.7 million to support the Regional Ebola efforts including US$ 29.1 million to support preparedness and readiness in the 10 high-risk countries. Significant funding gaps continue to constrain readiness and preparedness in those countries.\n\n**HUMANITARIAN CONTEXT** **SITUATION OVERVIEW**\n\nThe Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo (DRC), and Uganda, continues to pose a significant threat to the wider region. First confirmed in Ituri Province on 15 May 2026, the outbreak is unfolding in a highly complex humanitarian context characterized by insecurity, population displacement, fragile health services and intense cross-border mobility.\n\nRecognizing the potential for rapid cross-border spread, the World Health Organization (WHO) declared the outbreak a Public Health Emergency of International Concern (PHEIC), while the Africa CDC designated it a Public Health Emergency of Continental Security (PHECS). In response, UNICEF activated its highest level of emergency response (Level 3 Corporate Emergency Procedures), enabling a rapid scale-up of outbreak response in affected countries.  \nAs of 29 June 2026, DRC has reported 1274 confirmed cases, including 360 confirmed deaths, while Uganda has confirmed 20 cases, including 2 death. Importantly, no confirmed Ebola cases have been reported outside DRC and Uganda to date. However, the risk of regional spread remains high due to porous borders, frequent population movements, trade corridors and refugee flows linking the affected countries with neighbouring States. Preserving this status requires sustained vigilance and continued investment in preparedness.\n\nWhile response operations continue in DRC and Uganda, governments across neighbouring countries are transitioning to preparedness planning and operational readiness; strengthening the capacities required to rapidly detect, contain and respond to any imported case should the virus cross borders. With UNICEF's support, countries are reinforcing community surveillance, infection prevention and control (IPC), WASH, risk communication and community engagement (RCCE), laboratory capacity, coordination as well as preparedness at priority points of entry.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220467",
-            "date": {
-                "original": "2026-07-06T00:00:00+00:00",
-                "changed": "2026-07-08T03:06:39+00:00",
-                "created": "2026-07-08T03:04:44+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220467"
     }
 ]
