@@ -1,5 +1,270 @@
 [
     {
+        "id": "4221252",
+        "score": 1,
+        "fields": {
+            "title": "DRC: Ebola BVD Outbreak: LTC Situation Report (Telecoms) #6 (Reporting period: 06 - 12 July 2026)",
+            "body": "*This situation report provides updates on the Ebola Bundibugyo Virus Disease (BVD) Outbreak in the Democratic Republic of the Congo (DRC). It outlines planned and ongoing telecommunications activities of the Logistics & Telecommunications Cluster1 (LTC) Telecoms to support the ongoing humanitarian response.*\n\n**Summary Points**\n\n\u2022 The Ebola Bundibugyo virus disease (BVD) outbreak in the DRC continues to expand, with more than 1,700 confirmed cases reported as of 09 July. As pressure on surveillance, coordination, and information management increases, reliable telecommunications services remain critical to support an effective response.\n\n\u2022 LTC Telecoms and the United Nations Department of Safety and Security (UNDSS) restored the dedicated UN security communications channel in Bunia after six months of downtime and have begun establishing a dedicated channel for NGO partners, strengthening security communications for responders operating across Ituri.\n\n\u2022 LTC Telecoms launched a partner connectivity mapping exercise to identify existing and planned satellite connectivity deployments supporting the Ebola response. The initiative will help identify coverage gaps, avoid duplication, and guide the prioritization of telecommunications support in affected areas. While the survey remains openended, partners are encouraged to complete it as soon as possible to support timely analysis and coordination.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/13799",
+                    "id": 13799,
+                    "name": "Emergency Telecommunications Cluster",
+                    "shortname": "ETC",
+                    "longname": "Emergency Telecommunications Cluster",
+                    "homepage": "https://www.etcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3594",
+                    "id": 3594,
+                    "name": "Logistics Cluster",
+                    "shortname": "Logistics Cluster",
+                    "homepage": "https://www.logcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221252",
+            "date": {
+                "original": "2026-07-13T00:00:00+00:00",
+                "changed": "2026-07-14T01:44:04+00:00",
+                "created": "2026-07-14T01:41:38+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221252"
+    },
+    {
+        "id": "4221223",
+        "score": 1,
+        "fields": {
+            "title": "Situation d'urgence au Tchad I Mise \u00e0 jour des arriv\u00e9es du Soudan (12 juil. 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221223",
+            "date": {
+                "original": "2026-07-13T00:00:00+00:00",
+                "changed": "2026-07-14T00:44:02+00:00",
+                "created": "2026-07-13T17:03:21+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221223"
+    },
+    {
+        "id": "4221222",
+        "score": 1,
+        "fields": {
+            "title": "CORE Emergency situation in Chad: Update on arrivals from Sudan (12 Jul 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221222",
+            "date": {
+                "original": "2026-07-13T00:00:00+00:00",
+                "changed": "2026-07-14T00:42:03+00:00",
+                "created": "2026-07-13T17:03:18+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221222"
+    },
+    {
+        "id": "4221221",
+        "score": 1,
+        "fields": {
+            "title": "CORE Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (12 Jul. 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221221",
+            "date": {
+                "original": "2026-07-13T00:00:00+00:00",
+                "changed": "2026-07-14T00:39:37+00:00",
+                "created": "2026-07-13T17:03:15+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221221"
+    },
+    {
+        "id": "4221220",
+        "score": 1,
+        "fields": {
+            "title": "Tchad: Urgence Soudan | Bureau de coordination du HCR \u00e0 l\u2019est du Tchad - Tableau de bord de la relocalisation (13 juil. 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221220",
+            "date": {
+                "original": "2026-07-13T00:00:00+00:00",
+                "changed": "2026-07-14T00:35:19+00:00",
+                "created": "2026-07-13T17:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221220"
+    },
+    {
+        "id": "4221204",
+        "score": 1,
+        "fields": {
+            "title": "Regional External Update #39 West and Central Africa Region - Eastern DRC Situation - June 2026",
+            "body": "**HIGHLIGHTS**\n\n\u2022 The protection environment in eastern Democratic Republic of the Congo (DRC) remained highly fragile, as recurrent armed clashes and rights violations by non-state armed groups continued to drive internal and crossborder displacement. Since January 2026, around 15,700 Congolese refugees and asylum-seekers have fled to neighbouring countries, while the Ebola outbreak declared in May has further deepened humanitarian needs, with the Government currently ,reporting more than 1,900 confirmed cases and 700 deaths.\n\n\u2022 Despite the fragile context, large-scale voluntary returns from Burundi continued, with more than 50,200 Congolese returning home through self-organized movements and 8,200 supported through Governmentfacilitated convoys with UNHCR support as of 30 June. However, voluntary repatriation from the DRC to Rwanda remained suspended due to the May border closure linked to Ebola containment measures, leaving around 500 Rwandan refugees stranded in transit centres in Goma and Bukavu.\n\n\u2022 In Burundi, UNHCR and the Government completed Level 2 biometric registration at the Busuma site, registering more than 54,300 Congolese refugees and asylum-seekers. Despite ongoing returns, overcrowding at the site strained reception. Critical gaps remained in the provision of shelter, water, sanitation and hygiene, health, education and livelihood services.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221204",
+            "date": {
+                "original": "2026-07-13T00:00:00+00:00",
+                "changed": "2026-07-14T00:33:24+00:00",
+                "created": "2026-07-13T15:03:12+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221204"
+    },
+    {
         "id": "4221199",
         "score": 1,
         "fields": {
@@ -1485,257 +1750,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4220467"
-    },
-    {
-        "id": "4220456",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo - Province de l'Ituri : Enqu\u00eate sur la perception de la stabilit\u00e9, les intentions et les vuln\u00e9rabilit\u00e9s | Territoire de Mahagi (20 - 25 Juin 2026)",
-            "body": "L\u2019enqu\u00eate men\u00e9e dans 436 localit\u00e9s du territoire de Mahagi montre que 69 pour cent des localit\u00e9s sont per\u00e7ues comme stables, malgr\u00e9 des d\u00e9fis persistants li\u00e9s aux services de base et aux conditions de vie. L\u2019eau potable demeure le principal besoin identifi\u00e9 (47%) et le service le plus souvent jug\u00e9 insuffisant (93%), tandis que les moyens de subsistance et les soins de sant\u00e9 figurent \u00e9galement parmi les priorit\u00e9s majeures.\n\nLes PDI, les personnes vivant avec un handicap et les femmes cheffes de m\u00e9nage sont les groupes les plus vuln\u00e9rables. Plus de la moiti\u00e9 des personnes d\u00e9plac\u00e9es (52%) souhaitent retourner dans leur zone d\u2019origine, tandis que 29 pour cent envisagent une int\u00e9gration dans leur communaut\u00e9 d\u2019accueil. Les r\u00e9sultats soulignent la n\u00e9cessit\u00e9 de renforcer l\u2019acc\u00e8s aux services de base, aux moyens de subsistance et aux services psychosociaux, particuli\u00e8rement dans les zones les plus vuln\u00e9rables comme Angumu.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220456",
-            "date": {
-                "original": "2026-07-08T00:00:00+00:00",
-                "changed": "2026-07-08T02:25:46+00:00",
-                "created": "2026-07-08T01:33:24+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220456"
-    },
-    {
-        "id": "4220420",
-        "score": 1,
-        "fields": {
-            "title": "CORE Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (06 Jul. 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220420",
-            "date": {
-                "original": "2026-07-07T00:00:00+00:00",
-                "changed": "2026-07-08T02:03:57+00:00",
-                "created": "2026-07-07T17:03:19+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220420"
-    },
-    {
-        "id": "4220419",
-        "score": 1,
-        "fields": {
-            "title": "CORE Emergency situation in Chad: Update on arrivals from Sudan (06 Jul 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220419",
-            "date": {
-                "original": "2026-07-07T00:00:00+00:00",
-                "changed": "2026-07-08T08:24:53+00:00",
-                "created": "2026-07-07T17:03:16+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220419"
-    },
-    {
-        "id": "4220418",
-        "score": 1,
-        "fields": {
-            "title": "Situation d'urgence au Tchad I Mise \u00e0 jour des arriv\u00e9es du Soudan (06 juil. 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220418",
-            "date": {
-                "original": "2026-07-06T00:00:00+00:00",
-                "changed": "2026-07-08T02:00:53+00:00",
-                "created": "2026-07-07T17:03:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220418"
-    },
-    {
-        "id": "4220417",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: Urgence Soudan | Bureau de coordination du HCR \u00e0 l\u2019est du Tchad - Tableau de bord de la relocalisation (06 juil. 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220417",
-            "date": {
-                "original": "2026-07-07T00:00:00+00:00",
-                "changed": "2026-07-08T01:58:55+00:00",
-                "created": "2026-07-07T17:03:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220417"
-    },
-    {
-        "id": "4220408",
-        "score": 1,
-        "fields": {
-            "title": "Cluster eau hygi\u00e8ne et assainissement - RDC : Bilan de la r\u00e9ponse humanitaire Mai 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3476",
-                    "id": 3476,
-                    "name": "WASH Cluster",
-                    "shortname": "WASH Cluster",
-                    "homepage": "https://www.washcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4220408",
-            "date": {
-                "original": "2026-07-07T00:00:00+00:00",
-                "changed": "2026-07-13T13:20:09+00:00",
-                "created": "2026-07-07T16:06:46+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4220408"
     }
 ]
