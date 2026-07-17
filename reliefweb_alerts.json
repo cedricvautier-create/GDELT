@@ -1,5 +1,58 @@
 [
     {
+        "id": "4221804",
+        "score": 1,
+        "fields": {
+            "title": "M\u00e9canisme de r\u00e9ponse humanitaire : R\u00e9publique centrafricaine, Bulletin bimestriel (01 mai - 30 juin 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221804",
+            "date": {
+                "original": "2026-07-16T00:00:00+00:00",
+                "changed": "2026-07-17T04:34:16+00:00",
+                "created": "2026-07-17T04:17:14+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221804"
+    },
+    {
         "id": "4221763",
         "score": 1,
         "fields": {
@@ -35,7 +88,7 @@
             "url": "https://reliefweb.int/node/4221763",
             "date": {
                 "original": "2026-07-16T00:00:00+00:00",
-                "changed": "2026-07-16T15:33:12+00:00",
+                "changed": "2026-07-17T06:29:06+00:00",
                 "created": "2026-07-16T15:26:11+00:00"
             }
         },
@@ -46,7 +99,7 @@
         "score": 1,
         "fields": {
             "title": "R\u00e9publique centrafricaine : Rapport de situation N\u00b076, au 14 juillet 2026",
-            "body": "**FAITS SAILLANTS**\n\n- Le Fonds d\u2019urgence des Nations Unies alloue 1 million de dollars \u00e0 la r\u00e9ponse chol\u00e9ra\n- Plus de 500 personnes d\u00e9plac\u00e9es pr\u00e9ventivement de Z\u00e9mio\n- Nana-Gribizi: 3 000 m\u00e9nages retourn\u00e9s re\u00e7oivent des semences pour relancer leurs moyens d\u2019existence\n\n**CONTEXTE GENERAL**\n\nPr\u00e9fectures du Haut-Mbomou et Mbomou \u2013 Sud-Est\n\n- Environ 210 m\u00e9nages, soit 531 personnes, se sont d\u00e9plac\u00e9s le 11 juillet de mani\u00e8re pr\u00e9ventive du village de Guinikoumba, situ\u00e9 \u00e0 70 km de Zemio, vers Dembia, \u00e0 65 km de Rafa\u00ef, de l\u2019autre c\u00f4t\u00e9 de la rivi\u00e8re Ouara. Ce mouvement de population a \u00e9t\u00e9 motiv\u00e9 par la crainte d\u2019une possible attaque par des \u00e9l\u00e9ments arm\u00e9s. Une partie de personnes d\u00e9plac\u00e9es est h\u00e9berg\u00e9e au sein de familles d\u2019accueil, tandis que d\u2019autres vivent sous des abris de fortune, les exposant aux intemp\u00e9ries. Les premi\u00e8res \u00e9valuations font \u00e9tat de besoins humanitaires dans plusieurs secteurs, notamment en abris d\u2019urgence, articles m\u00e9nagers essentiels, assistance alimentaire, sant\u00e9 et eau, hygi\u00e8ne et assainissement. Des efforts de mobilisation sont en cours afin de fournir une assistance d\u2019urgence aux personnes affect\u00e9es.\n\n**BESOINS ET REPONSE HUMANITAIRE**\n\nPr\u00e9fecture de la Vakaga \u2013 Nord-Est\n\n- La r\u00e9ponse humanitaire se poursuit \u00e0 Am-Dafock \u00e0 la suite des violences arm\u00e9es survenues fin juin, notamment \u00e0 travers le d\u00e9ploiement de cliniques mobiles et l\u2019approvisionnement en eau potable. Toutefois, l\u2019acheminement de l\u2019aide reste fortement contraint. En raison de l\u2019impraticabilit\u00e9 de la route reliant Birao \u00e0 Am-Dafock pendant la saison des pluies, le transport a\u00e9rien constitue actuellement la seule option viable. \u00c0 ce jour, plus de 20 tonnes d\u2019assistance humanitaire demeurent \u00e0 Birao en attente d\u2019acheminement vers Am-Dafock. Avec l\u2019appui de la MINUSCA, une premi\u00e8re rotation h\u00e9liport\u00e9e de cargo humanitaire a \u00e9t\u00e9 organis\u00e9e le 4 juillet. Toutefois, la capacit\u00e9 limit\u00e9e de l\u2019h\u00e9licopt\u00e8re, estim\u00e9e \u00e0 deux tonnes par rotation, prendra du temps pour couvrir rapidement les volumes \u00e0 acheminer.\n\n **Sant\u00e9**\n\nA l\u2019\u00e9chelle nationale\n\n- Le Fonds central pour les interventions d\u2019urgence (CERF) a allou\u00e9 1 millions de dollars pour soutenir les efforts urgents visant \u00e0 contenir l\u2019\u00e9pid\u00e9mie de chol\u00e9ra en RCA. Ce financement soutiendra des interventions rapides en faveur de 88 700 personnes dans les zones touch\u00e9es et \u00e0 haut risque. Ce financement permettra de renforcer la surveillance \u00e9pid\u00e9miologique, la prise en charge des cas, la communication sur les risques et l\u2019engagement communautaire, tout en am\u00e9liorant l\u2019acc\u00e8s \u00e0 l\u2019eau potable, aux services d\u2019assainissement et aux mesures d\u2019hygi\u00e8ne afin de r\u00e9duire la mortalit\u00e9 et de freiner la propagation de la maladie. Entre le 7 et le 9 juillet, 17 nouveaux cas suspects de chol\u00e9ra ont \u00e9t\u00e9 enregistr\u00e9s dont deux d\u00e9c\u00e8s. Depuis la d\u00e9claration de l'\u00e9pid\u00e9mie le 26 juin, 436 cas suspects et 36 d\u00e9c\u00e8s ont \u00e9t\u00e9 rapport\u00e9s, dont neuf dans les structures de sant\u00e9 et 27 au sein des communaut\u00e9s. Les enfants de moins de 10 ans constituent le groupe d'\u00e2ge le plus affect\u00e9 (44%). Au 9 juillet, l'\u00e9pid\u00e9mie affectait trois districts sanitaires, Bangui 2, Bimbo et Mba\u00efki, avec un pic de transmission observ\u00e9 le 24 juin. Les localit\u00e9s les plus touch\u00e9es sont Mongo, Ngbango, Mondoli, S\u00e9dal\u00e9, Bobassa 2, Mok\u00e9lo, Mozan, Bouka, Modal\u00e9 et Zinga. Le district sanitaire de Bimbo enregistre le taux de l\u00e9talit\u00e9 le plus \u00e9lev\u00e9 parmi les zones affect\u00e9es. Avec des moyens limit\u00e9s, le minist\u00e8re de la Sant\u00e9, avec l'appui de l\u2019Organisation mondiale de la sant\u00e9 (OMS), a renforc\u00e9 la surveillance \u00e9pid\u00e9miologique dans les structures sanitaires et dans la communaut\u00e9, la prise en charge clinique des cas dans les unit\u00e9s de traitement chol\u00e9ra, ainsi que la communication sur les risques et l\u2019engagement communautaire. Des r\u00e9unions de coordination se tiennent quotidiennement afin de suivre l'\u00e9volution de la situation et la mise en \u0153uvre de la r\u00e9ponse. Les \u00e9quipes de l\u2019UNICEF assurent la d\u00e9contamination des m\u00e9nages ayant enregistr\u00e9 des cas de chol\u00e9ra, tout en poursuivant le traitement des sources d\u2019approvisionnement en eau potable afin de garantir un acc\u00e8s \u00e0 une eau s\u00fbre. En parall\u00e8le, des kits de lavage des mains sont distribu\u00e9s aux populations vuln\u00e9rables pour renforcer les pratiques d\u2019hygi\u00e8ne au niveau communautaire. L\u2019UNICEF poursuit \u00e9galement la construction de latrines d\u2019urgence, contribuant ainsi \u00e0 l\u2019am\u00e9lioration des conditions d\u2019assainissement et \u00e0 la r\u00e9duction des risques de transmission de la maladie. La r\u00e9ponse \u00e0 l\u2019\u00e9pid\u00e9mie demeure confront\u00e9e \u00e0 plusieurs d\u00e9fis majeurs, notamment la faible adoption des mesures d\u2019hygi\u00e8ne de base par les communaut\u00e9s, l\u2019insuffisance des sources d\u2019eau potable, la persistance de la d\u00e9f\u00e9cation \u00e0 l\u2019air libre dans les villages riverains et les difficult\u00e9s d\u2019acc\u00e8s \u00e0 ces localit\u00e9s, qui limitent la mise en \u0153uvre efficace des interventions de pr\u00e9vention et de contr\u00f4le de la maladie.",
+            "body": "**FAITS SAILLANTS**\n\n- Le Fonds d\u2019urgence des Nations Unies alloue 1 million de dollars \u00e0 la r\u00e9ponse chol\u00e9ra\n- Plus de 500 personnes d\u00e9plac\u00e9es pr\u00e9ventivement de Z\u00e9mio\n- Nana-Gribizi: 3 000 m\u00e9nages retourn\u00e9s re\u00e7oivent des semences pour relancer leurs moyens d\u2019existence\n\n**CONTEXTE GENERAL**\n\nPr\u00e9fectures du Haut-Mbomou et Mbomou \u2013 Sud-Est\n\n- Environ 210 m\u00e9nages, soit 531 personnes, se sont d\u00e9plac\u00e9s le 11 juillet de mani\u00e8re pr\u00e9ventive du village de Guinikoumba, situ\u00e9 \u00e0 70 km de Zemio, vers Dembia, \u00e0 65 km de Rafa\u00ef, de l\u2019autre c\u00f4t\u00e9 de la rivi\u00e8re Ouara. Ce mouvement de population a \u00e9t\u00e9 motiv\u00e9 par la crainte d\u2019une possible attaque par des \u00e9l\u00e9ments arm\u00e9s. Une partie de personnes d\u00e9plac\u00e9es est h\u00e9berg\u00e9e au sein de familles d\u2019accueil, tandis que d\u2019autres vivent sous des abris de fortune, les exposant aux intemp\u00e9ries. Les premi\u00e8res \u00e9valuations font \u00e9tat de besoins humanitaires dans plusieurs secteurs, notamment en abris d\u2019urgence, articles m\u00e9nagers essentiels, assistance alimentaire, sant\u00e9 et eau, hygi\u00e8ne et assainissement. Des efforts de mobilisation sont en cours afin de fournir une assistance d\u2019urgence aux personnes affect\u00e9es.\n\n**BESOINS ET REPONSE HUMANITAIRE**\n\nPr\u00e9fecture de la Vakaga \u2013 Nord-Est\n\n- La r\u00e9ponse humanitaire se poursuit \u00e0 Am-Dafock \u00e0 la suite des violences arm\u00e9es survenues fin juin, notamment \u00e0 travers le d\u00e9ploiement de cliniques mobiles et l\u2019approvisionnement en eau potable. Toutefois, l\u2019acheminement de l\u2019aide reste fortement contraint. En raison de l\u2019impraticabilit\u00e9 de la route reliant Birao \u00e0 Am-Dafock pendant la saison des pluies, le transport a\u00e9rien constitue actuellement la seule option viable. \u00c0 ce jour, plus de 20 tonnes d\u2019assistance humanitaire demeurent \u00e0 Birao en attente d\u2019acheminement vers Am-Dafock. Avec l\u2019appui de la MINUSCA, une premi\u00e8re rotation h\u00e9liport\u00e9e de cargo humanitaire a \u00e9t\u00e9 organis\u00e9e le 4 juillet. Toutefois, la capacit\u00e9 limit\u00e9e de l\u2019h\u00e9licopt\u00e8re, estim\u00e9e \u00e0 deux tonnes par rotation, prendra du temps pour couvrir rapidement les volumes \u00e0 acheminer.\n\n**Sant\u00e9**\n\nA l\u2019\u00e9chelle nationale\n\n- Le Fonds central pour les interventions d\u2019urgence (CERF) a allou\u00e9 1 millions de dollars pour soutenir les efforts urgents visant \u00e0 contenir l\u2019\u00e9pid\u00e9mie de chol\u00e9ra en RCA. Ce financement soutiendra des interventions rapides en faveur de 88 700 personnes dans les zones touch\u00e9es et \u00e0 haut risque. Ce financement permettra de renforcer la surveillance \u00e9pid\u00e9miologique, la prise en charge des cas, la communication sur les risques et l\u2019engagement communautaire, tout en am\u00e9liorant l\u2019acc\u00e8s \u00e0 l\u2019eau potable, aux services d\u2019assainissement et aux mesures d\u2019hygi\u00e8ne afin de r\u00e9duire la mortalit\u00e9 et de freiner la propagation de la maladie. Entre le 7 et le 9 juillet, 17 nouveaux cas suspects de chol\u00e9ra ont \u00e9t\u00e9 enregistr\u00e9s dont deux d\u00e9c\u00e8s. Depuis la d\u00e9claration de l'\u00e9pid\u00e9mie le 26 juin, 436 cas suspects et 36 d\u00e9c\u00e8s ont \u00e9t\u00e9 rapport\u00e9s, dont neuf dans les structures de sant\u00e9 et 27 au sein des communaut\u00e9s. Les enfants de moins de 10 ans constituent le groupe d'\u00e2ge le plus affect\u00e9 (44%). Au 9 juillet, l'\u00e9pid\u00e9mie affectait trois districts sanitaires, Bangui 2, Bimbo et Mba\u00efki, avec un pic de transmission observ\u00e9 le 24 juin. Les localit\u00e9s les plus touch\u00e9es sont Mongo, Ngbango, Mondoli, S\u00e9dal\u00e9, Bobassa 2, Mok\u00e9lo, Mozan, Bouka, Modal\u00e9 et Zinga. Le district sanitaire de Bimbo enregistre le taux de l\u00e9talit\u00e9 le plus \u00e9lev\u00e9 parmi les zones affect\u00e9es. Avec des moyens limit\u00e9s, le minist\u00e8re de la Sant\u00e9, avec l'appui de l\u2019Organisation mondiale de la sant\u00e9 (OMS), a renforc\u00e9 la surveillance \u00e9pid\u00e9miologique dans les structures sanitaires et dans la communaut\u00e9, la prise en charge clinique des cas dans les unit\u00e9s de traitement chol\u00e9ra, ainsi que la communication sur les risques et l\u2019engagement communautaire. Des r\u00e9unions de coordination se tiennent quotidiennement afin de suivre l'\u00e9volution de la situation et la mise en \u0153uvre de la r\u00e9ponse. Les \u00e9quipes de l\u2019UNICEF assurent la d\u00e9contamination des m\u00e9nages ayant enregistr\u00e9 des cas de chol\u00e9ra, tout en poursuivant le traitement des sources d\u2019approvisionnement en eau potable afin de garantir un acc\u00e8s \u00e0 une eau s\u00fbre. En parall\u00e8le, des kits de lavage des mains sont distribu\u00e9s aux populations vuln\u00e9rables pour renforcer les pratiques d\u2019hygi\u00e8ne au niveau communautaire. L\u2019UNICEF poursuit \u00e9galement la construction de latrines d\u2019urgence, contribuant ainsi \u00e0 l\u2019am\u00e9lioration des conditions d\u2019assainissement et \u00e0 la r\u00e9duction des risques de transmission de la maladie. La r\u00e9ponse \u00e0 l\u2019\u00e9pid\u00e9mie demeure confront\u00e9e \u00e0 plusieurs d\u00e9fis majeurs, notamment la faible adoption des mesures d\u2019hygi\u00e8ne de base par les communaut\u00e9s, l\u2019insuffisance des sources d\u2019eau potable, la persistance de la d\u00e9f\u00e9cation \u00e0 l\u2019air libre dans les villages riverains et les difficult\u00e9s d\u2019acc\u00e8s \u00e0 ces localit\u00e9s, qui limitent la mise en \u0153uvre efficace des interventions de pr\u00e9vention et de contr\u00f4le de la maladie.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
                 "id": 54,
@@ -77,7 +130,7 @@
             "url": "https://reliefweb.int/node/4221762",
             "date": {
                 "original": "2026-07-16T00:00:00+00:00",
-                "changed": "2026-07-16T15:24:24+00:00",
+                "changed": "2026-07-17T06:29:56+00:00",
                 "created": "2026-07-16T15:20:38+00:00"
             }
         },
@@ -87,7 +140,7 @@
         "id": "4221764",
         "score": 1,
         "fields": {
-            "title": "Tchad - Bulletin humanitaire de mai-juin 2026",
+            "title": "Tchad - Bulletin humanitaire | mai-juin 2026",
             "body": "**FAITS SAILLANTS**\n\n- En 2026, le Tchad est menac\u00e9 \u00e0 la fois par des risques d\u2019inondation et de s\u00e9cheresse.\n- Plus de 60 000 personnes ont \u00e9t\u00e9 forc\u00e9es de quitter leurs domiciles au Lac en raison des op\u00e9rations militaires d\u00e9cr\u00e9t\u00e9es par le gouvernement.\n- Les r\u00e9sultats de l\u2019analyse du Cadre harmonis\u00e9 de mai estiment \u00e0 plus de 3,18 millions le nombre de personnes en ins\u00e9curit\u00e9 alimentaire entre juin et septembre 2026.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/55",
@@ -119,7 +172,7 @@
             "url": "https://reliefweb.int/node/4221764",
             "date": {
                 "original": "2026-07-15T00:00:00+00:00",
-                "changed": "2026-07-16T15:42:27+00:00",
+                "changed": "2026-07-17T06:27:04+00:00",
                 "created": "2026-07-16T15:19:58+00:00"
             }
         },
@@ -129,8 +182,8 @@
         "id": "4221755",
         "score": 1,
         "fields": {
-            "title": "Ebola related incident analysis - Community Perception Tracker's signals (16 May to 1 July 2026)",
-            "body": "The Ebola virus disease response is being implemented in Ituri, North Kivu and South Kivu in an environment where armed violence, criminality and resistance to public health measures overlap. In this context, community acceptance cannot be taken for granted: it deteriorates or is rebuilt one incident at a time and rarely declines everywhere simultaneously.  \nThis analysis starts from a straightforward operational finding: response teams were directly targeted in most documented incidents, 51 out of 68. The risk therefore concerns not only continuity of operations, but also the safety of the personnel delivering them. Understanding where, around which issues and against whom tensions crystallise is essential to sustaining the response on the ground.  \nThis analysis is based on 68 incidents documented over 47 days, from 16 May to 1 July 2026, and identifies three main findings. First, safe and dignified burials and the return of bodies were the leading source of friction (22 incidents), with a strong concentration in Bunia Health Zone. Second, most Ebola-related accusations targeted the response itself (ten out of fourteen); in Mongbwalu, the narrative that humanitarian actors introduced the virus is driving violence. Finally, friction is highly localised: two health zones alone accounted for 26 of the 68 incidents, or nearly 40 per cent of all incidents during the period.  \nThe analysis identifies the health zones concerned and specifies the priority geography for each recommendation. Its purpose is not to describe a general climate, but to enable targeted action.",
+            "title": "Analysis of Ebola-related incidents: CPT signals and implications (16 May\u20131 July 2026), Ituri, North Kivu, South Kivu",
+            "body": "The Ebola virus disease response is being implemented in Ituri, North Kivu and South Kivu in an environment where armed violence, criminality and resistance to public health measures overlap. In this context, community acceptance cannot be taken for granted: it deteriorates or is rebuilt one incident at a time and rarely declines everywhere simultaneously.  \n This analysis starts from a straightforward operational finding: response teams were directly targeted in most documented incidents, 51 out of 68. The risk therefore concerns not only continuity of operations, but also the safety of the personnel delivering them. Understanding where, around which issues and against whom tensions crystallise is essential to sustaining the response on the ground.  \n This analysis is based on 68 incidents documented over 47 days, from 16 May to 1 July 2026, and identifies three main findings. First, safe and dignified burials and the return of bodies were the leading source of friction (22 incidents), with a strong concentration in Bunia Health Zone. Second, most Ebola-related accusations targeted the response itself (ten out of fourteen); in Mongbwalu, the narrative that humanitarian actors introduced the virus is driving violence. Finally, friction is highly localised: two health zones alone accounted for 26 of the 68 incidents, or nearly 40 per cent of all incidents during the period.  \n The analysis identifies the health zones concerned and specifies the priority geography for each recommendation. Its purpose is not to describe a general climate, but to enable targeted action.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -159,7 +212,7 @@
             "url": "https://reliefweb.int/node/4221755",
             "date": {
                 "original": "2026-07-15T00:00:00+00:00",
-                "changed": "2026-07-16T14:45:10+00:00",
+                "changed": "2026-07-17T03:42:04+00:00",
                 "created": "2026-07-16T14:44:49+00:00"
             }
         },
@@ -169,8 +222,8 @@
         "id": "4221754",
         "score": 1,
         "fields": {
-            "title": "Analyse d'incidents li\u00e9s \u00e0 Ebola - Signaux CPT (du 16 mai au 1er juillet 2026)",
-            "body": "La riposte contre la maladie \u00e0 virus Ebola se d\u00e9ploie en Ituri, au Nord-Kivu et au Sud-Kivu dans un environnement o\u00f9 la violence arm\u00e9e, la criminalit\u00e9 et la contestation des mesures sanitaires se superposent. Dans ce contexte, l\u2019acceptation communautaire n\u2019est pas un pr\u00e9alable acquis : elle se d\u00e9grade ou se reconstruit incident apr\u00e8s incident, et elle se d\u00e9grade rarement partout en m\u00eame temps.  \nCette analyse part d\u2019un constat op\u00e9rationnel simple : les \u00e9quipes de la riposte sont la cible directe de la grande majorit\u00e9 des incidents document\u00e9s avec 51 sur les 68. Le risque ne porte donc pas seulement sur la continuit\u00e9 des activit\u00e9s, mais sur la s\u00e9curit\u00e9 des personnes qui les m\u00e8nent. Comprendre o\u00f9, sur quoi et contre qui la friction se cristallise conditionne la capacit\u00e9 de la riposte \u00e0 se maintenir sur le terrain.  \nCette analyse se base sur 68 incidents document\u00e9s sur 47 jours du 16 mai au 1er juillet 2026. Elle en tire trois r\u00e9sultats principaux. D\u2019abord, les enterrements dignes et s\u00e9curis\u00e9s et la restitution des corps constituent le premier motif de friction (22 incidents), tr\u00e8s concentr\u00e9 dans la zone de sant\u00e9 de Bunia. Ensuite, les accusations li\u00e9es \u00e0 Ebola visant majoritairement la riposte elle-m\u00eame (dix sur quatorze) \u00e0 Mongbwalu, le r\u00e9cit selon lequel les humanitaires auraient introduit le virus structure les violences. Enfin, la friction est fortement localis\u00e9e : deux zones de sant\u00e9 concentrent \u00e0 elles seules 26 des 68 incidents, soit pr\u00e8s de 40 % d\u2019incidents sur la p\u00e9riode.  \nCette analyse identifie les zones de sant\u00e9 concern\u00e9es tout en s\u2019assurant que la g\u00e9ographie pour chacune des recommandations pr\u00e9cis\u00e9es l\u00e0 o\u00f9 elle s\u2019applique en priorit\u00e9. L\u2019objectif n\u2019est pas de d\u00e9crire un climat g\u00e9n\u00e9ral mais de permettre un ciblage.",
+            "title": "Analyse d\u2019incidents li\u00e9s \u00e0 Ebola: Signaux CPT et implications (16 mai \u2013 1er juillet 2026), Ituri, Nord-Kivu, Sud-Kivu",
+            "body": "La riposte contre la maladie \u00e0 virus Ebola se d\u00e9ploie en Ituri, au Nord-Kivu et au Sud-Kivu dans un environnement o\u00f9 la violence arm\u00e9e, la criminalit\u00e9 et la contestation des mesures sanitaires se superposent. Dans ce contexte, l\u2019acceptation communautaire n\u2019est pas un pr\u00e9alable acquis : elle se d\u00e9grade ou se reconstruit incident apr\u00e8s incident, et elle se d\u00e9grade rarement partout en m\u00eame temps.  \n Cette analyse part d\u2019un constat op\u00e9rationnel simple : les \u00e9quipes de la riposte sont la cible directe de la grande majorit\u00e9 des incidents document\u00e9s avec 51 sur les 68. Le risque ne porte donc pas seulement sur la continuit\u00e9 des activit\u00e9s, mais sur la s\u00e9curit\u00e9 des personnes qui les m\u00e8nent. Comprendre o\u00f9, sur quoi et contre qui la friction se cristallise conditionne la capacit\u00e9 de la riposte \u00e0 se maintenir sur le terrain.  \n Cette analyse se base sur 68 incidents document\u00e9s sur 47 jours du 16 mai au 1er juillet 2026. Elle en tire trois r\u00e9sultats principaux. D\u2019abord, les enterrements dignes et s\u00e9curis\u00e9s et la restitution des corps constituent le premier motif de friction (22 incidents), tr\u00e8s concentr\u00e9 dans la zone de sant\u00e9 de Bunia. Ensuite, les accusations li\u00e9es \u00e0 Ebola visant majoritairement la riposte elle-m\u00eame (dix sur quatorze) \u00e0 Mongbwalu, le r\u00e9cit selon lequel les humanitaires auraient introduit le virus structure les violences. Enfin, la friction est fortement localis\u00e9e : deux zones de sant\u00e9 concentrent \u00e0 elles seules 26 des 68 incidents, soit pr\u00e8s de 40 % d\u2019incidents sur la p\u00e9riode.  \n Cette analyse identifie les zones de sant\u00e9 concern\u00e9es tout en s\u2019assurant que la g\u00e9ographie pour chacune des recommandations pr\u00e9cis\u00e9es l\u00e0 o\u00f9 elle s\u2019applique en priorit\u00e9. L\u2019objectif n\u2019est pas de d\u00e9crire un climat g\u00e9n\u00e9ral mais de permettre un ciblage.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -199,7 +252,7 @@
             "url": "https://reliefweb.int/node/4221754",
             "date": {
                 "original": "2026-07-15T00:00:00+00:00",
-                "changed": "2026-07-16T14:42:56+00:00",
+                "changed": "2026-07-17T03:52:27+00:00",
                 "created": "2026-07-16T14:42:02+00:00"
             }
         },
@@ -209,7 +262,7 @@
         "id": "4221753",
         "score": 1,
         "fields": {
-            "title": "UNICEF Cholera Response in DRC - Case Area Targeted Interventions (CATI) program: Tanganyika, North Kivu, South Kivu and Haut-Lomami provinces | june 2026",
+            "title": "UNICEF Cholera Response in DRC - Case Area Targeted Interventions (CATI) program: Tanganyika, North Kivu, South Kivu and Haut-Lomami provinces | June 2026 [EN/FR]",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -239,17 +292,57 @@
             "url": "https://reliefweb.int/node/4221753",
             "date": {
                 "original": "2026-07-16T00:00:00+00:00",
-                "changed": "2026-07-16T14:38:12+00:00",
+                "changed": "2026-07-17T06:50:26+00:00",
                 "created": "2026-07-16T14:37:23+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4221753"
     },
     {
+        "id": "4221750",
+        "score": 1,
+        "fields": {
+            "title": "Monthly Displacement Report \u2013 Eastern DRC | June 2026",
+            "body": "In June 2026, **46,475 newly displaced households and 7,931 returning households** were documented across eastern DRC. The largest movements were recorded in South Kivu and Maniema, while North Kivu experienced a **62% increase** in new displacement, primarily in Masisi and Walikale. In Ituri, 4,450 newly displaced households were recorded alongside the return of 6,916 households to Djugu.\n\nArmed conflict, abuses against civilians and shifting front lines remain the main drivers of displacement. Pressure continues to increase on host families, essential services and humanitarian access.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1929",
+                    "id": 1929,
+                    "name": "Mercy Corps",
+                    "shortname": "Mercy Corps",
+                    "longname": "Mercy Corps",
+                    "homepage": "https://www.mercycorps.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221750",
+            "date": {
+                "original": "2026-07-16T00:00:00+00:00",
+                "changed": "2026-07-17T03:36:58+00:00",
+                "created": "2026-07-16T14:27:03+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221750"
+    },
+    {
         "id": "4221749",
         "score": 1,
         "fields": {
-            "title": "Rapport mensuel des d\u00e9placements (Juin 2026)",
+            "title": "Rapport mensuel sur les d\u00e9placements \u2013 Est de la RDC | Juin 2026",
             "body": "En juin 2026, **46 475 nouveaux m\u00e9nages d\u00e9plac\u00e9s et 7 931 m\u00e9nages retourn\u00e9s** ont \u00e9t\u00e9 document\u00e9s dans l\u2019est de la RDC. Les mouvements les plus importants ont \u00e9t\u00e9 enregistr\u00e9s au Sud-Kivu et au Maniema, tandis que le Nord-Kivu a connu une hausse de **62 %** des nouveaux d\u00e9placements, principalement \u00e0 Masisi et Walikale. En Ituri, 4 450 nouveaux d\u00e9placements ont \u00e9t\u00e9 recens\u00e9s parall\u00e8lement au retour de 6 916 m\u00e9nages \u00e0 Djugu.\n\nLes conflits arm\u00e9s, les exactions contre les civils et la mobilit\u00e9 des fronts demeurent les principaux moteurs de ces mouvements. La pression continue de s\u2019accentuer sur les familles d\u2019accueil, les services essentiels et l\u2019acc\u00e8s humanitaire.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
@@ -279,7 +372,7 @@
             "url": "https://reliefweb.int/node/4221749",
             "date": {
                 "original": "2026-07-16T00:00:00+00:00",
-                "changed": "2026-07-16T14:25:02+00:00",
+                "changed": "2026-07-17T03:37:59+00:00",
                 "created": "2026-07-16T14:24:40+00:00"
             }
         },
@@ -1599,87 +1692,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4221342"
-    },
-    {
-        "id": "4221308",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 13 July 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221308",
-            "date": {
-                "original": "2026-07-14T00:00:00+00:00",
-                "changed": "2026-07-14T10:54:07+00:00",
-                "created": "2026-07-14T08:54:12+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221308"
-    },
-    {
-        "id": "4221303",
-        "score": 1,
-        "fields": {
-            "title": "Rebuilding hope for refugees after trauma in Chad",
-            "body": "Adr\u00e9, Chad\u2014When Zara arrived in Adr\u00e9 in June 2023 after fleeing the conflict in Sudan, she was 19 years old. Shortly afterwards, she was assaulted by several men while visiting her grandmother in another section of the site where she was living with her family. A few weeks later, she learned that she was pregnant.  \n The news triggered a family crisis. Fearing for her safety because of pressure from relatives to terminate the pregnancy, Zara sought help. She was referred to the Integrated Multisectoral Services Centre (CISM) in Adr\u00e9, where survivors of gender-based violence can access medical care, psychological support and protection services.\n\n\u201cThe CISM staff welcomed me with great kindness. They listened to me and supported me throughout my pregnancy,\u201d said Zara. \u201cAt first, I wanted to abandon my baby. Thanks to their counselling, I eventually decided to keep the child. I cannot thank the centre\u2019s staff enough for helping me through a situation that could have cost me my life.\u201d\n\nToday, she continues to visit the centre. \u201cI often come to CISM because I feel safe there. It helps me cope with my difficulties and regain hope,\u201d she said.\n\nZara\u2019s story reflects the reality faced by many women and families displaced by the conflict in Sudan. Since April 2023, more than 1 million refugees and returnees have sought refuge in eastern Chad. Around 75% of them are women and children who have fled violence, forced displacement and, in some cases, the loss of loved ones. Beyond immediate needs for food, water, shelter and medical care, mental health remains an urgent but often less visible concern.\n\nIn eastern Chad, World Health Organization (WHO) is supporting the government in providing care for people affected by the psychological consequences of conflict and forced displacement. Since the start of the crisis, more than 10 000 people have received mental health and psychosocial support services, and more than 1200 survivors of gender-based violence have received assistance through interventions supported by WHO and its partners. Health care providers and community actors have also been trained to strengthen sustainable access to these services.\n\nFor Dr Raoul Djinguebey, WHO Response Coordinator in eastern Chad, mental health support is an essential component of the humanitarian response. \u201cBehind every consultation is a person seeking to regain their dignity, confidence and ability to rebuild their life. By investing in mental health today, we are helping survivors of violence overcome trauma while strengthening the resilience of communities for tomorrow,\u201d he said.\n\nIn Adr\u00e9, where nearly 71% of Sudanese refugee arrivals in eastern Chad are concentrated, the CISM provides an important point of access to care, protection and psychosocial support. Since opening in October 2024, the centre has supported 487 survivors of gender-based violence and 137 people have received specialized mental health care.\n\nOn the ground, this response relies on collaboration between national authorities, WHO and several humanitarian partners.  \n \u201cThe crisis has led to a significant increase in mental health and psychosocial support needs, particularly among women, children and people who have experienced traumatic events or other situations of distress. Strengthening these services is now a priority in order to meet the needs of refugees and host communities,\u201d said Dr Adam Ahmat Mahamoud, Chief Medical Officer of the Adr\u00e9 health district.\n\nAmong those who supported Zara was Bebbata Pagaye, a WHO specialist in sexual and reproductive health and the prevention of gender-based violence in Adr\u00e9. Like other survivors supported at the centre, Zara received assistance throughout her care pathway, from referral to psychosocial follow-up.\n\n\u201cSeeing a woman smile again after going through so many hardships is one of the greatest rewards of our work. We help them regain self-confidence, understand that they are not responsible for what happened to them and realize that they still have the opportunity to rebuild their lives,\u201d she said.\n\nThis reality is also reflected in the daily work of Charlot Serferbe Daba, a clinical psychologist supported by WHO at the Adr\u00e9 CISM.  \n \u201cMost people seeking mental health services have experienced extremely traumatic events. Many women were subjected to sexual violence during the conflict or while fleeing. We also support men, adolescents and children facing the loss of loved ones, family separation or other traumatic events,\u201d he explained.\n\nAt the Adr\u00e9 CISM, services are delivered through collaboration between national authorities, the United Nations Children\u2019s Fund (UNICEF), the United Nations Population Fund (UNFPA), the Office of the United Nations High Commissioner for Refugees (UNHCR), the Chad Red Cross and several national and international organizations. Together, these partners provide an integrated response combining medical care, mental health services, psychosocial support and protection services.\n\n\u201cMental health needs have increased considerably with the large-scale arrival of refugees. Thanks to collaboration between the government, WHO and other partners, more people can now access psychological and psychosocial support that is essential to their recovery and well-being,\u201d said Dr Abdelmahamoud Chene, Provincial Health Delegate for Ouadda\u00ef.\n\nFor Zara, this support has represented much more than a service. Thanks to the assistance she received, she continues to move forward despite the challenges she has faced. Her story is a reminder that, at the heart of a crisis, finding hope is often the first step towards healing and a new future.\n\n**For Additional Information or to Request Interviews, Please contact:**\n\nKadijah Diallo\n\nCommunications Officer  \n WHO Regional Office for Africa  \n Email: dialloka@who.int\n\nMr NAISSEM Jonas\n\nNPO/HIP  \n Email : naissemj@who.int",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221303",
-            "date": {
-                "original": "2026-07-13T00:00:00+00:00",
-                "changed": "2026-07-14T10:04:33+00:00",
-                "created": "2026-07-14T08:36:34+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221303"
     }
 ]
