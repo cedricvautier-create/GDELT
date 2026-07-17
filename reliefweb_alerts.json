@@ -1,5 +1,288 @@
 [
     {
+        "id": "4221853",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique Centrafricaine - Statistiques des R\u00e9fugi\u00e9s et Demandeurs d\u2019Asile Au 30 juin 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221853",
+            "date": {
+                "original": "2026-07-17T00:00:00+00:00",
+                "changed": "2026-07-17T12:18:36+00:00",
+                "created": "2026-07-17T12:03:14+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221853"
+    },
+    {
+        "id": "4221840",
+        "score": 1,
+        "fields": {
+            "title": "Cluster Protection RDC : Analyse semestrielle de la situation de protection au Nord-Kivu - R\u00e9sultats du monitoring de protection commun (Janvier - Juin 2026)",
+            "body": "**Principales tentances**\n\n**D\u00e9t\u00e9rioration continue de l\u2019environnement de protection :** Les affrontements entre groupes arm\u00e9s, particuli\u00e8rement \u00e0 Masisi, Rutshuru et Walikale, continuent d\u2019alimenter l\u2019ins\u00e9curit\u00e9, les attaques contre les civils et les d\u00e9placements de populations.\n\n**Multiplication des violations graves des droits humains :** Les civils soup\u00e7onn\u00e9s de liens avec des groupes arm\u00e9s rivaux sont expos\u00e9s \u00e0 des enl\u00e8vements, d\u00e9tentions arbitraires, ex\u00e9cutions sommaires, actes de torture et extorsions.\n\n**Persistance des violences bas\u00e9es sur le genre (VBG) :** Les femmes et les filles demeurent particuli\u00e8rement vuln\u00e9rables aux violences sexuelles, notamment lors des d\u00e9placements et pour des activit\u00e9s de subsistance.\n\n**Restrictions croissantes de l\u2019acc\u00e8s et de la mobilit\u00e9 :** Les incursions arm\u00e9es, embuscades et pillages limitent la libert\u00e9 de mouvement des populations et compromettent leur acc\u00e8s aux services essentiels.\n\n**Aggravation des vuln\u00e9rabilit\u00e9s humanitaires :** L\u2019ins\u00e9curit\u00e9 persistante r\u00e9duit l\u2019acc\u00e8s aux moyens d\u2019existence et \u00e0 l\u2019assistance humanitaire, tout en accentuant les besoins de protection des populations affect\u00e9es.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221840",
+            "date": {
+                "original": "2026-07-15T00:00:00+00:00",
+                "changed": "2026-07-17T12:41:52+00:00",
+                "created": "2026-07-17T11:12:23+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221840"
+    },
+    {
+        "id": "4221836",
+        "score": 1,
+        "fields": {
+            "title": "Tchad : Pr\u00e9sence op\u00e9rationnelle des partenaires (3W) juillet 2026",
+            "body": "L\u2019outil 3W est d\u00e9velopp\u00e9 par OCHA pour une meilleure visibilit\u00e9 des partenaires humanitaires sur le terrain. Les informations utilis\u00e9es dans ce produit sont issues des m\u00e9canismes de coordination.  \nDu fait de la r\u00e9duction drastique des financements humanitaires, certaines organisations ont r\u00e9duit leur pr\u00e9sence sur le terrain, ce qui impacte la mise en oeuvre des activit\u00e9s en r\u00e9ponse aux multiples besoins humanitaires.  \nCi-apr\u00e8s le lien vers la pr\u00e9sence physique des partenaires, qui fait appara\u00eetre les bureaux ferm\u00e9s depuis janvier 2025 : Pr\u00e9sence Physique des partenaires",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221836",
+            "date": {
+                "original": "2026-07-17T00:00:00+00:00",
+                "changed": "2026-07-17T12:29:22+00:00",
+                "created": "2026-07-17T10:42:35+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221836"
+    },
+    {
+        "id": "4221834",
+        "score": 1,
+        "fields": {
+            "title": "Tchad : Pr\u00e9sence physique des partenaires (Qui a un bureau o\u00f9?) Juillet 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221834",
+            "date": {
+                "original": "2026-07-17T00:00:00+00:00",
+                "changed": "2026-07-17T12:20:51+00:00",
+                "created": "2026-07-17T10:38:49+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221834"
+    },
+    {
+        "id": "4221830",
+        "score": 1,
+        "fields": {
+            "title": "P21 - Tchad | Urgence soudanaise | Situation de Protection des nouveaux arrivants (01 - 15 juillet 2026 - FR)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221830",
+            "date": {
+                "original": "2026-06-17T00:00:00+00:00",
+                "changed": "2026-07-17T11:37:38+00:00",
+                "created": "2026-07-17T10:03:20+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221830"
+    },
+    {
+        "id": "4221829",
+        "score": 1,
+        "fields": {
+            "title": "P21 - Chad | Sudanese emergency | Protection situation of new arrivals (01 - 15 July 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221829",
+            "date": {
+                "original": "2026-06-17T00:00:00+00:00",
+                "changed": "2026-07-17T10:56:50+00:00",
+                "created": "2026-07-17T10:03:17+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221829"
+    },
+    {
+        "id": "4221819",
+        "score": 1,
+        "fields": {
+            "title": "Ebola in the DRC: How Goma\u2019s Wellness Clinic Fights Distrust",
+            "body": "## Dr. Prince Mbuzukongira and Chantal Mandro of Jericho Road's Wellness Clinic in Goma, DRC, discuss how the latest Ebola outbreak is impacting routine care, and why local trust is key.\n\nBy [**Noah Smith**](https://www.directrelief.org/author/nsmith/)\n\nThe Ebola outbreak has changed daily care at the Wellness Clinic, Jericho Road\u2019s clinic in Goma, Democratic Republic of the Congo, even though the clinic has not received a confirmed Ebola case. The clinic provides essential health services for patients in the region, including primary care, a surgery center, and a birthing ward.\n\nThe effect of Ebola in the region has been indirect on the clinic, but damaging. Clinic staff reported a roughly 20% decline in patient visits early in the outbreak. Many patients, they said, were afraid to enter the health system because of widespread distrust.\n\nThe outbreak, caused by Bundibugyo virus, has led to at least 721 deaths and 1984 cases, according to the DRC and Ugandan Ministries of Health. Cases have been concentrated in the DRC\u2019s Ituri, North Kivu, and South Kivu provinces. The CDC reports this is the DRC\u2019s 17th Ebola outbreak and the third-largest Ebola outbreak on record.\n\nIn Goma, the capital of North Kivu province, the outbreak is unfolding in a city already battered by civil conflict and mass displacement.\n\nIn this Q&A, Dr. Prince Mbuzukongira, a physician and public health specialist at the [Wellness Clinic](https://jrchc.org/congo/), and Chantal Mandro, a nurse and director at the clinic, spoke with Direct Relief about managing patient fears in order to keep infection-control measures in place, and why local trust may be as important to the Ebola response as masks, medicine, testing, and isolation beds.\n\nTheir account shows how an outbreak can impact care even before a clinic sees a single suspected case.\n\n*This interview has been edited for length and clarity.*\n\n**How did the outbreak affect patient visits at the clinic?**\n\n**Dr. Prince Mbuzukongira:** At the beginning, patient visits dropped by about 20 percent. When someone was not extremely sick, they often preferred to stay home.\n\nAround mid-May, there was one Ebola case in Goma. The patient was isolated and survived. That had a positive impact in the community. After people heard that someone could survive, they began coming back.\n\n**How has routine care been affected by the outbreak?**\n\n**Chantal Mandro:** The biggest impact is on people with diseases that can become more dangerous if care is delayed. Malaria, respiratory infections, and typhoid can become more dangerous when people stay home. If someone has fever and headache, it can be malaria, or it can be Ebola. Chronic-disease patients continued to come, but when an outbreak happens, people with chronic diseases are at higher risk.\n\nWe saw a similar problem during coronavirus. Many of the people who died had chronic diseases.\n\nBorder closures also limited access to some essential medicines. We have enough in stock for everyday use, but not if there\u2019s a local outbreak. The medicines we requested from Direct Relief are very useful for poor patients with chronic illnesses, who are numerous here and who are not able to regularly pay for their medicines. These medicines are a great relief for them.\n\n**Why is trust among the population so low when it comes to seeking care during an outbreak?**\n\n**PM:** The response has many branches, but communication with the population is not emphasized enough. When there is an outbreak, people often come from very far away to organize the response. They do not use enough local nurses, local doctors, and local people who have influence in the community. They often come from Kinshasa or other places, and they come with funding.\n\nThat is a problem because some people do not trust medical personnel who come from far away. Communication is one of the biggest challenges in this outbreak. You have to use local people with influence to explain things clearly.\n\nFor example, people need to understand that Ebola can come from contact with infected animals and that eating certain wild animals can be dangerous. But that is not easy to explain to the community. The same is true with burial ceremonies. Some family members became very angry and took their deceased relatives by force.\n\n**CM**: Some people think medical personnel are there because there is money in the outbreak. They worry they will be falsely told they have the disease, or that they will be used as an experiment for a new disease.\n\n**PM:** They are afraid of what may happen to them inside the health system.\n\n**CM:** At the beginning of an outbreak, there is often no organized response. The first cases die. People see that and think there is no help even if they go to the hospital. In Bunia, at the start of this outbreak, many of the people who went for care were dying. Later, a treatment center was organized with international NGOs.\n\n**Beyond communication and trust, what has been missing from this response?**\n\n**CM:** In this new outbreak around Bunia, many things were missing at the beginning: money, setup, medicine, testing, and protective equipment. There was nothing in place.\n\nThere is no easy place to [buy PPE in Congo](https://www.reuters.com/business/healthcare-pharmaceuticals/no-boots-masks-running-out-why-congos-ebola-medics-are-exposed-2026-06-09/). We need partners to send it to us. Testing was also a problem. In Bunia, tests had to be sent to Kinshasa, and they could not do more than a small number of tests per day. That is why an outbreak can spread quickly. It is also why many medical personnel died.\n\nIn Goma, the response has been more organized than in some other places. There has been isolation, testing capacity, and a system to control cases. People exposed to cases can be placed in isolation for 21 days.\n\n**CM & PM**: At the entrance to our clinic, we established a temperature-screening point and several handwashing stations. We also restricted gatherings inside the facility. Whenever a suspected case is identified, an alert is immediately issued, and the patient is taken over by the official outbreak response team. To date, however, our facility has not received any Ebola cases.\n\n**CM:** Still, at Wellness Clinic, we do not feel fully prepared. We do not have many masks. Some PPE we received was given to the government and to people at the quarantine center. We have medicine, but not enough if a large epidemic comes. The best way is to have stock ready before the epidemic period so people can use it immediately.\n\n**Without identifying them, can you tell me about one patient or family you cared for recently who stayed with you?**\n\n**CM & PM:** We remember a family that was afraid to visit the health center because they feared being stigmatized. After several discussions with our team, they agreed to seek medical care.\n\nFortunately, the test result came back negative for Ebola after the sample was collected. Instead, the patient was diagnosed with another illness that required prompt treatment. This reminded us of the importance of community awareness and of building trust between communities and healthcare professionals.\n\n**What do you want people outside the DRC to understand about this outbreak?**\n\n**CM:** Ebola does not come to the same towns every time. This is the DRC\u2019s 17th Ebola outbreak, but each outbreak has its own response challenges and its own trust issues.\n\n**PM:** The response must include local doctors, nurses, and trusted community members from the beginning.\n\n**People often hear about crises in eastern Congo. What progress or success do you wish people outside the country knew about?**\n\n**CM & PM**: Despite the many challenges, healthcare professionals and local communities have shown remarkable commitment and, above all, great resilience. Over the years, surveillance, diagnostic, and patient care capacities have improved considerably. Collaboration between health authorities, partners, and communities has made it possible to detect outbreaks earlier and respond more rapidly. These efforts deserve greater recognition.\n\n*Direct Relief\u2019s response to the current Ebola outbreak continues, including continuous shipments of medical aid to support patient care. Direct Relief sent personal protective equipment, oral rehydration salts, chronic-disease medications, antibiotics, and diagnostics to Jericho Road to strengthen ongoing health services and will continue to support health providers reaching patients in the DRC.*",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1957",
+                    "id": 1957,
+                    "name": "Direct Relief",
+                    "shortname": "Direct Relief",
+                    "longname": "Direct Relief International",
+                    "homepage": "https://www.directrelief.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4221819",
+            "date": {
+                "original": "2026-07-17T00:00:00+00:00",
+                "changed": "2026-07-17T08:58:45+00:00",
+                "created": "2026-07-17T08:58:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4221819"
+    },
+    {
         "id": "4221804",
         "score": 1,
         "fields": {
@@ -382,8 +665,8 @@
         "id": "4221740",
         "score": 1,
         "fields": {
-            "title": "MSF warns against North Kivu\u2019s exclusion from upcoming Global Fund's malaria funding cycle",
-            "body": "> MSF has learned that North Kivu\u2014a province largely controlled by the AFC/M23\u2014would be excluded from future funding priorities for malaria control, while its health system may soon become overwhelmed by the ongoing Ebola epidemic. \u200b\n\nAs part of the Global Fund\u2019s eighth round of grants (GC8), which covers funding for three years and for which applications must be submitted by the end of July, M\u00e9decins Sans Fronti\u00e8res (MSF) has learned that North Kivu\u2014a province largely controlled by the AFC/M23\u2014will no longer be among the primarily selected provinces receiving support for malaria control. While malaria has been the leading cause of morbidity in the Democratic Republic of Congo (DRC), including in North Kivu, the people of this province may be deprived of essential funding to combat the disease.\n\n\u201cThe Global Fund has been a real lifeline for people exposed to malaria, providing most of the available treatments in North Kivu. If it stops supporting the province in malaria prevention and treatment, the situation will become catastrophic. Malaria is a preventable and treatable disease. In 2026, it is unacceptable that people continue to die or develop severe forms of the disease because they lack access to prevention measures, diagnosis, and basic treatments,\u201d continues St\u00e9phane Doyon.\n\nGC8 is the Global Fund\u2019s next three-year funding cycle (2027\u20132029), through which resources are allocated to countries to fight malaria, HIV, and tuberculosis. Funding decisions are based on national priorities and significantly influence access to healthcare services in high-burden settings.\n\n> The Global Fund has been a real lifeline for people exposed to malaria, providing most of the available treatments in North Kivu. If it stops supporting the province in malaria prevention and treatment, the situation will become catastrophic.\n\nAs things stand, the North Kivu province would be excluded from future funding priorities for malaria control, while its health system may soon become overwhelmed by the ongoing Ebola epidemic. The similarity between the early symptoms of malaria and those of Ebola can complicate diagnosis and delay the initiation of appropriate treatment, which further increases the strain on health care systems that are already under significant pressure.\n\n\u201cNorth Kivu is one of the provinces hardest hit by armed conflict. Repeated population displacements, food insecurity, and barriers to accessing care create conditions that increase both exposure to malaria and the risk of developing a severe form of the disease,\u201d warns St\u00e9phane Doyon, MSF program manager.\n\nForced to flee their homes due to fighting between armed groups allied with the Congolese government and the AFC/M23, many people are seeking refuge in forests or other remote areas, where the risk of exposure to malaria is particularly high and access to healthcare remains very limited. In 2025, in three of the health zones in North Kivu where MSF implements programs in health centres and hospitals run by the Ministry of Health (Bambo, Kibirizi, and Rutshuru), malaria accounted for between 48% and 58% of consultations. Over 255,000 simple cases and over 26,000 severe cases treated in these areas by MSF, the Ministry of Health and its partners combined. Out of the overall cases, over 165,560 cases were treated in health structures supported by MSF.\n\nBasic malaria prevention measures have already been scaled back in some areas. In areas supported by the Global Fund, no distribution of mosquito nets has taken place since June 2023. In 2025, no malaria control supplies reached North Kivu between July and December due to access issues. Faced\n\nwith these recurring shortages, MSF has had to purchase and supply treatments and screening tests to fill the gaps in different health centres. In 2025, MSF provided 53% of treatments for uncomplicated malaria and 35% of treatments for severe malaria in health structures where MSF, the Ministry of Health or partners work in the Kibirizi, Bambo and Rutshuru health zones\u2014a situation that is unsustainable in terms of long-term prevention and control of the disease across the vast province of North Kivu.\n\nThis is unfolding against the backdrop of an increasingly difficult health situation in North Kivu, marked by persistent malnutrition and recurrent outbreaks of preventable diseases. Malnutrition remains a growing concern across the province and is consistently observed in many MSF-supported health structures. When combined with malaria, malnutrition significantly increases the risk of severe illness and death, particularly among children.\n\n> MSF calls on the Global Fund and the authorities in Kinshasa to fully reintegrate North Kivu into the GC8\u2019s malaria programming and resource allocation, and urges Congolese health authorities to ensure an equitable distribution of resources, based on the vulnerability of populations and the burden of the disease. \u200b \u200b\n\nMSF calls on the Global Fund and the authorities in Kinshasa to fully reintegrate North Kivu into the GC8\u2019s malaria programming and resource allocation, and urges Congolese health authorities to ensure an equitable distribution of resources, based on the vulnerability of populations and the burden of the disease.",
+            "title": "MSF warns against DRC North Kivu\u2019s exclusion from upcoming Global Fund's malaria funding cycle",
+            "body": "16 July 2026 - As part of the Global Fund\u2019s eighth round of grants (GC8), which covers funding for three years and for which applications must be submitted by the end of July, M\u00e9decins Sans Fronti\u00e8res/Doctors Without Borders (MSF) has learned that North Kivu\u2014a province largely controlled by the AFC/M23\u2014will no longer be among the primarily selected provinces receiving support for malaria control. While malaria has been the leading cause of morbidity in the Democratic Republic of Congo (DRC), including in North Kivu, the people of this province may be deprived of essential funding to combat the disease.\n\n\u201cThe Global Fund has been a real lifeline for people exposed to malaria, providing most of the available treatments in North Kivu. If it stops supporting the province in malaria prevention and treatment, the situation will become catastrophic. Malaria is a preventable and treatable disease. In 2026, it is unacceptable that people continue to die or develop severe forms of the disease because they lack access to prevention measures, diagnosis, and basic treatments,\u201d says MSF Programme Manager, St\u00e9phane Doyon.\n\nGC8 is the Global Fund\u2019s next three-year funding cycle (2027\u20132029), through which resources are allocated to countries to fight malaria, HIV, and tuberculosis. Funding decisions are based on national priorities and significantly influence access to healthcare services in high-burden settings.\n\nAs things stand, the North Kivu province would be excluded from future funding priorities for malaria control, while its health system may soon become overwhelmed by the ongoing Ebola epidemic. The similarity between the early symptoms of malaria and those of Ebola can complicate diagnosis and delay the initiation of appropriate treatment, which further increases the strain on health care systems that are already under significant pressure.\n\n\u201cNorth Kivu is one of the provinces hardest hit by armed conflict. Repeated population displacements, food insecurity, and barriers to accessing care create conditions that increase both exposure to malaria and the risk of developing a severe form of the disease,\u201d warns St\u00e9phane Doyon.\n\nForced to flee their homes due to fighting between armed groups allied with the Congolese government and the AFC/M23, many people are seeking refuge in forests or other remote areas, where the risk of exposure to malaria is particularly high and access to healthcare remains very limited. In 2025, in three of the health zones in North Kivu where MSF implements programmes in health centres and hospitals run by the Ministry of Health (Bambo, Kibirizi, and Rutshuru), malaria accounted for between 48% and 58% of consultations. Over 255,000 simple cases and over 26,000 severe cases treated in these areas by MSF, the Ministry of Health and its partners combined. Out of the overall cases, over 165,560 cases were treated in health structures supported by MSF.\n\nBasic malaria prevention measures have already been scaled back in some areas. In areas supported by the Global Fund, no distribution of mosquito nets has taken place since June 2023. In 2025, no malaria control supplies reached North Kivu between July and December due to access issues. Faced with these recurring shortages, MSF has had to purchase and supply treatments and screening tests to fill the gaps in different health centres. In 2025, MSF provided 53% of treatments for uncomplicated malaria and 35% of treatments for severe malaria in health structures where MSF, the Ministry of Health or partners work in the Kibirizi, Bambo and Rutshuru health zones\u2014a situation that is unsustainable in terms of long-term prevention and control of the disease across the vast province of North Kivu.\n\nThis is unfolding against the backdrop of an increasingly difficult health situation in North Kivu, marked by persistent malnutrition and recurrent outbreaks of preventable diseases. Malnutrition remains a growing concern across the province and is consistently observed in many MSF-supported health structures. When combined with malaria, malnutrition significantly increases the risk of severe illness and death, particularly among children.\n\nMSF calls on the Global Fund and the authorities in Kinshasa to fully reintegrate North Kivu into the GC8\u2019s malaria programming and resource allocation, and urges Congolese health authorities to ensure an equitable distribution of resources, based on the vulnerability of populations and the burden of the disease.\n\n## **MSF UK**\n\n- **media@london.msf.org**\n- **+44 (0) 207 067 4236**",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -413,7 +696,7 @@
             "url": "https://reliefweb.int/node/4221740",
             "date": {
                 "original": "2026-07-16T00:00:00+00:00",
-                "changed": "2026-07-16T14:02:38+00:00",
+                "changed": "2026-07-17T08:39:31+00:00",
                 "created": "2026-07-16T14:02:38+00:00"
             }
         },
@@ -455,7 +738,7 @@
             "url": "https://reliefweb.int/node/4221714",
             "date": {
                 "original": "2026-07-16T00:00:00+00:00",
-                "changed": "2026-07-17T02:46:56+00:00",
+                "changed": "2026-07-17T13:43:38+00:00",
                 "created": "2026-07-16T13:00:01+00:00"
             }
         },
@@ -496,7 +779,7 @@
             "url": "https://reliefweb.int/node/4221706",
             "date": {
                 "original": "2026-07-16T00:00:00+00:00",
-                "changed": "2026-07-17T02:46:15+00:00",
+                "changed": "2026-07-17T13:42:26+00:00",
                 "created": "2026-07-16T12:31:01+00:00"
             }
         },
@@ -1392,305 +1675,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4221415"
-    },
-    {
-        "id": "4221404",
-        "score": 1,
-        "fields": {
-            "title": "Bundibugyo Ebola Virus Outbreak: Launch of the EBO-PEP Trial to Protect High-Risk Contacts",
-            "body": "*The National Institute for Biomedical Research (INRB) in Kinshasa, the ANRS Emerging infectious diseases / Inserm and the NGO ALIMA, alongside all their partners, are launching EBO-PEP, the first clinical trial to assess the efficacy of post-exposure prophylaxis (PEP) with the antiviral obeldesivir against the current Bundibugyo Ebola virus outbreak. The trial begins on 14 July 2026 in the Democratic Republic of the Congo and Uganda.*\n\n**Paris \u2013 Kinshasa, 14 July 2026 \u2013** On 17 May 2026, the World Health Organisation (WHO) declared that the current Ebola virus disease outbreak caused by the Bundibugyo virus in the Democratic Republic of the Congo and Uganda constitutes a \u2018public health emergency of international concern\u2019. As of 9 July, 600 people had died and 1,759 had been infected, according to figures from the DRC\u2019s National Institute of Public Health (INSP). Unfortunately, no effective treatment or vaccine against the Bundibugyo virus is currently available. To address this health crisis, WHO experts have recommended evaluating the effectiveness of several therapeutic and preventive measures. In order to prevent the onset of the disease among high-risk contacts and to strengthen protection for the population, priority has been given to the antiviral obeldesivir. This experimental drug, administered orally and developed by Gilead Sciences, has shown efficacy against several filoviruses, including the Bundibugyo virus, in pre-clinical models.\n\n**EBO-PEP: a priority trial according to the WHO**\n\nThe EBO-PEP platform trial, which has been in preparation since 2024, aims to assess the efficacy of various drugs used as a post-exposure prophylaxis (PEP) strategy among high-risk contacts of filovirus disease \u2013 a family of viruses that includes the Bundibugyo virus \u2013 in various countries in Sub-Saharan Africa (DRC, Uganda, Guinea, Liberia, Sierra Leone). Its first implementation (or \u2018sub-protocol\u2019) focuses on evaluating obeldesivir as PEP against the Bundibugyo virus in the DRC and Uganda.  \n  \nRecruitment of participants for this first clinical trial begins on 14 July 2026 in Ituri province in the DRC, the epicentre of the outbreak, with on-the-ground support from the humanitarian organisations ALIMA (The Alliance for International Medical Action) and Medecins Sans Frontieres. The first patients are being recruited at PEP centres set up adjacent to the Ebola treatment centres operated by ALIMA in Bunia and Rwampara. The recruitment phase, which aims to enrol a total of nearly 1,000 participants, will conclude depending on the dynamics of the outbreak. Participants, adults or children over the age of 12, must have been in direct contact with a confirmed case (a sick person shedding the virus, a corpse, or a needle-stick injury caused by a contaminated syringe) within the preceding five days, and must not be showing any signs or symptoms of the disease. Each participant will be monitored daily for 21 days, with a final visit at 42 days.  \n  \nA second sub-protocol is also planned to administer, on a compassionate use basis, another antiviral drug, remdesivir, to children under 12 and pregnant or breastfeeding women who have had high-risk contact. This is because the available data on obeldesivir in these specific populations are insufficient to permit its use.\n\n**An international clinical trial**\n\nThe NGO ALIMA is responsible for the overall coordination of the EBO-PEP trial alongside numerous national and international partners. The principal investigators for the trial are Professor Pauline Byakika-Kibwika of Mbarara University of Science and Technology (MUST) in Uganda, Dr Marie Jaspard of Saint-Antoine Hospital / Inserm in France and Professor Placide Mbala of the National Institute for Biomedical Research (INRB) in the DRC. The trial is being conducted by the INRB and the ANRS Emerging infectious diseases (ANRS MIE), an autonomous agency of the French National Institute of Health and Medical Research (Inserm).  \n  \nThe Global Health EDCTP3 partnership supported by the European Commission has granted an initial funding of EUR 3.4 million to EBO-PEP. Africa CDC has pledged USD 1 million in direct financing for EBO-PEP. Its advocacy helped mobilise a further USD 2 million from South Africa and USD 3 million from DRC during the high-level meeting held in Kinshasa on 2 July 2026 between President F\u00e9lix Tshisekedi and President Cyril Ramaphosa, African Union Champion for Pandemic Prevention, Preparedness and Response. Africa CDC is also contributing to the study\u2019s scientific coordination through Dr Mosoka P. Fallah, working alongside Professor Placide Mbala of INRB, a co-principal investigator, and is providing direct technical support to the field team in Bunia, including trial simulations and the identification of high-risk contacts.  \n  \n*\u201cPrevention is essential to stopping this outbreak and protecting those at highest risk of infection. If successful, the EBO-PEP trial could establish post-exposure prophylaxis as a game-changing approach for preventing Ebola disease among people who have been exposed to the virus. Combined with strong community engagement and effective contact tracing, it could provide an important new way to save lives and help bring outbreaks under control,\u201d said **Dr Tedros Adhanom Ghebreyesus**, WHO Director General.*  \n  \n*\u201cAn Ebola exposure is a moment of fear for a health worker, a family and a community. EBO-PEP gives us a critical opportunity to act before exposure becomes disease. Africa CDC has pledged USD 1 million to the trial. The further USD 5 million committed by DRC and South Africa during the 2 July meeting in Kinshasa between President F\u00e9lix Tshisekedi and President Cyril Ramaphosa, African Union Champion for Pandemic Prevention, Preparedness and Response, shows what African political leadership can deliver. Our scientists are supporting the study\u2019s coordination and field teams in Bunia. We now call on partners to close the remaining financing gap and prepare for rapid, equitable access if obeldesivir proves safe and effective. Those carrying the greatest risk must be among the first to benefit,\u201d said **H.E. Dr Jean Kaseya**, Director General of Africa CDC.*\n\n*\u201cThe EBO-PEP project arose from observations that Marie Jaspard and I made in the field, where we noted that certain treatments used to treat patients suffering from a filovirus disease might perhaps be used in exposed individuals \u2013 namely family members and health personnel in contact with infected people \u2013 to prevent the development of the disease,\u201d explains Professor **Placide Mbala**, a virologist at the INRB and co-principal investigator of the trial.*  \n  \n*\u201cThe EBO-PEP project aims to evaluate therapeutic strategies that can prevent people in close contact with a filovirus, such as the Bundibugyo Ebola virus, from becoming infected via a close contact \u2013 for example, a patient or a carer. If the evaluation proves successful, this strategy would help prevent further infections during an outbreak,\u201d says Doctor **Marie Jaspard**, an infectious disease specialist in the Department of Infectious and Tropical Diseases at Saint-Antoine Hospital, a researcher at Inserm and co-principal investigator of the trial.*  \n  \n*\u201cIn the absence of a vaccine against Bundibugyo Ebola Virus, effective outbreak response requires more than treatment of diseased patients. Protection of exposed individuals at high risk of developing disease, such as health workers, is crucial to stopping transmission and ending the outbreak. EBO-PEP is designed to generate the evidence for post exposure prophylaxis. Through collaboration between African and international partners, we are building the scientific knowledge and preparedness to respond more effectively to future outbreaks,\u201d says Professor **Pauline Byakika-Kibwika**, an epidemiologist at Mbarara University of Science and Technology and co-principal investigator.*  \n  \n*\u201cEBO-PEP fills a major gap in the response to filovirus diseases. Beyond vaccines and curative treatments, it is essential to evaluate a post-exposure prophylaxis strategy to protect those most at risk and better anticipate future outbreaks,\u201d emphasises Professor **Yazdan Yazdanpanah**, Director of ANRS MIE, co-sponsor of the EBO-PEP trial.*\n\n*\u201cClinical research is essential for improving medical care, but it remains underdeveloped on the African continent. As an emergency medical organisation on the front line of outbreaks, we know just how vital it is to innovate. EBO-PEP illustrates the importance of an integrated response combining research and humanitarian action on the ground. ALIMA is committed to the coordination and operational implementation of this trial, under challenging conditions, alongside national and international teams and partners, in order to contribute to concrete progress in preventing future similar epidemics, but also to help localise research efforts\u201d, adds Doctor **Moumouni Kinda**, Director-General of ALIMA, the organisation coordinating the EBO-PEP trial.*\n\n**Strengthening local expertise and resources**\n\nEBO-PEP also aims to strengthen the skills of African researchers in all aspects of the clinical trial process, notably through a training programme in the countries concerned.  \n  \nPreparatory work carried out in 2025 enabled the rapid organisation of a specialised training course, held from 30 June to 4 July 2026 in Bunia, Ituri (DRC), covering drug safety, trial data management, medical and paramedical care for participants, clinical monitoring, and the collection, processing and management of biological samples.  \n  \nThe EBO-PEP project also aims to promote wider adoption of the PEP strategy, in particular by helping to facilitate access to medicines.\n\n**Members of the EBO-PEP consortium**\n\n\u2013 National Health Security Agency (ANSS)  \n\u2013 The Alliance for International Medical Action (ALIMA)  \n\u2013 ANRS Emerging infectious diseases (ANRS MIE)  \n\u2013 PAC-CI Association (PAC-CI)  \n\u2013 Barcelona Institute for Global Health (ISGLOBAL)  \n\u2013 National Institute for Biomedical Research (INRB)  \n\u2013 National Institute of Health and Medical Research (Inserm)  \n\u2013 National Institute of Public Health (INSP)  \n\u2013 Medecins Sans Frontieres (MSF)  \n\u2013 Pandemic Preparedness Platform for Health and Emerging Infections Response (PANTHER)  \n\u2013 University of Bordeaux (UB)  \n\u2013 Gamal Abdel Nasser University, Conakry (CERFIG)  \n\u2013 Mbarara University of Science and Technology (MUST)  \n\u2013 Cheikh Anta Diop University, Dakar (UCAD)Institutional partner supporting the trial  \n\u2013 Africa Centres for Disease Control and Prevention (Africa CDC)\n\n\\###\n\n**About:**  \n  \n**The Africa Centres for Disease Control and Prevention (Africa CDC)** is the public health agency of the African Union. As an autonomous institution, Africa CDC supports AU Member States to strengthen health systems, improve disease surveillance, and enhance emergency preparedness and response. For more information, visit: [http://www.africacdc.org](http://www.africacdc.org/) and follow Africa CDC on [LinkedIn](https://www.linkedin.com/company/14792760/), [X](https://x.com/AfricaCDC), [Facebook](https://www.facebook.com/africacdc), and [YouTube](https://www.youtube.com/AfricaCDC).  \n  \n**The National Institute for Biomedical Research (INRB)**, founded in 1984 in Kinshasa, is the leading institution for biomedical research in the Democratic Republic of the Congo. Operating under the supervision of the Ministry of Health, the INRB plays a key role in the fight against emerging and reemerging diseases such as Ebola, mpox, Covid-19, measles and various neglected tropical diseases. Further information is available at [inrb.cd](https://inrb.cd/)  \n  \n**The National Institute of Public Health (INSP)**, established in the Democratic Republic of the Congo (DRC) in 2008, is an autonomous public scientific and technical institution responsible for the prevention, detection and response to epidemics and public health emergencies. Its main objective is to provide information, expertise and an effective framework for tackling health challenges, in collaboration with programmes, civil society and decision-makers. Further information is available at [insp.cd](https://insp.cd/)\n\n**The ANRS Emerging Infectious Diseases (ANRS MIE)**, established in 2021, is an autonomous agency of Inserm that leads, evaluates, coordinates and funds research into HIV/AIDS, viral hepatitis, sexually transmitted infections, tuberculosis and emerging and re-emerging infectious diseases. It prepares the response to the scientific challenges posed by emerging diseases and ensures its deployment in times of crisis. Further information is available at [anrs.fr](https://anrs.fr/)  \n  \n**ALIMA (The Alliance for International Medical Action)**, is an international medical NGO founded in 2009 that provides high-quality healthcare to the most vulnerable people. ALIMA has treated more than 43 million people in over 16 countries, mainly in Africa. It is recognised for its expertise in malnutrition, paediatrics, women\u2019s health and responding to epidemics and emerging diseases. Through research and innovation informed by experience in the field, and by strengthening local capacity in the countries where we operate, ALIMA strives to transform humanitarian medicine and better protect populations from future health crises. Further information at [alima.ngo](https://alima.ngo/)\n\nPress contact: presse@anrs.fr  \nFurther information at [ebo-pep.com](https://ebo-pep.com/)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/50373",
-                    "id": 50373,
-                    "name": "Africa Centres for Disease Control and Prevention",
-                    "shortname": "Africa CDC",
-                    "longname": "Africa Centres for Disease Control and Prevention",
-                    "homepage": "https://africacdc.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221404",
-            "date": {
-                "original": "2026-07-14T00:00:00+00:00",
-                "changed": "2026-07-14T14:22:33+00:00",
-                "created": "2026-07-14T14:22:33+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221404"
-    },
-    {
-        "id": "4221403",
-        "score": 1,
-        "fields": {
-            "title": "Africa CDC Calls for Stronger Protection of Responders",
-            "body": "**Addis Ababa, Ethiopia** \u2013 As of 9 July 2026, 112healthworkers had been infected with Bundibugyo virus across DRC since the outbreak began, including 35 who died. The confirmed infection of a U.S. humanitarian worker supporting the response in Bunia adds urgency to the protection of everyone working to contain the outbreak.\n\nHealth workers, humanitarian personnel, community responders, laboratory teams, volunteers and operational staff are sustaining the response under intense pressure. Their work identifies cases, cares for patients, follows contacts and protects affected communities. Their safety is central to stopping transmission.\n\nThe relevant authorities and response team have launched an epidemiological investigation, contact identification and exposure risk assessments concerning the U.S. humanitarian worker. The circumstances of exposure remain under investigation.\n\n**Dr Jean Kaseya, Director-General of Africa CDC, said:**\n\n> \u201cWe honour the 112 health workers infected in DRC since this outbreak began, including the 35 who lost their lives, and every responder serving affected communities. Their courage, expertise and commitment protect lives every day. Reliable protective equipment, strong infection prevention systems, continuous training, psychosocial support and safe working conditions are essential for every person delivering this response. We thank the governments and partners that have committed financial and operational support. Rapid disbursement of these commitments, together with additional resources, will strengthen protection for responders, expand essential operations and help teams stop every transmission chain.\u201d\n\nGovernments and partners are providing vital financial and operational support, helping to strengthen surveillance, laboratory testing, case management, infection prevention and control, contact tracing and community engagement.\n\nRapid disbursement of outstanding commitments and further contributions are now required to close remaining gaps. Priority needs include personal protective equipment, infection prevention supplies, continuous training, mental health and psychosocial support, safe working conditions and the operational tools required to identify and interrupt transmission.\n\nThrough the Continental Incident Management Support Team, Africa CDC continues to support the governments of DRC and Uganda and coordinate with affected Member States and response partners.\n\nAll organisations operating in affected areas should strengthen occupational safety, report suspected exposures and symptoms rapidly, and provide continuous support to their personnel.\n\nThe patient\u2019s confidentiality, dignity and medical privacy will be protected. The responsible authorities will provide further case-specific information in line with established public health protocols.\n\n\\###\n\n**About Africa CDC**\n\nThe Africa Centres for Disease Control and Prevention is the public health agency of the African Union. As an autonomous institution, Africa CDC supports AU Member States to strengthen health systems, improve disease surveillance, and enhance emergency preparedness and response. For more information, visit: [http://www.africacdc.org](http://www.africacdc.org/) and follow Africa CDC on [LinkedIn](https://www.linkedin.com/company/14792760/), [X](https://x.com/AfricaCDC), [Facebook](https://www.facebook.com/africacdc), and [YouTube](https://www.youtube.com/AfricaCDC).\n\n**Media contact**\n\n**Bonney Tunya**  \n Head of Media and Rapid Response  \n**TunyaB@africacdc.org**",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/50373",
-                    "id": 50373,
-                    "name": "Africa Centres for Disease Control and Prevention",
-                    "shortname": "Africa CDC",
-                    "longname": "Africa Centres for Disease Control and Prevention",
-                    "homepage": "https://africacdc.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221403",
-            "date": {
-                "original": "2026-07-11T00:00:00+00:00",
-                "changed": "2026-07-14T14:20:30+00:00",
-                "created": "2026-07-14T14:20:16+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221403"
-    },
-    {
-        "id": "4221347",
-        "score": 1,
-        "fields": {
-            "title": "Perceptions des acteurs sur l\u2019\u00e9pid\u00e9mie d\u2019Ebola et ses effets sur la protection de l\u2019enfant - R\u00e9sultats de l\u2019enqu\u00eate aupr\u00e8s des acteurs",
-            "body": "**R\u00e9sum\u00e9 ex\u00e9cutif**\n\nCette enqu\u00eate aupr\u00e8s des acteurs de protection de l\u2019enfant met en \u00e9vidence un environnement de protection fortement fragilis\u00e9 par l\u2019\u00e9pid\u00e9mie d\u2019Ebola qui intervient dans un contexte d\u00e9j\u00e0 marqu\u00e9 par l\u2019ins\u00e9curit\u00e9, les besoins humanitaires croissants et la tension sociale. 252 r\u00e9pondants issus de plusieurs territoires et zones de sant\u00e9 de l\u2019Ituri, notamment Djugu (36,1 %), Irumu (28,6 %), Bunia Ville (18,3 %) et Mambasa (17,1 %) ont \u00e9t\u00e9 interrog\u00e9 entre le 28 et le 29 mai 2026, via un questionnaire en ligne d\u00e9ploy\u00e9e avec Kobo collect.\n\nLes r\u00e9pondants \u00e9taient compos\u00e9s d\u2019autorit\u00e9s locales, leaders communautaires, relais communautaires, travailleurs sociaux, structures sanitaires et d\u2019un groupe h\u00e9t\u00e9rog\u00e8ne class\u00e9 comme \u00ab autres \u00bb, comprenant notamment des parents, enfants, enseignants et acteurs humanitaires, membres des m\u00e9canismes de protection dans leurs zones respectives. Les r\u00e9sultats montrent que l\u2019\u00e9pid\u00e9mie accentue d\u2019abord les restrictions op\u00e9rationnelles et communautaires. Tous les r\u00e9pondants signalent au moins une restriction li\u00e9e \u00e0 Ebola.\n\nLes plus fr\u00e9quentes sont le mouvement limit\u00e9 (67,9 %), l\u2019acc\u00e8s communautaire r\u00e9duit (50,8 %), les r\u00e9unions interdites (26,6 %) et les activit\u00e9s suspendues (19,4 %). La stigmatisation li\u00e9e \u00e0 Ebola est \u00e9galement largement rapport\u00e9e (75,8 %), tandis que l\u2019acc\u00e8s humanitaire est jug\u00e9 limit\u00e9 ou impossible par 46,4 % des r\u00e9pondants.\n\nDu point de vue des risques de protection, les r\u00e9pondants d\u00e9crivent surtout une augmentation du stress (87,7 %) et de la stigmatisation (47,6 %). D\u2019autres risques sont \u00e9galement signal\u00e9s : s\u00e9paration familiale (14,7 %), violence contre les enfants (12,3 %), violence sexuelle (12,3 % ;), d\u00e9scolarisation (10,7 %), travail des enfants (9,9 %) et recrutement arm\u00e9 (7,5 %). Plus de la moiti\u00e9 des r\u00e9pondants (52,8 %) indiquent au moins deux risques de protection simultan\u00e9s, ce qui montre une accumulation des vuln\u00e9rabilit\u00e9s dans plusieurs zones.\n\nL\u2019enqu\u00eate met \u00e9galement en \u00e9vidence une forte pression sur les programmes existants. Si les services de protection de l\u2019enfant sont encore jug\u00e9s fonctionnels par 58,7 % des r\u00e9pondants, ils sont consid\u00e9r\u00e9s comme r\u00e9duits ou suspendus par 41,3 %. Les activit\u00e9s les plus affect\u00e9es sont les activit\u00e9s psychosociales (45,6 %), les visites \u00e0 domicile (42,1 %), la gestion de cas (40,9 %) et la r\u00e9unification familiale (39,7 %). La mise en \u0153uvre est principalement affect\u00e9e par les retards d\u2019activit\u00e9s (55,2 %), le red\u00e9ploiement du personnel (40,5 %) et l\u2019augmentation des co\u00fbts op\u00e9rationnels (32,5 %).\n\nEn r\u00e9ponse \u00e0 ces contraintes, les acteurs rencontr\u00e9s rapportent plusieurs adaptations, principalement la sensibilisation communautaire (82,9 %), la distribution de kits d\u2019hygi\u00e8ne (50,0 %), le recours \u00e0 la radio communautaire (43,7 %), le t\u00e9l\u00e9phone pour le suivi \u00e0 distance (36,1 %) et la r\u00e9duction de la taille des groupes dans les activit\u00e9s de masse (31,7 %). Les priorit\u00e9s programmatiques exprim\u00e9es insistent sur le renforcement de la sensibilisation, la dotation en kits d\u2019hygi\u00e8ne, la continuit\u00e9 des services de protection, le soutien psychosocial, la prise en charge rapide et l\u2019adaptation des interventions au contexte s\u00e9curitaire.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52050",
-                    "id": 52050,
-                    "name": "Child Protection Area of Responsibility",
-                    "shortname": "CP AoR",
-                    "homepage": "https://cpaor.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221347",
-            "date": {
-                "original": "2026-07-14T00:00:00+00:00",
-                "changed": "2026-07-14T13:39:24+00:00",
-                "created": "2026-07-14T10:54:54+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221347"
-    },
-    {
-        "id": "4221346",
-        "score": 1,
-        "fields": {
-            "title": "Impact of Ebola on Child Protection Programming",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52050",
-                    "id": 52050,
-                    "name": "Child Protection Area of Responsibility",
-                    "shortname": "CP AoR",
-                    "homepage": "https://cpaor.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221346",
-            "date": {
-                "original": "2026-07-14T00:00:00+00:00",
-                "changed": "2026-07-14T13:12:14+00:00",
-                "created": "2026-07-14T10:47:59+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221346"
-    },
-    {
-        "id": "4221344",
-        "score": 1,
-        "fields": {
-            "title": "Perceptions crois\u00e9es des enfants, des parents/tuteurs et des acteurs sur l\u2019\u00e9pid\u00e9mie d\u2019Ebola et ses effets sur la protection de l\u2019enfant - Les interventions protection de l'enfant en Ituri sont soutenues par",
-            "body": "**R\u00e9sum\u00e9 ex\u00e9cutif**\n\nCe rapport combine trois enqu\u00eates distinctes men\u00e9es aupr\u00e8s de 185 enfants, 91 parents/tuteurs et 252 acteurs intervenant dans la protection de l\u2019enfant dans les zones affect\u00e9es par l\u2019\u00e9pid\u00e9mie d\u2019Ebola. L\u2019enqu\u00eate a \u00e9t\u00e9 men\u00e9e au travers de trois questionnaires via Kobo collect. Ce rapport permet de croiser trois niveaux de perception : le v\u00e9cu des enfants, l\u2019observation des parents au niveau du m\u00e9nage et la lecture communautaire et programmatique des acteurs. Les trois sources convergent fortement sur les effets de l\u2019\u00e9pid\u00e9mie sur le bien-\u00eatre des enfants, les risques de protection, l\u2019acc\u00e8s aux services et la continuit\u00e9 des programmes.\n\n\\- Le premier constat transversal est que l\u2019\u00e9pid\u00e9mie est v\u00e9cue comme une crise de peur, de stress et de d\u00e9tresse psychosociale. Chez les enfants, 81,1 % disent ressentir surtout la peur de la maladie, et 80,0 % se disent stress\u00e9s, tristes ou tr\u00e8s inquiets. Les parents confirment cette lecture : 86,8 % observent de la peur chez leurs enfants, 70,3 % du stress, tandis que 89,0 % d\u00e9clarent eux-m\u00eames ressentir davantage de stress depuis Ebola. Les acteurs valident cette tendance \u00e0 l\u2019\u00e9chelle communautaire, en signalant quasi unanimement une hausse du stress, ainsi qu\u2019une forte mont\u00e9e de la stigmatisation.\n\n\\- Le deuxi\u00e8me message cl\u00e9 est que l\u2019\u00e9pid\u00e9mie aggrave les risques de protection. Les enfants citent surtout la violence familiale (37,3 %), la s\u00e9paration familiale (28,1 %) et le travail des enfants (25,4 %). Les parents signalent des niveaux encore plus \u00e9lev\u00e9s de violence domestique (64,8 %), de s\u00e9paration familiale (40,7 %) et de travail des enfants (35,2 %). Les acteurs, quant \u00e0 eux, confirment l\u2019augmentation de plusieurs risques, notamment le stress, la stigmatisation, la d\u00e9scolarisation, la violence contre les enfants, la s\u00e9paration familiale et, dans certaines zones, le recrutement arm\u00e9 et la violence sexuelle.\n\n\\- Le troisi\u00e8me constat est que les services et programmes de protection de l\u2019enfant ont \u00e9t\u00e9 maintenus, mais sous forte pression.\n\no Les enfants disent souvent que les services sont limit\u00e9s, mal connus ou moins accessibles ;\n\no les parents constatent surtout des limitations dans l\u2019acc\u00e8s \u00e0 la sant\u00e9, au soutien psychosocial et aux activit\u00e9s communautaires ;\n\no les acteurs expliquent cette fragilisation par les retards d\u2019activit\u00e9s, le red\u00e9ploiement du personnel, la r\u00e9duction du financement, l\u2019augmentation des co\u00fbts op\u00e9rationnels et la baisse d\u2019activit\u00e9 de certaines structures communautaires.\n\n\\- Malgr\u00e9 cela, les trois enqu\u00eates montrent aussi une dynamique d\u2019adaptation, fond\u00e9e notamment sur la sensibilisation communautaire, les kits d\u2019hygi\u00e8ne, les visites \u00e0 domicile et les formes de suivi \u00e0 distance.\n\n\\- Enfin, les besoins prioritaires exprim\u00e9s convergent largement.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52050",
-                    "id": 52050,
-                    "name": "Child Protection Area of Responsibility",
-                    "shortname": "CP AoR",
-                    "homepage": "https://cpaor.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221344",
-            "date": {
-                "original": "2026-07-14T00:00:00+00:00",
-                "changed": "2026-07-14T13:08:04+00:00",
-                "created": "2026-07-14T10:44:36+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221344"
-    },
-    {
-        "id": "4221343",
-        "score": 1,
-        "fields": {
-            "title": "Perceptions des parents/tuteurs sur Ebola et effets sur la protection des enfants",
-            "body": "**R\u00e9sum\u00e9 ex\u00e9cutif**\n\nL\u2019enqu\u00eate men\u00e9e les 28 et 29 mai aupr\u00e8s de 91 parents et tuteurs met en \u00e9vidence une forte pr\u00e9occupation face \u00e0 l\u2019\u00e9pid\u00e9mie d\u2019Ebola et \u00e0 ses effets sur le bien-\u00eatre des enfants, la situation \u00e9conomique des m\u00e9nages et l\u2019acc\u00e8s aux services essentiels. Les r\u00e9pondants \u00e9taient majoritairement des hommes (56,0 %) et vivaient surtout dans les territoires de Djugu (39,6 %), Irumu (37,4 %) et Mambasa (16,5 %), avec une pr\u00e9sence plus limit\u00e9e \u00e0 Bunia Ville (6,6 % ;). Les zones de sant\u00e9 les plus repr\u00e9sent\u00e9es dans l\u2019\u00e9chantillon sont Fataki (23,1 %), Tchomia (19,8 %), Lolwa (15,4 %) et Komanda (12,1 %). Les m\u00e9nages interrog\u00e9s comptaient en moyenne 5 enfants.\n\nDu point de vue des parents/tuteurs, l\u2019\u00e9pid\u00e9mie affecte fortement la stabilit\u00e9 \u00e9conomique et \u00e9motionnelle des familles. Au total, 75,8 % des r\u00e9pondants estiment que la situation de leur m\u00e9nage s\u2019est d\u00e9grad\u00e9e ou tr\u00e8s d\u00e9grad\u00e9e depuis Ebola, 67,0 % d\u00e9clarent avoir perdu des revenus ou des activit\u00e9s \u00e9conomiques, et 72,5 % indiquent que les d\u00e9penses du m\u00e9nage ont augment\u00e9. Cette pression \u00e9conomique semble se traduire par une inqui\u00e9tude \u00e9lev\u00e9e pour les enfants et une fragilisation du cadre familial.\n\nLes parents rapportent aussi une d\u00e9t\u00e9rioration marqu\u00e9e du bien-\u00eatre psychosocial des enfants. Tous les r\u00e9pondants mentionnent au moins un signe de d\u00e9tresse chez leurs enfants, et 62,6 % en citent au moins deux. Les signes les plus fr\u00e9quemment observ\u00e9s sont la peur (86,8 %), le stress (70,3 %), les changements de comportement (23,1 %) et l\u2019isolement (18,7 %). En parall\u00e8le, 67,0 % des parents estiment que les enfants jouent ou socialisent moins qu\u2019avant, ce qui sugg\u00e8re une restriction importante de leur vie sociale.\n\nEn mati\u00e8re de protection de l\u2019enfant, les r\u00e9pondants per\u00e7oivent une aggravation de plusieurs risques. La violence domestique (64,8 %) appara\u00eet comme le risque le plus souvent signal\u00e9, suivie de la s\u00e9paration familiale (40,7 %), du travail des enfants (35,2 %), du mariage pr\u00e9coce (29,7 %) et de l\u2019exploitation sexuelle (28,6 %). Dans le m\u00eame temps, 94,5 % des r\u00e9pondants disent craindre davantage pour la s\u00e9curit\u00e9 des enfants depuis Ebola.\n\nLes besoins prioritaires exprim\u00e9s portent avant tout sur les soins de sant\u00e9 (81,3 %), la protection des enfants (80,2 %), le soutien psychosocial (69,2 %), le soutien alimentaire (67,0 %) et le soutien \u00e9conomique (46,2 %). Ces r\u00e9sultats montrent que, pour les parents/tuteurs, la r\u00e9ponse \u00e0 Ebola doit combiner la prise en charge sanitaire, la protection de l\u2019enfant, l\u2019appui psychosocial et l\u2019att\u00e9nuation des difficult\u00e9s \u00e9conomiques qui touchent les m\u00e9nages.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52050",
-                    "id": 52050,
-                    "name": "Child Protection Area of Responsibility",
-                    "shortname": "CP AoR",
-                    "homepage": "https://cpaor.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221343",
-            "date": {
-                "original": "2026-07-14T00:00:00+00:00",
-                "changed": "2026-07-14T13:14:11+00:00",
-                "created": "2026-07-14T10:40:36+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221343"
-    },
-    {
-        "id": "4221342",
-        "score": 1,
-        "fields": {
-            "title": "La protection de l\u2019enfant face \u00e0 Ebola : R\u00e9sultats d\u2019une enqu\u00eate sur les perceptions et les effets de l\u2019\u00e9pid\u00e9mie sur la protection des enfants",
-            "body": "**R\u00e9sum\u00e9 ex\u00e9cutif**\n\nL\u2019enqu\u00eate r\u00e9alis\u00e9e aupr\u00e8s de 185 enfants \u00e2g\u00e9s de 9 \u00e0 17 ans met en \u00e9vidence un impact significatif de l\u2019\u00e9pid\u00e9mie d\u2019Ebola sur le bien-\u00eatre psychosocial, les dynamiques familiales, l\u2019acc\u00e8s aux services et l\u2019environnement de protection des enfants. Les r\u00e9pondants \u00e9taient majoritairement des filles (62,7 %) et provenaient principalement des territoires de Djugu (51,9 %), Irumu (22,2 %), Mambasa (17,3 %) et Bunia ville (8,6 %). Une part importante des enfants interrog\u00e9s vivaient avec leurs parents (42,7 %) ou \u00e9taient d\u00e9plac\u00e9s (37,3 %), ce qui refl\u00e8te une forte exposition aux contextes de vuln\u00e9rabilit\u00e9.\n\nLes r\u00e9sultats montrent que l\u2019exp\u00e9rience des enfants face \u00e0 Ebola est domin\u00e9e par la peur de la maladie, la d\u00e9tresse \u00e9motionnelle et la restriction de la vie sociale. Au total, 80,0 % des enfants se d\u00e9clarent stress\u00e9s (41,1 %), tr\u00e8s inquiets (21,6 %) ou tristes (17,3 %), tandis que 81,1 % disent ressentir avant tout la peur de la maladie. Par ailleurs, pr\u00e8s d\u2019un tiers des enfants (30,3 %) indiquent n\u2019avoir personne \u00e0 qui parler lorsqu\u2019ils rencontrent un probl\u00e8me, ce qui constitue un signal important de vuln\u00e9rabilit\u00e9 psychosociale. Les r\u00e9ponses des enfants d\u00e9crivent \u00e9galement des changements majeurs dans la vie quotidienne : limitation des d\u00e9placements, r\u00e9duction des contacts physiques, isolement accru, diminution des jeux et renforcement des pratiques d\u2019hygi\u00e8ne.\n\nL\u2019enqu\u00eate met \u00e9galement en \u00e9vidence une aggravation per\u00e7ue de plusieurs risques de protection. Les risques les plus fr\u00e9quemment signal\u00e9s sont la violence familiale (37,3 %), la s\u00e9paration familiale (28,1 %), le travail des enfants (25,4 %), l\u2019exploitation \u00e9conomique (20,0 %), le mariage pr\u00e9coce (13,5 %) et, dans une moindre mesure, le recrutement par des groupes arm\u00e9s (7,6 %). Pr\u00e8s de la moiti\u00e9 des enfants (44,9 %) d\u00e9clarent conna\u00eetre des enfants s\u00e9par\u00e9s ou non accompagn\u00e9s. Dans le m\u00eame temps, l\u2019acc\u00e8s aux services demeure pr\u00e9occupant : 38,9 % des enfants ne savent pas o\u00f9 demander de l\u2019aide en cas de danger, et 61,1 % consid\u00e8rent que les services d\u2019aide sont soit limit\u00e9s, soit inconnus, soit arr\u00eat\u00e9s.\n\nLes besoins prioritaires exprim\u00e9s par les enfants portent principalement sur le soutien psychosocial (51,9 %), les soins m\u00e9dicaux (50,8 %), la protection/s\u00e9curit\u00e9 (38,4 %), la nourriture (36,8 %) et les activit\u00e9s pour enfants (23,8 %). Ces r\u00e9sultats plaident pour une r\u00e9ponse int\u00e9gr\u00e9e, sensible \u00e0 la protection de l\u2019enfant, qui combine la continuit\u00e9 des services essentiels, la pr\u00e9vention communautaire, le renforcement du soutien psychosocial et des mesures cibl\u00e9es pour les enfants les plus vuln\u00e9rables, notamment les enfants d\u00e9plac\u00e9s, s\u00e9par\u00e9s ou vivant hors du cadre parental.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52050",
-                    "id": 52050,
-                    "name": "Child Protection Area of Responsibility",
-                    "shortname": "CP AoR",
-                    "homepage": "https://cpaor.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221342",
-            "date": {
-                "original": "2026-07-14T00:00:00+00:00",
-                "changed": "2026-07-14T12:59:09+00:00",
-                "created": "2026-07-14T10:29:29+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221342"
     }
 ]
