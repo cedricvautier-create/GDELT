@@ -1,5 +1,164 @@
 [
     {
+        "id": "4222121",
+        "score": 1,
+        "fields": {
+            "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 60 \u2013 July 16, 2026",
+            "body": "**EPIDEMIOLOGICAL STATUS**  \n  \n\u2022 The outbreak remains concentrated in the DRC, which accounts for 2,181 of 2,201 confirmed cases (99%) and 864 of 866 deaths. Ituri remains the epicentre (1,948 cases), while North Kivu continues to drive secondary transmission.  \n\u2022 Transmission remains intense, with a high case fatality ratio (39.3%), treatment facilities under pressure (85.3% occupancy; 126.2% in North Kivu), and contact follow-up still below target (66.9%).  \n\u2022 Uganda remains stable with no new cases and has entered the 42-day countdown to outbreak closure.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/50373",
+                    "id": 50373,
+                    "name": "Africa Centres for Disease Control and Prevention",
+                    "shortname": "Africa CDC",
+                    "longname": "Africa Centres for Disease Control and Prevention",
+                    "homepage": "https://africacdc.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4222121",
+            "date": {
+                "original": "2026-07-16T00:00:00+00:00",
+                "changed": "2026-07-20T14:07:14+00:00",
+                "created": "2026-07-20T14:06:42+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4222121"
+    },
+    {
+        "id": "4222115",
+        "score": 1,
+        "fields": {
+            "title": "Bundibugyo Virus Disease Outbreak | Continental Overview - DRC + Uganda, July 14, 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/50373",
+                    "id": 50373,
+                    "name": "Africa Centres for Disease Control and Prevention",
+                    "shortname": "Africa CDC",
+                    "longname": "Africa Centres for Disease Control and Prevention",
+                    "homepage": "https://africacdc.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4222115",
+            "date": {
+                "original": "2026-07-20T00:00:00+00:00",
+                "changed": "2026-07-20T13:53:20+00:00",
+                "created": "2026-07-20T13:52:32+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4222115"
+    },
+    {
+        "id": "4222079",
+        "score": 1,
+        "fields": {
+            "title": "Tchad : Rapport de situation de l\u2019\u00e9pid\u00e9mie du chol\u00e9ra au Tchad",
+            "body": "**POINTS SAILLANTS**\n\n- **13 juin 2026 :** Notification de 2 cas suspects au District Sanitaire de Karal, province de Hadjer Lamis ;\n- **16 juin 2026 :** Mise en \u00e9vidence du Vibrio cholerae O1 Ogawa sur 02 pr\u00e9l\u00e8vements \u00e0 la culture ;\n- **18 juin 2026 :** D\u00e9claration officielle de l\u2019\u00e9pid\u00e9mie de chol\u00e9ra\n- **Nouveaux :** 03 cas et 0 d\u00e9c\u00e8s.\n\n**CHIFFRES CLES**\n\n- **1 Province affect\u00e9e : Hadjer Lamis ;**\n- **1 District sanitaire avec confirmation \u00e0 la culture : Karal ;**\n- **4 Zones de responsabilit\u00e9 active : Karal 1, Karal2, Baltram et Alkouk ;**\n- **23 villages/Quartiers ayant notifi\u00e9 au moins un cas ;**\n- **165 cas en cumul ;**\n- **5 d\u00e9c\u00e8s dont 2 communautaires, taux de l\u00e9talit\u00e9 : 3%**\n- **11 \u00e9chantillons analys\u00e9s et 7 confirm\u00e9s \u00e0 la culture (63,4%) ;**\n- **Age m\u00e9dian : 8 ans (0- 78 ans) ;**\n- **Sexe ratio F/H : 1, 1 ;**\n- **Taux d\u2019attaque : 132,7/100 000 hbts.**",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2648",
+                    "id": 2648,
+                    "name": "Government of Chad",
+                    "shortname": "Govt. Chad",
+                    "longname": "Government of Chad",
+                    "type": {
+                        "id": 271,
+                        "name": "Government"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4222079",
+            "date": {
+                "original": "2026-07-20T00:00:00+00:00",
+                "changed": "2026-07-20T12:41:06+00:00",
+                "created": "2026-07-20T11:14:46+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4222079"
+    },
+    {
+        "id": "4222056",
+        "score": 1,
+        "fields": {
+            "title": "WFP Chad Country Brief, June 2026",
+            "body": "SITUATION OVERVIEW  \n\u2022 Chad hosts one of the largest displaced populations in the region, with over 2.25 million forcibly displaced people, including over 1.5 million refugees, over 492,000 returnees, and over 219,000 internally displaced persons (IDPs).  \n\u2022 Since April 2023, the conflict in Sudan has driven a massive influx into eastern Chad, with over 1.2 million people crossing the border, including 932,771 new arrivals from Sudan and 400,915 Chadian returnees.  \n\u2022 Cross-border arrivals into Chad are expected to continue in 2026. The majority have settled in the Ouadda\u00ef, Wadi Fira, Sila, and Ennedi Est province.  \n\u2022 The continued influx of refugees and returnees from Sudan is placing additional pressure on already fragile local systems. These dynamics are increasing demands on food systems, basic services, and local resources, reinforcing the importance of sustained, coordinated humanitarian support alongside national efforts to promote stability and resilience.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4222056",
+            "date": {
+                "original": "2026-07-20T00:00:00+00:00",
+                "changed": "2026-07-20T11:14:23+00:00",
+                "created": "2026-07-20T10:02:01+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4222056"
+    },
+    {
         "id": "4222002",
         "score": 1,
         "fields": {
@@ -1542,168 +1701,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4221641"
-    },
-    {
-        "id": "4221619",
-        "score": 1,
-        "fields": {
-            "title": "GIEWS Country Brief: Central African Republic 15-July-2026",
-            "body": "**FOOD SECURITY SNAPSHOT**\n\n1. **Conflicts and displacements continue to constrain agricultural production in 2026**\n2. **Prices of imported rice above year\u2011earlier values in May 2026**\n3. **About 2 million people estimated to be severely acute food insecure in 2026**\n\n## Conflicts and displacements continue to constrain agricultural production in 2026\n\nIn central and southern areas of the country, planting of the 2026 maize crop was finalized in April under near-average planted area and harvesting is expected to start in mid\u2011August. Latest weather forecasts point to high likelihood of average to above\u2011average rainfall amounts between August and September 2026, raising flood risks on maize crops that could adversely affect harvesting operations in several areas of the country, particularly the southern prefectures of Basse\u2011Kotto, Mbomou and Ouaka. In northern areas of the country, planting of the 2026 millet and sorghum crops was completed in early July under favourable weather conditions and harvesting is expected to begin in October.\n\nOngoing conflict and displacement are expected to continue throughout 2026, adversely affecting agricultural production, limiting farmers\u2019 access to crop growing areas and essential inputs. This is likely to increase the country\u2019s dependence on food imports and further constrain households\u2019 access to food.\n\n## Prices of imported rice above year\u2011earlier values in May 2026\n\nRetail prices of imported rice increased between January and May 2026, when they were about 13 percent above their year-earlier levels, mainly due to reduced import flows through river trade corridors from the Democratic Republic of the Congo and the Republic of the Congo. By contrast, retail prices of locally produced maize declined by up to 8 percent year\u2011on\u2011year, reflecting adequate local market supplies.\n\n## About 2 million people estimated to be severely acute food insecure in 2026\n\nAccording to the latest Integrated Food Security Phase Classification (IPC) analysis, published in June 2026, about 2 million people (nearly 30 percent of the analyzed population) were estimated to face high levels of acute food insecurity (IPC Phase 3 \\[Crisis\\] or above) between April and August 2026. This includes about 262 000 people classified in IPC Phase 4 (Emergency), with conflict, insecurity and limited agricultural production identified as the main drivers of food insecurity.\n\nAccording to the United Nations High Commissioner for Refugees (UNHCR), as of March 2026, about 428 000 people were internally displaced in south\u2011eastern, north\u2011eastern and north\u2011western parts of the country, due to armed violence and civil unrest that negatively affects their food security situation by limiting access to markets and livelihoods. The resulting disruption to livelihoods and reduced access to markets has further constrained households' access to food.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2836",
-                    "id": 2836,
-                    "name": "Food and Agriculture Organization of the United Nations",
-                    "shortname": "FAO",
-                    "longname": "Food and Agriculture Organization of the United Nations",
-                    "spanish_name": "Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n",
-                    "homepage": "https://www.fao.org/home/en/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221619",
-            "date": {
-                "original": "2026-07-15T00:00:00+00:00",
-                "changed": "2026-07-16T04:24:15+00:00",
-                "created": "2026-07-16T04:23:52+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221619"
-    },
-    {
-        "id": "4221612",
-        "score": 1,
-        "fields": {
-            "title": "UNICEF Democratic Republic of the Congo Humanitarian Situation Report No. 1 \u2013 Ebola Outbreak (Bundibugyo Virus), 15 May\u201330 June 2026",
-            "body": "**Highlights**\n\n- UNICEF supported Government leadership of the Ebola response through its co-leadership of the RCCE and IPC/WASH pillars, strengthening technical coordination, harmonizing guidance and implementation approaches, and promoting partner alignment across affected health zones.\n- UNICEF and partners scaled up RCCE interventions, training and mobilizing 5,740 frontline workers and community actors and reaching over 1 million people with messages on Ebola prevention and response through household visits, focus group discussions, educational talks and community engagement activities.\n- UNICEF-supported community-based surveillance actors conducted approximately 27,000 household visits and active case-finding activities to identify suspected cases, community deaths and high-risk contacts.\n- UNICEF and partners supported IPC/WASH readiness, safe case management and Ebola prevention in high-risk settings by providing supplies to seven Ebola Treatment Centres, equipping 15 health facilities in Ituri with IPC/WASH kits and providing handwashing kits to 154 examination centres and 12 schools.\n- UNICEF-supported partners provided community-based MHPSS and child protection support to 8,535 people affected by Ebola, supported 240 children affected by or at risk of Ebola through individual case management, and operationalized three nurseries.\n- UNICEF requires US$119.3 million for its revised six-month response plan, reflecting the expansion of the response from 21 to 51 affected and high-risk health zones. As of 30 June, US$23.5 million had been mobilized, leaving an 80 per cent funding gap.\n\n**EPIDEMIOLOGICAL SITUATION UPDATE**\n\nOn 15 May 2026, the Ministry of Public Health, Hygiene and Social Welfare of the Democratic Republic of the Congo (DRC) officially declared an outbreak of Ebola disease following laboratory confirmation of cases caused by the Bundibugyo virus species in Ituri Province. The first confirmed cases were reported in the health zones of Bunia, Rwampara and Mongbwalu. On 17 May, the World Health Organization (WHO) determined that the outbreak constituted a Public Health Emergency of International Concern (PHEIC). This marks the seventeenth Ebola outbreak recorded in the DRC and the first caused by the Bundibugyo virus species in DRC since 2012.\n\nAs of 12 July 20263, DRC had reported 1,963 confirmed cases, including 719 confirmed deaths and 333 recoveries, corresponding to a case fatality rate of 36.6 per cent across 42 health zones in five provinces: Ituri, North Kivu, South Kivu, Haut-U\u00e9l\u00e9 and Tshopo. Ituri remains the epicentre, accounting for 1,772 confirmed cases, or 90 per cent of the national caseload, and 608 deaths, representing 85 per cent of all confirmed deaths, across 26 affected health zones4. The geographic expansion to Haut-U\u00e9l\u00e9 and Tshopo represents a significant development in the outbreak, although the cases reported in both provinces remain epidemiologically linked to the Ituri epicentre.\n\nContact tracing performance remains below the 95 per cent target, with a national follow-up rate of 81.5 per cent. Rates remained below target in Ituri, at 79.4 per cent, and North Kivu, at 90.5 per cent5, underscoring persistent surveillance challenges in the most affected provinces.\n\nThe outbreak is unfolding within a complex humanitarian and conflict-affected environment, characterized by widespread insecurity, high population mobility and displacement, limited access to basic services and fragile health systems. These dynamics, combined with attacks against health personnel and limited access, have reduced operational reach in certain areas, requiring continuous adaptation of modalities, greater reliance on local actors and strengthened community-based approaches.\n\nThe continued expansion of the outbreak to new health zones requires interventions to be implemented simultaneously across multiple affected and high-risk areas, significantly increasing the complexity and cost of the response. These conditions underscore the need for response efforts to be locally led, anchored in communities and supported by sustained essential services, humanitarian access and operational capacity.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221612",
-            "date": {
-                "original": "2026-07-15T00:00:00+00:00",
-                "changed": "2026-07-16T03:18:10+00:00",
-                "created": "2026-07-16T03:16:55+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221612"
-    },
-    {
-        "id": "4221595",
-        "score": 1,
-        "fields": {
-            "title": "Thousands forced to use one water source from Ebola treatment site in Democratic Republic of the Congo",
-            "body": "- *NGO community-based outreach at just 10 per cent due to lack of funding*\n- *Health facilities overwhelmed as some operating at over 130 per cent capacity*\n\nTwo months into the world\u2019s largest Bundibugyo Ebola outbreak in eastern Democratic Republic of the Congo (DRC), up to 20,000 people are being forced to fetch drinking water from a single water source inside the grounds of an Ebola treatment center in Bunia because they have no alternative.\n\nOxfam staff report that most health centers in Ebola hotspots remain without clean water and sanitation support \u2013 leaving dangerous gaps in one of the most important defences against Ebola transmission.\n\nDr. Manenji Mangundu, Oxfam Country Director for Democratic Republic of the Congo, said:\n\n\u201cWithout clean water and functioning sanitation, the basic conditions needed to halt transmission of the Ebola virus simply do not exist. When families are forced to collect water from inside treatment compounds because there is nowhere else to go, this is no longer a public health crisis with a water problem. It is a public health crisis with a lit fuse.\u201d\n\nMore than 2,011 Ebola cases have been confirmed with 754 deaths reported across 42 health zones in eastern DRC, according to the DRC\u2019s Ministry of Health. Despite the growing toll, the response continues to dangerously lag behind with around 70 new cases reported nearly every day.\n\nThe virus is also spreading beyond the initial epicentre, with health authorities confirming new cases in Tshopo, Haut-U\u00e9l\u00e9 provinces and most recently in Kisangani, a city of more than 1.6 million people extending the outbreak's proximity closer to two additional international borders, South Sudan and the Central African Republic.\n\nWhile contact tracing has now reached 80 per cent coverage, it remains well below the more than 90 per cent achieved at the same stage of the Ebola outbreak in 2018, leaving a significant gap in efforts to contain the spread of the disease.\n\nAt the same time, funding shortages are pushing Ebola treatment centers beyond their limits. Several facilities in North Kivu and Ituri are operating beyond their capacity with some operating at over 130 per cent forcing health workers to care for growing numbers of patients without sufficient resources.\n\nAs treatment centres get full, many people with suspected Ebola cases cannot be admitted and remain instead in the community or are treated in poorly equipped primary healthcare facilities, diminishing their chances of survival and exposing health workers and communities to additional transmission. In one case, a woman with suspected virus had to wait for four hours for an ambulance because only one vehicle was available to transport patients.\n\n\"Health workers are doing everything they can, but many are working without even basic protective equipment like gloves, and that's why we are seeing high rates of infection among medical staff across different locations in Ituri. The health centres were not prepared\" said Mangundu.\n\nFunding shortages are also slowing down community outreach activities, one of the most critical components to stop the spread of misinformation and improve surveillance. Two months on, NGO community engagement activities have reached just 10 per cent coverage, a fraction of what is needed to help contain transmission according to Centre for Diseases Prevention (CDC).\n\n\u201cRumours are filling the vacuum. People are either unaware of the outbreak or too afraid to seek treatment. They are dying at home. Every community death we cannot reach is a transmission chain we cannot break.\u201d added Mangundu.\n\nOxfam is calling for the urgent investment to restore safe water and better equip health facilities and communities so that families can have basic protection mechanisms. Every delay without action allows the virus to spread further putting more lives at risk.\n\n**Ends**\n\n**Notes to editors**\n\nOxfam is one of the few organisations providing water, sanitation and community engagement support in Butembo, Mongwalu and Rwampara zones. Oxfam urgently needs \u20ac10 million in funding to restore basic water and sanitation services in affected health zones before the outbreak spirals further.\n\nOxfam is also supporting community volunteers with training and public information activities to help families understand how to protect themselves from Ebola and to stop misinformation.\n\n**Contact information**\n\nYves Kalwira in Goma | **Ykalwira@oxfam.org.uk** | +243 814043637\n\nFatuma Noor in Nairobi | **Fatuma.Noor@oxfam.org** | +254 723 944 682\n\nSimon Tr\u00e9panier in Montreal | Simon.Trepanier@oxfam.org | What\u2019s App: +39 388 850 9970",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2007",
-                    "id": 2007,
-                    "name": "Oxfam",
-                    "shortname": "Oxfam",
-                    "longname": "Oxfam International",
-                    "homepage": "https://www.oxfam.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221595",
-            "date": {
-                "original": "2026-07-16T00:00:00+00:00",
-                "changed": "2026-07-16T02:00:33+00:00",
-                "created": "2026-07-16T01:03:04+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221595"
-    },
-    {
-        "id": "4221573",
-        "score": 1,
-        "fields": {
-            "title": "Statement by UNICEF Regional Director for West and Central Africa, Gilles Fagninou, following visit to Ituri",
-            "body": "**\"In the DRC, containing Ebola requires stronger collective action and a faster response\"**\n\n**DAKAR, 15 July 2026 \u2013** \u201cI have just returned from a mission in Ituri province, in the east of the Democratic Republic of Congo, with a strengthened conviction: Ebola can be contained, provided that we act faster and more collectively.\n\n\u201cThe epidemic continues to spread. Five provinces are now affected: Ituri, North Kivu, South Kivu, Haut-U\u00e9l\u00e9, and Tshopo, with 2,111 confirmed cases, including 750 deaths as of July 13. This geographical increase, in a context of conflict, insecurity, population displacement, and limited access, makes the response both more complex and more urgent.\n\n\u201cYet, on the ground, despite these challenges, I also saw reasons for hope. In Bunia, I met a three-month-old infant who had recovered from Ebola and a nine-month-old child who, despite the loss of both parents, is gradually smiling again thanks to the psychosocial support and protection services put in place with our partners. These children embody an essential reality: when communities, government and partners act together, lives are saved.\n\n\u201cThe response must now progress faster than the virus. UNICEF supports the authorities around four priorities: mobilizing communities and fighting misinformation, strengthening infection prevention and control, protecting affected children, and providing community-based surveillance. I was particularly encouraged by the nurseries set up near Ebola centres, which provide a safe environment for young children when their parents are hospitalised. This innovative approach deserves to be expanded.\n\n\u201cBut Ebola cannot be treated in isolation. The response must be articulated with the other emergencies facing communities \u2013 malnutrition, cholera, polio, forced displacement \u2013 while ensuring the continuity of essential services, including health care and preparation for the next school year.\n\n\u201cFinally, I call for an urgent mobilization of resources. We know how to stop this epidemic. The challenge is not the lack of solutions, but the lack of funding to deploy them at the scale needed. UNICEF has rapidly mobilized its own resources and has the valuable support of several partners. However, only 25 per cent of the required funding is currently available. As the virus progresses, resources are not keeping pace.\n\n\u201cContaining this epidemic is within our reach. This requires strengthened collective action, an accelerated response and sustained international solidarity alongside the Government and affected communities.\u201d\n\n\\#####\n\n**Media contacts**\n\n**Halimatou Amadou**\n\nCommunication Specialist\n\nUNICEF Office West and Central Africa\n\nTel: +221 787 003 555\n\nEmail: hamadou@unicef.org\n\n**Sara Alhattab**\n\nUNICEF New York\n\nTel: +1 917 957 6536\n\nEmail: salhattab@unicef.org\n\n**John James**\n\nUNICEF West and Central Africa\n\nTel: + 221 78 638 02 52\n\nEmail: jjames@unicef.org",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221573",
-            "date": {
-                "original": "2026-07-15T00:00:00+00:00",
-                "changed": "2026-07-15T23:32:28+00:00",
-                "created": "2026-07-15T18:33:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221573"
     }
 ]
