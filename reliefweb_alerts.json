@@ -1,5 +1,213 @@
 [
     {
+        "id": "4222444",
+        "score": 1,
+        "fields": {
+            "title": "Bundibugyo Virus Disease Outbreak | Situation Report, Issue No. 62 \u2013 July 18, 2026",
+            "body": "**EPIDEMIOLOGICAL STATUS**  \n  \n\u2022 The outbreak remains concentrated in the DRC, accounting for 99% (2,344/2,364) of confirmed cases and deaths (930/932) \u2014within the country, Ituriis the epicentre, while Nord-Kivu (230) is the main second hotspot  \n\u2022 The overall case-fatality ratio (39.4%) remains high, reflecting late presentation and constrained access to care.  \n\u2022 Uganda remains in the 42-day countdown to outbreak closure following the discharge of last case on 16 July",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/50373",
+                    "id": 50373,
+                    "name": "Africa Centres for Disease Control and Prevention",
+                    "shortname": "Africa CDC",
+                    "longname": "Africa Centres for Disease Control and Prevention",
+                    "homepage": "https://africacdc.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4222444",
+            "date": {
+                "original": "2026-07-18T00:00:00+00:00",
+                "changed": "2026-07-22T08:16:59+00:00",
+                "created": "2026-07-22T08:14:34+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4222444"
+    },
+    {
+        "id": "4222418",
+        "score": 1,
+        "fields": {
+            "title": "DRC: Ebola BVD Outbreak: LTC Situation Report (Telecoms) #7 (Reporting period: 13 \u2013 19 July 2026)",
+            "body": "*This situation report provides updates on the Ebola Bundibugyo Virus Disease (BVD) Outbreak in the Democratic Republic of the Congo (DRC). It outlines planned and ongoing telecommunications activities of the Logistics & Telecommunications Cluster1 (LTC) Telecoms to support the ongoing humanitarian response.*\n\n## Summary Points\n\n- The Ebola Bundibugyo virus disease (BVD) outbreak in the DRC continues to expand, with cases surpassing 2,000 and more than 700 deaths recorded across five affected provinces. The spread of the disease into Haut-Uele and Tshopo increases the likelihood that telecommunications support may need to expand beyond the initial priority areas to support surveillance, coordination, and response operations.\n- Security communications equipment, including Very High Frequency (VHF) radio repeaters and a radio-over-IP gateway, arrived in Bunia between 13 to 17 July. LTC Telecoms and UNDSS will configure and operationalize the equipment to strengthen radio network reliability and support security communications for humanitarian responders across Ituri.\n- A solar backup power solution for Mongbwalu General Hospital, together with equipment needed to repair and set up the NGO security communications channel, is being mobilized from Dubai. The items are expected to arrive in Bunia via UNHAS from Entebbe in early August, strengthening both connectivity resilience and security communications for responders in Ituri.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/13799",
+                    "id": 13799,
+                    "name": "Emergency Telecommunications Cluster",
+                    "shortname": "ETC",
+                    "longname": "Emergency Telecommunications Cluster",
+                    "homepage": "https://www.etcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3594",
+                    "id": 3594,
+                    "name": "Logistics Cluster",
+                    "shortname": "Logistics Cluster",
+                    "homepage": "https://www.logcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4222418",
+            "date": {
+                "original": "2026-07-20T00:00:00+00:00",
+                "changed": "2026-07-22T03:48:35+00:00",
+                "created": "2026-07-22T03:48:24+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4222418"
+    },
+    {
+        "id": "4222417",
+        "score": 1,
+        "fields": {
+            "title": "UNICEF DRC - Revised Response Plan for the 17th Ebola Outbreak, July 2026",
+            "body": "**Updated Situation Overview**\n\nOn 15 May 2026, the Ministry of Public Health, Hygiene and Social Welfare of the Democratic Republic of the Congo (DRC) officially declared an Ebola disease outbreak following laboratory confirmation of cases caused by the Bundibugyo virus species in Ituri Province. Initial confirmed cases were reported in Bunia, Rwampara and Mongbwalu health zones. On 17 May 2026, the World Health Organization (WHO) determined that the outbreak constituted a Public Health Emergency of International Concern (PHEIC). This is the seventeenth Ebola outbreak recorded in the country and the first caused by the Bundibugyo virus species in DRC since 2012.\n\nTwo months after the declaration of DRC\u2019s seventeenth Ebola outbreak, transmission remains active and continues to expand geographically, although the epidemiological pattern differs markedly across the affected provinces. As of 10 July 2026, 1,873 confirmed cases and 672 confirmed deaths had been reported, corresponding to a case fatality rate of 35.9 per cent, across 41 health zones and five provinces (Ituri, North Kivu South Kivu, Haut-Uele and Tshopo).1 Ituri remains the epicentre, accounting for 1,705 cases-91. per cent of the national caseload-and continues to drive the geographic expansion of the outbreak. North Kivu has reported a substantially smaller caseload of 165 cases but a disproportionately high case fatality rate of 57 per cent, indicating persistent challenges in early detection, referral and access to care. South Kivu, by contrast, remains at three confirmed cases and has reported no new confirmed case since 26 May. Two new provinces-Haut-U\u00e9l\u00e9 and Tshopo- have now reported confirmed cases that are epidemiologically linked to the outbreak epicentre in Ituri Province,\n\nThe Ebola response in Eastern DRC is challenged by a combination of interconnected operational challenges that are constraining both effectiveness and the pace of scale-up. At the frontline, contact tracing remains fragile. This situation increases the risk of missed contacts, delayed isolation, and continued community transmission, particularly in high-risk and mobile populations. At the same time, limited bed capacity in treatment and isolation facilities is placing significant pressure on the quality and timeliness of care. Overcrowding not only disrupts referral pathways and safe isolation practices but also undermines community trust, which is essential for early care-seeking and adherence to public health measures. The Bundibugyo Ebola outbreak is causing a severe impact on children. Intense household transmission increases the likelihood of child infection, while overwhelmed health systems disrupt routine immunization, maternal and child health care, and nutrition services, exposing children to preventable illness and death. Beyond health, the outbreak is exacerbating protection risks, with rising cases of family separation, psychosocial distress, and stigma, particularly in communities already affected by conflict and poverty. Ebola outbreaks generate significant mental health and psychosocial consequences for affected individuals, families, health workers and communities. Fear of infection, repeated exposure to illness and death, family separation, quarantine measures, stigma, grief, disrupted social networks and loss of livelihoods contribute to elevated levels of psychological distress. Children, adolescents, caregivers, survivors and frontline responders are particularly vulnerable, underscoring the need for integrated MHPSS across all response pillars rather than as a standalone intervention. Recent child protection assessments in Ebola-affected areas of Ituri indicate that than 80 per cent of children and nearly 90 per cent of caregivers reported fear linked to the outbreak, while communities highlighted increasing psychosocial distress, stigma and concerns for children's safety. The assessment also identified rising risks of family separation, violence in the home, child labor, exploitation and sexual violence, driven by economic hardship, fear and disruption of community support systems, reinforcing how increased protection risks are not a secondary consequence of Ebola, but part of the crisis itself.\n\n\\[...\\]",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4222417",
+            "date": {
+                "original": "2026-07-21T00:00:00+00:00",
+                "changed": "2026-07-22T03:45:48+00:00",
+                "created": "2026-07-22T03:44:52+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4222417"
+    },
+    {
+        "id": "4222407",
+        "score": 1,
+        "fields": {
+            "title": "DRC: Ebola BVD Outbreak Response: Global LTC (Telecoms) Teleconference #04 (Date: 17/07/2026 Time: 10:00 UTC)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/13799",
+                    "id": 13799,
+                    "name": "Emergency Telecommunications Cluster",
+                    "shortname": "ETC",
+                    "longname": "Emergency Telecommunications Cluster",
+                    "homepage": "https://www.etcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3594",
+                    "id": 3594,
+                    "name": "Logistics Cluster",
+                    "shortname": "Logistics Cluster",
+                    "homepage": "https://www.logcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4222407",
+            "date": {
+                "original": "2026-07-22T00:00:00+00:00",
+                "changed": "2026-07-22T03:13:03+00:00",
+                "created": "2026-07-22T03:12:26+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4222407"
+    },
+    {
         "id": "4222253",
         "score": 1,
         "fields": {
@@ -34,7 +242,7 @@
             "url": "https://reliefweb.int/node/4222253",
             "date": {
                 "original": "2026-07-21T00:00:00+00:00",
-                "changed": "2026-07-21T23:04:02+00:00",
+                "changed": "2026-07-22T07:33:01+00:00",
                 "created": "2026-07-21T23:01:00+00:00"
             }
         },
@@ -127,14 +335,14 @@
             "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (du 14 au 20 juillet 2026)",
             "body": "**R\u00e9publique centrafricaine**  \n*Le CERF alloue 1 million de dollars pour endiguer l'\u00e9pid\u00e9mie de chol\u00e9ra*\n\nLe Coordonnateur des secours d'urgence a allou\u00e9 1 million de dollars du CERF pour soutenir la riposte d'urgence au chol\u00e9ra en R\u00e9publique centrafricaine, o\u00f9 plus de 400 cas suspects et 36 d\u00e9c\u00e8s ont \u00e9t\u00e9 recens\u00e9s. Les enfants de moins de 10 ans repr\u00e9sentent 44 % des cas. L'\u00e9pid\u00e9mie s'est propag\u00e9e \u00e0 tous les quartiers de Bangui, la transmission \u00e9tant aggrav\u00e9e par la saison des pluies et l'acc\u00e8s limit\u00e9 \u00e0 l'eau potable et \u00e0 l'assainissement. Ce financement permettra de soutenir des interventions dans les domaines de la sant\u00e9, de la mobilisation communautaire et WASH. UNICEF a fourni des fournitures m\u00e9dicales et a contribu\u00e9 \u00e0 faire passer la capacit\u00e9 d'accueil du centre national de traitement du chol\u00e9ra de 40 \u00e0 70 lits.\n\n**R\u00e9publique d\u00e9mocratique du Congo**  \n*La violence entrave la lutte contre l\u2019\u00e9pid\u00e9mie d'Ebola*\n\nL'escalade des violences dans l'est de la R\u00e9publique d\u00e9mocratique du Congo entrave l'acc\u00e8s humanitaire et les efforts visant \u00e0 endiguer la troisi\u00e8me plus grande \u00e9pid\u00e9mie d'Ebola jamais enregistr\u00e9e au monde. Plus de 2 300 cas ont \u00e9t\u00e9 confirm\u00e9s dans cinq provinces, notamment dans 16 sites d'accueil accueillant plus de 270 000 personnes en Ituri. Les r\u00e9centes attaques survenues dans le territoire de Beni auraient fait au moins 22 morts et provoqu\u00e9 le d\u00e9placement de civils. Les autorit\u00e9s et les partenaires humanitaires renforcent la surveillance, le d\u00e9pistage, les traitements et la mobilisation des communaut\u00e9s, tandis que les forces de maintien de la paix de l\u2019ONU renforcent la protection. OCHA appelle \u00e0 garantir un acc\u00e8s humanitaire en toute s\u00e9curit\u00e9, \u00e0 assurer la protection des civils et des professionnels de sant\u00e9, et \u00e0 augmenter le financement de l\u2019appel de fonds de 2,3 milliards de dollars destin\u00e9 \u00e0 10,7 millions de personnes.\n\n**Mali**  \n*Le paludisme, la rougeole et la dengue restent des probl\u00e8mes majeurs de sant\u00e9 publique*\n\nLe paludisme reste le principal probl\u00e8me de sant\u00e9 publique au Mali, avec pr\u00e8s de 888 000 cas confirm\u00e9s signal\u00e9s entre le 1er janvier et le 5 juillet, soit une l\u00e9g\u00e8re augmentation par rapport \u00e0 la m\u00eame p\u00e9riode en 2025. La rougeole reste l\u2019\u00e9pid\u00e9mie la plus importante, avec 215 cas confirm\u00e9s signal\u00e9s dans 17 districts sanitaires, notamment \u00e0 Bamako, Mopti et Tombouctou, ce qui indique une transmission continue et un risque de propagation. Les cas de dengue ont \u00e9galement augment\u00e9, avec 12 cas confirm\u00e9s signal\u00e9s au cours de la semaine se terminant le 5 juillet, contre six la semaine pr\u00e9c\u00e9dente, principalement \u00e0 Bandiagara et \u00e0 Bamako. \u00c0 ce jour, aucun cas de fi\u00e8vre jaune ni de chol\u00e9ra n\u2019a \u00e9t\u00e9 signal\u00e9 cette ann\u00e9e. Les autorit\u00e9s sanitaires continuent de donner la priorit\u00e9 \u00e0 la surveillance, au suivi et \u00e0 la qualit\u00e9 des donn\u00e9es.\n\n**Golfe de Guin\u00e9e**  \n*Le changement climatique accro\u00eet les risques d\u2019inondation le long du golfe de Guin\u00e9e*\n\nDes pr\u00e9cipitations violentes ont provoqu\u00e9 des inondations g\u00e9n\u00e9ralis\u00e9es en C\u00f4te d\u2019Ivoire, au Ghana, au Togo et au Nigeria entre le 20 et le 22 juin 2026, faisant plus de 90 morts, d\u00e9pla\u00e7ant des centaines de personnes et causant des d\u00e9g\u00e2ts aux infrastructures et aux moyens de subsistance. Selon World Weather Attribution, des \u00e9pisodes pluvieux comparables sur trois jours se produisent d\u00e9sormais tous les deux \u00e0 quatre ans, les observations indiquant une augmentation de 23 % de leur intensit\u00e9 depuis le d\u00e9but des relev\u00e9s. L\u2019urbanisation rapide, l\u2019insuffisance des r\u00e9seaux de drainage et l\u2019\u00e9l\u00e9vation du niveau de la mer aggravent ce risque, soulignant la n\u00e9cessit\u00e9 de mettre en place des syst\u00e8mes d\u2019alerte pr\u00e9coce plus performants, des logements plus s\u00fbrs ainsi que des r\u00e9seaux de drainage et d\u2019assainissement am\u00e9lior\u00e9s.",
             "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
                 "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
+                    "lat": 6.57,
+                    "lon": 20.48
                 }
             },
             "source": [
@@ -156,7 +364,7 @@
             "url": "https://reliefweb.int/node/4222351",
             "date": {
                 "original": "2026-07-21T00:00:00+00:00",
-                "changed": "2026-07-21T17:47:52+00:00",
+                "changed": "2026-07-22T03:56:00+00:00",
                 "created": "2026-07-21T17:47:10+00:00"
             }
         },
@@ -169,14 +377,14 @@
             "title": "West and Central Africa: Latest Events at a glance (14\u201320 July 2026)",
             "body": "**Central African Republic**  \n*CERF allocates $1 million to contain cholera outbreak*\n\nThe Emergency Relief Coordinator has allocated $1 million from CERF to support the urgent cholera response in the Central African Republic, where more than 400 suspected cases and 36 deaths have been recorded. Children under 10 account for 44 per cent of cases. The outbreak has spread to all districts of Bangui, with transmission compounded by the rainy season and limited access to safe water and sanitation. The funding will support health, community engagement and WASH interventions. UNICEF has provided treatment supplies and helped expand the national cholera treatment centre from 40 to 70 beds.\n\n**Democratic Republic of the Congo**  \n*Violence hampers response to major Ebola outbreak*\n\nEscalating violence in eastern DRC is disrupting humanitarian access and efforts to contain the world\u2019s third-largest recorded Ebola outbreak. At least 2,124 cases have been confirmed across five provinces, including in 16 displacement sites hosting more than 270,000 people in Ituri. Recent attacks in Beni territory have reportedly killed at least 22 people and displaced civilians. Authorities and humanitarian partners are strengthening surveillance, testing, treatment and community engagement, while UN peacekeepers reinforce protection. OCHA calls for safe humanitarian access, protection of civilians and health workers, and increased funding for the $2.3 billion appeal targeting 10.7 million people.\n\n**Mali**  \n*Malaria, measles and dengue remain major public health concerns*\n\nMalaria remains Mali's leading public health concern, with nearly 888,000 confirmed cases reported between 1 January and 5 July, a slight increase compared with the same period in 2025. Measles remains the most significant epidemic, with 215 confirmed cases reported across 17 health districts, including Bamako, Mopti and Tombouctou, indicating continued transmission and risk of spread. Dengue cases also increased, with 12 confirmed cases reported during the week ending 5 July, up from six the previous week, mainly in Bandiagara and Bamako. So far no yellow fever or cholera cases has been reported this year. Health authorities continue to prioritize surveillance, monitoring and data quality.\n\n**Gulf of Guinea**  \n*Climate change increases flood risk along the Gulf of Guinea*\n\nSevere rainfall caused widespread flooding across C\u00f4te d\u2019Ivoire, Ghana, Togo, and Nigeria between 20 to 22 June 2026, killing more than 90 people, displacing hundreds and damaging infrastructure and livelihoods. According to World Weather Attribution, comparable three-day rainfall events now occur every two to four years, with observations indicating a 23 per cent rise in intensity since records began. Rapid urbanization, inadequate drainage, and rising sea levels are compounding the risk, underscoring the need for stronger early-warning systems, safer housing and improved drainage and sanitation.",
             "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
                 "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
+                    "lat": 6.57,
+                    "lon": 20.48
                 }
             },
             "source": [
@@ -198,7 +406,7 @@
             "url": "https://reliefweb.int/node/4222350",
             "date": {
                 "original": "2026-07-21T00:00:00+00:00",
-                "changed": "2026-07-21T17:45:29+00:00",
+                "changed": "2026-07-22T03:53:31+00:00",
                 "created": "2026-07-21T17:42:18+00:00"
             }
         },
@@ -1553,189 +1761,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4222115"
-    },
-    {
-        "id": "4222079",
-        "score": 1,
-        "fields": {
-            "title": "Tchad : Rapport de situation de l\u2019\u00e9pid\u00e9mie du chol\u00e9ra au Tchad",
-            "body": "**POINTS SAILLANTS**\n\n- **13 juin 2026 :** Notification de 2 cas suspects au District Sanitaire de Karal, province de Hadjer Lamis ;\n- **16 juin 2026 :** Mise en \u00e9vidence du Vibrio cholerae O1 Ogawa sur 02 pr\u00e9l\u00e8vements \u00e0 la culture ;\n- **18 juin 2026 :** D\u00e9claration officielle de l\u2019\u00e9pid\u00e9mie de chol\u00e9ra\n- **Nouveaux :** 03 cas et 0 d\u00e9c\u00e8s.\n\n**CHIFFRES CLES**\n\n- **1 Province affect\u00e9e : Hadjer Lamis ;**\n- **1 District sanitaire avec confirmation \u00e0 la culture : Karal ;**\n- **4 Zones de responsabilit\u00e9 active : Karal 1, Karal2, Baltram et Alkouk ;**\n- **23 villages/Quartiers ayant notifi\u00e9 au moins un cas ;**\n- **165 cas en cumul ;**\n- **5 d\u00e9c\u00e8s dont 2 communautaires, taux de l\u00e9talit\u00e9 : 3%**\n- **11 \u00e9chantillons analys\u00e9s et 7 confirm\u00e9s \u00e0 la culture (63,4%) ;**\n- **Age m\u00e9dian : 8 ans (0- 78 ans) ;**\n- **Sexe ratio F/H : 1, 1 ;**\n- **Taux d\u2019attaque : 132,7/100 000 hbts.**",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2648",
-                    "id": 2648,
-                    "name": "Government of Chad",
-                    "shortname": "Govt. Chad",
-                    "longname": "Government of Chad",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4222079",
-            "date": {
-                "original": "2026-07-20T00:00:00+00:00",
-                "changed": "2026-07-20T12:41:06+00:00",
-                "created": "2026-07-20T11:14:46+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4222079"
-    },
-    {
-        "id": "4222056",
-        "score": 1,
-        "fields": {
-            "title": "WFP Chad Country Brief, June 2026",
-            "body": "SITUATION OVERVIEW  \n\u2022 Chad hosts one of the largest displaced populations in the region, with over 2.25 million forcibly displaced people, including over 1.5 million refugees, over 492,000 returnees, and over 219,000 internally displaced persons (IDPs).  \n\u2022 Since April 2023, the conflict in Sudan has driven a massive influx into eastern Chad, with over 1.2 million people crossing the border, including 932,771 new arrivals from Sudan and 400,915 Chadian returnees.  \n\u2022 Cross-border arrivals into Chad are expected to continue in 2026. The majority have settled in the Ouadda\u00ef, Wadi Fira, Sila, and Ennedi Est province.  \n\u2022 The continued influx of refugees and returnees from Sudan is placing additional pressure on already fragile local systems. These dynamics are increasing demands on food systems, basic services, and local resources, reinforcing the importance of sustained, coordinated humanitarian support alongside national efforts to promote stability and resilience.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4222056",
-            "date": {
-                "original": "2026-07-20T00:00:00+00:00",
-                "changed": "2026-07-20T11:14:23+00:00",
-                "created": "2026-07-20T10:02:01+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4222056"
-    },
-    {
-        "id": "4222002",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo - Perspectives sur la s\u00e9curit\u00e9 alimentaire : Alors que les r\u00e9sultats de Crise (Phase 3 IPC) persistent \u00e0 la suite des divers conflits, le pays connait une grave \u00e9pid\u00e9mie d\u2019Ebola, Juin 2026 - Janvier 2027",
-            "body": "## Messages cl\u00e9\n\n- **Des r\u00e9sultats de Crise (Phase 3 de l'IPC) persistent en Ituri, au Nord-Kivu et au Sud-Kivu, dans certains territoires du Maniema et du Tanganyika, ainsi qu\u2019\u00e0 Mai-Ndombe** avec une augmentation du nombre de la population en Urgence (Phase 4 de l\u2019IPC) dans les provinces de l\u2019est. Cette d\u00e9t\u00e9rioration est \u00e0 cause des conflits persistants et des d\u00e9placements massifs. Les affrontements arm\u00e9s qui se poursuivent entre les groupes arm\u00e9s et le forces du gouvernement continuent \u00e0 cr\u00e9er de l\u2019ins\u00e9curit\u00e9, provoquant la d\u00e9gradation des moyens d\u2019existence, notamment l\u2019agriculture et l'\u00e9levage, r\u00e9duisant ainsi les revenus de m\u00e9nages. Le conflit demeure le principal facteur d\u2019ins\u00e9curit\u00e9 alimentaire aigu\u00eb dans le pays. Selon [**UNHCR**](https://data.unhcr.org/en/documents/details/123057), les trois provinces d\u2019Ituri, Nord-Kivu et Sud-Kivu comptent plus de 3,4 millions de personnes d\u00e9plac\u00e9es. Cette situation va probablement s\u2019aggraver par les restrictions cons\u00e9cutives aux mesures de pr\u00e9vention de l\u2019\u00e9pid\u00e9mie d\u2019Ebola.\n- **L\u2019expansion de l\u2019\u00e9pid\u00e9mie de la maladie \u00e0 virus Ebola** a fragilis\u00e9 les syst\u00e8mes d\u2019\u00e9changes et a \u00e9galement limit\u00e9e la circulation des personnes. L\u2019\u00e9pid\u00e9mie perturbe l\u2019approvisionnement des produits alimentaires d\u00e9j\u00e0 affect\u00e9 par les conflits, tout en entra\u00eenant une perte de revenus pour des milliers de m\u00e9nages pauvres vivant d\u2019activit\u00e9s transfrontali\u00e8res. \u00c0 moyen terme, la disponibilit\u00e9 alimentaire continuera de se d\u00e9grader, surtout en Ituri, \u00e9picentre de l\u2019\u00e9pid\u00e9mie, o\u00f9 le conflit a r\u00e9duit fortement les capacit\u00e9s d\u2019adaptation des m\u00e9nages.\n- **FEWS NET estime qu\u2019environ 17 \u00e0 17,99 millions** de personnes auront besoin d\u2019assistance alimentaire, avec un pic attendu entre octobre et d\u00e9cembre 2026, en raison de la grande soudure aggrav\u00e9e par l\u2019ins\u00e9curit\u00e9 persistante \u00e0 l\u2019est. Les besoins resteront \u00e9lev\u00e9s au-del\u00e0 des r\u00e9coltes, notamment pour les d\u00e9plac\u00e9s, retourn\u00e9s et r\u00e9fugi\u00e9s, tandis que l\u2019\u00e9puisement pr\u00e9coce des stocks d\u00e8s ao\u00fbt renforcera la d\u00e9pendance \u00e0 l\u2019assistance et le recours \u00e0 des strat\u00e9gies n\u00e9gatives.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/529",
-                    "id": 529,
-                    "name": "Famine Early Warning System Network",
-                    "shortname": "FEWS NET",
-                    "longname": "Famine Early Warning System Network",
-                    "spanish_name": "Red de Sistemas de Alerta Temprana contra la Hambruna",
-                    "homepage": "https://fews.net/",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4222002",
-            "date": {
-                "original": "2026-07-17T00:00:00+00:00",
-                "changed": "2026-07-20T03:39:30+00:00",
-                "created": "2026-07-20T03:34:15+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4222002"
-    },
-    {
-        "id": "4221988",
-        "score": 1,
-        "fields": {
-            "title": "RDC, \u00e9pid\u00e9mie d\u2019Ebola BVD : R\u00e9union du groupe de travail local LTC T\u00e9l\u00e9coms #2 (09/07/2026) [Meeting Minutes]",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/13799",
-                    "id": 13799,
-                    "name": "Emergency Telecommunications Cluster",
-                    "shortname": "ETC",
-                    "longname": "Emergency Telecommunications Cluster",
-                    "homepage": "https://www.etcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3594",
-                    "id": 3594,
-                    "name": "Logistics Cluster",
-                    "shortname": "Logistics Cluster",
-                    "homepage": "https://www.logcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4221988",
-            "date": {
-                "original": "2026-07-09T00:00:00+00:00",
-                "changed": "2026-07-20T02:07:29+00:00",
-                "created": "2026-07-20T02:07:23+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4221988"
     }
 ]
