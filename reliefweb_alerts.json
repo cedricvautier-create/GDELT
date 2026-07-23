@@ -1,5 +1,46 @@
 [
     {
+        "id": "4222570",
+        "score": 1,
+        "fields": {
+            "title": "Ebola deaths in eastern DRC's Grand Nord Kivu region far higher than elsewhere",
+            "body": "Overcrowded treatment centres, weak surveillance and a funding shortfall are combining to push up deaths in a region where conflict and disease are colliding\n\n- 2,473 and 999 deaths confirmed by Ministry of Health as of 20 July\n- The case fatality rate in North Kivu is 56%, rising to as high as 68% in Beni, Grand Nord Kivu, compared with an average of 39.9% in neighbouring Ituri province.\n- This is the fourth consecutive week with more than 300 new reported Ebola cases.\n- This is the fastest growing Ebola outbreak, on par with the 2013\u20132016 epidemic in West Africa; there are currently no licensed vaccines available for the current strain of Ebola (Bundibugyo).\n\nKinshasa, Democratic Republic of the Congo , July 22, 2026 \u2014 As the Ebola outbreak in the Democratic Republic of the Congo is showing no sign of slowing, people who contract the virus in the northern part of North Kivu province, known as Grand Nord Kivu, are almost twice as likely to die from the virus as those elsewhere in the outbreak, the International Rescue Committee (IRC) warns.\n\nWhile case numbers there remain lower than in Ituri province, where most confirmed cases are concentrated, the elevated fatality rate points to a deeper problem: ongoing conflict, weak surveillance and community resistance mean many cases never reach health facilities, and for those that do, they find them overcrowded and lacking in appropriate care. This means the virus spreads further within communities, driving up both infections and deaths.\n\n*\"The IRC has responded to Ebola in this region before, and we can leverage on this history to mobilise our network and negotiate access for both populations and humanitarian actors,\u201d* said Alice Ribes, Ebola response team lead for the IRC who just returned from Beni in Grand Nord Kivu. *\u201cBut trust and access aren't enough on their own: we need the funding to actually scale up.\"*\n\nRepeated and enduring crisis impacts, from earlier Ebola outbreaks to ongoing food insecurity, displacement and conflict, have left communities in and around Beni and Butembo in Grand Nord Kivu exhausted and increasingly mistrustful of health staff and the care they provide. Insecurity compounds the problem further, making it extremely difficult for people to access care.\n\nAs a result, the majority of Ebola deaths are happening in communities rather than in Ebola treatment facilities, and traditional burials are often taking place without safe burial protocols to prevent disease spread. Safe burial practices, including ensuring nobody touches the body, are a critical point for stopping transmission. Contact tracing shows that many new cases are linked to funerals when friends and loved ones touch the body, a particular risk given that a body is more contagious after death than during life.\n\nFor those who do reach treatment, the system is under severe strain: Ebola treatment centres and isolation wards in North Kivu are operating at 128% capacity, with more patients than available beds.\n\nThe IRC now maintains a reduced footprint in Beni, having scaled down operations since its last Ebola response in the area, but the organisation retains strong relationships and a trusted reputation with communities and authorities in Grand Nord Kivu.\n\nThe IRC is supporting preparedness and response efforts in high-risk areas, strengthening infection prevention and control, surveillance, community engagement, and support for frontline health workers to help contain the outbreak and prevent further spread.\n\n## **Media contacts**\n\nKim Winkler\n\nInternational Rescue Committee\n\n**Kim.Winkler@rescue.org**\n\nIRC Global Communications\n\n**communications@rescue.org**",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2012",
+                    "id": 2012,
+                    "name": "International Rescue Committee",
+                    "shortname": "IRC",
+                    "longname": "International Rescue Committee",
+                    "spanish_name": "Comit\u00e9 Internacional de Rescate",
+                    "homepage": "https://www.rescue.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4222570",
+            "date": {
+                "original": "2026-07-22T00:00:00+00:00",
+                "changed": "2026-07-23T04:12:45+00:00",
+                "created": "2026-07-22T17:03:04+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4222570"
+    },
+    {
         "id": "4222564",
         "score": 1,
         "fields": {
@@ -1727,45 +1768,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4222142"
-    },
-    {
-        "id": "4222141",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: Urgence Soudan | Bureau de coordination du HCR \u00e0 l\u2019est du Tchad - Tableau de bord de la relocalisation (Mise \u00e0 jour du 20-07-2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4222141",
-            "date": {
-                "original": "2026-07-20T00:00:00+00:00",
-                "changed": "2026-07-21T01:43:42+00:00",
-                "created": "2026-07-20T16:03:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4222141"
     }
 ]
