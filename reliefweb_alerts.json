@@ -1,5 +1,46 @@
 [
     {
+        "id": "4222973",
+        "score": 1,
+        "fields": {
+            "title": "Multi-Country Bundibugyo Ebola Virus Disease Outbreak Situation Report No. 10",
+            "body": "According to the World Health Organization, as of 15 July, the Democratic Republic of the Congo (DRC) reported 2,124 confirmed cases of Ebola disease caused by the Bundibugyo virus (BVD), including 828 deaths. In Uganda, no new cases had been reported since 21 June, and the country began the 42-day period of enhanced disease surveillance required before the end of the outbreak can be declared, following the discharge of the most recent case from treatment after two negative tests. Continued surveillance and preparedness measures remain essential to prevent resurgence and mitigate the risk of cross-border transmission while transmission persists in neighboring DRC. key highlights include :\n\n- In total **8.6 million health screenings** have been conducted at points of entry and points of control across affected and at-risk countries since the start of the response.\n- During the reporting period alone, IOM supported more than **1.68 million screenings in the Democratic Republic of the Congo**, generating 74 alerts and facilitating the verification and referral of suspected cases.\n- **6.6 million people** have been reached through risk communication and community engagement activities, helping communities access timely information and reduce transmission risks.\n- IOM is currently supporting **215 points of entry and points of control** across the region, strengthening surveillance, screening, infection prevention and cross-border preparedness efforts.\n- Preparedness and response activities continued in priority countries, including **DRC, Uganda, Burundi, Rwanda and South Sudan**, while readiness measures were reinforced across other at-risk countries in the region.\n- IOM\u2019s mobility tracking and population mobility mapping work continues to support governments in identifying high-risk mobility corridors and strengthening cross-border surveillance and coordination\n\nThe outbreak continues to unfold in a complex operational environment marked by insecurity, displacement and population mobility. As transmission persists in eastern DRC, sustained investment in surveillance, border health measures, community engagement, and support to displaced and mobile populations remains critical to containing the outbreak and preventing cross-border spread. You can learn more by clicking [HERE](https://crisisresponse.iom.int/sites/g/files/tmzbdl1481/files/uploaded-files/IOM-Multi-Country-Bundibugyo-virus-disease-Response-Sit-Rep-No-10-13th-19th-July-2026-compressed.pdf).",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4222973",
+            "date": {
+                "original": "2026-07-24T00:00:00+00:00",
+                "changed": "2026-07-24T14:45:17+00:00",
+                "created": "2026-07-24T14:33:04+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4222973"
+    },
+    {
         "id": "4222950",
         "score": 1,
         "fields": {
@@ -1754,46 +1795,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4222332"
-    },
-    {
-        "id": "4222331",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR Weekly Relocation Update \u2013 Eastern Chad (20 July 2026)",
-            "body": "**Weekly Highlights**\n\n\u2022 From 13 - 18 July, 946 people (283 households) were relocated from the border to inland sites to Arkoum (Ouadda\u00ef Province), under the accelerated relocation programme.\n\n\u2022 Since 15 April 2026, a cumulative 26,622 individuals (7,240 households) have been relocated under the accelerated relocation programme, bringing the total number relocated since January 2026 to 43,108 refugees.\n\n\u2022 Since April 2023, UNHCR and partners have relocated 644,003 individuals (172,397 households) from the borders to secure sites in Ennedi East (79,159), Sila (81,304), Wadi Fira (198,479) and Ouaddai (285,061).\n\n\u2022 Since 15 April 2026, a total of 38,754 refugees has been biometrically registered and 9,922 others have been preregistered, making a total of 480,676 individuals under OCHA-US funding.\n\n\u2022 The Vulnerability-Based Assistance (VBA) exercise has been completed in Sila, and remains ongoing in Ouadda\u00ef and Wadi Fira. As of 18 July, 255,836 households out of the planned 315,000 (81%).\n\n\u2022 Since April 2026, a total of 9,572 emergency shelters constructed across selected sites in the Ouaddai, Sila and Wadi Fira, improving living conditions for newly relocated refugee families.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4222331",
-            "date": {
-                "original": "2026-07-20T00:00:00+00:00",
-                "changed": "2026-07-22T00:24:27+00:00",
-                "created": "2026-07-21T15:03:15+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4222331"
     }
 ]
