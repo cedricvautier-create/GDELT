@@ -1,5 +1,46 @@
 [
     {
+        "id": "4223124",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Epid\u00e9mie d\u2019Ebola et facteurs contextuels - province de Ituri, Nord-Kivu, Sud-Kivu, Tshopo et Haut-Uele - 22 juillet 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4223124",
+            "date": {
+                "original": "2026-07-27T00:00:00+00:00",
+                "changed": "2026-07-27T07:49:10+00:00",
+                "created": "2026-07-27T07:02:59+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4223124"
+    },
+    {
         "id": "4223098",
         "score": 1,
         "fields": {
@@ -555,7 +596,7 @@
             "url": "https://reliefweb.int/node/4222973",
             "date": {
                 "original": "2026-07-24T00:00:00+00:00",
-                "changed": "2026-07-24T14:45:17+00:00",
+                "changed": "2026-07-27T08:41:37+00:00",
                 "created": "2026-07-24T14:33:04+00:00"
             }
         },
@@ -1696,47 +1737,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4222570"
-    },
-    {
-        "id": "4222564",
-        "score": 1,
-        "fields": {
-            "title": "UN emergency fund allocates US$1 million to support cholera response in the Central African Republic.",
-            "body": "**Bangui, 22 July 2026** \u2013 The United Nations Emergency Relief Coordinator, Tom Fletcher, has allocated US$1 million from the Central Emergency Response Fund (CERF) to support urgent efforts to contain the cholera outbreak in the Central African Republic (CAR). The funding will enable humanitarian partners to rapidly scale up life-saving interventions in health, water, sanitation and hygiene, and community engagement.\n\nThe cholera epidemic was declared by the Government on 26 June following a rise in infections and deaths. 650 suspected cases and 44 deaths have been reported. Cases have spread from Bimbo and Mba\u00efki to Bangui, increasing the risk of transmission in densely populated urban areas. The rainy season, low population immunity, limited access to safe water and sanitation, and population movements along the Oubangui River are further exacerbating the outbreak. This is the country\u2019s first cholera epidemic since 2016.\n\n\u201cCholera is a preventable and treatable disease, yet it continues to claim lives among some of the most vulnerable communities in the Central African Republic,\u201d said Mohamed Ag Ayoya, Humanitarian Coordinator in CAR. \u201cThis timely CERF allocation will enable humanitarian partners to scale up life-saving assistance, contain the spread of the outbreak and support national efforts to protect affected populations. Acting now is critical to preventing a wider public health emergency.\u201d\n\nThe CERF allocation will support rapid interventions targeting 88,700 people in affected and high-risk areas. Funding will strengthen disease surveillance, case management, risk communication and community engagement, while expanding access to safe water, sanitation and hygiene services to reduce mortality and curb the spread of the disease.\n\nDespite limited resources, the Government and humanitarian partners have strengthened surveillance, case management, community awareness and coordination efforts. Prevention measures, including water treatment, household decontamination, hygiene kit distribution and the construction of emergency latrines, are ongoing, although significant challenges remain in access to safe water, sanitation and affected communities.\n\nCERF is one of the fastest and most effective mechanisms for delivering humanitarian assistance to people affected by crises. Managed by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA), the Fund enables rapid action whenever and wherever emergencies occur.\n\nFor more information, contact:\n\nAbdoulaye Sawadogo, Head of Office, sawadogoa@un.org, Tel. (+236) 70 60 10 66\n\nMaxime Nama, Head of Public Information, namacirhibuka@un.org; Tel. (+236) 70 12 24 43\n\nPress releases are available at [www.unocha.org](http://www.unocha.org) | [www.reliefweb.int](http://www.reliefweb.int)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4222564",
-            "date": {
-                "original": "2026-07-22T00:00:00+00:00",
-                "changed": "2026-07-23T00:26:18+00:00",
-                "created": "2026-07-22T15:30:24+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4222564"
     }
 ]
