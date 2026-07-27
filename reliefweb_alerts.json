@@ -1,5 +1,46 @@
 [
     {
+        "id": "4223254",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 27 July 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4223254",
+            "date": {
+                "original": "2026-07-27T00:00:00+00:00",
+                "changed": "2026-07-27T17:33:24+00:00",
+                "created": "2026-07-27T17:33:16+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4223254"
+    },
+    {
         "id": "4223218",
         "score": 1,
         "fields": {
@@ -1699,45 +1740,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4222772"
-    },
-    {
-        "id": "4222761",
-        "score": 1,
-        "fields": {
-            "title": "Security Sector Reform and United Nations Transitions: Factors for Success",
-            "body": "In light of the forthcoming transitions in the Democratic Republic of the Congo and in South Sudan, this study looks at C\u00f4te d\u2019Ivoire and Sierra Leone as two historical examples of United Nations peace operations being involved in security sector reform (SSR). It analyses both cases and makes recommendations based on 11 factors for success or failure of SSR processes and the transition of activities: (1) context awareness of the UN in support of SSR; (2) nature and timing of the UN transition mandate regarding the status of SSR; (3) inclusion of the principles of good governance in the SSR process; (4) acknowledgment of multilevel governance and willingness to engage with non-state actors; (5) national and local political leadership and commitment to SSR; (6) level of embeddedness of the SSR process in broader recovery frameworks; (7) civil society involvement in support of local ownership of SSR; (8) application of a gender-responsive SSR process; (9) linkages and synergies between the SSR process and the DDR programme; (10) involvement of external non-UN actors, donors and partners in the SSR process; and (11) availability of sustainable funding for the SSR process.\n\n**Table of contents**\n\n1\\. Introduction\n\n2\\. Security sector reform and peace operation transitions: A literature and policy review\n\n3\\. Security sector reform and the transition of UN peace operations in Sierra Leone\n\n4\\. Security sector reform and the transition of the UN peace operation in C\u00f4te d\u2019Ivoire\n\n5\\. Conclusions and recommendations\n\n## ABOUT THE AUTHOR(S)/EDITORS\n\n[Kevin Steeves](https://www.sipri.org/about/bios/kevin-steeves) is an independent consultant conducting research, evaluations and strategic assessments for the United Nations (UN), international organizations, multinational companies and policy institutes.\n\n[Dr Ja\u00efr van der Lijn](https://www.sipri.org/about/bios/dr-jair-van-der-lijn) is a Senior Researcher and Director of the SIPRI Peace Operations and Conflict Management Programme.\n\n[Abel Gbala](https://www.sipri.org/about/bios/abel-gbala) is a researcher and project evaluation consultant. Since 2013, he has led public attitude surveys on democracy and governance for Afrobarometer and the Varieties of Democracy (V-Dem) projects, among others. He also designs and implements monitoring, evaluation and learning systems.\n\n[Dr Marina Caparini](https://www.sipri.org/about/bios/dr-marina-caparini) was until recently a Senior Researcher and Director of the SIPRI Governance and Society Programme.\n\n[Gretchen Baldwin](https://www.sipri.org/about/bios/gretchen-baldwin) is a Senior Researcher in the SIPRI Peace Operations and Conflict Management Programme.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1143",
-                    "id": 1143,
-                    "name": "Stockholm International Peace Research Institute",
-                    "shortname": "SIPRI",
-                    "longname": "Stockholm International Peace Research Institute",
-                    "homepage": "http://www.sipri.se/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4222761",
-            "date": {
-                "original": "2026-07-23T00:00:00+00:00",
-                "changed": "2026-07-23T13:05:58+00:00",
-                "created": "2026-07-23T13:05:03+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4222761"
     }
 ]
