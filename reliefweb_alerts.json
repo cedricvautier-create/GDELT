@@ -1,5 +1,46 @@
 [
     {
+        "id": "4223316",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Affected provinces",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4223316",
+            "date": {
+                "original": "2026-07-23T00:00:00+00:00",
+                "changed": "2026-07-28T07:56:30+00:00",
+                "created": "2026-07-28T07:54:57+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4223316"
+    },
+    {
         "id": "4223281",
         "score": 1,
         "fields": {
@@ -1684,46 +1725,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4222867"
-    },
-    {
-        "id": "4222866",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique centrafricaine - Perspectives sur la s\u00e9curit\u00e9 alimentaire : Le conflit prolong\u00e9 maintien des d\u00e9ficits alimentaires malgr\u00e9 les am\u00e9liorations saisonni\u00e8res attendues, Juin 2026 - Janvier 2027",
-            "body": "## Messages cl\u00e9\n\n- **Entre juin 2026 et janvier 2027, les r\u00e9sultats de Crise (Phase 3 de l\u2019IPC) pr\u00e9domineront dans le nord\u2011est, sud\u2011est et nord\u2011ouest**, en raison de l\u2019\u00e9puisement des stocks, d\u2019une forte d\u00e9pendance aux march\u00e9s dans un contexte d\u2019ins\u00e9curit\u00e9 persistante, de perturbations continues des flux commerciaux et de revenus limit\u00e9s. Malgr\u00e9 les am\u00e9liorations saisonni\u00e8res attendues apr\u00e8s la p\u00e9riode de soudure \u00e0 partir d\u2019octobre dans le nord et juillet au sud, les m\u00e9nages pauvres et d\u00e9plac\u00e9s continueront de faire face \u00e0 des d\u00e9ficits de consommation dans les zones d\u2019ins\u00e9curit\u00e9 en raison de la production insuffisante, de l\u2019ins\u00e9curit\u00e9 persistante et de prix \u00e9lev\u00e9s.\n- **Une am\u00e9lioration saisonni\u00e8re vers des r\u00e9sultats de Stress (Phase 2 de l\u2019IPC) est attendue dans les zones du centre et du sud** **\u00e0 partir de juillet,** avec l\u2019arriv\u00e9e progressive des premi\u00e8res r\u00e9coltes et l\u2019augmentation des revenus agricoles. Toutefois, en raison de revenus limit\u00e9s et de prix \u00e9lev\u00e9s, les zones enclav\u00e9es ou touch\u00e9es par l\u2019ins\u00e9curit\u00e9 resteront en Crise (Phase 3 de l\u2019IPC) jusqu\u2019\u00e0 la fin de la saison des pluies.\n- **Dans le sud\u2011ouest, les m\u00e9nages devraient rester en Stress (Phase 2 de l\u2019IPC) tout au long de la p\u00e9riode,** soutenus par une disponibilit\u00e9 plus stable du manioc, des r\u00e9coltes pr\u00e9coces et une exposition moindre \u00e0 l\u2019ins\u00e9curit\u00e9. Toutefois, les contraintes \u00e9conomiques, notamment les prix \u00e9lev\u00e9s et les revenus limit\u00e9s, continueront de restreindre leur capacit\u00e9 \u00e0 couvrir les d\u00e9penses non alimentairesessentielles.\n- **FEWS NET estime qu\u2019environ 750 000 \u00e0 999 999 de personnes pourraient avoir besoin d\u2019une assistance alimentaire, avec le pic entre juin et ao\u00fbt** pour pr\u00e9venir une d\u00e9t\u00e9rioration suppl\u00e9mentaire des conditions. Malgr\u00e9 l\u2019am\u00e9lioration saisonni\u00e8re attendue \u00e0 partir de juillet avec l\u2019arriv\u00e9e des premi\u00e8res r\u00e9coltes au sud, de nombreux m\u00e9nages pauvres dans les zones affect\u00e9es par le conflit continueront de faire face \u00e0 des d\u00e9ficits alimentaires.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/529",
-                    "id": 529,
-                    "name": "Famine Early Warning System Network",
-                    "shortname": "FEWS NET",
-                    "longname": "Famine Early Warning System Network",
-                    "spanish_name": "Red de Sistemas de Alerta Temprana contra la Hambruna",
-                    "homepage": "https://fews.net/",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4222866",
-            "date": {
-                "original": "2026-07-23T00:00:00+00:00",
-                "changed": "2026-07-24T03:01:11+00:00",
-                "created": "2026-07-24T02:12:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4222866"
     }
 ]
