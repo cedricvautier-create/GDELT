@@ -163,6 +163,47 @@
         "href": "https://api.reliefweb.int/v2/reports/4223448"
     },
     {
+        "id": "4223447",
+        "score": 1,
+        "fields": {
+            "title": "Ebola Bundibugyo Virus Disease Outbreak: Democratic Republic of the Congo | Uganda | France - Weekly External Situation Report 11, Data as of 26 July 2026",
+            "body": "**Event description**  \nThe Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continued to intensify during the reporting period, with sustained transmission, increasing mortality, and ongoing geographic expansion within the country. The cumulative number of reported cases has exceeded the two previously documented Bundibugyo virus disease outbreaks, making this the largest outbreak caused by the Bundibugyo virus to date. Although no new cases have been reported outside the Democratic Republic of the Congo, persistent transmission in areas connected by major national and cross-border mobility corridors continues to sustain a high risk of regional spread. These epidemiological trends underscore the need for strengthened surveillance, cross-border collaboration, and preparedness to rapidly detect and contain any international spread.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4223447",
+            "date": {
+                "original": "2026-07-28T00:00:00+00:00",
+                "changed": "2026-07-29T05:15:19+00:00",
+                "created": "2026-07-28T18:03:08+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4223447"
+    },
+    {
         "id": "4223442",
         "score": 1,
         "fields": {
@@ -450,6 +491,88 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4223424"
+    },
+    {
+        "id": "4223423",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon MCO Factsheet January - June 2026",
+            "body": "The Cameroon MCO covers Cameroon, the Republic of Congo, Gabon, Equatorial Guinea and S\u00e3o Tom\u00e9 and Pr\u00edncipe. Across the MCO, conflict and displacement continue to drive protection risks and humanitarian needs among forcibly displaced and stateless persons. UNHCR works with governments and partners to strengthen protection, expand access to services and promote durable solutions.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4223423",
+            "date": {
+                "original": "2026-07-28T00:00:00+00:00",
+                "changed": "2026-07-29T05:04:17+00:00",
+                "created": "2026-07-28T15:03:13+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4223423"
+    },
+    {
+        "id": "4223422",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon Multi-Country Office (MCO) - Quarterly Operational Update April-June 2026",
+            "body": "UNHCR supports governments in Cameroon, the Republic of Congo (RoC), Gabon, Equatorial Guinea and S\u00e3o Tom\u00e9 and Pr\u00edncipe to protect and assist forcibly displaced and stateless populations, expand access to asylum and essential services, and strengthen national protection systems, advocating for national inclusion, self-reliance and promoting durable solutions. Cameroon hosts the largest displaced population, while the RoC hosts over 70,800 refugees and asylum-seekers.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4223422",
+            "date": {
+                "original": "2026-07-28T00:00:00+00:00",
+                "changed": "2026-07-29T04:59:45+00:00",
+                "created": "2026-07-28T15:03:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4223422"
     },
     {
         "id": "4223397",
@@ -1504,125 +1627,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4223060"
-    },
-    {
-        "id": "4223057",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Centrafricains au 30 juin 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223057",
-            "date": {
-                "original": "2026-07-17T00:00:00+00:00",
-                "changed": "2026-07-27T01:14:51+00:00",
-                "created": "2026-07-26T13:03:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223057"
-    },
-    {
-        "id": "4223053",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Burundais au 30 juin 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223053",
-            "date": {
-                "original": "2026-07-17T00:00:00+00:00",
-                "changed": "2026-07-27T01:14:13+00:00",
-                "created": "2026-07-26T12:03:12+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223053"
-    },
-    {
-        "id": "4223052",
-        "score": 1,
-        "fields": {
-            "title": "Democratic Republic of Congo - Voluntary Repatriation from/to DRC (30 June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223052",
-            "date": {
-                "original": "2026-07-17T00:00:00+00:00",
-                "changed": "2026-07-27T01:10:53+00:00",
-                "created": "2026-07-26T12:03:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223052"
     }
 ]
