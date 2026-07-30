@@ -1,5 +1,86 @@
 [
     {
+        "id": "4223655",
+        "score": 1,
+        "fields": {
+            "title": "UNFPA Situation Report: Chad Humanitarian Response (1 - 30 June 2026)",
+            "body": "In June 2026, the humanitarian crisis in Chad worsened as the country hosted 2.26 million forcibly displaced people, including over 934,000 Sudanese refugees, while food insecurity during the lean season threatened 3 million individuals, exacerbating protection risks like gender-based violence (GBV) and child marriage. Military activity in Lac Province caused the fresh displacement of approximately 60,300 people, and a critical GBV crisis emerged in the Fouli and Kaya departments due to women having to travel over two kilometres for water, which exposed them to high risks of physical and sexual violence. Additionally, a new cholera outbreak declared on 18 June in the Karal District threatened to limit the delivery of essential sexual and reproductive health (SRH) services and confidential GBV responses.  \n  \nUNFPA responded by deploying 127 midwives across the country, with 97 of them stationed in humanitarian areas to support health facilities in the east, south, and Lac Province. These midwives were instrumental in providing comprehensive SRH care, including assisting 2,518 safe births, conducting 9,452 antenatal consultations, and reaching 4,509 women with family planning services. UNFPA also addressed GBV through case management in multiple provinces, operating 11 safe spaces that supported 933 women and girls, conducting awareness sessions for 4,959 people, and providing capacity-building training on cash transfers for survivors to 19 staff members.  \n  \nAs of the end of June 2026, UNFPA has secured US $2.5 million toward its $18.7 million requirement, leaving a staggering funding gap of 87%. UNFPA is urgently appealing for critical funding for Chad to address the scale and urgency of the humanitarian needs, particularly for women and girls who require life-saving SRH and protection services.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1070",
+                    "id": 1070,
+                    "name": "United Nations Population Fund",
+                    "shortname": "UNFPA",
+                    "longname": "United Nations Population Fund",
+                    "spanish_name": "Fondo de Poblaci\u00f3n de las Naciones Unidas",
+                    "homepage": "https://www.unfpa.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4223655",
+            "date": {
+                "original": "2026-07-29T00:00:00+00:00",
+                "changed": "2026-07-30T05:09:27+00:00",
+                "created": "2026-07-30T05:03:36+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4223655"
+    },
+    {
+        "id": "4223616",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon Cholera Outbreak: Situation Report #1 (July 29, 2026)",
+            "body": "**FAST FACTS**\n\n- An outbreak of cholera involving at least 24 people has been reported in Minawao Refugee Camp, which hosts more than 81,000 refugees and is operating at approximately 325% of intended capacity.\n- The wider cholera outbreak in the Far North region had reported 754 cases and 25 deaths across nine health districts as of July 26.\n- Multiple transmission chains are suspected within the camp, increasing the risk of rapid spread among vulnerable populations.\n\n**OUR RESPONSE**\n\n- International Medical Corps is coordinating with the Ministry of Public Health, UN agencies and humanitarian partners to support a coordinated cholera response.\n- We are preparing a three-month emergency intervention focused on outbreak containment, case management and community protection.\n- Efforts include expanding treatment capacity through additional staff, essential medicines and pre-positioned cholera response supplies.\n- To support early detection and treatment, we are strengthening surveillance, community alert systems and risk communication.\n- We are scaling up emergency sanitation, hygiene promotion and infection prevention activities in high-risk areas.\n\nFollowing the detection of suspected and RDT-positive cholera cases in Minawao Refugee Camp, International Medical Corps prepared an emergency response targeting some 14,600 people to help contain the outbreak and reduce morbidity and mortality among refugee and host populations.\n\nTo strengthen case management, we are recruiting additional technical staff and procuring essential medical supplies and consumables. We also are supporting enhanced disease surveillance, community-alert systems and risk-communication activities to improve early detection, timely referral and healthcare-seeking behavior.\n\nGiven the heightened transmission risks associated with overcrowding and inadequate sanitation conditions, International Medical Corps is prioritizing emergency WASH interventions, including hygiene promotion, targeted disinfection of high-risk locations, strengthened IPC measures, and pre-positioning cholera treatment and prevention supplies.\n\nAs always, we are working closely with national authorities and humanitarian partners while addressing priority operational gaps identified through ongoing coordination efforts.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2019",
+                    "id": 2019,
+                    "name": "International Medical Corps",
+                    "shortname": "IMC",
+                    "longname": "International Medical Corps",
+                    "homepage": "https://internationalmedicalcorps.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4223616",
+            "date": {
+                "original": "2026-07-29T00:00:00+00:00",
+                "changed": "2026-07-30T03:36:11+00:00",
+                "created": "2026-07-29T20:46:56+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4223616"
+    },
+    {
         "id": "4223553",
         "score": 1,
         "fields": {
@@ -1548,85 +1629,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4223064"
-    },
-    {
-        "id": "4223063",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - Violences bas\u00e9es sur le genre (Janvier - Juin 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223063",
-            "date": {
-                "original": "2026-07-17T00:00:00+00:00",
-                "changed": "2026-07-27T01:17:44+00:00",
-                "created": "2026-07-26T15:03:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223063"
-    },
-    {
-        "id": "4223061",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Sud-soudanais au 30 juin 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223061",
-            "date": {
-                "original": "2026-07-17T00:00:00+00:00",
-                "changed": "2026-07-27T01:16:14+00:00",
-                "created": "2026-07-26T14:03:12+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223061"
     }
 ]
