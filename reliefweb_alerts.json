@@ -1,5 +1,47 @@
 [
     {
+        "id": "4223756",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon: Humanitarian Dashboard (as of 30 June 2026)",
+            "body": "Cameroon continues to face protracted humanitarian needs driven by armed conflict, insecurity, climate shocks and disease outbreaks. The Far North, North-West, South-West, Adamawa, East and North regions are most affected, with widespread displacement, pressure on host communities and limited access to basic services. Women, children and other vulnerable groups remain particularly exposed to protection risks and affected by gaps in assistance.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4223756",
+            "date": {
+                "original": "2026-07-30T00:00:00+00:00",
+                "changed": "2026-07-30T16:17:57+00:00",
+                "created": "2026-07-30T16:15:50+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4223756"
+    },
+    {
         "id": "4223719",
         "score": 1,
         "fields": {
@@ -1594,46 +1636,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4223218"
-    },
-    {
-        "id": "4223211",
-        "score": 1,
-        "fields": {
-            "title": "WFP Chad Bulletin de suivi de la saison pluvieuse - Saison 2026 (mise \u00e0 jour de Juin 2026 (3-\u00e8me d\u00e9cade) (Juillet 2026)",
-            "body": "**PointsSaillants**\n\n1\\. Entre mai et juin 2026 en d\u00e9but de saison, le Tchad a \u00e9t\u00e9 caract\u00e9ris\u00e9 par une situation mixte ; refl\u00e9tant une distribution erratique des pr\u00e9cipitations saisonni\u00e8res. Pendant que toute la fa\u00e7ade est du pays (de la province Wadi Fira \u00e0 Mandoul) ainsi que le nord du Lac sont caract\u00e9ris\u00e9s par une situation d\u00e9ficitaire, une partie du centre-ouest dans le Sahel et du sud-ouest dans la zone Soudanienne pr\u00e9sentent des conditions humides. Ailleurs les conditions sont rest\u00e9es normales. Cette r\u00e9partition traduit une installation h\u00e9t\u00e9rog\u00e8ne de la saison des pluies.\n\n2\\. Les conditions pluviom\u00e9triques de d\u00e9but de saison ont impact\u00e9 les conditions agro-pastorales. Cette situation se traduit par un retard dans la r\u00e9g\u00e9n\u00e9rescence du couvert v\u00e9g\u00e9tal (inf\u00e9rieur \u00e0 la moyenne) observ\u00e9 au sud du pays dans la zone Soudanienne et Soudano-sah\u00e9lienne. Il faut noter que le d\u00e9but de saison est pr\u00e9coce dans certaines localit\u00e9s du sudouest, mais tardif sur une grande partie du sud, du centre et du sud-est, traduisant ainsi une installation h\u00e9t\u00e9rog\u00e8ne de la saison des pluies. Ceci est une cons\u00e9quence des pluies erratiques qui refl\u00e8tent des conditions non favorables au d\u00e9veloppement des semis au Sud du pays. En outre, ces conditions constituent une cons\u00e9quence du prolongement de la soudure pastorale au Sud accentu\u00e9 par une production d\u00e9ficitaire de biomasse lors de saison 2025.\n\n3\\. Les pr\u00e9visions \u00e0 court terme (qui fournissent des estimations des pr\u00e9cipitations jusqu\u2019au 20 juillet 2026), indiquent des tendances plus s\u00e8ches que la moyenne, g\u00e9n\u00e9ralis\u00e9es dans le pays; ce qui pourrait n\u00e9gativement impacter le d\u00e9veloppement des cultures au sud du pays et entra\u00eener un retard dans l\u2019installation des semis au niveau de la bande sah\u00e9lienne.\n\n4\\. Pr\u00e9visions saisonni\u00e8res PRESSAS-ECMWF2026 : une saison pluvieuse contrast\u00e9e est attendue au Tchad.\n\n\u2022 Durant mai-juillet-2026, sont attendus des cumuls pluviom\u00e9triques normaux \u00e0 tendance l\u00e9g\u00e8rement exc\u00e9dentaire dans la zone sah\u00e9lienne du pays. Cependant, des pr\u00e9cipitations normales \u00e0 d\u00e9ficitaire sont probables dans la partie Sud du pays. Entre juin-aout 2026, le Nord Sahel devrait b\u00e9n\u00e9ficier de cumuls normaux \u00e0 exc\u00e9dentaires, tandis que le sud Sahel et la zone soudanienne enregistreraient des pluies normales \u00e0 d\u00e9ficitaires. Durant le c\u0153ur de la saison (juillet-ao\u00fbt-septembre), des cumuls de pluies normaux \u00e0 d\u00e9ficitaires sont probables sur la majeure partie du Sud, du sahel tandis qu\u2019au sud-ouest ces cumuls seraient normaux. Sur la partie nord sahel, l\u2019on s\u2019attendrait \u00e0 des cumuls normaux \u00e0 exc\u00e9dentaires (selon ANAM). Durant ao\u00fbt-septembre-octobre, des cumuls pluviom\u00e9triques normaux sont attendu au sud dans la zone soudanienne et la zone Sah\u00e9lienne et le nord de la zone soudano-sah\u00e9lienne d\u00e9ficitaires (Selon ECMWF).\n\n\u2022 Les dates de d\u00e9but saisons seraient pr\u00e9coces pour la plupart des provinces tandis qu\u2019elles seraient, d\u2019une part, normales pour la majeure partie de Hajer Lamis, Chari Baguirmi, Tandjil\u00e9 et deux Logone et, d\u2019autre part, tardives dans une bonne partie des deux Mayo Kebbi. De dates de fins saisons pr\u00e9coces seraient attendues dans la majeure partie des provinces ; normales dans le Wadi Fira, Ouaddai, une partie du Sila,Gu\u00e9ra et Moyen Chari et tardives dans le Kanem, le Lac, la Tandjil\u00e9, les deux Logone et le Mandoul.\n\n\u2022 Dess\u00e9quences s\u00e8ches longues en d\u00e9but de saison dans le sud, Est et ouest ; moyennes dans la majeure partie des provinces du Centre. En fin de saison, elles seraient longues dans la majeure partie des provinces des zones agricoles ; moyennes \u00e0 courtes dans la Tandjil\u00e9 et le Batha, Sila, Salamat, Ouaddai et Wadi Frira.\n\n\u2022 D\u2019une mani\u00e8re g\u00e9n\u00e9rale, des \u00e9coulements moyens \u00e0 exc\u00e9dentaires sont attendus sur tous les bassins sauf le bassin de la B\u00e9nou\u00e9 qui pr\u00e9sente une tendance moyenne tendant vers le d\u00e9ficit (Selon ANAM).\n\n5\\. Z ones \u00e0 surveiller pour des risques de s\u00e8cheresse: Cette situation d\u00e9ficitaire n\u2019en est qu\u2019au d\u00e9but de la saison des pluies. Ainsi il est trop pr\u00e9matur\u00e9 de d\u00e9clarer des zones \u00e0 risque de s\u00e8cheresse \u00e0 surveiller. Toutefois, une vigilance est recommand\u00e9e dans les secteurs d\u00e9ficitaires particuli\u00e8rement dans le sud-est du pays.\n\n6\\. Recommendation aux efforts de pr\u00e9paration aux inondations: Les d\u00e9partements situ\u00e9s le long des fleuves Logone et Chari, sur le moyen Chari et bas-Chari-Logone ainsi que les d\u00e9partements du Lac et le Sud Kanem sont expos\u00e9es \u00e0 un risque d\u2019inondation \u00e9lev\u00e9e et tr\u00e8s \u00e9lev\u00e9e pendant la saison des pluies de 2026. Ainsi, il est recommand\u00e9 de concentrer des efforts de pr\u00e9paration aux inondations dans ces zones.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223211",
-            "date": {
-                "original": "2026-07-27T00:00:00+00:00",
-                "changed": "2026-07-27T13:49:28+00:00",
-                "created": "2026-07-27T13:48:04+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223211"
     }
 ]
