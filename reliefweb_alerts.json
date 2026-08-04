@@ -1,5 +1,312 @@
 [
     {
+        "id": "4224171",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Cluster S\u00e9curit\u00e9 alimentaire - Crise Ebola \u2013 sitrep #9 (Du 20 Juillet au 03 Ao\u00fbt 26)",
+            "body": "**Messages cl\u00e9s**\n\n\u2022 L\u2019\u00e9pid\u00e9mie d\u2019Ebola continue \u00e0 s\u2019\u00e9tendre dans des zones d\u00e9j\u00e0 confront\u00e9es \u00e0 des niveaux \u00e9lev\u00e9s d\u2019ins\u00e9curit\u00e9 alimentaire.\n\n\u2022 La couverture de l\u2019assistance alimentaire reste insuffisante pour les cas confirm\u00e9s, leurs familles et les cas contacts. Malgr\u00e9 les efforts des partenaires, 2.71M des personnes directement affect\u00e9es par Ebola restent \u00e0 couvrir dans 35 zones de sant\u00e9.\n\n\u2022 Un positionnement rapide des partenaires et des financements flexibles sont n\u00e9cessaires dans les zones de sant\u00e9 prioritaires.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2836",
+                    "id": 2836,
+                    "name": "Food and Agriculture Organization of the United Nations",
+                    "shortname": "FAO",
+                    "longname": "Food and Agriculture Organization of the United Nations",
+                    "spanish_name": "Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n",
+                    "homepage": "https://www.fao.org/home/en/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/13679",
+                    "id": 13679,
+                    "name": "Food Security Cluster",
+                    "shortname": "FSC",
+                    "homepage": "https://fscluster.org",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224171",
+            "date": {
+                "original": "2026-08-03T00:00:00+00:00",
+                "changed": "2026-08-03T23:52:53+00:00",
+                "created": "2026-08-03T23:51:45+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224171"
+    },
+    {
+        "id": "4224168",
+        "score": 1,
+        "fields": {
+            "title": "Rapport de la situation epidemiologique du cholera en RD Congo (Interne OMS), semaine 29, 2026",
+            "body": "**I. POINTS SAILLANTS**\n\n\u2022 Augmentation de plus de 56,4% du nombre de cas suspects de chol\u00e9ra au cours des six (6) derni\u00e8res semaines \u00e9pid\u00e9miologiques par rapport \u00e0 la SE23, semaine pr\u00e9-ascension.\n\n\u2022 A la semaine \u00e9pid\u00e9miologique 29, le pays a rapport\u00e9 1264 cas suspects et 77 d\u00e9c\u00e8s r\u00e9parties dans 16 provinces (sur 26) et 56 zones de sant\u00e9 (sur 519) dont 52,5% dans les provinces du Nord Kivu et Sud Kivu.\n\n\u2022 Dans la partie Ouest du pays, les hotspots les plus critiques sont rapport\u00e9s dans les provinces du Sud-Ubangi (270 cas suspects de cholera dont 55 d\u00e9c\u00e8s \u00e0 la SE29) et du Kwango o\u00f9 l\u2019on note une nouvelle zone de sant\u00e9 affect\u00e9es (zone de Kasongo Lunda).\n\n\u2022 Sur le corridor du fleuve Congo, dans l\u2019axe Mongala-Equateur-Maindombe, il est signal\u00e9 de nouveaux bateaux et baleini\u00e8res avec des cas et des d\u00e9c\u00e8s suspects de chol\u00e9ra.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224168",
+            "date": {
+                "original": "2026-08-03T00:00:00+00:00",
+                "changed": "2026-08-03T23:38:02+00:00",
+                "created": "2026-08-03T23:36:53+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224168"
+    },
+    {
+        "id": "4224166",
+        "score": 1,
+        "fields": {
+            "title": "UNICEF Chad Humanitarian Situation Report No. 1 (Mid-Year), 30 June 2026",
+            "body": "**Highlights**\n\n- Key humanitarian figures remain high, with 2,263,434 forcibly displaced persons in Chad, including 1,539,783 refugees, 9,413 asylum seekers, 219,595 internally displaced persons and 494,643 returned migrants. This includes 1,371,605 Sudanese refugees as of the end of June, of whom 934,202 have arrived since April 2023, alongside 437,403 Sudanese refugees already present before the crisis; in Lac Province, 60,390 people were newly displaced across 16 sites.\n- The cholera outbreak in Hadjer Lamis Province reached 129 cases and 4 deaths as of 30 June 2026.\n- UNICEF provided safe water access to 274,273 people, sanitation services to 47,782 people, WASH kits to 72,763 people, and hygiene promotion messages to 338,493 people.\n- Education support reached 178,309 children, including 142,702 children who received school materials, and 35,607 out-of-school children who gained access to formal or non-formal education.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224166",
+            "date": {
+                "original": "2026-08-03T00:00:00+00:00",
+                "changed": "2026-08-03T23:10:23+00:00",
+                "created": "2026-08-03T23:08:25+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224166"
+    },
+    {
+        "id": "4224146",
+        "score": 1,
+        "fields": {
+            "title": "Tchad: Urgence Soudan | Bureau de coordination du HCR \u00e0 l\u2019est du Tchad - Dashboard de la relocalisation - Depuis Avril 2023 (Mise \u00e0 jour du 02-08-2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224146",
+            "date": {
+                "original": "2026-08-03T00:00:00+00:00",
+                "changed": "2026-08-04T02:36:48+00:00",
+                "created": "2026-08-03T16:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224146"
+    },
+    {
+        "id": "4224145",
+        "score": 1,
+        "fields": {
+            "title": "CORE Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (02 Aou. 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224145",
+            "date": {
+                "original": "2026-08-03T00:00:00+00:00",
+                "changed": "2026-08-04T02:07:37+00:00",
+                "created": "2026-08-03T16:03:08+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224145"
+    },
+    {
+        "id": "4224137",
+        "score": 1,
+        "fields": {
+            "title": "CORE Emergency situation in Chad: Update on arrivals from Sudan (02 Aug 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224137",
+            "date": {
+                "original": "2026-08-03T00:00:00+00:00",
+                "changed": "2026-08-04T02:06:01+00:00",
+                "created": "2026-08-03T15:03:14+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224137"
+    },
+    {
+        "id": "4224136",
+        "score": 1,
+        "fields": {
+            "title": "Situation d'urgence au Tchad I Mise \u00e0 jour des arriv\u00e9es du Soudan (02 Aou. 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224136",
+            "date": {
+                "original": "2026-08-03T00:00:00+00:00",
+                "changed": "2026-08-04T02:04:10+00:00",
+                "created": "2026-08-03T15:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224136"
+    },
+    {
         "id": "4224116",
         "score": 1,
         "fields": {
@@ -1461,290 +1768,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4223686"
-    },
-    {
-        "id": "4223684",
-        "score": 1,
-        "fields": {
-            "title": "Flash Updates #54 Nouvel afflux de r\u00e9fugi\u00e9s soudanais au Tchad",
-            "body": "Contexte\n\nLa situation s\u00e9curitaire dans l'Est du Tchad demeure globalement stable, mais demeure fragile. A la suite des affrontements dans la r\u00e9gion de Kulbus (Soudan), de nouveaux arrivants ont \u00e9t\u00e9 signal\u00e9s \u00e0 Koulbous et Birak (Tchad) o\u00f9 une mission d\u2019\u00e9valuation a identifi\u00e9 environ 3 000 personnes ayant besoin d\u2019assistance. Pour r\u00e9pondre \u00e0 cette situation, le HCR et ses partenaires pr\u00e9voient de lancer, \u00e0 partir du 27 juillet 2026, une op\u00e9ration de pr\u00e9enregistrement des demandeurs d\u2019asile afin de renforcer leur identification, faciliter leur relocalisation vers Marasabr\u00e9 et mieux planifier l\u2019assistance humanitaire. Malgr\u00e9 les d\u00e9fis li\u00e9s \u00e0 la saison des pluies, les pr\u00e9paratifs logistiques et op\u00e9rationnels sont en cours en vue du d\u00e9marrage de l\u2019op\u00e9ration. Dans les zones d\u2019accueil des r\u00e9fugi\u00e9s, plusieurs incidents ont \u00e9galement \u00e9t\u00e9 signal\u00e9s cette semaine, notamment des agressions contre des femmes r\u00e9fugi\u00e9es pr\u00e8s du site de M\u00e9tch\u00e9, un vol \u00e0 main arm\u00e9e dans la m\u00eame zone et un accident de la route impliquant un partenaire humanitaire \u00e0 Aboutengu\u00e9. Ces incidents rappellent la n\u00e9cessit\u00e9 de poursuivre les efforts de protection et de s\u00e9curit\u00e9 dans les zones d\u2019intervention.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223684",
-            "date": {
-                "original": "2026-07-20T00:00:00+00:00",
-                "changed": "2026-07-30T09:29:37+00:00",
-                "created": "2026-07-30T09:03:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223684"
-    },
-    {
-        "id": "4223670",
-        "score": 1,
-        "fields": {
-            "title": "New WFP and Government of Cameroon Partnership Brings Nutritious Meals to Children and Opportunities to Farmers",
-            "body": "YAOUND\u00c9, 29 July 2026 \u2013 The Government of Cameroon, through the Ministry of Basic Education (MINEDUB), and the United Nations World Food Programme (WFP) signed a EUR 3.6 million contribution agreement under the Cameroon Basic Education Support Project (CAMBESP) to expand home-grown school feeding in the Adamawa, East and Far North regions.\n\nFunded by the Global Partnership for Education (GPE) and the Islamic Development Bank (IsDB), the school feeding component of this government project will be implemented from 2026 to 2029, providing daily nutritious meals to nearly 11,000 children in ten public primary schools while creating market opportunities for 600 smallholder farmers through local food procurement.\n\n*\u201cNo child should have to learn on an empty stomach. Every school meal is an investment in education, nutrition and hope. This programme will help children concentrate in class, support families facing economic hardship and create opportunities for local farmers,\u201d* said Aboubacar Guindo, WFP Representative and Country Director *ad interim* in Cameroon.\n\nThe initiative will help improve children's nutrition, attendance and learning outcomes, while strengthening rural livelihoods and more resilient food systems in communities affected by food insecurity, displacement, climate shocks, and economic hardship.\n\n*\u201cEvery child deserves the opportunity to learn in a supportive environment. Access to nutritious meals at school helps remove barriers to education and contributes to better learning outcomes. The programme strengthens our efforts to ensure that children remain in school and have the conditions they need to fulfil their potential,\u201d* said Ousmanou Oumara, Coordinator of the CAMBESP Project, Ministry of Basic Education.\n\nTo strengthen sustainability, the initiative will establish and train 10 school feeding management committees and provide technical support to farmer organizations and government stakeholders. More than 800 people, including committee members, farmers and government personnel, are expected to benefit from capacity-strengthening activities.\n\nCurrently, around 321,000 children benefit from school meals in Cameroon, which is approximately 11 percent of the 3 million pupils enrolled in public primary schools nationwide, highlighting the continued need to expand school feeding coverage. The government of Cameroon has demonstrated commitment to expanding the school feeding coverage with a target of 1 million children by 2030, and WFP stands ready to continue supporting this national effort.\n\nWFP requires US$43.2 million over the next six months to sustain life-saving assistance and resilience-building activities across Cameroon. Additional resources are essential to maintain support for vulnerable families and expand high-impact programmes such as school feeding, which improves children's nutrition, supports learning, and creates opportunities for local farmers.\n\n\\--------------------------------------------------------------------------------------------------------------------------------\n\nThe United Nations World Food Programme - saving lives in emergencies and changing lives for millions through sustainable development. WFP works in more than 80 countries around the world, feeding people caught in conflict and disasters, and laying the foundations for a better future.\n\nFollow us on Twitter [@WFP\\_Cameroon](https://x.com/WFP_Cameroon)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223670",
-            "date": {
-                "original": "2026-07-30T00:00:00+00:00",
-                "changed": "2026-07-30T09:14:13+00:00",
-                "created": "2026-07-30T08:03:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223670"
-    },
-    {
-        "id": "4223655",
-        "score": 1,
-        "fields": {
-            "title": "UNFPA Situation Report: Chad Humanitarian Response (1 - 30 June 2026)",
-            "body": "In June 2026, the humanitarian crisis in Chad worsened as the country hosted 2.26 million forcibly displaced people, including over 934,000 Sudanese refugees, while food insecurity during the lean season threatened 3 million individuals, exacerbating protection risks like gender-based violence (GBV) and child marriage. Military activity in Lac Province caused the fresh displacement of approximately 60,300 people, and a critical GBV crisis emerged in the Fouli and Kaya departments due to women having to travel over two kilometres for water, which exposed them to high risks of physical and sexual violence. Additionally, a new cholera outbreak declared on 18 June in the Karal District threatened to limit the delivery of essential sexual and reproductive health (SRH) services and confidential GBV responses.  \n  \nUNFPA responded by deploying 127 midwives across the country, with 97 of them stationed in humanitarian areas to support health facilities in the east, south, and Lac Province. These midwives were instrumental in providing comprehensive SRH care, including assisting 2,518 safe births, conducting 9,452 antenatal consultations, and reaching 4,509 women with family planning services. UNFPA also addressed GBV through case management in multiple provinces, operating 11 safe spaces that supported 933 women and girls, conducting awareness sessions for 4,959 people, and providing capacity-building training on cash transfers for survivors to 19 staff members.  \n  \nAs of the end of June 2026, UNFPA has secured US $2.5 million toward its $18.7 million requirement, leaving a staggering funding gap of 87%. UNFPA is urgently appealing for critical funding for Chad to address the scale and urgency of the humanitarian needs, particularly for women and girls who require life-saving SRH and protection services.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1070",
-                    "id": 1070,
-                    "name": "United Nations Population Fund",
-                    "shortname": "UNFPA",
-                    "longname": "United Nations Population Fund",
-                    "spanish_name": "Fondo de Poblaci\u00f3n de las Naciones Unidas",
-                    "homepage": "https://www.unfpa.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223655",
-            "date": {
-                "original": "2026-07-29T00:00:00+00:00",
-                "changed": "2026-07-30T05:09:27+00:00",
-                "created": "2026-07-30T05:03:36+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223655"
-    },
-    {
-        "id": "4223682",
-        "score": 1,
-        "fields": {
-            "title": "Rapport Annuel 2025 d\u2019ActionAid RDC",
-            "body": "En 2025, ActionAid RDC a accompagn\u00e9 **606 641 personnes** \u00e0 travers ses programmes humanitaires et de d\u00e9veloppement dans cinq provinces du pays, dont **68 % de femmes et de filles**. Nos interventions ont port\u00e9 sur la protection, l\u2019\u00e9ducation, les moyens de subsistance r\u00e9silients et la pr\u00e9paration aux urgences.\n\nCe rapport pr\u00e9sente les principales r\u00e9alisations enregistr\u00e9es dans le cadre de nos priorit\u00e9s strat\u00e9giques, notamment :\n\n- Plus de **280 000 personnes** touch\u00e9es \u00e0 travers des initiatives de protection et d\u2019autonomisation ;\n- Plus de **90 000 enfants** soutenus gr\u00e2ce \u00e0 des programmes \u00e9ducatifs dans les zones affect\u00e9es par les conflits ;\n- Des moyens de subsistance durables et r\u00e9silients renforc\u00e9s pour plus de **170 000 personnes**.\n\nCe rapport illustre \u00e9galement l\u2019engagement d\u2019ActionAid RDC \u00e0 promouvoir la dignit\u00e9, la r\u00e9silience et le leadership des communaut\u00e9s les plus affect\u00e9es par les crises humanitaires, tout en maintenant une efficacit\u00e9 programmatique de **97,4 %**.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/460",
-                    "id": 460,
-                    "name": "ActionAid",
-                    "shortname": "ActionAid",
-                    "longname": "ActionAid",
-                    "homepage": "https://actionaid.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223682",
-            "date": {
-                "original": "2026-07-30T00:00:00+00:00",
-                "changed": "2026-07-30T09:01:42+00:00",
-                "created": "2026-07-30T00:00:00+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223682"
-    },
-    {
-        "id": "4223616",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon Cholera Outbreak: Situation Report #1 (July 29, 2026)",
-            "body": "**FAST FACTS**\n\n- An outbreak of cholera involving at least 24 people has been reported in Minawao Refugee Camp, which hosts more than 81,000 refugees and is operating at approximately 325% of intended capacity.\n- The wider cholera outbreak in the Far North region had reported 754 cases and 25 deaths across nine health districts as of July 26.\n- Multiple transmission chains are suspected within the camp, increasing the risk of rapid spread among vulnerable populations.\n\n**OUR RESPONSE**\n\n- International Medical Corps is coordinating with the Ministry of Public Health, UN agencies and humanitarian partners to support a coordinated cholera response.\n- We are preparing a three-month emergency intervention focused on outbreak containment, case management and community protection.\n- Efforts include expanding treatment capacity through additional staff, essential medicines and pre-positioned cholera response supplies.\n- To support early detection and treatment, we are strengthening surveillance, community alert systems and risk communication.\n- We are scaling up emergency sanitation, hygiene promotion and infection prevention activities in high-risk areas.\n\nFollowing the detection of suspected and RDT-positive cholera cases in Minawao Refugee Camp, International Medical Corps prepared an emergency response targeting some 14,600 people to help contain the outbreak and reduce morbidity and mortality among refugee and host populations.\n\nTo strengthen case management, we are recruiting additional technical staff and procuring essential medical supplies and consumables. We also are supporting enhanced disease surveillance, community-alert systems and risk-communication activities to improve early detection, timely referral and healthcare-seeking behavior.\n\nGiven the heightened transmission risks associated with overcrowding and inadequate sanitation conditions, International Medical Corps is prioritizing emergency WASH interventions, including hygiene promotion, targeted disinfection of high-risk locations, strengthened IPC measures, and pre-positioning cholera treatment and prevention supplies.\n\nAs always, we are working closely with national authorities and humanitarian partners while addressing priority operational gaps identified through ongoing coordination efforts.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2019",
-                    "id": 2019,
-                    "name": "International Medical Corps",
-                    "shortname": "IMC",
-                    "longname": "International Medical Corps",
-                    "homepage": "https://internationalmedicalcorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223616",
-            "date": {
-                "original": "2026-07-29T00:00:00+00:00",
-                "changed": "2026-07-30T03:36:11+00:00",
-                "created": "2026-07-29T20:46:56+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223616"
-    },
-    {
-        "id": "4223553",
-        "score": 1,
-        "fields": {
-            "title": "As Ebola accelerates in eastern DRC, WFP warns food assistance and logistics are critical to containing the outbreak",
-            "body": "KINSHASA, Democratic Republic of the Congo \u2013 The United Nations World Food Programme (WFP) is urgently scaling up food assistance, logistics, telecommunications and air services in eastern Democratic Republic of the Congo (DRC), where Ebola has evolved from a localized health emergency into the fastest-spreading outbreak on record.\n\nEbola is not only a health crisis; it is a threat multiplier for communities already facing conflict, displacement and hunger. Without urgent, flexible support, families may be forced to choose between complying with public health measures and finding food, undermining containment and deepening an already severe humanitarian crisis.\n\n\u201cEbola feeds on delay, fear and hunger,\u201d said Carl Skau, WFP\u2019s acting Executive Director. \u201cStopping this outbreak requires all hands on deck and communities at the center. Food assistance is frontline Ebola containment. It helps families stay home, supports safe isolation, builds trust with communities and keeps health teams moving. We know what works; what we need now is the speed and resources to scale it before this outbreak outruns the response.\u201d\n\nHere are the latest updates on food security and WFP operations in eastern DRC:\n\n**Health and Food Security Situation in eastern DRC:**\n\n- The outbreak is unfolding in a complex humanitarian environment marked by conflict, displacement, limited access to basic services, and an ongoing health workers strike.\n- The Ebola outbreak is now affecting **48 health zones across five provinces in eastern DRC**: Ituri, North Kivu, South Kivu, Tshopo and Haut-Uele.\n- Ituri accounts for about **90 percent of confirmed cases**, while the spread to Tshopo, including Kisangani, and Haut-Uele raises the risk of wider transmission through major transport routes.\n- In eastern DRC, nearly **10 million people are already facing crisis or emergency levels of hunger**. Ituri remains one of the country\u2019s most severe hunger hotspots with **1.9 million people** facing crisis levels of food insecurity or worse. \n    - **More than 2.65 million people in the 48 Ebola-affected health zones face acute food insecurity** (IPC Phase 3+), including more than **628,000 people in emergency conditions** (IPC Phase 4).\n\n**WFP\u2019s Operational Food Response:**\n\n- WFP is providing food assistance to Ebola patients, close contacts of those infected, frontline responders and affected households - helping people comply with containment measures while reducing pressure on families already struggling to meet basic food needs.\n- In DRC, WFP has delivered **more than 160,000 hot meals** to patients, contacts and frontline workers in **17 treatment and isolation centres**.\n- WFP has also provided dry food rations to **23,000 people** in North Kivu, South Kivu and Ituri, including **14,000 people under quarantine** with monthly food assistance. An additional **36,000 people in Ebola-affected zones** have been reached with general food assistance.\n- **Food assistance is critical to containment**: it helps reduce movement of people in search of food, supports safe isolation, lowers the risk of harmful coping strategies and creates the social conditions for health actors to operate safely and effectively.\n\n**WFP**\n\n**Logistics and Supply Chain Operations:**\n\n- **WFP is supporting efforts as the logistics backbone of the Ebola response** \u2013 helping to move responders, medical supplies, telecommunications equipment and essential cargo into hard-to-reach areas.\n- Since the onset of the outbreak, UNHAS has operated **495 flights**, transported **3,395 humanitarian responders** and delivered **56 metric tons of essential cargo** to frontline locations, including newly affected provinces such as Haut-Uele and Tshopo.\n- Within DRC, the WFP-led Logistics and Telecommunications Cluster is providing storage and last-mile delivery to more than **200 locations across Bunia, as well as 36 other affected health zones**.\n- WFP is supporting WHO and the Ministry of Health to set up **six logistics hubs across Ebola hotspots** to increase storage capacity.\n- With the virus spread into Tshopo and Haut-Uele, the Logistics and Telecommunications Cluster has rapidly **mobilized road and air deliveries on behalf of partners**.\n- **Three EpiShuttle isolation units** are deployed in Bunia to support safe medical evacuation from frontline locations, while UNHAS has strengthened passenger and staff protection measures.\n- WFP has restored the UN security communications channel in Bunia and is establishing a dedicated communications channel for NGO partners to coordinate field movement.\n\n**Challenges and Funding Requirements**\n\n- **Speed and resources are the main challenges.** Every delay gives Ebola more room to spread, while gaps in logistics, food assistance and community support risk weakening containment efforts.\n- **Insecurity, access constraints, community unrest** and limited operational capacity in newly affected areas continue to complicate surveillance, supply movements and response scale-up.\n- WFP requires **USD 101 million for the next six months** for the Ebola response in the region. Of this, **USD 76 million** is needed for DRC alone.\n- Food and nutrition assistance remains the largest urgent gap, with **USD 50 million** needed to sustain hot meals, support quarantine, and expand assistance in newly affected areas.\n- WFP requires **USD 293.6 million** over the next six months to sustain all operations in DRC, including emergency logistics and food assistance in Ituri and other affected areas.\n\n\\# # #\n\n**Notes to editor:**\n\nDownload broadcast quality video and shotlist [here](https://multimedia.wfp.org/Share/70i3ek487rky3ev3l151q8n7331tl708?FR_=1&W=1272&H=668)\n\nThe United Nations World Food Programme is the world\u2019s largest humanitarian organization saving lives in emergencies and using food assistance to build a pathway to peace, stability and prosperity for people recovering from conflict, disasters and the impact of climate change.\n\nFollow us on X, formerly Twitter, via @wfp @wfp\\_Africa @wfp\\_DRC\n\n[Democratic Republic of the Congo](https://www.wfp.org/news?f%5B0%5D=country%3A1969) [Emergencies](https://www.wfp.org/news?f%5B0%5D=topics%3A2165) [Food assistance](https://www.wfp.org/news?f%5B0%5D=topics%3A2285) [Logistics and delivery networks](https://www.wfp.org/news?f%5B0%5D=topics%3A2269)**For more information please contact (email address: firstname.lastname@wfp.org):**\n\nMyrline Sanogo-Mathieu, WFP/Kinshasa, Mob. +243 999 910 727\n\nAzfar Deen, WFP/Nairobi +39 345 846 6425\n\nJulian Miglierini, WFP/ Rome, Mob. +39 348 2316793\n\nMartin Rentsch, WFP/Berlin, Mob +49 160 99 26 17 30\n\nRene McGuffin, WFP/ Washington Mob. +1 771 245 4268\n\nNicola Kelly, WFP/London, Mob +44 (0)796 8008 474",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223553",
-            "date": {
-                "original": "2026-07-29T00:00:00+00:00",
-                "changed": "2026-07-29T14:37:51+00:00",
-                "created": "2026-07-29T11:33:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223553"
-    },
-    {
-        "id": "4223464",
-        "score": 1,
-        "fields": {
-            "title": "UNFPA Regional Situation Report - Ebola Bundibugyo Virus Disease Outbreak (1 - 30 June 2026)",
-            "body": "As of June 2026, the ongoing Ebola outbreak, driven by the Bundibugyo virus, has escalated into a severe public health crisis, with 406 confirmed cases and 438 deaths in the Democratic Republic of the Congo (DRC). Conversely, Uganda has achieved strong containment of a smaller cluster of 20 confirmed cases, with the majority of cases now recovered. UNFPA is supporting containment and preparedness efforts in the DRC and Uganda, as well as preparedness activities in high-risk neighbouring countries. Collaborating with the World Health Organization and the Africa Centres for Disease Control and Prevention through the continental Incident Management Support Team, UNFPA directly supports infection prevention and control, continuity of essential services, and risk communication and community engagement.   \n  \nTo address the regional Ebola crisis, UNFPA has activated its highest level of emergency response (Level 3) for the DRC and Uganda. UNFPA has been supporting 182 health facilities across the two countries, providing vital reproductive health supplies, personal protection equipment (PPE) and infection prevention materials, as well as delivering training for health staff on Ebola prevention and health facility safety. During June, UNFPA also reached 58,887 people with sexual and reproductive health services, 81,582 with gender-based violence prevention and response in the DRC and Uganda. In neighbouring at-risk countries, UNFPA is proactively procuring and strategically prepositioning life-saving supplies, including PPE, specialized isolation tents for pregnant women, and Inter-Agency Reproductive Health kits. UNFPA is also training healthcare and community-based workers on specialized infection protocols, mobilizing to deploy midwives and gender-based violence caseworkers to protect vital maternal health and protection systems from disruption should an Ebola outbreak occur.\n\nAs the outbreak continues to escalate in the DRC, and other countries remain at high risk, urgent funding is required to sustain critical sexual and reproductive health and gender-based violence services and implement prevention and preparedness activities. UNFPA requires US $20.8 million to ensure continued access to vital care for affected communities and prevent further loss of life.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1070",
-                    "id": 1070,
-                    "name": "United Nations Population Fund",
-                    "shortname": "UNFPA",
-                    "longname": "United Nations Population Fund",
-                    "spanish_name": "Fondo de Poblaci\u00f3n de las Naciones Unidas",
-                    "homepage": "https://www.unfpa.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4223464",
-            "date": {
-                "original": "2026-07-28T00:00:00+00:00",
-                "changed": "2026-07-28T23:35:04+00:00",
-                "created": "2026-07-28T23:33:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4223464"
     }
 ]
