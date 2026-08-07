@@ -1,5 +1,47 @@
 [
     {
+        "id": "4224786",
+        "score": 1,
+        "fields": {
+            "title": "RD Congo : Note de plaidoyer - Situation humanitaire pr\u00e9occupante sur le site de plaine Savo, Djugu, Ituri ( juillet 2026)",
+            "body": "Le 9 juin, un enfant a \u00e9t\u00e9  \ntu\u00e9 et un autre gri\u00e8vement  \nbless\u00e9 lors de tirs  \nimpliquant des acteurs  \narm\u00e9s \u00e0 proximit\u00e9 du site  \nde Plaine Savo, dans la  \nlocalit\u00e9 de Bule.  \nUn mois plus t\u00f4t, le 13 mai, deux autres enfants  \nd\u00e9plac\u00e9s avaient d\u00e9j\u00e0 \u00e9t\u00e9 atteints par des tirs sur le  \nsite, dont l\u2019un est d\u00e9c\u00e9d\u00e9 des suites de ses blessures.  \nCes incidents ne sont pas isol\u00e9s. Depuis le mois de  \nd\u00e9cembre 2025, la localit\u00e9 de Bule et ses p\u00e9riph\u00e9ries  \ndans le territoire de Djugu, province d\u2019Ituri, sont  \nplong\u00e9es dans un cycle de violences ininterrompu,  \ncaract\u00e9ris\u00e9 par des affrontements arm\u00e9s ainsi que des  \nattaques contre les civils. Entre janvier et juin 2026,  \nau moins 23 personnes d\u00e9plac\u00e9es, ont \u00e9t\u00e9 tu\u00e9s dans  \net autour du site de Plaine Savo, selon des sources de  \nla soci\u00e9t\u00e9 civile locale. Plus de 54 personnes ont \u00e9t\u00e9  \ngravement bless\u00e9es. Les \u00e9valuations des acteurs de  \nprotection rapportent une augmentation inqui\u00e9tante  \ndes violations des droits humains autour du site  \nde Plaine Savo depuis le d\u00e9but de l\u2019ann\u00e9e, incluant  \ndes arrestations arbitraires, des enl\u00e8vements, des  \nex\u00e9cutions extrajudiciaires ainsi que des viols.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224786",
+            "date": {
+                "original": "2026-08-07T00:00:00+00:00",
+                "changed": "2026-08-07T11:31:55+00:00",
+                "created": "2026-08-07T10:57:54+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224786"
+    },
+    {
         "id": "4224743",
         "score": 1,
         "fields": {
@@ -1813,57 +1855,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4224266"
-    },
-    {
-        "id": "4224233",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - Ituri : Pr\u00e9sence operationnelle des partenaires au 31 juillet 2026 Les partenaires qui ont renseign\u00e9 l outil 3W ( Qui Fait Quoi O\u00f9 ? )",
-            "body": "Au 31 juillet, le Cluster Sant\u00e9 en Ituri avait recens\u00e9 55 acteurs humanitaires actifs ayant fourni des informations pour le 3W Parmi eux : 5 agences des Nations Unies, 20 ONG internationales, 26 ONG nationales, 2 observateurs, et 2 acteurs \u00e9tatiques Une dynamique qui illustre l\u2019engagement de certains acteurs dans le processus de collecte et de partage d\u2019informations.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/15477",
-                    "id": 15477,
-                    "name": "Health Cluster",
-                    "shortname": "Health Cluster",
-                    "homepage": "https://healthcluster.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224233",
-            "date": {
-                "original": "2026-07-31T00:00:00+00:00",
-                "changed": "2026-08-04T08:30:35+00:00",
-                "created": "2026-08-04T07:31:32+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224233"
     }
 ]
