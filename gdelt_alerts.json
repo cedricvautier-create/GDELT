@@ -1,332 +1,170 @@
 [
     {
-        "lon": 12.4,
-        "lat": -6.06667,
-        "location_name": "Congo River, Congo (general), Congo",
+        "lon": 7.16667,
+        "lat": 8.83333,
+        "location_name": "Federal Capital Territory, Abuja Federal Capital Territory, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
             211,
             47,
             47,
-            220
+            255
         ],
         "radius": 100000,
-        "url": "https://www.ksl.com:443/article/51606656/congo-monitors-200-boat-passengers-after-a-traveler-dies-with-ebola-like-symptoms",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 20.9605,
-        "lat": 3.32354,
-        "location_name": "Ebola, \u00c9uateur, Democratic Republic Of The Congo",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.ksl.com:443/article/51606656/congo-monitors-200-boat-passengers-after-a-traveler-dies-with-ebola-like-symptoms",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.4,
-        "lat": -6.06667,
-        "location_name": "Congo River, Congo (general), Congo",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.ksl.com:443/article/51606656/congo-monitors-200-boat-passengers-after-a-traveler-dies-with-ebola-like-symptoms",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 20.9605,
-        "lat": 3.32354,
-        "location_name": "Ebola, \u00c9uateur, Democratic Republic Of The Congo",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.ksl.com:443/article/51606656/congo-monitors-200-boat-passengers-after-a-traveler-dies-with-ebola-like-symptoms",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.58333,
-        "lat": 7.0,
-        "location_name": "Ogun State, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://dailypost.ng/2026/08/06/abiodun-declares-no-safe-haven-for-kidnappers-as-security-forces-rescue-abducted-ogun-students/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.0,
-        "lat": 10.0,
-        "location_name": "Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://flipso.com/p/u1o8e01lf",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.35,
-        "lat": 7.15,
-        "location_name": "Abeokuta, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://pmnewsnigeria.com/2026/08/06/ogun-rescues-seven-abducted-polytechnic-students-nabs-two-kidnap-suspects/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.58333,
-        "lat": 7.0,
-        "location_name": "Ogun State, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://pmnewsnigeria.com/2026/08/06/ogun-rescues-seven-abducted-polytechnic-students-nabs-two-kidnap-suspects/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.58333,
-        "lat": 7.0,
-        "location_name": "Ogun State, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://dailypost.ng/2026/08/06/abiodun-declares-no-safe-haven-for-kidnappers-as-security-forces-rescue-abducted-ogun-students/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.58333,
-        "lat": 7.0,
-        "location_name": "Ogun State, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://pmnewsnigeria.com/2026/08/06/ogun-rescues-seven-abducted-polytechnic-students-nabs-two-kidnap-suspects/",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.25,
-        "lat": 12.1667,
-        "location_name": "Zamfara State, Zamfara, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/promoted/901163-bandits-attack-gov-lawal-visits-bungudu-reaffirms-commitment-to-combating-crime.html",
-        "sources": 35,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.25,
-        "lat": 12.1667,
-        "location_name": "Zamfara State, Zamfara, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.premiumtimesng.com/promoted/901163-bandits-attack-gov-lawal-visits-bungudu-reaffirms-commitment-to-combating-crime.html",
-        "sources": 9,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.25,
-        "lat": 12.1667,
-        "location_name": "Zamfara State, Zamfara, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/promoted/901163-bandits-attack-gov-lawal-visits-bungudu-reaffirms-commitment-to-combating-crime.html",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.25,
-        "lat": 12.1667,
-        "location_name": "Zamfara State, Zamfara, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/promoted/901163-bandits-attack-gov-lawal-visits-bungudu-reaffirms-commitment-to-combating-crime.html",
-        "sources": 18,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.3927,
-        "lat": 6.8561,
-        "location_name": "Nsukka, Enugu, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://theeagleonline.com.ng/i-am-a-miniature-map-of-nigeria-living-achebes-answer-by-richard-odusanya/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.23902,
-        "lat": 13.0609,
-        "location_name": "Sokoto, Sokoto, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://theeagleonline.com.ng/i-am-a-miniature-map-of-nigeria-living-achebes-answer-by-richard-odusanya/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.35,
-        "lat": 7.15,
-        "location_name": "Abeokuta, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://theeagleonline.com.ng/seven-abducted-poly-students-rescued-in-ogun/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.35,
-        "lat": 7.15,
-        "location_name": "Abeokuta, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://theeagleonline.com.ng/seven-abducted-poly-students-rescued-in-ogun/",
+        "url": "https://punchng.com/fire-guts-filling-station-in-abuja-2/",
         "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 8.0,
-        "lat": 10.0,
-        "location_name": "Nigeria",
+        "lon": 3.75,
+        "lat": 6.58333,
+        "location_name": "Lagos State, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/outrage-as-suspected-land-grabbers-invade-lagos-estates-vandalise-property/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            255
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/fire-guts-filling-station-in-abuja-2/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.16667,
+        "lat": 8.83333,
+        "location_name": "Federal Capital Territory, Abuja Federal Capital Territory, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            255
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/fire-guts-filling-station-in-abuja-2/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.75,
+        "lat": 6.58333,
+        "location_name": "Lagos State, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/outrage-as-suspected-land-grabbers-invade-lagos-estates-vandalise-property/",
+        "sources": 8,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.75,
+        "lat": 6.58333,
+        "location_name": "Lagos State, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/outrage-as-suspected-land-grabbers-invade-lagos-estates-vandalise-property/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.75,
+        "lat": 6.58333,
+        "location_name": "Lagos State, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/outrage-as-suspected-land-grabbers-invade-lagos-estates-vandalise-property/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.75,
+        "lat": 6.58333,
+        "location_name": "Lagos State, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/outrage-as-suspected-land-grabbers-invade-lagos-estates-vandalise-property/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            255
+        ],
+        "radius": 100000,
+        "url": "https://dailypost.ng/2026/08/07/fire-breaks-out-at-filling-station-in-abuja/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 15.0,
+        "lat": -1.0,
+        "location_name": "Congo",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -336,7 +174,25 @@
             220
         ],
         "radius": 100000,
-        "url": "https://dailypost.ng/2026/08/06/agbese-opposes-frequent-change-of-service-chiefs-urges-nigeria-to-exit-icc/",
+        "url": "https://www.wsbradio.com/news/world/dozens-health/DO7EZIZPTI4NVLYUMGJOT7YMQI/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 20.9605,
+        "lat": 3.32354,
+        "location_name": "Ebola, \u00c9uateur, Democratic Republic Of The Congo",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.wsbradio.com/news/world/dozens-health/DO7EZIZPTI4NVLYUMGJOT7YMQI/",
         "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
@@ -354,7 +210,7 @@
             220
         ],
         "radius": 100000,
-        "url": "http://www.rockymounttelegram.com/news/world/congo-monitors-200-boat-passengers-near-kinshasa-after-a-traveler-dies-with-ebola-like-symptoms/article_f35b4915-0dc3-579a-9140-1f1d21b90292.html",
+        "url": "https://www.wsbradio.com/news/world/dozens-health/DO7EZIZPTI4NVLYUMGJOT7YMQI/",
         "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
@@ -372,123 +228,33 @@
             220
         ],
         "radius": 100000,
-        "url": "http://www.rockymounttelegram.com/news/world/congo-monitors-200-boat-passengers-near-kinshasa-after-a-traveler-dies-with-ebola-like-symptoms/article_f35b4915-0dc3-579a-9140-1f1d21b90292.html",
+        "url": "https://www.wsbradio.com/news/world/dozens-health/DO7EZIZPTI4NVLYUMGJOT7YMQI/",
         "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 15.0,
-        "lat": -1.0,
-        "location_name": "Congo",
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
             211,
             47,
             47,
-            220
+            255
         ],
         "radius": 100000,
-        "url": "http://www.rockymounttelegram.com/news/world/congo-monitors-200-boat-passengers-near-kinshasa-after-a-traveler-dies-with-ebola-like-symptoms/article_f35b4915-0dc3-579a-9140-1f1d21b90292.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 20.9605,
-        "lat": 3.32354,
-        "location_name": "Ebola, \u00c9uateur, Democratic Republic Of The Congo",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "http://www.rockymounttelegram.com/news/world/congo-monitors-200-boat-passengers-near-kinshasa-after-a-traveler-dies-with-ebola-like-symptoms/article_f35b4915-0dc3-579a-9140-1f1d21b90292.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.5,
-        "lat": 6.43333,
-        "location_name": "Ikate, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://thesun.ng/over-20-arrested-as-efcc-raids-lekki-short-let-apartments/",
+        "url": "https://dailypost.ng/2026/08/07/fire-breaks-out-at-filling-station-in-abuja/",
         "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 3.58333,
-        "lat": 7.0,
-        "location_name": "Ogun State, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://dailytrust.com/abducted-ogun-students-regain-freedom-after-eight-days/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.58333,
-        "lat": 7.0,
-        "location_name": "Ogun State, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.vanguardngr.com/2026/08/seven-abducted-ogun-poly-students-rescued-alive-abiodun/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.27722,
-        "lat": 6.61194,
-        "location_name": "Mosan, Lagos, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.vanguardngr.com/2026/08/seven-abducted-ogun-poly-students-rescued-alive-abiodun/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.76667,
-        "lat": 9.63333,
-        "location_name": "Riyom, Nigeria (general), Nigeria",
+        "lon": 6.54373,
+        "lat": 10.6624,
+        "location_name": "Birnin Gwari, Kaduna, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -498,15 +264,105 @@
             220
         ],
         "radius": 100000,
-        "url": "https://dailytrust.com/gunmen-kill-3-herders-14-cattle-in-fresh-plateau-attack/",
-        "sources": 7,
+        "url": "http://silverbirdtv.com/nigerian-air-force-special-forces-kill-notorious-terrorist/",
+        "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 3.58333,
-        "lat": 7.0,
-        "location_name": "Ogun State, Ogun, Nigeria",
+        "lon": 7.77493,
+        "lat": 10.7889,
+        "location_name": "Igabi, Kaduna, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "http://silverbirdtv.com/nigerian-air-force-special-forces-kill-notorious-terrorist/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.77493,
+        "lat": 10.7889,
+        "location_name": "Igabi, Kaduna, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "http://silverbirdtv.com/nigerian-air-force-special-forces-kill-notorious-terrorist/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 24.8534,
+        "lat": 13.3267,
+        "location_name": "Dabanga, Shamal Darfur, Sudan",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202608070009.html",
+        "sources": 6,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 24.8534,
+        "lat": 13.3267,
+        "location_name": "Dabanga, Shamal Darfur, Sudan",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202608070009.html",
+        "sources": 2,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 24.8534,
+        "lat": 13.3267,
+        "location_name": "Dabanga, Shamal Darfur, Sudan",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202608070009.html",
+        "sources": 2,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.05,
+        "lat": 7.53333,
+        "location_name": "Osun, Nigeria (general), Nigeria",
         "category": "Critique : Incident S\u00e9curitaire",
         "criticite_score": 4,
         "color": [
@@ -516,51 +372,87 @@
             200
         ],
         "radius": 80000,
-        "url": "https://dailytrust.com/abducted-ogun-students-regain-freedom-after-eight-days/",
+        "url": "https://thenationonlineng.net/as-tinubu-expands-army-to-12-divisions/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.0,
+        "lat": 8.0,
+        "location_name": "Oyo State, Oyo, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://thenationonlineng.net/as-tinubu-expands-army-to-12-divisions/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.0,
+        "lat": 8.0,
+        "location_name": "Oyo State, Oyo, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://thenationonlineng.net/as-tinubu-expands-army-to-12-divisions/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.0,
+        "lat": 8.0,
+        "location_name": "Oyo State, Oyo, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://thenationonlineng.net/as-tinubu-expands-army-to-12-divisions/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            255
+        ],
+        "radius": 100000,
+        "url": "https://thesun.ng/rep-opposes-frequent-replacement-of-service-chiefs-urges-nigeria-to-exit-icc/",
         "sources": 5,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 3.36667,
-        "lat": 7.11667,
-        "location_name": "Oke Mosan, Nigeria (general), Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://dailytrust.com/abducted-ogun-students-regain-freedom-after-eight-days/",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.36667,
-        "lat": 7.11667,
-        "location_name": "Oke Mosan, Nigeria (general), Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://dailytrust.com/abducted-ogun-students-regain-freedom-after-eight-days/",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 9.75,
-        "lat": 9.16667,
-        "location_name": "Plateau State, Plateau, Nigeria",
+        "lon": 6.83333,
+        "lat": 4.75,
+        "location_name": "Rivers State, Rivers, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -570,141 +462,33 @@
             220
         ],
         "radius": 100000,
-        "url": "https://dailytrust.com/gunmen-kill-3-herders-14-cattle-in-fresh-plateau-attack/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.76667,
-        "lat": 9.63333,
-        "location_name": "Riyom, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://dailytrust.com/gunmen-kill-3-herders-14-cattle-in-fresh-plateau-attack/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.35,
-        "lat": 7.15,
-        "location_name": "Abeokuta, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://punchng.com/abducted-ogun-students-regain-freedom-as-police-arrest-two-suspects/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.35,
-        "lat": 7.15,
-        "location_name": "Abeokuta, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://punchng.com/abducted-ogun-students-regain-freedom-as-police-arrest-two-suspects/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.58333,
-        "lat": 7.0,
-        "location_name": "Ogun State, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://punchng.com/abducted-ogun-students-regain-freedom-as-police-arrest-two-suspects/",
+        "url": "https://news.az/news/how-did-nigerian-police-dismantle-a-suspected-kidnapping-gang-in-rivers-state",
         "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 3.58333,
-        "lat": 7.0,
-        "location_name": "Ogun State, Ogun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
+        "lon": 12.0,
+        "lat": 6.0,
+        "location_name": "Cameroon",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
         "color": [
-            244,
-            67,
-            54,
-            200
+            211,
+            47,
+            47,
+            220
         ],
-        "radius": 80000,
-        "url": "https://dailypost.ng/2026/08/06/five-kidnapped-polytechnic-students-rescued-in-ogun/",
+        "radius": 100000,
+        "url": "https://theeagleonline.com.ng/wafcon-nigerias-quarter-final-opponent-emerges/",
         "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 4.73509,
-        "lat": 12.1288,
-        "location_name": "Kebbe, Sokoto, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.nationalaccordnewspaper.com/tambuwal-raises-alarm-over-rising-terrorist-attacks-in-sokoto-demands-urgent-security-action/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 4.73509,
-        "lat": 12.1288,
-        "location_name": "Kebbe, Sokoto, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.nationalaccordnewspaper.com/tambuwal-raises-alarm-over-rising-terrorist-attacks-in-sokoto-demands-urgent-security-action/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.81128,
-        "lat": 12.5436,
-        "location_name": "Sabon Birni, Zamfara, Nigeria",
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -714,15 +498,15 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.nationalaccordnewspaper.com/tambuwal-raises-alarm-over-rising-terrorist-attacks-in-sokoto-demands-urgent-security-action/",
-        "sources": 2,
+        "url": "https://theeagleonline.com.ng/wafcon-nigerias-quarter-final-opponent-emerges/",
+        "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": -0.216667,
-        "lat": 5.55,
-        "location_name": "Accra, Greater Accra, Ghana",
+        "lon": 6.42913,
+        "lat": 4.98242,
+        "location_name": "Okarki, Rivers, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -732,8 +516,26 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.maravipost.com/africans-support-free-movement-but-remain-divided-on-immigration-new-afrobarometer-flagship-report-shows/",
-        "sources": 2,
+        "url": "https://thesun.ng/troops-foil-kidnap-attempt-neutralise-12-terrorists/",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.5,
+        "lat": 7.5,
+        "location_name": "Osun State, Osun, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.opinionnigeria.com/the-freezing-of-osun-state-account-and-the-assault-on-nigerian-democracy-by-hajia-hadiza-mohammed/",
+        "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
@@ -750,15 +552,15 @@
             235
         ],
         "radius": 100000,
-        "url": "https://saharareporters.com/2026/08/06/nhrc-petition-seeks-probe-nigerian-female-soldiers-alleged-demotion-after-sexual",
-        "sources": 2,
+        "url": "https://thesun.ng/utomi-charges-leaders-to-put-nigeria-first-reclaim-africas-leadership/",
+        "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 7.93842,
-        "lat": 11.951,
-        "location_name": "Jigawa, Kano, Nigeria",
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -768,99 +570,171 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.premiumtimesng.com/promoted/901119-jigawa-anti-corruption-agency-nilds-sign-mou-to-strengthen-capacity.html",
-        "sources": 3,
+        "url": "https://punchng.com/uk-court-jails-nigerian-seven-years-for-stabbing-partner/",
+        "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": -0.216667,
-        "lat": 5.55,
-        "location_name": "Accra, Greater Accra, Ghana",
-        "category": "Mod\u00e9r\u00e9 : Mouvement Social",
+        "lon": 4.05,
+        "lat": 7.53333,
+        "location_name": "Osun, Nigeria (general), Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
         "criticite_score": 4,
         "color": [
-            255,
-            152,
-            0,
-            160
+            244,
+            67,
+            54,
+            200
         ],
         "radius": 80000,
-        "url": "https://www.africanews.com/2026/08/06/ghana-opposition-protests-over-claims-of-democracy-under-attack/",
-        "sources": 14,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "url": "https://thesun.ng/tinubu-overrules-efcc-on-osun/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": -0.216667,
-        "lat": 5.55,
-        "location_name": "Accra, Greater Accra, Ghana",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
         "color": [
-            251,
-            192,
-            45,
-            140
+            211,
+            47,
+            47,
+            255
         ],
-        "radius": 60000,
-        "url": "https://www.africanews.com/2026/08/06/ghana-opposition-protests-over-claims-of-democracy-under-attack/",
-        "sources": 5,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "radius": 100000,
+        "url": "https://thesun.ng/fg-not-merely-preparing-for-2027-fatf-review-but-determined-to-excel-agf-fagbemi/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": -0.216667,
-        "lat": 5.55,
-        "location_name": "Accra, Greater Accra, Ghana",
-        "category": "Mod\u00e9r\u00e9 : Mouvement Social",
-        "criticite_score": 4,
+        "lon": 19.0,
+        "lat": 15.0,
+        "location_name": "Chad",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
         "color": [
-            255,
-            152,
-            0,
-            160
+            211,
+            47,
+            47,
+            220
         ],
-        "radius": 80000,
-        "url": "https://www.africanews.com/2026/08/06/ghana-opposition-protests-over-claims-of-democracy-under-attack/",
-        "sources": 5,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "radius": 100000,
+        "url": "https://bnonews.com/index.php/2026/08/former-texas-police-officer-accused-of-killing-3-in-mexico-fleeing-toward-u-s-with-son/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 29.9891,
-        "lat": -0.254325,
-        "location_name": "Rubirizi District, Rubirizi, Uganda",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
+        "lon": 4.05,
+        "lat": 7.53333,
+        "location_name": "Osun, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
         "color": [
-            251,
-            192,
-            45,
-            140
+            211,
+            47,
+            47,
+            220
         ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202608060567.html",
+        "radius": 100000,
+        "url": "https://thesun.ng/osun-2026-inec-security-agencies-must-be-neutral-oyebamiji-apc-guber-candidate/",
         "sources": 2,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 29.9891,
-        "lat": -0.254325,
-        "location_name": "Rubirizi District, Rubirizi, Uganda",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
         "color": [
-            251,
-            192,
-            45,
-            140
+            211,
+            47,
+            47,
+            220
         ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202608060567.html",
+        "radius": 100000,
+        "url": "https://www.deccanchronicle.com/world/nigerian-security-forces-rescue-300-kidnapping-victims-1977251",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.deccanchronicle.com/world/nigerian-security-forces-rescue-300-kidnapping-victims-1977251",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.deccanchronicle.com/world/nigerian-security-forces-rescue-300-kidnapping-victims-1977251",
         "sources": 5,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.deccanchronicle.com/world/nigerian-security-forces-rescue-300-kidnapping-victims-1977251",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.deccanchronicle.com/world/nigerian-security-forces-rescue-300-kidnapping-victims-1977251",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
@@ -876,69 +750,15 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.opinionnigeria.com/igp-disu-changing-the-narrative-by-tunji-wusu/",
+        "url": "https://www.thisdaylive.com/2026/08/07/igp-disu-changing-the-narrative/",
         "sources": 8,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 20.9605,
-        "lat": 3.32354,
-        "location_name": "Ebola, \u00c9uateur, Democratic Republic Of The Congo",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.timeslive.co.za/news/2026-08-06-congo-tests-boat-passengers-after-traveller-dies-with-ebola-like-symptoms/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.4,
-        "lat": -6.06667,
-        "location_name": "Congo River, Congo (general), Congo",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.timeslive.co.za/news/2026-08-06-congo-tests-boat-passengers-after-traveller-dies-with-ebola-like-symptoms/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 29.9667,
-        "lat": 1.85,
-        "location_name": "Ituri, Congo, Democratic Republic of The (general), Democratic Republic Of The Congo",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.timeslive.co.za/news/2026-08-06-congo-tests-boat-passengers-after-traveller-dies-with-ebola-like-symptoms/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.0281,
-        "lat": 14.1213,
-        "location_name": "Kwara, Tahoua, Niger",
+        "lon": 8.51667,
+        "lat": 11.9964,
+        "location_name": "Kano, Kano, Nigeria",
         "category": "Critique : Incident S\u00e9curitaire",
         "criticite_score": 4,
         "color": [
@@ -948,152 +768,26 @@
             200
         ],
         "radius": 80000,
-        "url": "https://medafricatimes.com/46578-nigeria-rescue-of-308-kidnapping-victims-in-largest-single-day-operation.html",
+        "url": "https://www.thisdaylive.com/2026/08/07/nigeria-must-unite-to-lead-africas-renaissance-utomi-tells-politicians/",
+        "sources": 7,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.05,
+        "lat": 7.53333,
+        "location_name": "Osun, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.thisdaylive.com/2026/08/07/okpebholo-mocks-dancing-adeleke-says-osun-governor-misses-meetings/",
         "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.0,
-        "lat": 8.5,
-        "location_name": "Kwara State, Kwara, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://medafricatimes.com/46578-nigeria-rescue-of-308-kidnapping-victims-in-largest-single-day-operation.html",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 4.55556,
-        "lat": 10.3942,
-        "location_name": "Kainji Lake, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://medafricatimes.com/46578-nigeria-rescue-of-308-kidnapping-victims-in-largest-single-day-operation.html",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.2667,
-        "lat": 9.76667,
-        "location_name": "Woro, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://medafricatimes.com/46578-nigeria-rescue-of-308-kidnapping-victims-in-largest-single-day-operation.html",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 2.25,
-        "lat": 9.5,
-        "location_name": "Benin",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://medafricatimes.com/46578-nigeria-rescue-of-308-kidnapping-victims-in-largest-single-day-operation.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 2.25,
-        "lat": 9.5,
-        "location_name": "Benin",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://medafricatimes.com/46578-nigeria-rescue-of-308-kidnapping-victims-in-largest-single-day-operation.html",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.2667,
-        "lat": 9.76667,
-        "location_name": "Woro, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://medafricatimes.com/46578-nigeria-rescue-of-308-kidnapping-victims-in-largest-single-day-operation.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 4.55556,
-        "lat": 10.3942,
-        "location_name": "Kainji Lake, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://medafricatimes.com/46578-nigeria-rescue-of-308-kidnapping-victims-in-largest-single-day-operation.html",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.2667,
-        "lat": 9.76667,
-        "location_name": "Woro, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://medafricatimes.com/46578-nigeria-rescue-of-308-kidnapping-victims-in-largest-single-day-operation.html",
-        "sources": 5,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
@@ -1101,42 +795,24 @@
         "lon": 7.53333,
         "lat": 9.08333,
         "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Mod\u00e9r\u00e9 : Mouvement Social",
-        "criticite_score": 3,
-        "color": [
-            255,
-            152,
-            0,
-            195
-        ],
-        "radius": 60000,
-        "url": "https://www.vanguardngr.com/2026/08/adc-to-tinubu-your-efcc-order-exposes-anti-graft-agencys-lack-of-independence/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.05971,
-        "lat": 12.5732,
-        "location_name": "Talata Mafara, Zamfara, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
             211,
             47,
             47,
-            220
+            255
         ],
         "radius": 100000,
-        "url": "https://www.independent.co.uk/news/world/africa/nigeria-kidnappings-rescue-kwara-b3028479.html",
+        "url": "https://tribuneonlineng.com/why-abiodun-is-ogun-easts-best-bet-for-the-senate/",
         "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 6.05971,
-        "lat": 12.5732,
-        "location_name": "Talata Mafara, Zamfara, Nigeria",
+        "lon": 8.51667,
+        "lat": 11.9964,
+        "location_name": "Kano, Kano, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -1146,15 +822,159 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.independent.co.uk/news/world/africa/nigeria-kidnappings-rescue-kwara-b3028479.html",
+        "url": "https://www.thisdaylive.com/2026/08/07/nigeria-must-unite-to-lead-africas-renaissance-utomi-tells-politicians/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.05,
+        "lat": 7.53333,
+        "location_name": "Osun, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.thisdaylive.com/2026/08/07/okpebholo-mocks-dancing-adeleke-says-osun-governor-misses-meetings/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 12.2667,
+        "lat": 9.76667,
+        "location_name": "Woro, Nigeria (general), Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://thesun.ng/woro-abduction-kaiama-community-says-13-victims-still-missing-seeks-urgent-military-deployment/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.94806,
+        "lat": 9.6225,
+        "location_name": "Kaiama, Kwara, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://thesun.ng/woro-abduction-kaiama-community-says-13-victims-still-missing-seeks-urgent-military-deployment/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 12.2667,
+        "lat": 9.76667,
+        "location_name": "Woro, Nigeria (general), Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://thesun.ng/woro-abduction-kaiama-community-says-13-victims-still-missing-seeks-urgent-military-deployment/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.58333,
+        "lat": 7.0,
+        "location_name": "Ogun State, Ogun, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/the-laws-that-protect-tomorrow/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.28493,
+        "lat": 12.3337,
+        "location_name": "Kwara, Zamfara, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://leadership.ng/163-rescued-woro-kidnap-victims-receive-medical-treatment/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 19.0,
+        "lat": 15.0,
+        "location_name": "Chad",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.sunjournal.com/2026/08/06/auburn-man-accused-of-sex-assault-to-be-returned-to-ice-custody/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 19.0,
+        "lat": 15.0,
+        "location_name": "Chad",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.timesfreepress.com/news/2026/aug/06/harrison-man-gets-three-years-for-shooting-at/",
         "sources": 5,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 6.05971,
-        "lat": 12.5732,
-        "location_name": "Talata Mafara, Zamfara, Nigeria",
+        "lon": 19.0,
+        "lat": 15.0,
+        "location_name": "Chad",
         "category": "Critique : Incident S\u00e9curitaire",
         "criticite_score": 4,
         "color": [
@@ -1164,69 +984,15 @@
             200
         ],
         "radius": 80000,
-        "url": "https://www.independent.co.uk/news/world/africa/nigeria-kidnappings-rescue-kwara-b3028479.html",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Mod\u00e9r\u00e9 : Mouvement Social",
-        "criticite_score": 3,
-        "color": [
-            255,
-            152,
-            0,
-            195
-        ],
-        "radius": 60000,
-        "url": "https://www.vanguardngr.com/2026/08/adc-to-tinubu-your-efcc-order-exposes-anti-graft-agencys-lack-of-independence/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.05971,
-        "lat": 12.5732,
-        "location_name": "Talata Mafara, Zamfara, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.independent.co.uk/news/world/africa/nigeria-kidnappings-rescue-kwara-b3028479.html",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.9747,
-        "lat": 11.462,
-        "location_name": "Gargash, Borno, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.nigerianeye.com/2026/08/iswap-wipes-out-top-boko-haram.html",
+        "url": "https://www.sunjournal.com/2026/08/06/auburn-man-accused-of-sex-assault-to-be-returned-to-ice-custody/",
         "sources": 4,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 14.213,
-        "lat": 11.3548,
-        "location_name": "Kumshe, Borno, Nigeria",
+        "lon": 19.0,
+        "lat": 15.0,
+        "location_name": "Chad",
         "category": "Critique : Incident S\u00e9curitaire",
         "criticite_score": 4,
         "color": [
@@ -1236,69 +1002,15 @@
             200
         ],
         "radius": 80000,
-        "url": "https://www.nigerianeye.com/2026/08/iswap-wipes-out-top-boko-haram.html",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 14.213,
-        "lat": 11.3548,
-        "location_name": "Kumshe, Borno, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.nigerianeye.com/2026/08/iswap-wipes-out-top-boko-haram.html",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.0,
-        "lat": 11.5,
-        "location_name": "Borno State, Borno, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://dailypost.ng/2026/08/06/how-iswap-turned-on-boko-haram-triggering-nigerias-deadliest-terror-rivalry/",
+        "url": "https://www.sunjournal.com/2026/08/06/auburn-man-accused-of-sex-assault-to-be-returned-to-ice-custody/",
         "sources": 4,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 13.9747,
-        "lat": 11.462,
-        "location_name": "Gargash, Borno, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.nigerianeye.com/2026/08/iswap-wipes-out-top-boko-haram.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.9747,
-        "lat": 11.462,
-        "location_name": "Gargash, Borno, Nigeria",
+        "lon": 19.0,
+        "lat": 15.0,
+        "location_name": "Chad",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -1308,7 +1020,7 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.nigerianeye.com/2026/08/iswap-wipes-out-top-boko-haram.html",
+        "url": "https://www.timesfreepress.com/news/2026/aug/06/harrison-man-gets-three-years-for-shooting-at/",
         "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
