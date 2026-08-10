@@ -1,5 +1,288 @@
 [
     {
+        "id": "4225014",
+        "score": 1,
+        "fields": {
+            "title": "Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (09 Aug. 2026)",
+            "body": "Depuis le d\u00e9but du conflit au Soudan en avril 2023, la CNARR, le HCR et l'OIM identifient et enregistrent les r\u00e9fugi\u00e9s soudanais et les migrants tchadiens retourn\u00e9s en provenance du Darfour. Une estimation de 1 070 847\\* personnes n\u00e9cessitant une assistance humanitaire a \u00e9t\u00e9 \u00e9tablie. Pour garantir leur protection, une op\u00e9ration de d\u00e9nombrement a \u00e9t\u00e9 lanc\u00e9e le long de la fronti\u00e8re, permettant la collecte des donn\u00e9es essentielles sur les r\u00e9fugi\u00e9s pour une assistance cibl\u00e9e. En parall\u00e8le, la relocalisation depuis les sites spontan\u00e9s vers des sites am\u00e9nag\u00e9s est mise en \u0153uvre et permet de poursuivre l\u2019enregistrement biom\u00e9trique individuel des r\u00e9fugi\u00e9s.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225014",
+            "date": {
+                "original": "2026-08-10T00:00:00+00:00",
+                "changed": "2026-08-10T14:10:17+00:00",
+                "created": "2026-08-10T14:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225014"
+    },
+    {
+        "id": "4225006",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR CORE Emergency situation in Chad: Update on arrivals from Sudan (09 Aug 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225006",
+            "date": {
+                "original": "2026-08-10T00:00:00+00:00",
+                "changed": "2026-08-10T14:25:21+00:00",
+                "created": "2026-08-10T13:03:16+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225006"
+    },
+    {
+        "id": "4225005",
+        "score": 1,
+        "fields": {
+            "title": "Situation d'urgence au Tchad | Mise \u00e0 jour des arriv\u00e9es du Soudan (09 Aug. 2026)",
+            "body": "Depuis avril 2023, le CNARR, le HCR et l'OIM surveillent et assistent un afflux de r\u00e9fugi\u00e9s soudanais et de  \nretourn\u00e9s tchadiens arrivant dans les provinces de Ouaddai, Sila, Wadi-Fira et Ennedi Est. Les agences  \nhumanitaires soutiennent le gouvernement tchadien et les autorit\u00e9s locales pour fournir une assistance vitale et  \ndes services de protection. Le gouvernement et le HCR ont aid\u00e9 69% des r\u00e9fugi\u00e9s \u00e0 quitter les sites d'arriv\u00e9e  \nspontan\u00e9e pour s'installer dans des camps nouvellement \u00e9tablis o\u00f9 les d\u00e9plac\u00e9s b\u00e9n\u00e9ficient des services fournis  \npar les \u00e9quipes humanitaires.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225005",
+            "date": {
+                "original": "2026-08-10T00:00:00+00:00",
+                "changed": "2026-08-10T13:50:28+00:00",
+                "created": "2026-08-10T13:03:13+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225005"
+    },
+    {
+        "id": "4225004",
+        "score": 1,
+        "fields": {
+            "title": "Bureau de coordination du HCR \u00c0 l\u2019est du Tchad | Urgence Soudan Dashboard de la relocalisation - depuis Avril 2023 (Mise \u00e0 jour du 09-08-2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225004",
+            "date": {
+                "original": "2026-08-10T00:00:00+00:00",
+                "changed": "2026-08-10T13:46:28+00:00",
+                "created": "2026-08-10T13:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225004"
+    },
+    {
+        "id": "4224967",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Chad | Forcibly Displaced Persons (July 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224967",
+            "date": {
+                "original": "2026-08-04T00:00:00+00:00",
+                "changed": "2026-08-10T10:24:09+00:00",
+                "created": "2026-08-10T10:03:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224967"
+    },
+    {
+        "id": "4224960",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Tchad | Population des personnes en d\u00e9placement forc\u00e9 au Tchad (Juillet 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224960",
+            "date": {
+                "original": "2026-08-04T00:00:00+00:00",
+                "changed": "2026-08-10T09:57:30+00:00",
+                "created": "2026-08-10T09:03:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224960"
+    },
+    {
+        "id": "4224957",
+        "score": 1,
+        "fields": {
+            "title": "Refugees fleeing Sudan face months without shelter, water or healthcare in eastern Chad",
+            "body": "07 August 2026 - More than 2,500 refugees fleeing violence in Sudan spent over six months without adequate shelter, latrines, access to safe drinking water or food assistance, while awaiting relocation from Ad\u00e9mour transit site in Sila province, Chad. After being alerted by authorities to the deaths of five children under the age of five years, M\u00e9decins Sans Fronti\u00e8res/Doctors Without Borders (MSF) launched an emergency response between May to July 2026. \u200b\n\n\u201cOur first assessments of the situation in Ad\u00e9mour confirmed cases of measles and malnutrition, while many people were suffering from diarrhoea, parasitic infections, respiratory illnesses and skin diseases linked to limited access to safe water,\u201d says Dr. Souley Harouna, MSF Head of Mission in Chad.\n\nOver the course of two months, MSF teams provided free primary health care, including the prevention and treatment of malaria, sexual and reproductive health care, as well as the screening and treatment of malnutrition.\n\nThe nutritional situation was alarming with a Global Acute Malnutrition (GAM) rate of over 37% recorded (343 people out of 916 screened) and a Severe Acute Malnutrition (SAM) rate of 8.4% (77 people out of 916 screened). These figures illustrate the severity of the humanitarian situation and the urgent need for nutritional support.\n\nMSF teams also improved access to safe water for both Sudanese refugees and host communities, thereby reducing the risk of infectious diseases. This included the rehabilitation of four handpumps, installing latrines and handwashing stations, and utilising two water tanks to meet the 15-litre daily standard. Within two months, cases of diarrhoea reduced significantly after safe drinking water was provided and hygiene activities were expanded. \u200b\n\n\u201cAs the refugees pass through Ad\u00e9mour before relocation, we focused on hygiene-related messages,\u201d explains Bonaventure Djedouboum Tobah, MSF Health Promotion Supervisor. \u201cSimple practices such as handwashing and water treatment are essential to help prevent waterborne diseases and protect families and living in such a vulnerable setting.\u201d\n\nThe work relied heavily on community involvement. Most of the community mobilisation agents were refugees themselves, trained and supported by MSF to share health messages, follow up with families, and identify children who need nutritional support.\n\nSila province is often a less visible part of the Sudanese refugee response in Chad. Unlike Adr\u00e9 or Aboutengu\u00e9, where there are major border crossings and larger sites, Sila is more dispersed, remote and harder to reach for humanitarian assistance. Choice of settlement locations is also influenced by geographical and sociocultural factors. Many refugees prefer to settle in areas where they have ethnic or cultural ties with the host communities.\n\n\u201cFamilies often arrive in smaller groups and end up in spontaneous transit sites such as Ad\u00e9mour, where services are simply non-existent,\u201d says Dr Harouna.\n\nBy early July, nearly all of the refugees in Ad\u00e9mour transit site were relocated to Kerfi refugee settlement. Still, they face no clear guarantees of adequate care, as minimum emergency standards for both refugees and host communities in relocation sites are not being met.\n\n\u201cRelocation alone is not a solution if the receiving areas also lack adequate water, shelter, sanitation, healthcare and food assistance,\u201d says Dr Harouna. \u201cRefugees, and host communities, need timely access to all essential services, whether that is in a transit or relocation site, or within communities,\u201d adds Dr Harouna. \u200b\n\nSince the war in Sudan began, more than 930,000 Sudanese refugees have crossed into Chad, over 80 per cent of them women and children. Since April 2023, UNHCR and Chadian authorities have relocated 646,216 people from border transit sites inland, with 45,321 of those occurring since January 2026 under an accelerated programme. While relocation efforts continue, all actors need to ensure that sustained humanitarian assistance and lifesaving essential services are available to both refugees and host communities.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2904",
+                    "id": 2904,
+                    "name": "M\u00e9decins Sans Fronti\u00e8res",
+                    "shortname": "MSF",
+                    "longname": "M\u00e9decins Sans Fronti\u00e8res",
+                    "spanish_name": "M\u00e9dicos Sin Fronteras",
+                    "homepage": "https://www.msf.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4224957",
+            "date": {
+                "original": "2026-08-07T00:00:00+00:00",
+                "changed": "2026-08-10T13:33:00+00:00",
+                "created": "2026-08-10T08:31:48+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4224957"
+    },
+    {
         "id": "4224916",
         "score": 1,
         "fields": {
@@ -1400,329 +1683,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4224413"
-    },
-    {
-        "id": "4224379",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon Education Cluster: Quarter | Operational Presence and Realization (Jan-Mar 2026)",
-            "body": "The NWSW Education Cluster initially determined that **505,170** persons within the education sphere in the NWSW need education related supported in the North West and South West Regions. Also, the cluster targeted **347,585** persons (**342,004** children and **5,580** teachers and education staff). During the reprioritization, the targets were refocused on the most affected Divisions in severity 4 using the JIAF 2. methodology. This gave us **190,119** persons. that is **187,120** children and **2,999** teachers to be reached in 2026.\n\nFrom January to March 2026, **16** Education cluster partners implemented activities in 12 out of 13 Divisions of the NWSW, with the exception of Momo Division in the North West due to the lack of partners presence. These activities were funded by through 19 organization including 9 external funders **(European Union, Education Cannot Wait (ECW), UNICEF, SIDA, Stone Family Foundation (SFF), UNESCO, Building Schools for Africa, GOETHE INSTITUT, Leading Well Network).** Six (6) national organizations also funded some of their activities.\n\nA total of **70,089** persons including **70,071 (99.9%)** children and **18** teachers and education related persons) were reached. A total of **2,604 (4%)** persons with disabilities were reached with **428** being persons with disabilities reached for the first time during the year.\n\nThe overall reach of **70,089 persons** (**37%**) of the reprioritized target of **190,119**. The reprioritized Divisions for the 2026 PiN and Targets included*: Donga-Mantung, Menchum, Mezam, Momo, Ngo-Ketunjia, Lebialem, and Ndian.* However, the above results encompass results from other divisions not prioritized in the 2026 targets. **67%** of the results were reported from the South West while **31%** were reported from the North West. Mezam is the Division with the most reach, followed by Donga-Mantung, and Bui Divisions. The least 3 were Meme, Ndian, Kupe-Mounengumba Divisions. Non-formal education was not implemented in Momo Division.\n\nFrom the total number of persons reached, **100%** were reached through non-formal education channels, such as Temporary Learning Spaces (TLS), and community schools.\n\nOut of the **70,089,** persons reached, **56%** were females, while **44%** were males. A total of **11,170** persons reached for the first time from January to March 2026 out of which **36% (3,992)** were host community members who had never been displaced, **16% (1,768)** were returnees (i.e. host community members who were displaced and have returned to their primary community of residence, and **48%(5,410)** were people still living under internal displacement status. This is also comprised of **67% (7,528)** girls, **32% (3,624)** boys, and **1% (18)** adults (who are teachers and school management committee members).\n\nThe top 3 activities implemented were (*1*) the implementation of Radio Education Programmes & digital learning platforms, which reached **70,071 (99.97%)** children reached with **39,691 (57%)** girls, **30,380 (43%)** boys. (*2*) The implementation of recreational activities (psychosocial activities) for children in schools and temporary learning spaces reached **11,357 (16%)** persons (**9,199** children and **2,158** teachers). Amongst the children were **5,696 (50%)** girls and **3,503(31%)** boys. (*3*) A total of **440 (0.63%)** children were reached with the provision of inclusive and accessible formal education to children affected by the crisis in the North West and South West Regions.\n\n**Attacks on Education:** A total of **8** attacks were reported from January to March 2026, after triangulation by education cluster partners from the North West and South West Regions. **75% (6)** of the attacks were reported from the NW, while **25% (2)** were reported from the SW. Allegedly, all **8** attacks were kidnappings and arbitrary arrests. A total of **25** persons were allegedly affected by these attacks.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/12989",
-                    "id": 12989,
-                    "name": "Education Cluster",
-                    "shortname": "Education Cluster",
-                    "homepage": "https://www.educationcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2865",
-                    "id": 2865,
-                    "name": "Save the Children",
-                    "shortname": "Save the Children",
-                    "longname": "Save the Children Alliance",
-                    "spanish_name": "Save the Children",
-                    "homepage": "https://www.savethechildren.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224379",
-            "date": {
-                "original": "2026-08-04T00:00:00+00:00",
-                "changed": "2026-08-05T01:06:27+00:00",
-                "created": "2026-08-05T01:05:37+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224379"
-    },
-    {
-        "id": "4224360",
-        "score": 1,
-        "fields": {
-            "title": "RD Congo : Situation humanitaire dans la province du Sud-Kivu \u2013 rapport de situation #7, 24 juillet 2026",
-            "body": "**Faits majeurs**\n\nDes affrontements arm\u00e9s se sont intensifi\u00e9s dans les hauts plateaux de Fizi et Mwenga provoquant des nouveaux d\u00e9placements de population, l\u2019accroissement des besoins et davantage des contraintes d\u2019acc\u00e8s humanitaire.  \n Pr\u00e8s de 60 000 personnes b\u00e9n\u00e9ficient d\u2019un appui \u00e0 la production agricole d'urgence dans la zone de sant\u00e9 de Minova, en territoire de Kalehe.\n\n**CHIFFRES CL\u00c9S**\n\n1,01 million de personnes d\u00e9plac\u00e9es internes au 30 juin 2026\n\n1,16 million de personnes retourn\u00e9es au 30 juin 2026\n\n600 000 personnes ont b\u00e9n\u00e9fici\u00e9 d\u2019un appui \u00e0 la production agricole d\u2019urgence dans le territoire de Kalehe\n\n**APER\u00c7U DE LA SITUATION**\n\n**Territoire de Fizi**  \n En juin 2026, les affrontements se sont intensifi\u00e9s sur les Hauts Plateaux du territoire de Fizi, notamment dans la zone de sant\u00e9 (ZS) de Minembwe. Selon des sources locales, les combats ont fait des victimes civiles, d\u00e9truit des infrastructures essentielles et provoqu\u00e9 de nouveaux d\u00e9placements. Le 10 juin, La ZS de Nundu a \u00e9galement accueilli plus de 8 500 personnes ayant fui les violences dans les villages de Mikenge et Bilamboli dans le territoire de Mwenga. La d\u00e9t\u00e9rioration de la s\u00e9curit\u00e9 a fortement restreint l\u2019acc\u00e8s humanitaire, privant durablement les populations d\u00e9plac\u00e9es, retourn\u00e9es et h\u00f4tes de services essentiels. Les prix des denr\u00e9es alimentaires d\u00e9j\u00e0 intenables ont continu\u00e9 \u00e0 flamber, aggravant la vuln\u00e9rabilit\u00e9 de la population.  \n**Territoire de Kalehe**  \n Les combats incessants sur les Hauts Plateaux de Ziralo ont provoqu\u00e9 le d\u00e9placement de plus de 43 800 personnes vers les ZS de Kalehe et de Minova au cours du mois de juin 2026, selon des alertes humanitaires. Ces nouveaux arrivants ont consid\u00e9rablement aggrav\u00e9 des besoins humanitaires d\u00e9j\u00e0 critiques sur place.  \n**Territoire Mwenga**  \n En juin, des combats se sont intensifi\u00e9s dans les Hauts Plateaux d\u2019Itombwe, notamment \u00e0 Mikenge et dans les localit\u00e9s de Ntondo, Lurhala, Kashadu et Kasihe. Le 21 et le 22 juin, des violences arm\u00e9es ont caus\u00e9 des pertes civiles, d\u00e9truit des infrastructures et des habitations, et entra\u00een\u00e9 le d\u00e9placement de plus de 3 100 personnes vers plusieurs villages de la ZS de Mwana dont Kakwende et Mulambi, selon des sources locales. La d\u00e9gradation s\u00e9curitaire a \u00e9galement fortement limit\u00e9 l\u2019acc\u00e8s humanitaire dans plusieurs zones \u00e0 forts besoins humanitaires.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224360",
-            "date": {
-                "original": "2026-07-24T00:00:00+00:00",
-                "changed": "2026-08-05T11:38:36+00:00",
-                "created": "2026-08-04T16:26:03+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224360"
-    },
-    {
-        "id": "4224359",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 3 August 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224359",
-            "date": {
-                "original": "2026-08-04T00:00:00+00:00",
-                "changed": "2026-08-05T11:38:18+00:00",
-                "created": "2026-08-04T16:21:44+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224359"
-    },
-    {
-        "id": "4224357",
-        "score": 1,
-        "fields": {
-            "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (du 28 juillet au 3 ao\u00fbt 2026)",
-            "body": "**R\u00e9publique d\u00e9mocratique du Congo** \n\n**La violence, les d\u00e9placements de population et** **Ebola aggravent la crise humanitaire** \n\nDes rapports indiquent que la poursuite des combats dans les hautes terres de la province du Sud-Kivu contraint les populations \u00e0 fuir leurs foyers et perturbe l\u2019acc\u00e8s aux services essentiels. Selon les partenaires humanitaires, les affrontements dans les territoires d\u2019Uvira, de Fizi et de Mwenga ont provoqu\u00e9 le d\u00e9placement de plus de 48 000 personnes depuis la mi-juillet. Des victimes civiles et des d\u00e9g\u00e2ts aux infrastructures essentielles ont \u00e9galement \u00e9t\u00e9 signal\u00e9s. \n\nOCHA attire l'attention sur le fait que l'ins\u00e9curit\u00e9, les fermetures de routes, les infrastructures endommag\u00e9es et les coupures de t\u00e9l\u00e9communications entravent gravement l'acc\u00e8s humanitaire, les \u00e9vacuations m\u00e9dicales et l'acheminement de l'aide vitale. \n\nLes services de sant\u00e9 ont \u00e9t\u00e9 particuli\u00e8rement touch\u00e9s. Les d\u00e9g\u00e2ts subis par les \u00e9tablissements de sant\u00e9 et le d\u00e9part du personnel m\u00e9dical ont r\u00e9duit l'acc\u00e8s aux soins, privant ainsi plus de 80 personnes bless\u00e9es par la violence arm\u00e9e et les restes explosifs de guerre des traitements dont elles auraient besoin depuis le d\u00e9but de l'ann\u00e9e. Par ailleurs, les efforts de lutte contre Ebola se poursuivent au Sud-Kivu, o\u00f9 les autorit\u00e9s sanitaires surveillent 55 personnes identifi\u00e9es comme ayant \u00e9t\u00e9 en contact avec des cas confirm\u00e9s. Au 1er ao\u00fbt, les autorit\u00e9s nationales avaient signal\u00e9 3 748 cas confirm\u00e9s d\u2019Ebola dans les provinces de l\u2019Ituri, du Nord- Kivu, du Sud-Kivu, du Haut-Uele et du Tshopo.  \nOCHA r\u00e9it\u00e8re son appel \u00e0 toutes les parties pour qu\u2019elles prot\u00e8gent les civils, garantissent un acc\u00e8s humanitaire s\u00fbr et durable, et r\u00e9tablissent les t\u00e9l\u00e9communications, qui sont essentielles \u00e0 la protection des civils, aux efforts de sant\u00e9 publique et aux op\u00e9rations humanitaires.\n\n**Ghana** \n\n**La CEDEAO alloue 250 000 dollars am\u00e9ricains pour** **faire face aux inondations** \n\nLa Communaut\u00e9 \u00e9conomique des \u00c9tats de l\u2019Afrique de l\u2019Ouest (CEDEAO) a annonc\u00e9 une contribution de 250 000 US$ destin\u00e9e \u00e0 soutenir les op\u00e9rations de secours en faveur des personnes affect\u00e9es par les inondations survenues fin juin au Ghana. Ces inondations, provoqu\u00e9es par de fortes pluies, ont fait au moins 12 morts et touch\u00e9 environ 38 800 habitants r\u00e9partis dans 7 761 foyers de la r\u00e9gion du Grand Accra. \n\nCe financement est destin\u00e9 \u00e0 soutenir les op\u00e9rations humanitaires en cours, notamment la mise \u00e0 disposition d'abris d'urgence, de nourriture et de produits de premi\u00e8re n\u00e9cessit\u00e9. Les op\u00e9rations d'intervention et de reconstruction se poursuivent dans les communaut\u00e9s les plus touch\u00e9es, et une aide suppl\u00e9mentaire est apport\u00e9e \u00e0 certaines parties de la r\u00e9gion de la Volta o\u00f9 des d\u00e9g\u00e2ts ont \u00e9galement \u00e9t\u00e9 signal\u00e9s au niveau des habitations et des infrastructures.\n\n**Congo** \n\n**Republic of the Congo steps up Ebola** **preparedness** \n\nLes autorit\u00e9s ont renforc\u00e9 les contr\u00f4les sanitaires \u00e0 la plage de Brazzaville, \u00e0 l'a\u00e9roport international de Maya-Maya et \u00e0 d'autres points d'entr\u00e9e \u00e0 la suite de l'\u00e9pid\u00e9mie d'Ebola qui s\u00e9vit en RD Congo voisine. Le risque de transmission transfrontali\u00e8re \u00e9tant jug\u00e9 \u00e9lev\u00e9, les autorit\u00e9s sanitaires ont renforc\u00e9 les syst\u00e8mes de surveillance, d'isolement et d'orientation vers des structures sp\u00e9cialis\u00e9es, form\u00e9 le personnel de premi\u00e8re ligne et intensifi\u00e9 les actions de sensibilisation au sein de la population. \n\nL'OMS et ses partenaires ont \u00e9galement achemin\u00e9 plus de 25 tonnes de m\u00e9dicaments et de mat\u00e9riel m\u00e9dical d'une valeur d'environ 280 000 US$.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224357",
-            "date": {
-                "original": "2026-08-04T00:00:00+00:00",
-                "changed": "2026-08-05T11:38:09+00:00",
-                "created": "2026-08-04T16:05:01+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224357"
-    },
-    {
-        "id": "4224356",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: Latest Events at a glance (28 July\u20133 August 2026)",
-            "body": "**Democratic Republic of the Congo**\n\n**Violence, displacement and Ebola compound humanitarian crisis**\n\nReports highlight that continued fighting in the highlands of South Kivu Province in the Democratic Republic of the Congo is forcing people to flee their homes and disrupting access to essential services. According to humanitarian partners, clashes in the territories of Uvira, Fizi and Mwenga have displaced more than 48,000 people since mid-July.  \nCivilian casualties and damage to critical infrastructure have also been reported.\n\nOCHA warns that insecurity, road closures, damaged infrastructure and telecommunications outages are severely constraining humanitarian access, medical evacuations and the delivery of life-saving assistance. Healthcare services have been particularly affected. Damage to health facilities and the departure of medical staff have reduced access to medical care, leaving more than 80 people injured by armed violence and explosive remnants of war without the treatment they reportedly need since the start of the year.  \nMeanwhile, Ebola response efforts continue in South Kivu, where health authorities are monitoring 55 people identified as contacts of confirmed cases. As of 1 August, national authorities had reported 3,748 confirmed Ebola cases across Ituri, North Kivu, South Kivu, Haut-Uele and Tshopo provinces.\n\nOCHA reiterates its call on all parties to protect civilians, ensure safe and sustained humanitarian access, and restore telecommunications, which are vital for civilian protection, public health efforts and humanitarian operations.\n\n**Ghana**\n\n**ECOWAS allocates US$250,000 for flood response**\n\nThe Economic Community of West African States (ECOWAS) has announced a US$250,000 contribution to support relief efforts for people affected by the late-June floods in Ghana. The floods, triggered by heavy rainfall, left at least 12 people dead and impacted approximately 38,800 residents across 7,761 households in the Greater Accra Region.\n\nThe funding is intended to assist ongoing humanitarian response activities, including the provision of emergency shelter, food, and essential supplies. Response and recovery operations are still underway in the worst-affected communities, with additional support being extended to parts of the Volta Region where damage to homes and infrastructure has also been reported.\n\n**Congo**\n\n**Republic of the Congo steps up Ebola preparedness**\n\nAuthorities have strengthened health screening at Brazzaville Beach, Maya-Maya International Airport and other entry points following the Ebola outbreak in neighbouring DRC. With the risk of cross-border transmission assessed as high, health authorities have reinforced surveillance, isolation and referral systems, trained frontline staff and expanded community awareness.  \nThe World Health Organization and partners have also delivered more than 25 tonnes of medicines and medical supplies worth about US$280,000.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224356",
-            "date": {
-                "original": "2026-08-04T00:00:00+00:00",
-                "changed": "2026-08-05T11:36:59+00:00",
-                "created": "2026-08-04T16:03:35+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224356"
-    },
-    {
-        "id": "4224352",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon Cholera Outbreak: Situation Report #2 (August 4, 2026)",
-            "body": "**FAST FACTS**\n\n- As of August 2, 53 suspected cholera cases had been reported in Minawao Refugee Camp, which hosts 81,022 refugees and is operating at 324% of its intended capacity, creating conditions conducive to rapid disease transmission.\n- Multiple transmission chains are suspected within the camp, increasing the risk of further spread among vulnerable refugee and host populations.\n- As of August 2, the cholera outbreak in the Far North Region had resulted in 990 reported cases and 28 deaths across nine affected health districts.\n\n**OUR RESPONSE**\n\n- International Medical Corps is coordinating with health authorities, UN agencies, camp management and humanitarian partners to support a harmonized response.\n- We are implementing cholera prevention and response activities focused on outbreak containment, case management and community protection.\n- Efforts include strengthening treatment capacity through additional staff, essential medicines and cholera supplies, and strengthening surveillance, community alert systems and risk communication to support early detection and treatment.\n- We also are scaling up risk communication, hygiene promotion, infection prevention, disinfection, and emergency activities involving water, sanitation and hygiene.\n\nFollowing the detection of suspected and RDT-positive cholera cases in Minawao Refugee Camp, International Medical Corps launched an emergency response to support outbreak containment and reduce cholera-related morbidity and mortality among refugee and host communities. Implemented in coordination with national authorities and humanitarian partners, our intervention addresses critical operational gaps and is expected to directly benefit more than 14,500 people through enhanced surveillance, case management, infection prevention and control, risk communication and community engagement, and water, sanitation and hygiene interventions.\n\nPatients suspected to have cholera have received direct clinical care from International Medical Corps teams in the temporary treatment unit that we have set up in the main section of the Minawao Medicalized Health Center, located inside the camp. This care continues while efforts to expand treatment capacity remain underway. We so far have managed 53 patients, including 26 discharged as recovered, with no deaths reported to date, while we have identified and monitored 217 contacts. The Mokolo Health District has led efforts to conduct rapid investigations, contact tracing, active case finding, household disinfection and refer suspected cases for higher care, while International Medical Corps has strengthened response readiness through training on cholera case management and diagnostics. We also have supported treatment and IPC activities by providing contingency stocks and mobilizing additional personnel, medicines, consumables and response supplies.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2019",
-                    "id": 2019,
-                    "name": "International Medical Corps",
-                    "shortname": "IMC",
-                    "longname": "International Medical Corps",
-                    "homepage": "https://internationalmedicalcorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224352",
-            "date": {
-                "original": "2026-08-04T00:00:00+00:00",
-                "changed": "2026-08-05T10:14:15+00:00",
-                "created": "2026-08-04T15:48:12+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224352"
-    },
-    {
-        "id": "4224349",
-        "score": 1,
-        "fields": {
-            "title": "CPAoR GBV Safety Audits for Children Key Findings (NW/SW Cameroon, 2025)",
-            "body": "## Executive Summary\n\nThe **GBV Safety Audit (North-West and South-West Cameroon, 2025)** assessed gender-based violence (GBV) risks affecting children, particularly adolescent girls, across 64 crisis-affected communities. Using **719 key informant interviews, 500 focus group discussions involving 5,602 participants, 207 safety walks, and mapping of 103 service providers**, the assessment identified widespread protection risks, major service gaps, and priority actions for humanitarian actors.\n\nThe audit found that **physical violence (22.1%), sexual violence (20.4%), rape (18.4%), and psychological abuse (16.2%)** are among the most prevalent forms of GBV. High-risk locations include bushes, farms, water points, roads, markets, and household surroundings, while insecurity is driven by the presence of armed groups, poor lighting, isolation, youth gangs, and limited trusted security services. Inadequate infrastructure further increases risks, with many communities lacking safe water points, gender-segregated latrines, lighting, and privacy. Schools also present significant protection concerns, including unsafe access routes, harassment, transactional sex for grades, and inadequate menstrual hygiene facilities.\n\nThe assessment also highlights critical barriers to protection and survivor support. GBV services remain limited and unevenly distributed, with insufficient availability of post-exposure prophylaxis (PEP) kits, low awareness of referral mechanisms, and a severe shortage of Women and Girls Safe Spaces. As a result, survivors often rely on informal community structures rather than specialized services.\n\nTo address these challenges, the report recommends a coordinated, multi-sectoral response focused on strengthening prevention of sexual exploitation and abuse (PSEA), expanding safe and accessible WASH infrastructure, improving child safeguarding in schools, ensuring survivor-centred health services, strengthening case management and referral systems, and promoting community engagement to reduce harmful practices and GBV risks. Overall, the audit concludes that sustained collaboration across child protection, GBV, health, WASH, education, and general protection sectors is essential to reduce GBV risks and improve access to quality services for affected children and communities.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52050",
-                    "id": 52050,
-                    "name": "Child Protection Area of Responsibility",
-                    "shortname": "CP AoR",
-                    "homepage": "https://cpaor.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224349",
-            "date": {
-                "original": "2025-12-03T00:00:00+00:00",
-                "changed": "2026-08-05T09:32:13+00:00",
-                "created": "2026-08-04T15:29:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224349"
     }
 ]
