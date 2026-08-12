@@ -1,5 +1,110 @@
 [
     {
+        "id": "4225285",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 10 August 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225285",
+            "date": {
+                "original": "2026-08-11T00:00:00+00:00",
+                "changed": "2026-08-12T04:17:56+00:00",
+                "created": "2026-08-12T04:11:37+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225285"
+    },
+    {
+        "id": "4225284",
+        "score": 1,
+        "fields": {
+            "title": "Activit\u00e9s d\u2019\u00e9radication de la poliomy\u00e9lite en r\u00e9publique d\u00e9mocratique du congo (IEP)\u2013 S31 - 2026, Mise \u00e0 jour au 06 ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3748",
+                    "id": 3748,
+                    "name": "Global Polio Eradication Initiative",
+                    "shortname": "GPEI",
+                    "longname": "Global Polio Eradication Initiative",
+                    "spanish_name": "Iniciativa Mundial de Erradicaci\u00f3n de la Poliomielitis",
+                    "homepage": "https://polioeradication.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/732",
+                    "id": 732,
+                    "name": "Government of the Democratic Republic of the Congo",
+                    "shortname": "Govt. DR Congo",
+                    "longname": "Government of the Democratic Republic of the Congo",
+                    "type": {
+                        "id": 271,
+                        "name": "Government"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225284",
+            "date": {
+                "original": "2026-08-11T00:00:00+00:00",
+                "changed": "2026-08-12T04:08:28+00:00",
+                "created": "2026-08-12T04:03:55+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225284"
+    },
+    {
         "id": "4225273",
         "score": 1,
         "fields": {
@@ -1642,87 +1747,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4224957"
-    },
-    {
-        "id": "4224916",
-        "score": 1,
-        "fields": {
-            "title": "WHO Technical Advisory Group recommends Ervebo vaccine to be evaluated in vaccine trial for Bundibugyo virus disease in the Democratic Republic of the Congo",
-            "body": "On 7 August 2026, the WHO Technical Advisory Group on candidate vaccine prioritization (TAG-CVP) for Bundibugyo virus disease (BDBV) outbreak response released a new report regarding possible candidate vaccines for Bundibugyo virus disease. The members recommended Ervebo, the only vaccine licensed Ebola vaccine, be prioritized for inclusion in a randomized clinical trial in the context of the ongoing outbreak.\n\nWHO advisory groups were convened following the declaration on 16 May of a Public Health Emergency of International Concern for the Ebola outbreak caused by the Bundibugyo virus (BVD) in the Democratic Republic of the Congo. The groups met subsequently to review the candidate vaccine and treatment landscape for this type of Ebola disease and issued a first set of recommendations.\n\nAt that time, the TAG-CVP recommended that Ervebo, the only licensed Ebola vaccine (against Ebola virus disease also known as Ebola Zaire), should not be used outside carefully designed research settings, to allow for its performance against BVD to be assessed.\n\nOn 31 July, the members of the advisory group met for the third time to review new data that had become available on Ervebo. The TAG-CVP members reviewed preliminary data from animal studies showing that Ervebo offered some level of cross-protection against BVD in animals, particularly against death from the disease.\n\nThe group assessed the levels of safety, efficacy, availability and implementation for this potential vaccine and members agreed that there were no safety concerns for this potential vaccine if used in the context of a BDBV outbreak in which contacts of cases are vaccinated. Therefore, the members recommended Ervebo to be prioritized for inclusion in a randomized clinical trial in the context of the ongoing outbreak and in the absence of specific BDBV vaccines.\n\nThe experts noted that efficacy of Erbevo against BVD disease and transmission would still need to be proven, and that a specific Bundibugyo vaccine would remain the preferred option, although preliminary data for candidate vaccines are yet to be available. Production and access to the vaccines, if sufficient efficacy data would arise, would also need to be facilitated at scale and made available to the affected populations.\n\nRead the full report here.\n\n**Related links**\n\nWHO Technical Advisory Group on Candidate Vaccine Prioritization (TAG-CVP)\n\n**Media contacts:**  \n  \nmediainquiries@who.int",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224916",
-            "date": {
-                "original": "2026-08-07T00:00:00+00:00",
-                "changed": "2026-08-10T02:23:36+00:00",
-                "created": "2026-08-10T01:26:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224916"
-    },
-    {
-        "id": "4224908",
-        "score": 1,
-        "fields": {
-            "title": "Tchad - Key Message Update : Start of season is delayed in eastern provinces already facing Crisis! (IPC Phase 3!), July 2026 - January 2027",
-            "body": "## Key Messages\n\n- **Crisis! (IPC Phase 3!) outcomes are anticipated through January 2027 in the Assoungha, Kimiti, Wadi Hawar, Dar-Tama, and Kob\u00e9 departments with expected further deterioration.** Refugees, who have lost their livelihoods, continue to arrive in these departments where they account for more than 30 percent of the population. Refugees remain highly dependent on markets and food assistance while increasing pressure on the livelihoods of host populations. Food consumption deficits among host households are worsening further due to the lean season, the persistent delay in the start of the season, and the lack of recovery in key income sources, particularly agricultural labor.\n- **The onset of the rainy season is significantly delayed in several provinces, particularly in the Sahelian zone.** As of July 10, the season had not yet started in Lac and Kanem provinces or in northern Bahr El-Ghazal, Batha, Ouadda\u00ef, and Wadi Fira. Delays of 10 to 30 days have been observed in Sila and Hadjer Lamis and, farther south, in Salamat, Moyen Chari, and Mandoul. These delays are hindering agricultural activities and agricultural labor, which are key income sources for poor households. The resulting decline in purchasing power is forcing households to accept in-kind payments, often on credit, sell productive assets (including additional livestock among pastoral households), and/or take on debt. Due to insufficient income, household demand for cereals in markets is atypically low, resulting in an atypical decline in prices despite the lean season.\n- **Crisis (IPC Phase 3) outcomes currently observed in Lac Province are expected to persist through January 2027 due to insufficient food stocks and income**, except in the department of Wayi, which is expected to experience Stressed (IPC Phase 2) outcomes between October and January 2027 as harvests improve food consumption. The delayed onset of the season and attacks by armed terrorist groups are contributing to deteriorating livelihoods and declining household income and purchasing power. Food consumption deficits are worsening further among internally displaced persons (IDPs) and host populations.\n- **Ongoing Crisis (IPC Phase 3) outcomes in northern Kanem and Bahr El-Ghazal provinces are expected to persist through September due to the extension of the pastoral lean season following the delayed onset of the rainy season.** Milk production is not expected to recover until after September, while livestock maintenance costs remain high. Market-dependent households are experiencing deterioration in most of their income sources and purchasing power continues to weaken, pushing them to resort to atypical sales of productive assets.\n- **The influx of refugees and returnees increased significantly in June, reaching** [**6,337 arrivals**](https://reliefweb.int/report/chad/flash-update-53-new-sudanese-refugee-influx-chad) (compared with an average of 2,120 per month between March and May), following clashes on June 28 and 29, 2026, around Kulbus, Sudan. According to the UN High Commissioner for Refugees (UNHCR), more than 3,000 arrivals were recorded in Koulbous, on the Chadian side of the border, between June 30 and July 13, 2026. This brought the cumulative number of new Sudanese refugees arriving in the eastern provinces since April 2023 to 936,900, of whom 642,850 have been relocated farther into these provinces. These arrivals are increasing market demand and putting additional pressure on local livelihoods and host-community resources.\n- **The security situation remains a key driver of food insecurity in several provinces of Chad.** According to ACLED, Chad recorded 23 security incidents between June 17 and July 17, 2026, resulting in 23 deaths. Most incidents (48 percent) occurred in the eastern provinces, particularly Wadi Fira and Ouadda\u00ef. These incidents involved the army's efforts to disarm armed refugees, as well as clashes between agropastoralists around water points. Lac Province accounted for 22 percent of security incidents, including the looting of food supplies (particularly flour, rice, and oil) following Boko Haram attacks, such as the July 7 attack on the village of Foulatari in Fouli. These incidents are creating a climate of fear, driving population displacement and disrupting livelihoods.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/529",
-                    "id": 529,
-                    "name": "Famine Early Warning System Network",
-                    "shortname": "FEWS NET",
-                    "longname": "Famine Early Warning System Network",
-                    "spanish_name": "Red de Sistemas de Alerta Temprana contra la Hambruna",
-                    "homepage": "https://fews.net/",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224908",
-            "date": {
-                "original": "2026-08-07T00:00:00+00:00",
-                "changed": "2026-08-10T00:37:17+00:00",
-                "created": "2026-08-10T00:36:16+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224908"
     }
 ]
