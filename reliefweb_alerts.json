@@ -1,5 +1,45 @@
 [
     {
+        "id": "4225273",
+        "score": 1,
+        "fields": {
+            "title": "DRC Eastern DR Congo Ebola Situational Report #4 (5 August 2026)",
+            "body": "**Contextual updates**\n\nThe Ebola outbreak continues to evolve in a highly complex operational environment, with more than 3,000 confirmed cases to date. Community transmission remains a major concern, with approximately 63% of reported deaths from 14-20 July occurring in the community, indicating that many patients continue to die at home rather than accessing timely treatment. This highlights persistent challenges related to risk communication, community engagement, trust in the response, and timely care-seeking. In addition, the Cash Working Group has monitored an increase of 35% in the minimum expenditure basket value between May and June 2026 in Bunia, showing the impact of Ebola outbreak on local markets and inflation.\n\nThe geographical scope of the outbreak also remains under close monitoring. Two additional provinces recently reported affected cases, including Tshopo and Haut-Uele Provinces (bordering the Central African Republic). Crossborder transmission continues to pose a significant regional concern.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/522",
+                    "id": 522,
+                    "name": "Danish Refugee Council",
+                    "shortname": "DRC",
+                    "longname": "Danish Refugee Council",
+                    "homepage": "https://drc.ngo/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225273",
+            "date": {
+                "original": "2026-08-12T00:00:00+00:00",
+                "changed": "2026-08-12T00:34:10+00:00",
+                "created": "2026-08-12T00:32:57+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225273"
+    },
+    {
         "id": "4225212",
         "score": 1,
         "fields": {
@@ -33,7 +73,7 @@
             "url": "https://reliefweb.int/node/4225212",
             "date": {
                 "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-11T14:44:51+00:00",
+                "changed": "2026-08-11T19:30:40+00:00",
                 "created": "2026-08-11T14:44:28+00:00"
             }
         },
@@ -44,7 +84,7 @@
         "score": 1,
         "fields": {
             "title": "Note de plaidoyer pour l\u2019int\u00e9gration syst\u00e9matique de la PSEA dans la r\u00e9ponse \u00e0 la Maladie \u00e0 Virus Ebola (MVE) - Juillet 2026",
-            "body": "- Le contexte humanitaire en RDC et la r\u00e9cente \u00e9pid\u00e9mie d\u2019Ebola augmentent consid\u00e9rablement le risque d\u2019exploitation et d\u2019abus sexuels (EAS).\n- L\u2019int\u00e9gration de la PSEA dans la r\u00e9ponse \u00e0 la MVE est une condition essentielle pour garantir une r\u00e9ponse s\u00fbre, \u00e9thique, redevable et conforme au principe de \u201cne pas nuire\u201d. Chaque acteur engag\u00e9 dans la r\u00e9ponse doit pr\u00e9venir, signaler et r\u00e9pondre aux risques d\u2019exploitation et d\u2019abus sexuels.",
+            "body": "**Contexte**\n\n\u25cf Le contexte humanitaire en RDC et la r\u00e9cente \u00e9pid\u00e9mie d\u2019Ebola augmentent consid\u00e9rablement le risque d\u2019exploitation et d\u2019abus sexuels (EAS).\n\n\u25cf L\u2019int\u00e9gration de la PSEA dans la r\u00e9ponse \u00e0 la MVE est une condition essentielle pour garantir une r\u00e9ponse s\u00fbre, \u00e9thique, redevable et conforme au principe de \u201cne pas nuire\u201d. Chaque acteur engag\u00e9 dans la r\u00e9ponse doit pr\u00e9venir, signaler et r\u00e9pondre aux risques d\u2019exploitation et d\u2019abus sexuels\n\n\u25cf Les le\u00e7ons du pass\u00e9 montrent que seule une forte implication de toutes les parties prenantes en mati\u00e8re de protection et de pr\u00e9vention des EAS permettra de prot\u00e9ger efficacement les plus vuln\u00e9rables.\n\n\u25cf Le d\u00e9ploiement massif de personnel, en particulier des journaliers, constitue un risque \u00e9lev\u00e9 d\u2019EAS.\n\n\u25cf Toutes les organisations doivent s\u2019assurer qu\u2019avant tout d\u00e9ploiement, un briefing PSEA incluant la signature du code de conduite soit effectu\u00e9.\n\n\u25cf Les rappels et la formation de toutes les parties prenantes sur le PSEA sont essentiels pour instaurer une tol\u00e9rance z\u00e9ro envers les EAS.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -85,7 +125,7 @@
             "url": "https://reliefweb.int/node/4225210",
             "date": {
                 "original": "2026-07-10T00:00:00+00:00",
-                "changed": "2026-08-11T14:36:13+00:00",
+                "changed": "2026-08-11T19:39:18+00:00",
                 "created": "2026-08-11T14:34:49+00:00"
             }
         },
@@ -125,7 +165,7 @@
             "url": "https://reliefweb.int/node/4225211",
             "date": {
                 "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-11T14:41:24+00:00",
+                "changed": "2026-08-11T19:27:44+00:00",
                 "created": "2026-08-11T14:31:41+00:00"
             }
         },
@@ -135,7 +175,8 @@
         "id": "4225206",
         "score": 1,
         "fields": {
-            "title": "PAM DRC - RAPPORT DE LA SITUATION - JUILLET 2026",
+            "title": "PAM R\u00e9publique D\u00e9mocratique du Congo Rapport de la situation sur la riposte Ebola (31 juillet 2026)",
+            "body": "**POINTS FORTS**\n\n\u2022 L'\u00e9pid\u00e9mie d'Ebola se propage rapidement et g\u00e9ographiquement \u00e0 travers l'est de la RDC, avec des effets qui affectent la s\u00e9curit\u00e9 alimentaire et la nutrition, aggravant ainsi une crise humanitaire d\u00e9j\u00e0 grave. Le PAM a besoin de 75,5 millions de dollars pour r\u00e9pondre \u00e0 l'\u00e9pid\u00e9mie d'Ebola en RDC.\n\n\u2022 Bonne gouvernance et ex\u00e9cution op\u00e9rationnelle : En coordination avec ses partenaires, le PAM appuie la riposte gr\u00e2ce \u00e0 une assistance alimentaire, nutritionnelle, logistique et a\u00e9rienne\n\n\u2022 Solutions humanitaires : le PAM met en \u0153uvre la livraison simultan\u00e9e de repas chaud dans le centre de traitement Ebola ainsi la ration s\u00e8che aux cas contacts\n\n**Mis a jour de la situation**\n\n\u2022 La 17\u1d49 \u00e9pid\u00e9mie d'Ebola (souche Bundibugyo) d\u00e9clar\u00e9e le 14 mai 2026 continu de se propager dans l'est de la RDC. L'\u00e9pid\u00e9mie s'est rapidement \u00e9tendue avec 3, 674 cas confirm\u00e9s, 1 621 d\u00e9c\u00e8s et 666 cas r\u00e9tablis dans 48 zones de sant\u00e9 de cinq provinces de l'est de la RDC au 31 July.\n\n\u2022 La transmission a \u00e9t\u00e9 enregistr\u00e9e dans les zones de sant\u00e9 de Tshopo et Haut-Uele, ce qui indique une continuation de l'expansion g\u00e9ographique de l'\u00e9pid\u00e9mie. L'OMS l'a d\u00e9crite comme la troisi\u00e8me plus grande \u00e9pid\u00e9mie d'Ebola jamais enregistr\u00e9e et la plus rapide \u00e0 se propager jusqu'\u00e0 pr\u00e9sent. L'\u00e9pid\u00e9mie a aggrav\u00e9 les besoins humanitaires en RDC, faisant passer le nombre de personnes dans le besoin de 14,9 millions \u00e0 18,6 millions (dont 8 millions directement touch\u00e9es par l'EVD), selon le amended Humanitarian Needs Response Plan. La s\u00e9curit\u00e9 alimentaire reste l'un des besoins les plus critiques pour les personnes touch\u00e9es.\n\n\u2022 Le Directeur ex\u00e9cutif par int\u00e9rim du PAM, M. Carl Skau, et la Coordinatrice des urgences pour la r\u00e9ponse \u00e0 l\u2019Ebola, Mme Hsiao-Wei Lee, ont visit\u00e9 la RDC entre le 28 et le 30 juillet, rencontrant les autorit\u00e9s, les partenaires cl\u00e9s et le personnel \u00e0 Kinshasa, puis se sont rendus sur le terrain \u00e0 Bunia pour observer les op\u00e9rations du PAM en premi\u00e8re ligne de la lutte contre l\u2019Ebola en Ituri.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -165,7 +206,7 @@
             "url": "https://reliefweb.int/node/4225206",
             "date": {
                 "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-11T14:31:12+00:00",
+                "changed": "2026-08-11T19:26:25+00:00",
                 "created": "2026-08-11T14:27:03+00:00"
             }
         },
@@ -217,7 +258,7 @@
             "url": "https://reliefweb.int/node/4225205",
             "date": {
                 "original": "2026-07-31T00:00:00+00:00",
-                "changed": "2026-08-11T14:28:48+00:00",
+                "changed": "2026-08-11T19:23:14+00:00",
                 "created": "2026-08-11T14:26:38+00:00"
             }
         },
@@ -258,7 +299,7 @@
             "url": "https://reliefweb.int/node/4225201",
             "date": {
                 "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-11T19:03:56+00:00",
+                "changed": "2026-08-11T19:06:43+00:00",
                 "created": "2026-08-11T14:16:14+00:00"
             }
         },
@@ -353,7 +394,7 @@
         "score": 1,
         "fields": {
             "title": "WFP DRC Country Brief July 2026",
-            "body": "- In June 2026, WFP reached 1,433,057 people in the DRC, the highest monthly reach so far this year. In the four conflict-affected eastern provinces, life-saving assistance was delivered to some 898,608 people.\n- WFP also rolled out a verification system for in-kind distributions through its SCOPE platform to improve the efficiency of its operations, specifically using digital tools for supply chain optimization and predictive analysis, which help reduce response times and reach vulnerable populations more quickly.\n- UNHAS transported 3,570 passengers and 57 mt of cargo for 100 organizations across through 463 flights. Following the DRC Government\u2019s reopening of Bunia airport under strict hygiene protocols, UNHAS resumed operations to facilitate critical humanitarian access for the response. As a result, UNHAS deployed two additional aircraft to support humanitarian and Ebola response operations in Bunia.",
+            "body": "**KEY HIGHLIGHTS**\n\n- In June 2026, WFP reached 1,433,057 people in the DRC, the highest monthly reach so far this year. In the four conflict-affected eastern provinces, life-saving assistance was delivered to some 898,608 people.\n- WFP also rolled out a verification system for in-kind distributions through its SCOPE platform to improve the efficiency of its operations, specifically using digital tools for supply chain optimization and predictive analysis, which help reduce response times and reach vulnerable populations more quickly.\n- UNHAS transported 3,570 passengers and 57 mt of cargo for 100 organizations across through 463 flights. Following the DRC Government\u2019s reopening of Bunia airport under strict hygiene protocols, UNHAS resumed operations to facilitate critical humanitarian access for the response. As a result, UNHAS deployed two additional aircraft to support humanitarian and Ebola response operations in Bunia.\n\n**SITUATION OVERVIEW**\n\n\u2022 The security and humanitarian situation in the eastern Democratic Republic of Congo remains worrying. The provinces of North Kivu, South Kivu, and Ituri continue to grapple with armed conflicts and repeated violence, leading to massive population displacements.\n\n\u2022 According to OCHA, more than 74,000 people have newly been displaced in the DRC, bringing the total to about 6.47 million internally displaced people (IDPs). Insecurity persisted with escalated fighting advancing frontlines into the Fizi highlands in South Kivu forcing thousands of people to move further south to Tanganyika.\n\n\u2022 The 17th outbreak in the DRC declared in May continues to spread in DRC worsening an already fragile humanitarian situation. As of 31 July, there were 3,674 confirmed cases, 1, 621 deaths, and 666 recoveries across 48 health zones in three provinces. Uganda officially declared the end of the outbreak on July 28, after 42 days without a new confirmed case. However, the Ugandan authorities maintain high alert at the borders, as the disease is still active in the DRC.\n\n\u2022 The affected areas overlap with regions facing food crises (2.6 million people in phase 3 or worse levels of food insecurity). Movement restrictions and the impact of the outbreak threaten access to food and risk worsening the food security situation and humanitarian situations further.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -383,7 +424,7 @@
             "url": "https://reliefweb.int/node/4225194",
             "date": {
                 "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-11T13:37:06+00:00",
+                "changed": "2026-08-11T19:06:50+00:00",
                 "created": "2026-08-11T13:36:13+00:00"
             }
         },
@@ -1683,46 +1724,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4224908"
-    },
-    {
-        "id": "4224896",
-        "score": 1,
-        "fields": {
-            "title": "Rapport de la situation epidemiologique du cholera en RD Congo (Interne OMS), semaine 30, 2026",
-            "body": "**I. POINTS SAILLANTS DE LA SEMAINE 30**\n\n\u2022 Le total de cas rapport\u00e9 au cours de la semaine est de 941 cas pour 38 d\u00e9c\u00e8s soit une l\u00e9talit\u00e9 de 4%, portant le cumul des cas suspects \u00e0 35 544 et 975 d\u00e9c\u00e8s (NB : \u00e0 partir de ce Sitrep, nous ne communiquerons que sur le cumul de 2026 et non celui de 2025 et 2026, comme c\u2019\u00e9tait le cas avant et qui pr\u00eatait \u00e0 confusion)\n\n\u2022 Les provinces du Sud-Kivu et du Nord-Kivu, ont notifi\u00e9 68 % des cas suspects de chol\u00e9ra. \u2022 Une nouvelle zone de sant\u00e9 a \u00e9t\u00e9 affect\u00e9e au Sud Kivu (zone de sant\u00e9 de Lulingu : 5 as et 1 d\u00e9c\u00e8s).\n\n\u2022 Le d\u00e9ploiement des \u00e9quipes d\u2019intervention rapide du niveau central dans les provinces hotspots a commenc\u00e9 cette semaine avec le Sud Ubangi et va se poursuivre avec le Kongo Central, le Tanganyika et le Kwango avant la fin de la semaine.\n\n\u2022 La surveillance du corridor fluvial a permis de d\u00e9tecter de nouveaux cas et d\u00e9c\u00e8s suspects de chol\u00e9ra \u00e0 bord de bateaux sur l'axe Mongala\u2013Ma\u00ef-Ndombe, conduisant au renforcement des mesures de riposte. Sur un bateau, 14 cas suspects de cholera dont 4 d\u00e9c\u00e8s ont \u00e9t\u00e9 enregistr\u00e9s entre le 15 juillet et le 29 juillet 2026.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4224896",
-            "date": {
-                "original": "2026-08-07T00:00:00+00:00",
-                "changed": "2026-08-09T23:23:55+00:00",
-                "created": "2026-08-09T23:22:57+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4224896"
     }
 ]
