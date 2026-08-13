@@ -1,5 +1,108 @@
 [
     {
+        "id": "4225447",
+        "score": 1,
+        "fields": {
+            "title": "RD Congo : Situation de la lutte contre la rougeole en RD Congo - Semaine \u00e9pid\u00e9miologique 31, 2026 (Mise \u00e0 jour du 10/08/2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/732",
+                    "id": 732,
+                    "name": "Government of the Democratic Republic of the Congo",
+                    "shortname": "Govt. DR Congo",
+                    "longname": "Government of the Democratic Republic of the Congo",
+                    "type": {
+                        "id": 271,
+                        "name": "Government"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225447",
+            "date": {
+                "original": "2026-08-10T00:00:00+00:00",
+                "changed": "2026-08-13T02:12:22+00:00",
+                "created": "2026-08-13T02:11:35+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225447"
+    },
+    {
+        "id": "4225434",
+        "score": 1,
+        "fields": {
+            "title": "Ebola Bundibugyo virus disease outbreak: Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026",
+            "body": "**Event description**\n\nThe Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo remains in a phase of intense and expanding transmission, with cumulative deaths crossing the grim milestone of 2,000 only 86 days after the outbreak was officially declared on 15 May 2026. Since External Situation Report #12, an additional 579 confirmed cases and 304 confirmed deaths have been reported, bringing the cumulative total to 4,381 confirmed cases and 2,011 confirmed deaths as of 9 August 2026, corresponding to a case fatality ratio of 45.9%. Ituri remains the epicentre, accounting for 85.8% of cumulative cases and 80.6% of cumulative deaths.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225434",
+            "date": {
+                "original": "2026-08-12T00:00:00+00:00",
+                "changed": "2026-08-13T01:16:52+00:00",
+                "created": "2026-08-13T01:15:35+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225434"
+    },
+    {
         "id": "4225404",
         "score": 1,
         "fields": {
@@ -74,8 +177,8 @@
             ],
             "url": "https://reliefweb.int/node/4225403",
             "date": {
-                "original": "2026-08-12T00:00:00+00:00",
-                "changed": "2026-08-12T15:21:31+00:00",
+                "original": "2026-07-15T00:00:00+00:00",
+                "changed": "2026-08-13T00:21:55+00:00",
                 "created": "2026-08-12T15:19:58+00:00"
             }
         },
@@ -116,8 +219,8 @@
             ],
             "url": "https://reliefweb.int/node/4225398",
             "date": {
-                "original": "2026-08-12T00:00:00+00:00",
-                "changed": "2026-08-12T14:47:13+00:00",
+                "original": "2026-08-11T00:00:00+00:00",
+                "changed": "2026-08-13T00:15:57+00:00",
                 "created": "2026-08-12T14:44:25+00:00"
             }
         },
@@ -158,8 +261,8 @@
             ],
             "url": "https://reliefweb.int/node/4225397",
             "date": {
-                "original": "2026-08-12T00:00:00+00:00",
-                "changed": "2026-08-12T14:39:47+00:00",
+                "original": "2026-08-11T00:00:00+00:00",
+                "changed": "2026-08-13T00:15:42+00:00",
                 "created": "2026-08-12T14:37:27+00:00"
             }
         },
@@ -1676,85 +1779,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225022"
-    },
-    {
-        "id": "4225021",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon: Locations of forcibly displaced persons (July 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225021",
-            "date": {
-                "original": "2026-07-31T00:00:00+00:00",
-                "changed": "2026-08-11T00:17:47+00:00",
-                "created": "2026-08-10T14:03:29+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225021"
-    },
-    {
-        "id": "4225020",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR Cameroon Multi Country Office: Forcibly displaced persons movements (July 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225020",
-            "date": {
-                "original": "2026-07-31T00:00:00+00:00",
-                "changed": "2026-08-11T00:22:10+00:00",
-                "created": "2026-08-10T14:03:26+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225020"
     }
 ]
