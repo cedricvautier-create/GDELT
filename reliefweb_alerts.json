@@ -1,5 +1,139 @@
 [
     {
+        "id": "4225462",
+        "score": 1,
+        "fields": {
+            "title": "Fiche d\u2019information : Groupe de travail d\u2019analyse de crises et qualit\u00e9 de r\u00e9ponse (GTACQ) Analyse provinces du Sud-Kivu, Nord-Kivu et Ituri (juin 2026)",
+            "body": "**Messages cl\u00e9s**\n\n\u2022 Nord-Kivu : Alors que le nombre de hotspots restait stable \u00e0 10, la situation humanitaire se d\u00e9gradait \u00e0 Katoyi et Itebero, o\u00f9 les d\u00e9placements massifs, les besoins \u00e9lev\u00e9s et les gaps persistants de la r\u00e9ponse maintenaient une situation humanitaire critique, tandis que Bambo et Birambizo sortaient du statu de hotspot sans que les besoins n'y diminuent significativement.\n\n\u2022 Sud-Kivu : la pression humanitaire restait particuli\u00e8rement alarmante \u00e0 Minova, o\u00f9 les besoins \u00e9taitent \u00e9lev\u00e9 avec plus de 82 000 personnes d\u00e9plac\u00e9es, malgr\u00e9 une baisse g\u00e9n\u00e9ralis\u00e9e du nombre de ZS en hotspot au sein de la province ( 7 contre 9 le mois pr\u00e9c\u00e9dant).\n\n\u2022 Ituri : Malgr\u00e9 une baisse du nombre de hotspots de 8 \u00e0 6 et la sortie de Lolwa et Boga parmi les hotspots, la crise restait pr\u00e9occupante puisque les besoins et les gaps de la r\u00e9ponse demeuraient importants, tandis que 23 des 36 ZS \u00e9taient touch\u00e9es par l\u2019\u00e9pid\u00e9mie d\u2019Ebola au 27 juin.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225462",
+            "date": {
+                "original": "2026-08-12T00:00:00+00:00",
+                "changed": "2026-08-13T04:01:36+00:00",
+                "created": "2026-08-13T03:10:05+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225462"
+    },
+    {
+        "id": "4225460",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Termes de r\u00e9f\u00e9rence de la recherche - Evaluation th\u00e9matique sur l\u2019impact de l\u2019\u00e9pidemie \u00e0 virus Ebola et de la fermeture frontali\u00e8re sur les march\u00e9s des villes de Bunia et de Beni, DRC2606 (Juillet 2026, V.1)",
+            "body": "**2. Justification**\n\n**2.1. Contexte et informations g\u00e9n\u00e9rales**\n\nDepuis mai 2026, la R\u00e9publique d\u00e9mocratique du Congo (RDC) fait face \u00e0 une nouvelle flamb\u00e9e de maladie \u00e0 virus Ebola caus\u00e9e par la souche Bundibugyo. Selon les donn\u00e9es publi\u00e9es par le Institut National de Sant\u00e9 Publique (INSP), au 7 ao\u00fbt 2026, 4 209 cas confirm\u00e9s et 1 916 d\u00e9c\u00e8s avaient \u00e9t\u00e9 enregistr\u00e9s en RDC, dont plus de 3 600 cas dans la seule province de l\u2019Ituri, faisant de cette province l\u2019\u00e9picentre de l\u2019\u00e9pid\u00e9mie1. Face \u00e0 cette situation, les autorit\u00e9s nationales et internationales ont renforc\u00e9 les mesures de contr\u00f4le sanitaire afin de limiter la propagation de la maladie. L\u2019Organisation mondiale de la Sant\u00e9 a class\u00e9 cette flamb\u00e9e parmi les urgences de sant\u00e9 publique de port\u00e9e internationale n\u00e9cessitant une mobilisation internationale accrue2.\n\nParall\u00e8lement, plusieurs mesures de restriction ont \u00e9t\u00e9 mises en place concernant les mouvements transfrontaliers entre la RDC et l\u2019Ouganda. Des contr\u00f4les sanitaires renforc\u00e9s ainsi que des fermetures temporaires de certains points d\u2019entr\u00e9e ont \u00e9t\u00e9 rapport\u00e9s. Ces mesures pourraient affecter les cha\u00eenes d\u2019approvisionnement, les volumes commerciaux et les prix des produits essentiels dans les zones fortement d\u00e9pendantes du commerce transfrontalier3.\n\nLa ville de Bunia, en particulier, d\u00e9pend fortement du corridor commercial reliant l\u2019Ouganda \u00e0 l\u2019Ituri. Une part importante des produits alimentaires consomm\u00e9s dans la ville, notamment la farine de ma\u00efs, les haricots, le sel, l\u2019huile v\u00e9g\u00e9tale ainsi que certains produits manufactur\u00e9s, provient directement ou indirectement des march\u00e9s ougandais4. Toute perturbation prolong\u00e9e des flux commerciaux pourrait donc affecter la disponibilit\u00e9 des produits, les co\u00fbts d\u2019approvisionnement et les prix pratiqu\u00e9s sur les march\u00e9s locaux.\n\nLa ville de Beni constitue \u00e9galement un important centre commercial dans l\u2019Est de la RDC et joue un r\u00f4le strat\u00e9gique dans les \u00e9changes transfrontaliers avec l\u2019Ouganda. Situ\u00e9e sur le corridor Beni\u2013Kasindi\u2013Mpondwe, elle constitue un point majeur de transit et de redistribution des marchandises import\u00e9es depuis l\u2019Ouganda vers le Nord-Kivu, l\u2019Ituri et d\u2019autres provinces de l\u2019Est du pays. L\u2019importance \u00e9conomique de cet axe est notamment illustr\u00e9e par les initiatives r\u00e9centes visant \u00e0 moderniser la route Kasindi\u2013Beni, essentielle pour le commerce r\u00e9gional et l\u2019int\u00e9gration \u00e9conomique entre les deux pays5. Les march\u00e9s de Kilokwa et de Mayangose figurent parmi les principaux march\u00e9s desservant les populations de la ville de Beni et de ses environs. Des difficult\u00e9s d'approvisionnement et des augmentations de prix ont notamment \u00e9t\u00e9 rapport\u00e9es pour plusieurs produits import\u00e9s d'Ouganda, soulignant la forte d\u00e9pendance des march\u00e9s de Beni aux \u00e9changes transfrontaliers6. En juin 2026, les donn\u00e9es collect\u00e9es par REACH dans le cadre de l\u2019Initiative Conjointe de Suivi des March\u00e9s (ICSM) ont montr\u00e9 une augmentation du co\u00fbt m\u00e9dian du Panier de D\u00e9penses Minimum (MEB) dans les march\u00e9s de Mayangose et Kilokwa, respectivement de 28% et 23% par rapport \u00e0 mai 20267.\n\nLes restrictions actuelles pourraient entrainer :\n\n\u2022 Une diminution de l'offre sur les march\u00e9s ;\n\n\u2022 Une augmentation des co\u00fbts de transport ;\n\n\u2022 Une hausse des prix des biens essentiels ;\n\n\u2022 Une r\u00e9duction de l'acc\u00e8s des m\u00e9nages vuln\u00e9rables aux produits alimentaires et non-alimentaires ;\n\n\u2022 Une perturbation des revenus des commer\u00e7ants.\n\nPar ailleurs, l\u2019\u00e9pid\u00e9mie d\u2019Ebola pourrait entra\u00eener une augmentation de la demande pour certains produits d\u2019hygi\u00e8ne et de pr\u00e9vention sanitaire, tels que le gel hydroalcoolique, les masques chirurgicaux, les d\u00e9sinfectants et autres \u00e9quipements de protection individuelle. Une hausse de la demande combin\u00e9e \u00e0 d\u2019\u00e9ventuelles contraintes d\u2019approvisionnement pourrait contribuer \u00e0 une augmentation des prix ou \u00e0 des difficult\u00e9s d\u2019acc\u00e8s \u00e0 ces produits.\n\nDans ce contexte, une \u00e9valuation cibl\u00e9e des march\u00e9s appara\u00eet n\u00e9cessaire afin de documenter les effets r\u00e9els de la crise sanitaire et des restrictions transfrontali\u00e8res sur le fonctionnement des march\u00e9s de Bunia et de Beni. Cette analyse permettra de fournir aux partenaires ICSM, au Cash Working Group (CWG) et aux acteurs humanitaires des informations actualis\u00e9es pour orienter la prise de d\u00e9cision programmatique et la faisabilit\u00e9 des interventions en transferts mon\u00e9taires.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225460",
+            "date": {
+                "original": "2026-08-12T00:00:00+00:00",
+                "changed": "2026-08-13T03:58:59+00:00",
+                "created": "2026-08-13T03:03:44+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225460"
+    },
+    {
+        "id": "4225458",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique Centrafricaine - Initiative conjointe de suivi des march\u00e9s (ICSM), Juin - Juillet 2026",
+            "body": "**MESSAGES CL\u00c9S**\n\n\u2022 Le co\u00fbt m\u00e9dian du PMAS a enregistr\u00e9 une baisse l\u00e9g\u00e8re, allant jusqu'\u00e0 10%, dans la majorit\u00e9 des march\u00e9s \u00e9valu\u00e9s \u00e0 la fois en avril et en juin, principalement sous l\u2019effet de la baisse des prix des produits alimentaires et non alimentaires, malgr\u00e9 une hausse de 18% du panier d\u2019hygi\u00e8ne. \u00c0 l\u2019inverse, les trois sous-pr\u00e9fectures de Bangui ont enregistr\u00e9 une hausse du PMAS comprise entre 16% et 25%. Le co\u00fbt m\u00e9dian du PMAS variait de 46 661 XAF \u00e0 Batangafo \u00e0 84 479 XAF \u00e0 Mobaye, traduisant d\u2019importantes disparit\u00e9s entre les march\u00e9s.\n\n\u2022 La majorit\u00e9 des march\u00e9s \u00e9valu\u00e9s en RCA pr\u00e9sentaient une fonctionnalit\u00e9 limit\u00e9e, avec des scores SFM compris entre 49% et 82%, principalement en raison de la baisse de la disponibilit\u00e9 des produits et de leur abordabilit\u00e9. Bien que le march\u00e9 de BanguiCentre ait atteint une fonctionnalit\u00e9 compl\u00e8te (>80%), les autres march\u00e9s ont vu leur score SFM baisser du fait d'une moindre disponibilit\u00e9 des produits. Certains march\u00e9s \u00e0 l'int\u00e9rieur du pays, comme Bria, Kaga-Bandoro et Markounda, affichaient une mauvaise fonctionnalit\u00e9 (<50%), ce qui indique des contraintes critiques dans les infrastructures et les circuits d'approvisionnement. La raret\u00e9 des articles, en particulier non alimentaires, est particuli\u00e8rement critique dans environ six march\u00e9s, o\u00f9 les enqu\u00eateurs n'ont pas \u00e9t\u00e9 en mesure de collecter suffisamment de prix pour plus de 40% des articles du panier MEB.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225458",
+            "date": {
+                "original": "2026-08-12T00:00:00+00:00",
+                "changed": "2026-08-13T03:55:59+00:00",
+                "created": "2026-08-13T02:57:19+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225458"
+    },
+    {
         "id": "4225447",
         "score": 1,
         "fields": {
@@ -1656,128 +1790,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225044"
-    },
-    {
-        "id": "4225036",
-        "score": 1,
-        "fields": {
-            "title": "As the Ebola outbreak spreads in DRC, IRC trains community leaders to strengthen early detection and combat misinformation",
-            "body": "As Ebola cases surpass the total recorded during the 2018-2020 outbreak in less than three months, IRC expands community engagement and maximises volunteer networks across high-risk areas in Ituri province.\n\n**Bunia, Democratic Republic of the Congo, August 10, 2026** \u2014 As the Ebola outbreak continues to spread, misinformation remains a significant challenge, hindering prevention efforts and reducing trust in health interventions. To help address this, the International Rescue Committee (IRC) is scaling up community engagement across Ituri province, training local leaders and community volunteers to raise awareness, counter misinformation through trusted local networks, support the early detection of cases, and gather community concerns and feedback.\n\n*\u201cMany people still do not accept that the disease exists, because they are frightened by the name Ebola,\u201d* said Akenedli Gbadi Edith, community leader in Rwankole, Bunia. *\u201cWhen people hear the word Ebola, they immediately think of death. No one wants to accept death, and this contributes to resistance. However, resistance is gradually decreasing, as we continue raising awareness. I will help people understand that this disease is real. Anyone who develops signs or symptoms should go immediately to a health facility.\u201d*\n\n*\"Communities are the first line of defense against Ebola,\"* said Lenet Kajogi, overseeing the IRC\u2019s risk communication and community engagement activities in Bunia.*\"When people have accurate information and trusted local leaders to turn to, they are better equipped to protect themselves, identify potential symptoms and seek care early. Community engagement is not just about sharing messages. It is about listening to people's concerns, responding to rumors and building trust.\"*\n\nAs the Ebola outbreak continues to affect multiple provinces across the DRC, with more than 4,200 reported cases and nearly 2,000 deaths, these engagement activities are targeting representatives from religious institutions, schools, youth networks, women's groups and the transport sector. The scale and speed of the outbreak, which has surpassed the total number of cases recorded during the 2018-2020 outbreak in less than three months, underscore the importance of strengthening public awareness, building trust and supporting community-led prevention efforts as part of the overall response.\n\nBuilding on 30 years\u2019 experience in providing health support and community engagement activities in the DRC, the IRC is training community leaders in prevention and response measures across 15 health areas in Bunia, Rwampara and Nyankunde as well as six additional sessions in Goma. Following the trainings, community volunteers conduct door-to-door awareness sessions and small community discussions, while also collecting feedback and monitoring misinformation circulating within communities.\n\nThe IRC is supporting preparedness and response efforts in high-risk areas, strengthening infection prevention and control, surveillance, community engagement, and support for frontline health workers to help contain the outbreak and prevent further spread. Additional funding would enable the IRC to continue providing essential health, clean water and sanitation, community engagement, and protection services. It would also allow the IRC to expand its work into Beni and Butembo, two high-need areas in North Kivu where access to humanitarian assistance remains limited.\n\n**Media contacts**\n\nKim Winkler\n\nInternational Rescue Committee\n\n**Kim.Winkler@rescue.org**\n\nIRC Global Communications\n\n**communications@rescue.org**",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2012",
-                    "id": 2012,
-                    "name": "International Rescue Committee",
-                    "shortname": "IRC",
-                    "longname": "International Rescue Committee",
-                    "spanish_name": "Comit\u00e9 Internacional de Rescate",
-                    "homepage": "https://www.rescue.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225036",
-            "date": {
-                "original": "2026-08-10T00:00:00+00:00",
-                "changed": "2026-08-10T23:56:46+00:00",
-                "created": "2026-08-10T15:33:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225036"
-    },
-    {
-        "id": "4225023",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR Weekly Relocation Update - Eastern Chad (31 July 2026)",
-            "body": "**Weekly Highlights**\n\n\u2022 From 27 - 31 July, 2,387 refugees (679 households) were relocated from border areas to the inland sites of Arkoum (Ouadda\u00ef Province) under the accelerated relocation programme.\n\n\u2022 Since 15 April 2026, a cumulative 31,059 individuals (8,519 households) have been relocated under the accelerated relocation programme, bringing the total number relocated since January 2026 to 47,902 refugees (15,910 households).\n\n\u2022 Since April 2023, UNHCR and its partners have relocated 648,797 individuals (173,847 households) from border areas to safer sites, representing 69% of the 940,612 Sudanese refugees who have arrived in Chad since April 2023.\n\n\u2022 Relocations have taken place to Ennedi Est (79,516 individuals), Sila (81,304), Wadi Fira (198,479), and Ouadda\u00ef (289,498). \u2022 Since 15 April 2026, a total of 50,508 refugees has been biometrically registered and 11,293 others have been preregistered, making a total of 61,801 individuals under OCHA-US funding.\n\n\u2022 Since 15 April, a total of 23,605 refugee documentation (households and individuals) has been delivered to refugees in Eastern Chad. \u2022 Since April 2026, a total of 10,542 emergency shelters constructed across selected sites in the Ouaddai, Sila and Wadi Fira, improving living conditions for newly relocated refugee families.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225023",
-            "date": {
-                "original": "2026-07-31T00:00:00+00:00",
-                "changed": "2026-08-11T00:07:12+00:00",
-                "created": "2026-08-10T14:03:35+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225023"
-    },
-    {
-        "id": "4225022",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR Mise \u00e0 Jour sur la Relocalisation - Est du Tchad (au 31 juillet 2026)",
-            "body": "**Faits marquants de la semaine**\n\n\u2022 Du 27 -31 juillet, 2 387 personnes (679 m\u00e9nages) ont \u00e9t\u00e9 relocalis\u00e9es des zones frontali\u00e8res vers le site d\u2019Arkoum (province du Ouadda\u00ef) dans le cadre du programme acc\u00e9l\u00e9r\u00e9 de relocalisation.\n\n\u2022 Depuis le 15 avril 2026, un total de 31 059 personnes (8 519 m\u00e9nages) a \u00e9t\u00e9 relocalis\u00e9 dans le cadre du programme de relocalisation acc\u00e9l\u00e9r\u00e9e, portant \u00e0 47 902 r\u00e9fugi\u00e9s (15,910 m\u00e9nages) le nombre total de personnes relocalis\u00e9es depuis janvier 2026.\n\n\u2022 Depuis avril 2023, le HCR et ses partenaires ont relocalis\u00e9 648 797 personnes (173 847 m\u00e9nages) des zones frontali\u00e8res vers des sites s\u00e9curis\u00e9s, soit 69 % des 940 612 r\u00e9fugi\u00e9s soudanais arriv\u00e9s au Tchad depuis avril 2023.\n\n\u2022 Les relocalisations ont eu lieu vers l\u2019Ennedi Est (79 516 personnes), le Sila (81 304), le Wadi Fira (198 479) et l\u2019Ouadda\u00ef (289 498).\n\n\u2022 Depuis le 15 avril, un total de 50 508 r\u00e9fugi\u00e9s a \u00e9t\u00e9 enregistr\u00e9s biom\u00e9triquement et 11 293 autres pr\u00e9enregistr\u00e9s, portant \u00e0 61 801 le nombre total de personnes enregistr\u00e9es.\n\n\u2022 Depuis le 15 avril 2026, un total de 23,605 documents de r\u00e9fugi\u00e9s (25% documents aux m\u00e9nages et 75% document individuels) a \u00e9t\u00e9 d\u00e9livr\u00e9 aux r\u00e9fugi\u00e9s dans l\u2019Est du Tchad. Depuis avril 2026, un total de 10 542 abris d\u2019urgence a \u00e9t\u00e9 construit sur des sites s\u00e9lectionn\u00e9s de l\u2019Ouadda\u00ef, du Sila et du Wadi Fira, pour am\u00e9liorer les conditions de vie des familles r\u00e9fugi\u00e9es nouvellement relocalis\u00e9es.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225022",
-            "date": {
-                "original": "2026-07-31T00:00:00+00:00",
-                "changed": "2026-08-11T00:09:13+00:00",
-                "created": "2026-08-10T14:03:32+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225022"
     }
 ]
