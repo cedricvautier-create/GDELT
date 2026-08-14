@@ -1,5 +1,86 @@
 [
     {
+        "id": "4225728",
+        "score": 1,
+        "fields": {
+            "title": "Multi-Country Bundibugyo Ebola Outbreak Response (3-9 August 2026) - Situation Report #13",
+            "body": "According to the World Health Organization, as of 10 August, the Democratic Republic of the Congo (DRC) reported 4,449 confirmed cases of Ebola disease caused by the Bundibugyo virus (BVD), including 2,061 deaths.\n\nWith the recent increase in reported cases, the Ebola Bundibugyo outbreak has become the largest and fastest-growing outbreak ever reported in DRC. The rapidly escalating outbreak is unfolding against the backdrop of an ongoing triple crisis in eastern DRC, where health risks, large-scale displacement and persistent conflict intersect. Displaced populations living in camps face complex and multidimensional needs requiring coordinated, multisectoral interventions. Across affected areas, most deaths continue to occur within communities, underscoring the urgent need to strengthen contact tracing and community event-based surveillance to support earlier detection, referral and response.\n\nThe spread of the outbreak into Tshopo and Haut-U\u00e9l\u00e9 Provinces underscores continued need to comprehensively address the mobility dimensions of the ongoing public health response. While no positive Ebola case has been reported on vessels arriving via riverine routes in Kinshasa, heightened transmission risks require strengthened coordination and vigilance at points of control (PoCs) along the river to prevent further geographic spread. In parallel, the rising number of cases in Haut-U\u00e9l\u00e9 requires enhanced disease surveillance and cross-border coordination to prevent disease transmission into neighbouring South Sudan and the Central African Republic (CAR).\n\nDuring the reporting period, key highlights include :\n\n- **4,449 confirmed Ebola cases and 2,061 deaths** in the DRC as of 10 August 2026, making this the **largest and fastest-growing Bundibugyo Ebola outbreak ever recorded in the country**.\n- Over **16.5 million health screenings** supported at **225 points** of entry and points of control across affected and at-risk countries.\n- During the reporting period, IOM supported **2.57 million health screenings in the DRC alone**\n- More than **13.1 million individuals reached** through risk communication and community engagement activities.\n- Trained **575 health workers in Rwanda** on Ebola detection, infection prevention and control, surveillance, and response measures.\n- Continued to strengthen surveillance and preparedness capacities along critical mobility corridors, including riverine routes into Kinshasa and border areas near South Sudan and the Central African Republic.\n\nThe outbreak continues to unfold in a complex operational environment marked by insecurity, displacement, and population mobility. As transmission persists in eastern DRC, sustained investment in surveillance, border health measures, community engagement, and support to displaced and mobile populations remains critical to containing the outbreak and preventing cross-border spread. [Learn more HERE](https://crisisresponse.iom.int/sites/g/files/tmzbdl1481/files/uploaded-files/IOM-Multi-Country-Bundibugyo-virus-disease-Response-Sit-Rep-No-13-3-9-August-2026.pdf)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225728",
+            "date": {
+                "original": "2026-08-14T00:00:00+00:00",
+                "changed": "2026-08-14T15:43:21+00:00",
+                "created": "2026-08-14T15:40:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225728"
+    },
+    {
+        "id": "4225688",
+        "score": 1,
+        "fields": {
+            "title": "Flamb\u00e9es \u00e9pid\u00e9miques en Afrique, sant\u00e9 sous tension",
+            "body": "Plusieurs flamb\u00e9es \u00e9pid\u00e9miques touchent actuellement le continent africain. Ebola en R\u00e9publique d\u00e9mocratique du Congo, chol\u00e9ra dans l\u2019\u00c9tat du Borno au Nig\u00e9ria, Mpox dans plusieurs pays : derri\u00e8re ces \u00e9pid\u00e9mies, des facteurs communs fragilisent les populations et compliquent la r\u00e9ponse sanitaire.\n\nD\u00e9placements de population, acc\u00e8s limit\u00e9 \u00e0 l\u2019eau potable, syst\u00e8mes de sant\u00e9 fragilis\u00e9s ou encore difficult\u00e9s d\u2019acc\u00e8s humanitaire : les contextes de crise peuvent favoriser la propagation des maladies et compliquer la d\u00e9tection et la prise en charge des cas. Face \u00e0 ces \u00e9pid\u00e9mies, les enjeux de pr\u00e9vention, de surveillance et d\u2019acc\u00e8s aux soins restent essentiels.\n\nPour en savoir plus sur ces diff\u00e9rentes \u00e9pid\u00e9mies, d\u00e9couvrez notre carrousel ?",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1992",
+                    "id": 1992,
+                    "name": "M\u00e9decins du Monde",
+                    "shortname": "MDM",
+                    "longname": "M\u00e9decins du Monde France",
+                    "homepage": "https://www.medecinsdumonde.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225688",
+            "date": {
+                "original": "2026-08-14T00:00:00+00:00",
+                "changed": "2026-08-14T13:36:36+00:00",
+                "created": "2026-08-14T13:33:04+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225688"
+    },
+    {
         "id": "4225676",
         "score": 1,
         "fields": {
@@ -34,7 +115,7 @@
             "url": "https://reliefweb.int/node/4225676",
             "date": {
                 "original": "2026-08-14T00:00:00+00:00",
-                "changed": "2026-08-14T12:41:25+00:00",
+                "changed": "2026-08-14T14:02:56+00:00",
                 "created": "2026-08-14T12:33:05+00:00"
             }
         },
@@ -1638,98 +1719,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225206"
-    },
-    {
-        "id": "4225205",
-        "score": 1,
-        "fields": {
-            "title": "Analyse des risques EAS au niveau organisationnel",
-            "body": "Visualisation des risques d'Exploitations et Abus Sexuelles (EAS) selon les activit\u00e9s et le personnel pour renforcer la vigilance et la pr\u00e9vention.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52337",
-                    "id": 52337,
-                    "name": "PSEA Network DRC",
-                    "shortname": "PSEA Network DRC",
-                    "longname": "Inter-Agency Protection from Sexual Exploitation and Abuse (PSEA) Network in the Democratic Republic of the Congo",
-                    "homepage": "https://response.reliefweb.int/democratic-republic-congo/psea",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2782",
-                    "id": 2782,
-                    "name": "UN Country Team in DR Congo",
-                    "shortname": "UNCT DRC",
-                    "longname": "United Nations Country Team in Democratic Republic of the Congo",
-                    "homepage": "https://drcongo.un.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225205",
-            "date": {
-                "original": "2026-07-31T00:00:00+00:00",
-                "changed": "2026-08-11T19:23:14+00:00",
-                "created": "2026-08-11T14:26:38+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225205"
-    },
-    {
-        "id": "4225201",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo: PAM Apercu du pays (juillet 2026)",
-            "body": "**KEY HIGHLIGHTS**\n\n\u2022 Ex\u00e9cution Op\u00e9rationnelle : En juin 2026, le PAM a atteint plus de 1,433,057 personnes \u00e0 travers toutes les activit\u00e9s en RDC. La r\u00e9alisation mensuelle est \u00e9lev\u00e9e durant de ce mois dans les quatre provinces de l\u2019est touch\u00e9es par le conflit, une aide vitale a \u00e9t\u00e9 apport\u00e9e \u00e0 environ 898, 608 personnes.\n\n\u2022 Solution Humanitaire : En juin, le PAM a d\u00e9ploy\u00e9 un syst\u00e8me de v\u00e9rification pour les distributions des vivres via sa plateforme SCOPE afin d'am\u00e9liorer l'efficacit\u00e9 de ses op\u00e9rations, en utilisant notamment des outils num\u00e9riques pour l'optimisation de la cha\u00eene d\u2019approvisionnement, l\u2019analyse pr\u00e9dictive, ce qui aide \u00e0 r\u00e9duire les d\u00e9lais de r\u00e9ponse.\n\n**APERCU DE LA SITATION**\n\n\u2022 La situation s\u00e9curitaire et humanitaire dans l'est de la R\u00e9publique d\u00e9mocratique du Congo reste inqui\u00e9tante. Les provinces du Nord-Kivu, du SudKivu et de l'Ituri continuent de faire face \u00e0 des conflits arm\u00e9s et \u00e0 des violences r\u00e9p\u00e9t\u00e9es, entra\u00eenant des d\u00e9placements r\u00e9currents et massifs de population.\n\n\u2022 Selon le rapport d\u2019 OCHA, plus de 74, 000 personnes ont \u00e9t\u00e9 r\u00e9cemment d\u00e9plac\u00e9es en RDC, portant le total \u00e0 environ 6,47 millions de d\u00e9plac\u00e9s internes (IDP). L'ins\u00e9curit\u00e9 persistante avec intensification des combats avan\u00e7ant vers les lignes de front dans les hauts plateaux de Fizi au Sud-Kivu, obligeant des milliers de personnes \u00e0 se d\u00e9placer plus au sud vers le Tanganyika.\n\n\u2022 La 17\u1d49 flamb\u00e9e de la maladie \u00e0 virus Ebola en RDC, d\u00e9clar\u00e9e en mai, continue de se propager, aggravant ainsi la situation humanitaire d\u00e9j\u00e0 pr\u00e9occupante. Au 31 juillet, 3 ,674 cas confirm\u00e9s avaient \u00e9t\u00e9 enregistr\u00e9s, dont 1, 621 d\u00e9c\u00e8s et 666 gu\u00e9risons, dans 48 zones de sant\u00e9 r\u00e9parties sur trois provinces. De son c\u00f4t\u00e9, l'Ouganda a officiellement annonc\u00e9 la fin de l'\u00e9pid\u00e9mie le 28 juillet, apr\u00e8s 42 jours sans aucun nouveau cas confirm\u00e9. N\u00e9anmoins, les autorit\u00e9s ougandaises maintiennent un niveau d'alerte \u00e9lev\u00e9 aux fronti\u00e8res en raison de la persistance de la maladie en RDC.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225201",
-            "date": {
-                "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-11T19:06:43+00:00",
-                "created": "2026-08-11T14:16:14+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225201"
     }
 ]
