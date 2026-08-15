@@ -1,5 +1,46 @@
 [
     {
+        "id": "4225759",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Zones affect\u00e9es ou \u00e0 risque d\u2019Ebola vs Zones couvertes par le plan de r\u00e9ponse (HNRP) - au 15 Ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225759",
+            "date": {
+                "original": "2026-08-15T00:00:00+00:00",
+                "changed": "2026-08-15T11:43:11+00:00",
+                "created": "2026-08-15T11:42:42+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225759"
+    },
+    {
         "id": "4225728",
         "score": 1,
         "fields": {
@@ -1678,46 +1719,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225211"
-    },
-    {
-        "id": "4225206",
-        "score": 1,
-        "fields": {
-            "title": "PAM R\u00e9publique D\u00e9mocratique du Congo Rapport de la situation sur la riposte Ebola (31 juillet 2026)",
-            "body": "**POINTS FORTS**\n\n\u2022 L'\u00e9pid\u00e9mie d'Ebola se propage rapidement et g\u00e9ographiquement \u00e0 travers l'est de la RDC, avec des effets qui affectent la s\u00e9curit\u00e9 alimentaire et la nutrition, aggravant ainsi une crise humanitaire d\u00e9j\u00e0 grave. Le PAM a besoin de 75,5 millions de dollars pour r\u00e9pondre \u00e0 l'\u00e9pid\u00e9mie d'Ebola en RDC.\n\n\u2022 Bonne gouvernance et ex\u00e9cution op\u00e9rationnelle : En coordination avec ses partenaires, le PAM appuie la riposte gr\u00e2ce \u00e0 une assistance alimentaire, nutritionnelle, logistique et a\u00e9rienne\n\n\u2022 Solutions humanitaires : le PAM met en \u0153uvre la livraison simultan\u00e9e de repas chaud dans le centre de traitement Ebola ainsi la ration s\u00e8che aux cas contacts\n\n**Mis a jour de la situation**\n\n\u2022 La 17\u1d49 \u00e9pid\u00e9mie d'Ebola (souche Bundibugyo) d\u00e9clar\u00e9e le 14 mai 2026 continu de se propager dans l'est de la RDC. L'\u00e9pid\u00e9mie s'est rapidement \u00e9tendue avec 3, 674 cas confirm\u00e9s, 1 621 d\u00e9c\u00e8s et 666 cas r\u00e9tablis dans 48 zones de sant\u00e9 de cinq provinces de l'est de la RDC au 31 July.\n\n\u2022 La transmission a \u00e9t\u00e9 enregistr\u00e9e dans les zones de sant\u00e9 de Tshopo et Haut-Uele, ce qui indique une continuation de l'expansion g\u00e9ographique de l'\u00e9pid\u00e9mie. L'OMS l'a d\u00e9crite comme la troisi\u00e8me plus grande \u00e9pid\u00e9mie d'Ebola jamais enregistr\u00e9e et la plus rapide \u00e0 se propager jusqu'\u00e0 pr\u00e9sent. L'\u00e9pid\u00e9mie a aggrav\u00e9 les besoins humanitaires en RDC, faisant passer le nombre de personnes dans le besoin de 14,9 millions \u00e0 18,6 millions (dont 8 millions directement touch\u00e9es par l'EVD), selon le amended Humanitarian Needs Response Plan. La s\u00e9curit\u00e9 alimentaire reste l'un des besoins les plus critiques pour les personnes touch\u00e9es.\n\n\u2022 Le Directeur ex\u00e9cutif par int\u00e9rim du PAM, M. Carl Skau, et la Coordinatrice des urgences pour la r\u00e9ponse \u00e0 l\u2019Ebola, Mme Hsiao-Wei Lee, ont visit\u00e9 la RDC entre le 28 et le 30 juillet, rencontrant les autorit\u00e9s, les partenaires cl\u00e9s et le personnel \u00e0 Kinshasa, puis se sont rendus sur le terrain \u00e0 Bunia pour observer les op\u00e9rations du PAM en premi\u00e8re ligne de la lutte contre l\u2019Ebola en Ituri.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225206",
-            "date": {
-                "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-11T19:26:25+00:00",
-                "created": "2026-08-11T14:27:03+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225206"
     }
 ]
