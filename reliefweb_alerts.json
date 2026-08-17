@@ -1,5 +1,69 @@
 [
     {
+        "id": "4225820",
+        "score": 1,
+        "fields": {
+            "title": "DRC: Ebola BVD Outbreak: LTC Situation Report (Telecoms) #9 (Reporting period: 01 - 14 August 2026)",
+            "body": "**Summary Points**\n\n\u2022 LTC Telecoms is scaling up telecommunications support for the Ebola response in Bunia, Mongbwalu and Kisangani, providing coordination, connectivity, security communications, power solutions and Information Management (IM) services to enable humanitarian operation.\n\n\u2022 Security communications capacity is being strengthened across Ituri Province through upgrades to the Security Communications System (SCS), including the arrival of VHF repeater equipment in Bunia that will enhance radio coverage for UN and NGO responders in Bunia and Mongbwalu.\n\n\u2022 Connectivity capabilities continue to expand, with 20 Starlink Mini units acquired and additional Starlink kits positioned in Kinshasa for deployment to Ebolaaffected areas, supporting reliable communications for response teams.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/13799",
+                    "id": 13799,
+                    "name": "Emergency Telecommunications Cluster",
+                    "shortname": "ETC",
+                    "longname": "Emergency Telecommunications Cluster",
+                    "homepage": "https://www.etcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3594",
+                    "id": 3594,
+                    "name": "Logistics Cluster",
+                    "shortname": "Logistics Cluster",
+                    "homepage": "https://www.logcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225820",
+            "date": {
+                "original": "2026-08-17T00:00:00+00:00",
+                "changed": "2026-08-17T04:10:04+00:00",
+                "created": "2026-08-17T04:03:12+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225820"
+    },
+    {
         "id": "4225759",
         "score": 1,
         "fields": {
@@ -34,7 +98,7 @@
             "url": "https://reliefweb.int/node/4225759",
             "date": {
                 "original": "2026-08-15T00:00:00+00:00",
-                "changed": "2026-08-15T11:43:11+00:00",
+                "changed": "2026-08-17T05:07:52+00:00",
                 "created": "2026-08-15T11:42:42+00:00"
             }
         },
@@ -85,7 +149,7 @@
         "id": "4225728",
         "score": 1,
         "fields": {
-            "title": "Multi-Country Bundibugyo Ebola Outbreak Response (3-9 August 2026) - Situation Report #13",
+            "title": "IOM: Multi-Country Bundibugyo Ebola Virus Disease Outbreak - Situation Report No. 13 (3-9 August 2026)",
             "body": "According to the World Health Organization, as of 10 August, the Democratic Republic of the Congo (DRC) reported 4,449 confirmed cases of Ebola disease caused by the Bundibugyo virus (BVD), including 2,061 deaths.\n\nWith the recent increase in reported cases, the Ebola Bundibugyo outbreak has become the largest and fastest-growing outbreak ever reported in DRC. The rapidly escalating outbreak is unfolding against the backdrop of an ongoing triple crisis in eastern DRC, where health risks, large-scale displacement and persistent conflict intersect. Displaced populations living in camps face complex and multidimensional needs requiring coordinated, multisectoral interventions. Across affected areas, most deaths continue to occur within communities, underscoring the urgent need to strengthen contact tracing and community event-based surveillance to support earlier detection, referral and response.\n\nThe spread of the outbreak into Tshopo and Haut-U\u00e9l\u00e9 Provinces underscores continued need to comprehensively address the mobility dimensions of the ongoing public health response. While no positive Ebola case has been reported on vessels arriving via riverine routes in Kinshasa, heightened transmission risks require strengthened coordination and vigilance at points of control (PoCs) along the river to prevent further geographic spread. In parallel, the rising number of cases in Haut-U\u00e9l\u00e9 requires enhanced disease surveillance and cross-border coordination to prevent disease transmission into neighbouring South Sudan and the Central African Republic (CAR).\n\nDuring the reporting period, key highlights include :\n\n- **4,449 confirmed Ebola cases and 2,061 deaths** in the DRC as of 10 August 2026, making this the **largest and fastest-growing Bundibugyo Ebola outbreak ever recorded in the country**.\n- Over **16.5 million health screenings** supported at **225 points** of entry and points of control across affected and at-risk countries.\n- During the reporting period, IOM supported **2.57 million health screenings in the DRC alone**\n- More than **13.1 million individuals reached** through risk communication and community engagement activities.\n- Trained **575 health workers in Rwanda** on Ebola detection, infection prevention and control, surveillance, and response measures.\n- Continued to strengthen surveillance and preparedness capacities along critical mobility corridors, including riverine routes into Kinshasa and border areas near South Sudan and the Central African Republic.\n\nThe outbreak continues to unfold in a complex operational environment marked by insecurity, displacement, and population mobility. As transmission persists in eastern DRC, sustained investment in surveillance, border health measures, community engagement, and support to displaced and mobile populations remains critical to containing the outbreak and preventing cross-border spread. [Learn more HERE](https://crisisresponse.iom.int/sites/g/files/tmzbdl1481/files/uploaded-files/IOM-Multi-Country-Bundibugyo-virus-disease-Response-Sit-Rep-No-13-3-9-August-2026.pdf)",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
@@ -116,7 +180,7 @@
             "url": "https://reliefweb.int/node/4225728",
             "date": {
                 "original": "2026-08-14T00:00:00+00:00",
-                "changed": "2026-08-14T15:43:21+00:00",
+                "changed": "2026-08-17T02:41:23+00:00",
                 "created": "2026-08-14T15:40:10+00:00"
             }
         },
@@ -1668,57 +1732,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225212"
-    },
-    {
-        "id": "4225210",
-        "score": 1,
-        "fields": {
-            "title": "Note de plaidoyer pour l\u2019int\u00e9gration syst\u00e9matique de la PSEA dans la r\u00e9ponse \u00e0 la Maladie \u00e0 Virus Ebola (MVE) - Juillet 2026",
-            "body": "**Contexte**\n\n\u25cf Le contexte humanitaire en RDC et la r\u00e9cente \u00e9pid\u00e9mie d\u2019Ebola augmentent consid\u00e9rablement le risque d\u2019exploitation et d\u2019abus sexuels (EAS).\n\n\u25cf L\u2019int\u00e9gration de la PSEA dans la r\u00e9ponse \u00e0 la MVE est une condition essentielle pour garantir une r\u00e9ponse s\u00fbre, \u00e9thique, redevable et conforme au principe de \u201cne pas nuire\u201d. Chaque acteur engag\u00e9 dans la r\u00e9ponse doit pr\u00e9venir, signaler et r\u00e9pondre aux risques d\u2019exploitation et d\u2019abus sexuels\n\n\u25cf Les le\u00e7ons du pass\u00e9 montrent que seule une forte implication de toutes les parties prenantes en mati\u00e8re de protection et de pr\u00e9vention des EAS permettra de prot\u00e9ger efficacement les plus vuln\u00e9rables.\n\n\u25cf Le d\u00e9ploiement massif de personnel, en particulier des journaliers, constitue un risque \u00e9lev\u00e9 d\u2019EAS.\n\n\u25cf Toutes les organisations doivent s\u2019assurer qu\u2019avant tout d\u00e9ploiement, un briefing PSEA incluant la signature du code de conduite soit effectu\u00e9.\n\n\u25cf Les rappels et la formation de toutes les parties prenantes sur le PSEA sont essentiels pour instaurer une tol\u00e9rance z\u00e9ro envers les EAS.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52337",
-                    "id": 52337,
-                    "name": "PSEA Network DRC",
-                    "shortname": "PSEA Network DRC",
-                    "longname": "Inter-Agency Protection from Sexual Exploitation and Abuse (PSEA) Network in the Democratic Republic of the Congo",
-                    "homepage": "https://response.reliefweb.int/democratic-republic-congo/psea",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2782",
-                    "id": 2782,
-                    "name": "UN Country Team in DR Congo",
-                    "shortname": "UNCT DRC",
-                    "longname": "United Nations Country Team in Democratic Republic of the Congo",
-                    "homepage": "https://drcongo.un.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225210",
-            "date": {
-                "original": "2026-07-10T00:00:00+00:00",
-                "changed": "2026-08-11T19:39:18+00:00",
-                "created": "2026-08-11T14:34:49+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225210"
     }
 ]
