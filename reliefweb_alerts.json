@@ -1,5 +1,179 @@
 [
     {
+        "id": "4225927",
+        "score": 1,
+        "fields": {
+            "title": "Pr\u00e9sence operationnelle des partenaires de la reponse \u00e0 l\u2019epidemie d\u2019Ebola au 14 Ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225927",
+            "date": {
+                "original": "2026-08-15T00:00:00+00:00",
+                "changed": "2026-08-17T17:07:31+00:00",
+                "created": "2026-08-17T17:06:56+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225927"
+    },
+    {
+        "id": "4225910",
+        "score": 1,
+        "fields": {
+            "title": "Tchad: OXFAM rapport annuel 2025-2026",
+            "body": "Chers partenaires, chers collaborateurs, Nous venons de cl\u00f4turer l\u2019ann\u00e9e fiscale 2025- 2026. Elle a \u00e9t\u00e9 marqu\u00e9e par plusieurs succ\u00e8s \u00e0 mettre \u00e0 l\u2019actif de tout un chacun de nous : partenaires, institutions publiques, secteur priv\u00e9 et\n\nOrganisations de la Soci\u00e9t\u00e9 civile (OSC). Nous louonse la bonne collaboration avec d\u00e9veloppement de partenariats strat\u00e9giques dans les mois \u00e0 venir.\n\nCependant nous avons fait face \u00e0 des d\u00e9fis tels la raret\u00e9 et l\u2019arr\u00eat des financement de certains bailleurs dans un contexte croissant du nombre des r\u00e9fugi\u00e9s soudanais, de crises climatiques et s\u00e9curitaires.\n\nEn effet, l'aide internationale traverse une grande crise sans pareille qui se remarque par un d\u00e9sengagement financier massif de plusieurs grands donateurs, cr\u00e9ant un sous financement de la r\u00e9ponse et limitant les actions. Au 31 d\u00e9cembre 2025, le Plan de R\u00e9ponse Humanitaire n'affichait que 29,9% de financement (435,4 millions USD sur 1,454 milliard requis), en net recul par rapport \u00e0 2024 (57%) et 2023 (45%). Cette situation a contraint les acteurs \u00e0 recentrer leurs vitales,efforts sur les interventions conform\u00e9ment aux trois objectifs strat\u00e9giques du HNRP 2025. Les besoins humanitaires de milliers de vuln\u00e9rables n\u2019ont pas pu recevoir une r\u00e9ponse rapide et suffisante.\n\nCe rapport retrace la synergie d\u2019action entre les trois programmes d\u2019Oxfam : Action Humanitaire, Moyens d\u2019Existences et S\u00e9curit\u00e9 Alimentaire et Bonne Gouvernance et Citoyennet\u00e9 Active, ainsi que les axes transversaux tels que la Justice de Genre, la Communication, la Protection, la WASH, la localisation. Cette synergie d\u2019actions concourt \u00e0 l\u2019op\u00e9rationnalisation de l\u2019engagement constant d\u2019Oxfam aux c\u00f4t\u00e9s du Gouvernement et du peuple tchadien plus vuln\u00e9rables, et \u00e0 r\u00e9duire les in\u00e9galit\u00e9s. Cet qui consiste \u00e0 secourir les engagement nous a permis d\u2019atteindre les r\u00e9sultats globaux satisfaisants suivants :",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2007",
+                    "id": 2007,
+                    "name": "Oxfam",
+                    "shortname": "Oxfam",
+                    "longname": "Oxfam International",
+                    "homepage": "https://www.oxfam.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225910",
+            "date": {
+                "original": "2026-08-17T00:00:00+00:00",
+                "changed": "2026-08-17T15:04:44+00:00",
+                "created": "2026-08-17T15:04:23+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225910"
+    },
+    {
+        "id": "4225907",
+        "score": 1,
+        "fields": {
+            "title": "DR Congo - Bundibugyo Ebola virus disease outbreak Affected provinces: Ituri, North Kivu,South Kivu, Tshopo and Haut-U\u00e9l\u00e9 (as of 11 August 2026 )",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225907",
+            "date": {
+                "original": "2026-08-17T00:00:00+00:00",
+                "changed": "2026-08-17T14:39:19+00:00",
+                "created": "2026-08-17T14:29:42+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225907"
+    },
+    {
+        "id": "4225902",
+        "score": 1,
+        "fields": {
+            "title": "Ebola Outbreak: Regional Humanitarian Access Snapshot - August 2026",
+            "body": "The Ebola outbreak is largely unfolding in eastern DRC, a region already facing acute humanitarian needs, where armed  \n conflict and mass displacement have significantly constrained humanitarian access, complicating response efforts,  \n and the delivery of life-saving assistance. Declared by WHO on 17 May 2026, the Bundibugyo ebolavirus outbreak is  \n increasingly affecting cross-border movements, including humanitarian and health workers, cargo, and commercial  \n travel.  \n Despite WHO guidance and risk assessments recommending open borders with adequate screening and monitoring at  \n points of entry, several countries have imposed movement restrictions. On 17 July 2026, the DRC replaced its blanket  \n 21-day travel restriction with a risk-based approach: high-risk travellers face reinforced isolation and travel restrictions,  \n low-risk travellers undergo active monitoring and case-by-case travel clearance, while minimal-risk travellers self-monitor  \n without systematic restrictions.  \n Border controls along the DRC\u2019s borders continue to constrain cross-border movement and humanitarian access,  \n disrupting established supply routes and straining regional logistics. The Bukavu-Uvira-Bujumbura corridor remains in  \n use despite security risks; humanitarian staff cross Lake Kivu by boat from Goma to Bukavu, then travel overland via  \n RN5, with advance notification required for the Bukavu-Uvira segment due to active frontlines. With Goma airport  \n closed and access to Bunia previously limited, Entebbe remains a critical humanitarian logistics hub. UNHAS operates  \n passenger and cargo flights from Entebbe to Bunia, supporting access to eastern DRC; however, the Bunia\u2013Entebbe  \n route is not yet open to humanitarian staff.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225902",
+            "date": {
+                "original": "2026-08-17T00:00:00+00:00",
+                "changed": "2026-08-17T14:27:06+00:00",
+                "created": "2026-08-17T13:35:57+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225902"
+    },
+    {
         "id": "4225877",
         "score": 1,
         "fields": {
@@ -1547,190 +1721,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225285"
-    },
-    {
-        "id": "4225284",
-        "score": 1,
-        "fields": {
-            "title": "Activit\u00e9s d\u2019\u00e9radication de la poliomy\u00e9lite en r\u00e9publique d\u00e9mocratique du congo (IEP)\u2013 S31 - 2026, Mise \u00e0 jour au 06 ao\u00fbt 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3748",
-                    "id": 3748,
-                    "name": "Global Polio Eradication Initiative",
-                    "shortname": "GPEI",
-                    "longname": "Global Polio Eradication Initiative",
-                    "spanish_name": "Iniciativa Mundial de Erradicaci\u00f3n de la Poliomielitis",
-                    "homepage": "https://polioeradication.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/732",
-                    "id": 732,
-                    "name": "Government of the Democratic Republic of the Congo",
-                    "shortname": "Govt. DR Congo",
-                    "longname": "Government of the Democratic Republic of the Congo",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225284",
-            "date": {
-                "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-12T04:08:28+00:00",
-                "created": "2026-08-12T04:03:55+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225284"
-    },
-    {
-        "id": "4225273",
-        "score": 1,
-        "fields": {
-            "title": "DRC Eastern DR Congo Ebola Situational Report #4 (5 August 2026)",
-            "body": "**Contextual updates**\n\nThe Ebola outbreak continues to evolve in a highly complex operational environment, with more than 3,000 confirmed cases to date. Community transmission remains a major concern, with approximately 63% of reported deaths from 14-20 July occurring in the community, indicating that many patients continue to die at home rather than accessing timely treatment. This highlights persistent challenges related to risk communication, community engagement, trust in the response, and timely care-seeking. In addition, the Cash Working Group has monitored an increase of 35% in the minimum expenditure basket value between May and June 2026 in Bunia, showing the impact of Ebola outbreak on local markets and inflation.\n\nThe geographical scope of the outbreak also remains under close monitoring. Two additional provinces recently reported affected cases, including Tshopo and Haut-Uele Provinces (bordering the Central African Republic). Crossborder transmission continues to pose a significant regional concern.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/522",
-                    "id": 522,
-                    "name": "Danish Refugee Council",
-                    "shortname": "DRC",
-                    "longname": "Danish Refugee Council",
-                    "homepage": "https://drc.ngo/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225273",
-            "date": {
-                "original": "2026-08-12T00:00:00+00:00",
-                "changed": "2026-08-12T00:34:10+00:00",
-                "created": "2026-08-12T00:32:57+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225273"
-    },
-    {
-        "id": "4225245",
-        "score": 1,
-        "fields": {
-            "title": "As Ebola cases climb, healthcare costs keep people from seeking treatment - CARE",
-            "body": "Kasereka Jospin is a nurse in North Kivu, DRC, actively involved in the Ebola response. He identifies and investigates suspected cases, works closely with surveillance teams, and collects and prepares samples for laboratory testing.\n\nAs the number of Ebola cases continues to grow, so does his concern about the health system\u2019s capacity to help everyone in need.\n\n\u201cOne of the biggest challenges communities are facing is the lack of medicines and medical supplies in health facilities. As a result, many people lose confidence in the health system,\u201d Jospin said.\n\nHealthcare workers in DRC are seeing many Ebola-related deaths being reported in communities rather than in health facilities. Jospin says one big reason for that is the cost.\n\n\u201cOne challenge is that free healthcare, which was available before the Ebola outbreak, is no longer available during the epidemic. As a result, many people cannot afford to seek care at health facilities and instead choose to stay home, even when they become seriously ill,\u201d he said.\n\nNathan Lubukayi, CARE staffer in DRC, adds that while treatment for Ebola is free, \u201cmany people cannot afford to treat other health conditions. As a result, they may delay visiting health facilities, increasing the risk of undetected Ebola cases in the community.\u201d\n\nJospin says these financial barriers are preventing people from seeking timely medical care.\n\n\u201cEnsuring access to free healthcare, even within the Ebola response, is therefore essential to encourage early care-seeking and strengthen outbreak control efforts,\u201d he said.\n\nAnother factor keeping people away from health centers is that they are scared of being treated.\n\n\u201cMany people are afraid of being hospitalized because they fear isolation, stigma, or not returning home. This fear often delays care-seeking until it is too late,\u201d Lubukayi said.\n\nWhen people who are sick stay at home, it puts the community at greater risk, but women and girls tend to face the greatest risk.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1457",
-                    "id": 1457,
-                    "name": "CARE",
-                    "shortname": "CARE",
-                    "longname": "CARE International",
-                    "homepage": "https://www.care-international.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225245",
-            "date": {
-                "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-12T09:16:51+00:00",
-                "created": "2026-08-11T18:33:02+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225245"
-    },
-    {
-        "id": "4225242",
-        "score": 1,
-        "fields": {
-            "title": "As Cholera spreads across borders in West and Central Africa, UNICEF calls for urgent action to protect millions of children",
-            "body": "**DAKAR, 12 August 2026** - Cholera is rapidly spreading across West and Central Africa, with outbreaks now affecting six countries and placing millions of children at increasing risk. Seasonal rains, flooding, population displacement and cross-border transmission are accelerating the spread of this preventable disease, threatening the lives of children and the communities they call home.\n\nActive outbreaks are rapidly accelerating in the Democratic Republic of the Congo (DRC), Republic of Congo, Nigeria, Chad, Cameroon and the Central African Republic (CAR), where children comprise a high percentage of those affected. In CAR, children under 10 years account for 44 per cent of reported cases, while in Chad nearly two-thirds of infections are among children under 15 years. In Cameroon, the median age of patients is just 10 years.\n\nNigeria currently accounts for the largest reported cholera outbreak in the region, with more than 50,000 cumulative cholera cases and 338 deaths reported since 1 January 2026 in all the country with major outbreak in Borno State as of end July 2026. The Democratic Republic of the Congo has reported more than 30,400 cases and nearly 700 deaths, the highest death toll among affected countries.\n\nThe spread is concentrated along two major transmission corridors: the Lake Chad Basin, where the same *Vibrio cholerae* O1 Ogawa strain is affecting Chad, Cameroon and Nigeria, and the Congo River Basin, which links outbreaks in the DRC, Republic of Congo and CAR. In both corridors, seasonal flooding increases the risk of transmission by contaminating water sources, damaging sanitation infrastructure, and limiting access to vulnerable communities.\n\n\"This outbreak is no longer confined by borders. It is moving along shared rivers, trade routes and population movements, putting millions of children at risk. Every new infection is a reminder that millions of children are still being denied one of their most basic rights: safe water. We know how to stop cholera. What is needed now is urgency, the investment and the regional solidarity to act before more children lose their lives to a disease that is entirely preventable\", says UNICEF Regional Director for West and Central Africa, Gilles Fagninou.\n\nUnder the leadership of national and sub-national authorities, UNICEF and partners are supporting critical efforts to expand access to safe water and sanitation, strengthen disease surveillance, provide essential health supplies, support oral cholera vaccination campaigns, and mobilize communities to prevent transmission. UNICEF is also working with countries, regional entities, partners, including the World Health Organization (WHO) and Africa CDC, to strengthen cross-border coordination along key transmission routes. Coordinated action is helping to save lives, but sustained investment in safe water, sanitation, hygiene and vaccination is critical to stop recurring outbreaks and protect children from this preventable disease, whilst simultaneously focusing on long-term system strengthening. UNICEF is calling for urgent additional funding of $15 million USD to scale up life-saving cholera response efforts across West and Central Africa in the next 6 months.\n\n\\#####",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225242",
-            "date": {
-                "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-12T09:13:37+00:00",
-                "created": "2026-08-11T18:03:04+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225242"
     }
 ]
