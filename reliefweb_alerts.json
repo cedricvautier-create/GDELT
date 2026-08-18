@@ -1,5 +1,59 @@
 [
     {
+        "id": "4225977",
+        "score": 1,
+        "fields": {
+            "title": "Fiche d\u2019information : Groupe de travail d\u2019analyse de crises et qualit\u00e9 de r\u00e9ponse (GTACQ) Analyse provinces du Sud-Kivu, Nord-Kivu et Ituri (mai 2026)",
+            "body": "**Messages cl\u00e9s**\n\n\u2022 Nord-Kivu : la situation humanitaire continuait de se d\u00e9grader dans plusieurs ZS, notamment \u00e0 Kamango, o\u00f9 l\u2019augmentation des besoins contribuait au basculement de la zone vers un hotspot. Plus de 9 000 personnes \u00e9taient d\u00e9plac\u00e9es, tandis que d\u2019importants gaps de la r\u00e9ponse persistaient.\n\n\u2022 Sud-Kivu : les contraintes d\u2019acc\u00e8s humanitaire s\u2019aggravaient \u00e0 Lulingu, qui basculait vers un hotspot avec gaps de la r\u00e9ponse lifesaving dans un contexte de niveaux de besoins \u00e9lev\u00e9s.\n\n\u2022 Ituri : la situation \u00e9tait critique \u00e0 Lolwa et Mongbalu, qui basculaient vers des hotspots avec gaps de la r\u00e9ponse lifesaving/ frontline sous l\u2019effet combin\u00e9 de l\u2019augmentation des besoins, de la d\u00e9gradation de l\u2019acc\u00e8s et d\u2019un contexte op\u00e9rationnel difficile.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4225977",
+            "date": {
+                "original": "2026-08-18T00:00:00+00:00",
+                "changed": "2026-08-18T02:48:11+00:00",
+                "created": "2026-08-18T02:14:12+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4225977"
+    },
+    {
         "id": "4225956",
         "score": 1,
         "fields": {
@@ -1695,47 +1749,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225398"
-    },
-    {
-        "id": "4225397",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique centrafricaine : Rapport de situation N\u00b080, au 11 ao\u00fbt 2026",
-            "body": "**FAITS SAILLANTS**\n\n- Les conditions de vie de PDI se d\u00e9t\u00e9riorent \u00e0 Gbazara, dans l\u2019Ouham-Fafa.\n- Plus de 1 000 consultations m\u00e9dicales r\u00e9alis\u00e9es \u00e0 Am-Dafock en faveur des personnes d\u00e9plac\u00e9es.\n\n**CONTEXTE GENERAL**\n\nPr\u00e9fecture de l\u2019Ouham-Fafa \u2013 Nord-Ouest\n\n- \u00c0 Gbazara, les conditions de vie de quelque 4 480 personnes d\u00e9plac\u00e9es internes continuent de se d\u00e9t\u00e9riorer. Arriv\u00e9es sur le site le 22 avril 2026, elles n\u2019ont re\u00e7u aucune assistance alimentaire, ce qui limite leur capacit\u00e9 \u00e0 couvrir leurs besoins essentiels. Les besoins en eau, hygi\u00e8ne et assainissement restent \u00e9lev\u00e9s, faute de latrines et de douches ad\u00e9quates. La d\u00e9f\u00e9cation \u00e0 l\u2019air libre accro\u00eet les risques de maladies d\u2019origine hydrique. La saison des pluies pourrait aggraver les risques sanitaires sur le site. Les partenaires poursuivent la mobilisation pour r\u00e9pondre aux besoins prioritaires. Ces personnes ont fui B\u00e9hili\u00e9 en avril 2026 apr\u00e8s une attaque arm\u00e9e ayant entra\u00een\u00e9 l\u2019incendie du village.\n\n**BESOINS ET REPONSE HUMANITAIRE**\n\n**Multisectoriel**\n\nPr\u00e9fecture de l\u2019Ouham-Fafa \u2013 Nord-Ouest\n\n- L\u2019Association des Femmes pour la Promotion et l\u2019Entrepreneuriat (AFPE), avec l\u2019appui du Fonds humanitaire pour la RCA, (FH RCA) a fourni une assistance en esp\u00e8ces \u00e0 30 m\u00e9nages d\u2019enfants non accompagn\u00e9s ou s\u00e9par\u00e9s sur le site de Batangafo. L\u2019assistance a b\u00e9n\u00e9fici\u00e9 \u00e0 19 filles et 11 gar\u00e7ons. Des kits alimentaires d\u2019urgence et vestimentaires ont \u00e9galement \u00e9t\u00e9 distribu\u00e9s afin de couvrir les besoins imm\u00e9diats des m\u00e9nages. Six survivantes de Violences bas\u00e9es sur le genre (VBG) ont \u00e9t\u00e9 r\u00e9f\u00e9r\u00e9es vers la structure de sant\u00e9 de Gbazara pour une prise en charge adapt\u00e9e.\n\n**Sant\u00e9**\n\nPr\u00e9fecture de la Vakaga \u2013 Nord-Est\n\n- Du 3 au 8 ao\u00fbt, International Medical Corps a fourni des services de sant\u00e9 via une clinique mobile sur le site de regroupement d\u2019Am-Dafock. Au total, 1 046 consultations ont \u00e9t\u00e9 r\u00e9alis\u00e9es, dont 303 cas de paludisme, 195 cas d\u2019infections respiratoires aigu\u00ebs et 89 cas de diarrh\u00e9e. IMC poursuit les services de sant\u00e9 dans une clinique fixe sur le site des PDI.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225397",
-            "date": {
-                "original": "2026-08-11T00:00:00+00:00",
-                "changed": "2026-08-13T00:15:42+00:00",
-                "created": "2026-08-12T14:37:27+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225397"
     }
 ]
