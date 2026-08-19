@@ -1,9 +1,116 @@
 [
     {
+        "id": "4226136",
+        "score": 1,
+        "fields": {
+            "title": "UNICEF Democratic Republic of the Congo Humanitarian Situation Report No. 2 \u2013 Ebola Outbreak (Bundibugyo Virus), 31 July 2026",
+            "body": "**Highlights**\n\n- UNICEF is scaling up its response from 21 to over 50 affected and high-risk health zones, supporting Government-led efforts across community-based surveillance, RCCE, IPC/WASH, nutrition, MHPSS, clinical care, PSEA and continuity of essential services.\n- UNICEF-supported community surveillance networks generated 15,927 alerts in July, following the deployment and support of 6,009 community mobilizers since the start of the response, strengthening early detection, alert reporting, contact tracing, and community-level surveillance capacities across affected areas.\n- UNICEF and partners reached over 1.4 million people with Ebola prevention and response messages through direct interpersonal communication approaches including door-to-door outreach, focused discussions, and community dialogues during this reporting period, while community feedback and social listening mechanisms continued to inform adaptive response strategies and address rumours and misinformation.\n- UNICEF and partners continued to deliver integrated support for children and families, including MHPSS services for 12,780 children, adolescents and caregivers, case management for 407 Ebola-affected children, and treatment for 6,587 children with severe or moderate acute malnutrition.\n- UNICEF supported the procurement of US$6.3 million worth of essential Ebola response supplies, including PPE, IPC materials and medical commodities, to sustain life-saving response operations across affected and high-risk health zones.\n- UNICEF requires US$113.5 million for its revised six-month response plan. As of 31 July 2026, US$32.7 million had been mobilized, leaving a US$80.8 million funding gap, equivalent to 71 per cent of the requirement.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226136",
+            "date": {
+                "original": "2026-08-19T00:00:00+00:00",
+                "changed": "2026-08-19T01:11:20+00:00",
+                "created": "2026-08-19T01:04:02+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226136"
+    },
+    {
+        "id": "4226129",
+        "score": 1,
+        "fields": {
+            "title": "Activit\u00e9s d\u2019\u00e9radication de la poliomy\u00e9lite en r\u00e9publique d\u00e9mocratique du congo (IEP)\u2013 S32 - 2026, Mise \u00e0 jour au 13 ao\u00fbt 2026",
+            "body": "Cas de PFA notifi\u00e9s et re\u00e7us au laboratoire \u00e0 la semaine 32: 82 cas de 2026  \nIsolats envoy\u00e9s vers NICD pour s\u00e9quen\u00e7age dans la semaine : 22 isolats envoy\u00e9s au s\u00e9quen\u00e7age cette semaine  \nIsolats envoy\u00e9s vers CDC pour s\u00e9quen\u00e7age dans la semaine : N\u00e9ant  \nExamens de suivi au 60\u00e8me jour r\u00e9alis\u00e9s au cours de la semaine : 8 cas de 2026 (Haut Lomami 1, Ituri 6 et Mongala 1)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3748",
+                    "id": 3748,
+                    "name": "Global Polio Eradication Initiative",
+                    "shortname": "GPEI",
+                    "longname": "Global Polio Eradication Initiative",
+                    "spanish_name": "Iniciativa Mundial de Erradicaci\u00f3n de la Poliomielitis",
+                    "homepage": "https://polioeradication.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/732",
+                    "id": 732,
+                    "name": "Government of the Democratic Republic of the Congo",
+                    "shortname": "Govt. DR Congo",
+                    "longname": "Government of the Democratic Republic of the Congo",
+                    "type": {
+                        "id": 271,
+                        "name": "Government"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226129",
+            "date": {
+                "original": "2026-08-19T00:00:00+00:00",
+                "changed": "2026-08-19T00:01:30+00:00",
+                "created": "2026-08-19T00:01:15+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226129"
+    },
+    {
         "id": "4226104",
         "score": 1,
         "fields": {
             "title": "WFP Chad Country Brief, August 2026",
+            "body": "**SITUATION OVERVIEW**\n\n\u2022 Between June and September 2026, crisis levels of acute food insecurity (IPC 3) are expected in Chad\u2019s eastern provinces that host Sudanese refugees, as well as in the western Lake Province, which has a large internally displaced population due to persistent attacks by armed groups, according to FEWS NET\u2019s latest analysis. The analysis highlights that refugees \u2013 more than 940,610 people who have arrived since the outbreak of the Sudan crisis in April 2023 (UNHCR) \u2013 have lost access to their livelihoods, have very limited sources of income, and must compete with host communities for scarce agricultural and nonagricultural employment opportunities. As a result, refugees rely heavily on food assistance to meet their basic food needs. In Lake Province, worsening insecurity has led to the abandonment of arable land, population displacement, and a decline in fishing activities. As a consequence, an estimated 75,000 people have been displaced since May 2026, adding to an already severe humanitarian situation affecting nearly 220,000 IDPs, as well as returnees and refugees.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/55",
                 "id": 55,
@@ -33,7 +140,7 @@
             "url": "https://reliefweb.int/node/4226104",
             "date": {
                 "original": "2026-08-18T00:00:00+00:00",
-                "changed": "2026-08-18T17:17:43+00:00",
+                "changed": "2026-08-19T01:10:51+00:00",
                 "created": "2026-08-18T17:17:37+00:00"
             }
         },
@@ -74,7 +181,7 @@
             "url": "https://reliefweb.int/node/4226096",
             "date": {
                 "original": "2026-08-18T00:00:00+00:00",
-                "changed": "2026-08-18T16:46:48+00:00",
+                "changed": "2026-08-18T23:55:21+00:00",
                 "created": "2026-08-18T16:46:34+00:00"
             }
         },
@@ -1645,87 +1752,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225526"
-    },
-    {
-        "id": "4225525",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR Weekly Relocation Update \u2013 Eastern Chad 10 August 2026",
-            "body": "Weekly Highlights\n\n\u2022 From 03 \u2013 08 August, 2,851 refugees (814 households), including 561 persons with specific needs, were relocated from border areas to the inland sites of Arkoum (Ouadda\u00ef Province) under the accelerated relocation programme.\n\n\u2022 Since 15 April 2026, a cumulative 33,910 individuals from 9,333 households (85% of the targeted 40,000 individuals) have been relocated under the accelerated relocation programme, bringing the total number relocated since January 2026 to 50,966 refugees (16,831 households).\n\n\u2022 Since April 2023, UNHCR and its partners have relocated 651,861 individuals (174,768 households) from border areas to safer sites, representing 69% of the 940,612 Sudanese refugees who have arrived in Chad since April 2023.\n\n\u2022 Relocations have taken place to Ennedi Est (79,729 individuals), Sila (81,304), Wadi Fira (198,479), and Ouadda\u00ef (292,349).\n\n\u2022 Since 15 April 2026, a total of 56,287 refugees has been biometrically registered and 12,085 others have been preregistered, making a total of 68,372 individuals under OCHA-US funding.\n\n\u2022 Since 15 April, a total of 25,773 refugee documentation (households and individuals) has been delivered to refugees in Eastern Chad.\n\n\u2022 Since April 2026, a total of 10,542 emergency shelters constructed across selected sites in the Ouaddai, Sila and Wadi Fira, improving living conditions for newly relocated refugee families.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225525",
-            "date": {
-                "original": "2026-08-10T00:00:00+00:00",
-                "changed": "2026-08-13T11:10:18+00:00",
-                "created": "2026-08-13T11:03:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225525"
-    },
-    {
-        "id": "4225491",
-        "score": 1,
-        "fields": {
-            "title": "Tchad : Pr\u00e9sence physique des partenaires au Lac (Qui \u00e0 un bureau o\u00f9 ?) Ao\u00fbt 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225491",
-            "date": {
-                "original": "2026-08-13T00:00:00+00:00",
-                "changed": "2026-08-13T09:01:37+00:00",
-                "created": "2026-08-13T08:09:14+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225491"
     }
 ]
