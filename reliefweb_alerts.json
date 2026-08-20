@@ -1,5 +1,45 @@
 [
     {
+        "id": "4226355",
+        "score": 1,
+        "fields": {
+            "title": "Ebola Outbreak, DRC and Region, Situation Report #12 (August 19, 2026)",
+            "body": "**FAST FACTS**\n\n- On May 15, the DRC declared an outbreak of Ebola virus disease (EVD), later confirmed to be caused by the Bundibugyo strain.\n- As of August 18, 5,021 confirmed cases and 2,378 confirmed deaths had been reported in the DRC, with 20 confirmed cases and two confirmed deaths in Uganda.\n- In the DRC, the outbreak remains centered in Ituri province, but cases have also been confirmed in Bas-Uele, Haut-Uele, North Kivu, South Kivu and Tshopo provinces.\n- In Uganda, the last confirmed case was discharged on July 16.\n- No EVD cases have been confirmed in South Sudan, but risk of an outbreak remains high due to transient populations and porous borders with the DRC.\n\n**OUR RESPONSE**\n\n- Across the region, our teams are providing case management, infection prevention and control (IPC), screening and triage, risk communication and community engagement, training and preparedness planning.\n- We are supporting 162 facilities in the screening, identification and treatment of EVD.\n- Our supported sites have conducted 376,857 screenings and provided treatment to 1,374 patients, including 377 confirmed cases.\n- We have so far trained 2,820 people in the DRC on EVD case management, response and transmission prevention.\n\nWith the support of the US Department of State, DG ECHO and other donors, International Medical Corps teams are actively responding to the outbreak across the region while collaborating closely with ministries of health, key actors and response partners. International Medical Corps has used a hub-and-spoke model since the outbreak was declared, providing case-management support at designated treatment and transit facilities, strengthening IPC in referring health facilities, conducting screening and triage, supporting risk communication and community engagement (RCCE) in surrounding communities and training health workers on EVD response protocols.\n\nIn the DRC, International Medical Corps is running three Ebola Treatment Centers (including one that is the country's largest) and seven Ebola transit centers. We continue to closely coordinate with the MoH and relevant partners to support case management, screening-and-referral units, facility-based surveillance, mental health and psychosocial support (MHPSS), IPC, logistics, just-in-time training, continuity of essential health services, and water, sanitation and hygiene (WASH) services. International Medical Corps also is part of broader efforts to expand contact tracing, helping to strengthen mapping, daily monitoring and follow-up activities to address the risk of undetected transmission across operational areas and beyond.\n\nIn Uganda, we are working through a partner to to strengthen Ebola preparedness, surveillance, IPC, WASH, and RCCE activities across Ntoroko and Bundibugyo districts. We continue to support EVD national preparedness in South Sudan, where no cases have yet been confirmed, by upgrading and expanding infectious-disease units, training health staff and managing suspected cases.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2019",
+                    "id": 2019,
+                    "name": "International Medical Corps",
+                    "shortname": "IMC",
+                    "longname": "International Medical Corps",
+                    "homepage": "https://internationalmedicalcorps.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226355",
+            "date": {
+                "original": "2026-08-19T00:00:00+00:00",
+                "changed": "2026-08-19T21:21:56+00:00",
+                "created": "2026-08-19T21:15:43+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226355"
+    },
+    {
         "id": "4226313",
         "score": 1,
         "fields": {
@@ -39,6 +79,46 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4226313"
+    },
+    {
+        "id": "4226293",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique Centrafricaine : Statistiques des R\u00e9fugi\u00e9s et Demandeurs d\u2019Asile (Au 31 Juillet 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226293",
+            "date": {
+                "original": "2026-08-17T00:00:00+00:00",
+                "changed": "2026-08-20T01:09:31+00:00",
+                "created": "2026-08-19T14:03:12+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226293"
     },
     {
         "id": "4226278",
@@ -236,7 +316,7 @@
             "url": "https://reliefweb.int/node/4226201",
             "date": {
                 "original": "2026-08-19T00:00:00+00:00",
-                "changed": "2026-08-19T08:39:05+00:00",
+                "changed": "2026-08-19T23:43:45+00:00",
                 "created": "2026-08-19T08:03:19+00:00"
             }
         },
@@ -277,7 +357,7 @@
             "url": "https://reliefweb.int/node/4226200",
             "date": {
                 "original": "2026-08-19T00:00:00+00:00",
-                "changed": "2026-08-19T08:34:14+00:00",
+                "changed": "2026-08-19T23:44:51+00:00",
                 "created": "2026-08-19T08:03:09+00:00"
             }
         },
@@ -1662,98 +1742,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225655"
-    },
-    {
-        "id": "4225652",
-        "score": 1,
-        "fields": {
-            "title": "Analyse interagences des risques communautaires EAS et AAP dans la zone de sant\u00e9 de Karisimbi - Juillet 2026",
-            "body": "Analyse interagences des risques communautaires EAS et AAP dans la province du Nord-Kivu, territoire de Goma, zone de sant\u00e9 de Karisimbi / Katoyi - Juillet 2026. Suite \u00e0 la r\u00e9ponse \u00e0 la 17\u00e8me \u00e9pid\u00e9mie de la Maladie \u00e0 Virus Ebola (MVE), cette analyse de risque est conduite en partenariat avec UNFPA, OIM, IMC, la DPS, Heal Africa, Caritas Goma, Africa/Remed, PAMI, Croix-Rouge, EFIM, DIVAH-SN, ALIMA.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52337",
-                    "id": 52337,
-                    "name": "PSEA Network DRC",
-                    "shortname": "PSEA Network DRC",
-                    "longname": "Inter-Agency Protection from Sexual Exploitation and Abuse (PSEA) Network in the Democratic Republic of the Congo",
-                    "homepage": "https://response.reliefweb.int/democratic-republic-congo/psea",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2782",
-                    "id": 2782,
-                    "name": "UN Country Team in DR Congo",
-                    "shortname": "UNCT DRC",
-                    "longname": "United Nations Country Team in Democratic Republic of the Congo",
-                    "homepage": "https://drcongo.un.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225652",
-            "date": {
-                "original": "2026-07-17T00:00:00+00:00",
-                "changed": "2026-08-14T09:59:37+00:00",
-                "created": "2026-08-14T09:23:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225652"
-    },
-    {
-        "id": "4225638",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - \u00c9pid\u00e9mie de maladie \u00e0 virus Ebola - Aper\u00e7u de la situation, semaine 32 - \u00e0 la date du 14 ao\u00fbt 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225638",
-            "date": {
-                "original": "2026-08-14T00:00:00+00:00",
-                "changed": "2026-08-14T07:44:25+00:00",
-                "created": "2026-08-14T07:26:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225638"
     }
 ]
