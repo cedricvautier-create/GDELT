@@ -77,6 +77,86 @@
         "href": "https://api.reliefweb.int/v2/reports/4226444"
     },
     {
+        "id": "4226439",
+        "score": 1,
+        "fields": {
+            "title": "ituation du rapatriement (au 05 ao\u00fbt 2025)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226439",
+            "date": {
+                "original": "2026-08-20T00:00:00+00:00",
+                "changed": "2026-08-20T14:46:13+00:00",
+                "created": "2026-08-20T11:04:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226439"
+    },
+    {
+        "id": "4226437",
+        "score": 1,
+        "fields": {
+            "title": "Republique Centrafricaine: Situation g\u00e9n\u00e9rale du rapatriement volontaire des r\u00e9fugi\u00e9s centrafricains (Au 05 ao\u00fbt 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226437",
+            "date": {
+                "original": "2026-08-11T00:00:00+00:00",
+                "changed": "2026-08-20T13:15:17+00:00",
+                "created": "2026-08-20T11:03:45+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226437"
+    },
+    {
         "id": "4226420",
         "score": 1,
         "fields": {
@@ -1685,86 +1765,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225728"
-    },
-    {
-        "id": "4225688",
-        "score": 1,
-        "fields": {
-            "title": "Flamb\u00e9es \u00e9pid\u00e9miques en Afrique, sant\u00e9 sous tension",
-            "body": "Plusieurs flamb\u00e9es \u00e9pid\u00e9miques touchent actuellement le continent africain. Ebola en R\u00e9publique d\u00e9mocratique du Congo, chol\u00e9ra dans l\u2019\u00c9tat du Borno au Nig\u00e9ria, Mpox dans plusieurs pays : derri\u00e8re ces \u00e9pid\u00e9mies, des facteurs communs fragilisent les populations et compliquent la r\u00e9ponse sanitaire.\n\nD\u00e9placements de population, acc\u00e8s limit\u00e9 \u00e0 l\u2019eau potable, syst\u00e8mes de sant\u00e9 fragilis\u00e9s ou encore difficult\u00e9s d\u2019acc\u00e8s humanitaire : les contextes de crise peuvent favoriser la propagation des maladies et compliquer la d\u00e9tection et la prise en charge des cas. Face \u00e0 ces \u00e9pid\u00e9mies, les enjeux de pr\u00e9vention, de surveillance et d\u2019acc\u00e8s aux soins restent essentiels.\n\nPour en savoir plus sur ces diff\u00e9rentes \u00e9pid\u00e9mies, d\u00e9couvrez notre carrousel ?",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1992",
-                    "id": 1992,
-                    "name": "M\u00e9decins du Monde",
-                    "shortname": "MDM",
-                    "longname": "M\u00e9decins du Monde France",
-                    "homepage": "https://www.medecinsdumonde.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225688",
-            "date": {
-                "original": "2026-08-14T00:00:00+00:00",
-                "changed": "2026-08-14T13:36:36+00:00",
-                "created": "2026-08-14T13:33:04+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225688"
-    },
-    {
-        "id": "4225676",
-        "score": 1,
-        "fields": {
-            "title": "Three months into the Ebola outbreak: Overcoming local resistance, Red Cross volunteers stand by their communities by building trust as the virus continues to spread | IFRC",
-            "body": "**Trust at the heart of the response**\n\nAs the outbreak evolves, the Red Cross response is adapting.\n\nDespite these immense challenges, approximately 1,500 DRC Red Cross volunteers remain mobilized on the front lines of the response. Since the outbreak was declared, their vital work has enabled **1,400 safe and dignified burials** to help break chains of transmission, while more than **240,000 people** have been reached with life-saving information to counter rumours and misinformation.\n\nBehind these figures are thousands of interactions in which trust can determine whether an alert is reported, whether a family accepts a safe and dignified burial, or whether potentially life-saving information is believed.\n\nBetween 26 July-8 August teams collected **3895 pieces of community feedback**, which included persistent rumours about an alleged ***\u201cEbola business\u201d***, conspiracy theories and mistrust of response teams.\n\nUshindi, a 48-year-old motorcycle taxi driver and Red Cross volunteer for 16 years, was attacked alongside Dieudonn\u00e9. He had heard rumours accusing the Red Cross, among others, of being responsible for the spread of Ebola, without imagining just how dangerous those rumours could become.\n\nThe attack left him with partial paralysis of his right hand, balance problems and severe insomnia. He has been unable to return to his work as a motorcycle taxi driver. And yet, he returned to join the other volunteers.\n\n**Scaling up the response to keep pace with the outbreak**\n\nIn affected areas, DRC Red Cross teams, supported by the IFRC and its partners, are working across multiple fronts: awareness campaigns, community-based surveillance, safe and dignified burials, infection prevention and control, and mental health and psychosocial support.\n\nAdditional resources are also reaching frontline teams. Three containers received in early August carried more than [19 tonnes of humanitarian supplies, including 23 safe and dignified burial kits, 8,000 body bags and more than 2,000 units of alcohol-based hand rub](https://www.ifrc.org/press-release/ifrc-scales-ebola-response-drc-critical-supplies-reach-frontline-teams).\n\nBut as the outbreak continues to expand, the response envisioned in May must now be scaled up.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225676",
-            "date": {
-                "original": "2026-08-14T00:00:00+00:00",
-                "changed": "2026-08-14T14:02:56+00:00",
-                "created": "2026-08-14T12:33:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225676"
     }
 ]
