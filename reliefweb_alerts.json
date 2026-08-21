@@ -1,5 +1,83 @@
 [
     {
+        "id": "4226541",
+        "score": 1,
+        "fields": {
+            "title": "Nord-Est de la RDC - Zones frontali\u00e8res | Vue d'ensemble r\u00e9gionale: sch\u00e9mas de mobilit\u00e9 - ao\u00fbt 2026 (Mise \u00e0 jour 3, 18 ao\u00fbt 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226541",
+            "date": {
+                "original": "2026-08-21T00:00:00+00:00",
+                "changed": "2026-08-21T03:12:08+00:00",
+                "created": "2026-08-21T02:39:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226541"
+    },
+    {
+        "id": "4226540",
+        "score": 1,
+        "fields": {
+            "title": "Northeastern DRC - Bordering areas | Regional overview: mobility patterns - August 2026 (Update 3, 18 August 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226540",
+            "date": {
+                "original": "2026-08-20T00:00:00+00:00",
+                "changed": "2026-08-21T03:11:24+00:00",
+                "created": "2026-08-21T02:34:53+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226540"
+    },
+    {
         "id": "4226526",
         "score": 1,
         "fields": {
@@ -208,6 +286,46 @@
         "href": "https://api.reliefweb.int/v2/reports/4226520"
     },
     {
+        "id": "4226510",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo - Statistiques des r\u00e9fugi\u00e9s et demandeurs d'asile - 31 juillet 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226510",
+            "date": {
+                "original": "2026-08-20T00:00:00+00:00",
+                "changed": "2026-08-21T04:07:04+00:00",
+                "created": "2026-08-20T23:03:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226510"
+    },
+    {
         "id": "4226509",
         "score": 1,
         "fields": {
@@ -241,7 +359,7 @@
             "url": "https://reliefweb.int/node/4226509",
             "date": {
                 "original": "2026-08-20T00:00:00+00:00",
-                "changed": "2026-08-20T21:56:20+00:00",
+                "changed": "2026-08-21T02:57:15+00:00",
                 "created": "2026-08-20T21:54:59+00:00"
             }
         },
@@ -1709,125 +1827,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4225920"
-    },
-    {
-        "id": "4225919",
-        "score": 1,
-        "fields": {
-            "title": "CORE Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (16 Aou. 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225919",
-            "date": {
-                "original": "2026-08-17T00:00:00+00:00",
-                "changed": "2026-08-18T01:14:27+00:00",
-                "created": "2026-08-17T16:03:19+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225919"
-    },
-    {
-        "id": "4225918",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: Urgence Soudan | Bureau de coordination du HCR \u00e0 l\u2019est du Tchad - Dashboard de la relocalisation - Depuis Avril 2023 (Mise \u00e0 jour du 16-08-2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225918",
-            "date": {
-                "original": "2026-08-17T00:00:00+00:00",
-                "changed": "2026-08-18T01:15:47+00:00",
-                "created": "2026-08-17T16:03:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225918"
-    },
-    {
-        "id": "4225910",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: OXFAM rapport annuel 2025-2026",
-            "body": "Chers partenaires, chers collaborateurs, Nous venons de cl\u00f4turer l\u2019ann\u00e9e fiscale 2025- 2026. Elle a \u00e9t\u00e9 marqu\u00e9e par plusieurs succ\u00e8s \u00e0 mettre \u00e0 l\u2019actif de tout un chacun de nous : partenaires, institutions publiques, secteur priv\u00e9 et\n\nOrganisations de la Soci\u00e9t\u00e9 civile (OSC). Nous louonse la bonne collaboration avec d\u00e9veloppement de partenariats strat\u00e9giques dans les mois \u00e0 venir.\n\nCependant nous avons fait face \u00e0 des d\u00e9fis tels la raret\u00e9 et l\u2019arr\u00eat des financement de certains bailleurs dans un contexte croissant du nombre des r\u00e9fugi\u00e9s soudanais, de crises climatiques et s\u00e9curitaires.\n\nEn effet, l'aide internationale traverse une grande crise sans pareille qui se remarque par un d\u00e9sengagement financier massif de plusieurs grands donateurs, cr\u00e9ant un sous financement de la r\u00e9ponse et limitant les actions. Au 31 d\u00e9cembre 2025, le Plan de R\u00e9ponse Humanitaire n'affichait que 29,9% de financement (435,4 millions USD sur 1,454 milliard requis), en net recul par rapport \u00e0 2024 (57%) et 2023 (45%). Cette situation a contraint les acteurs \u00e0 recentrer leurs vitales,efforts sur les interventions conform\u00e9ment aux trois objectifs strat\u00e9giques du HNRP 2025. Les besoins humanitaires de milliers de vuln\u00e9rables n\u2019ont pas pu recevoir une r\u00e9ponse rapide et suffisante.\n\nCe rapport retrace la synergie d\u2019action entre les trois programmes d\u2019Oxfam : Action Humanitaire, Moyens d\u2019Existences et S\u00e9curit\u00e9 Alimentaire et Bonne Gouvernance et Citoyennet\u00e9 Active, ainsi que les axes transversaux tels que la Justice de Genre, la Communication, la Protection, la WASH, la localisation. Cette synergie d\u2019actions concourt \u00e0 l\u2019op\u00e9rationnalisation de l\u2019engagement constant d\u2019Oxfam aux c\u00f4t\u00e9s du Gouvernement et du peuple tchadien plus vuln\u00e9rables, et \u00e0 r\u00e9duire les in\u00e9galit\u00e9s. Cet engagement nous a permis d\u2019atteindre les r\u00e9sultats globaux satisfaisants suivants :",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2007",
-                    "id": 2007,
-                    "name": "Oxfam",
-                    "shortname": "Oxfam",
-                    "longname": "Oxfam International",
-                    "homepage": "https://www.oxfam.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4225910",
-            "date": {
-                "original": "2026-08-17T00:00:00+00:00",
-                "changed": "2026-08-18T09:56:01+00:00",
-                "created": "2026-08-17T15:04:23+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4225910"
     }
 ]
