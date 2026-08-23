@@ -1,5 +1,47 @@
 [
     {
+        "id": "4226689",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon Humanitarian Update - August 2026",
+            "body": "**National Humanitarian Forum seeks strategic alignment as Cameroon\u2019s humanitarian transition advances**\n\nThe National Humanitarian Forum took place in Yaounde on 26 May 2026, bringing together more than 140 participants from government, national and international NGOs, the United Nations, donors, technical and financial partners, and the media. The forum aimed to foster strategic alignment among humanitarian, development and government actors on the humanitarian situation, the ongoing humanitarian transition, the localization of aid, and financing and accountability issues.\n\nOpening the forum, the UN Resident Coordinator and Humanitarian Coordinator (RC/HC), Issa Sanogo said collaboration between national and local authorities, humanitarian partners and donors delivered life-saving assistance to one million people in 2025. He noted a persistent gap: only half of the 2.1 million people targeted were reached, leaving 1.1 million people without support. He linked the forum to the Humanitarian Reset, the global reform under which Cameroon is one of eight countries selected by the Inter-Agency Standing Committee (IASC) to shift toward a more localized, nationally led coordination model.\n\nThe Director of Civil Protection (DPC) at the Ministry of Territorial Administration (MINAT), Angele Ndzie Ntsama, welcomed continued partner support and committed the Government to strengthening coordination, consultation and response mechanism. She called for collective reflection on the role of national and local actors, accountability to affected populations, and stronger links between humanitarian action, development and peacebuilding.\n\nPanel discussions confirmed that Area-Based Coordination (ABC) is now operational in the Far North, North-West and South-West regions at a regional level and in some divisions. Under the Civil Protection Law of 23 December 2024, MINAT/DPC holds legal responsibility for coordinating the humanitarian response. Hundreds of national NGOs are still active in the Far North, North-West and South-West coordination platforms, and the Lake Chad Basin Nexus Facility Fund, which reserves 30 per cent of its financing for local actors, has already supported two consortia in Cameroon and Chad.\n\nRecommendations from the forum called for international financing and government contributions to be presented jointly for a transparent view of resources, for responsibilities to transfer together with corresponding human, logistical and budgetary means, and for a dedicated donor meeting to align financing mechanisms behind the transition.\n\nClosing the forum, the RC/HC reiterated that the transition is not a disengagement but an accompanied, responsible transfer of responsibility, and reaffirmed the commitment of the United Nations and humanitarian partners to mobilize funding so that no vulnerable community is left without support. The Directorate of Civil Protection reaffirmed the Government\u2019s commitment to strengthened national coordination and accountability.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226689",
+            "date": {
+                "original": "2026-08-23T00:00:00+00:00",
+                "changed": "2026-08-23T12:06:07+00:00",
+                "created": "2026-08-23T12:04:21+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226689"
+    },
+    {
         "id": "4226666",
         "score": 1,
         "fields": {
@@ -1752,46 +1794,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4226104"
-    },
-    {
-        "id": "4226096",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 17 August 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226096",
-            "date": {
-                "original": "2026-08-18T00:00:00+00:00",
-                "changed": "2026-08-18T23:55:21+00:00",
-                "created": "2026-08-18T16:46:34+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226096"
     }
 ]
