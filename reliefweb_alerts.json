@@ -1,5 +1,282 @@
 [
     {
+        "id": "4226871",
+        "score": 1,
+        "fields": {
+            "title": "Rapport de mission de suivi conjoint du projet ECW dans les zones d\u2019intervention du territoire de Rutshuru",
+            "body": "Mission conjointe d'\u00e9valuation organis\u00e9e par le Cluster Education dans le cadre de la mise en \u0153uvre du projet \u00ab R\u00e9ponse int\u00e9gr\u00e9e \u00e0 l'\u00c9ducation d'urgence dans l'Est de la RDC\u00bb, financ\u00e9 par Education Cannot Wait (ECW) et mis en \u0153uvre par le consortium compos\u00e9 de War Child Alliance, World Vision et Village d'Espoir dans les territoires de Rutshuru, Masisi et Kalehe.\n\nCette mission s'est concentr\u00e9e sur les activit\u00e9s mises en oeuvre dans les zones de sant\u00e9 de Rwanguba et Rutshuru en territoire de Rutshuru, avec vis\u00e9e d\u2019\u00e9valuer l'\u00e9tat d'avancement des activit\u00e9s, appr\u00e9cier la qualit\u00e9 des interventions r\u00e9alis\u00e9es, recueillir les perceptions des b\u00e9n\u00e9ficiaires et des parties prenantes, identifier les contraintes susceptibles d'affecter les r\u00e9sultats du projet et formuler des recommandations pour renforcer l'impact et l'efficacit\u00e9 des actions entreprises.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226871",
+            "date": {
+                "original": "2026-08-24T00:00:00+00:00",
+                "changed": "2026-08-24T17:04:45+00:00",
+                "created": "2026-08-24T17:01:33+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226871"
+    },
+    {
+        "id": "4226869",
+        "score": 1,
+        "fields": {
+            "title": "CR R\u00e9union mensuelle du Cluster Education_ juillet 2026",
+            "body": "- Mise \u00e0 jour de la situation humanitaire et de la r\u00e9ponse au niveau des provinces\n- Mise \u00e0 jour sur la situation Ebola\n- Gestion de l\u2019information",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226869",
+            "date": {
+                "original": "2026-08-24T00:00:00+00:00",
+                "changed": "2026-08-24T16:01:13+00:00",
+                "created": "2026-08-24T15:56:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226869"
+    },
+    {
+        "id": "4226868",
+        "score": 1,
+        "fields": {
+            "title": "Bulletin de suivi semestriel de Cluster Education (janvier-juin 2026)",
+            "body": "**Aper\u00e7u de la r\u00e9ponse en Education**\n\nLe Bulletin de suivi semestriel de Education (janvier-juin 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226868",
+            "date": {
+                "original": "2026-08-24T00:00:00+00:00",
+                "changed": "2026-08-24T15:53:54+00:00",
+                "created": "2026-08-24T15:52:46+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226868"
+    },
+    {
+        "id": "4226831",
+        "score": 1,
+        "fields": {
+            "title": "RD Congo : Chiffres humanitaires cl\u00e9s (au 31 juillet 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226831",
+            "date": {
+                "original": "2026-08-24T00:00:00+00:00",
+                "changed": "2026-08-24T13:32:38+00:00",
+                "created": "2026-08-24T13:11:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226831"
+    },
+    {
+        "id": "4226830",
+        "score": 1,
+        "fields": {
+            "title": "DR Congo: Humanitarian Key Figures (as of 31 July 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226830",
+            "date": {
+                "original": "2026-08-24T00:00:00+00:00",
+                "changed": "2026-08-24T13:22:39+00:00",
+                "created": "2026-08-24T13:09:18+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226830"
+    },
+    {
         "id": "4226817",
         "score": 1,
         "fields": {
@@ -83,7 +360,7 @@
         "id": "4226815",
         "score": 1,
         "fields": {
-            "title": "UNHCR Chad| CORE Sudan Emergency Situation (23 August 2026)",
+            "title": "UNHCR Emergency situation in Chad I Update on arrivals from Sudan (23 August 2026)",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/55",
                 "id": 55,
@@ -113,7 +390,7 @@
             "url": "https://reliefweb.int/node/4226815",
             "date": {
                 "original": "2026-08-24T00:00:00+00:00",
-                "changed": "2026-08-24T12:18:08+00:00",
+                "changed": "2026-08-24T13:02:30+00:00",
                 "created": "2026-08-24T12:03:20+00:00"
             }
         },
@@ -123,7 +400,7 @@
         "id": "4226814",
         "score": 1,
         "fields": {
-            "title": "UNHCR Tchad| Afflux des R\u00e9fugi\u00e9s du Soudan | Statistiques de l'enregistrement individuel biom\u00e9trique (23 Aou. 2026)",
+            "title": "UNHCR Tchad | Situation d'urgence au Tchad Mise \u00e0 jour des arriv\u00e9es du Soudan (23 Aout. 2026)",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/55",
                 "id": 55,
@@ -153,7 +430,7 @@
             "url": "https://reliefweb.int/node/4226814",
             "date": {
                 "original": "2026-08-24T00:00:00+00:00",
-                "changed": "2026-08-24T12:17:08+00:00",
+                "changed": "2026-08-24T14:38:45+00:00",
                 "created": "2026-08-24T12:03:09+00:00"
             }
         },
@@ -1494,230 +1771,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4226598"
-    },
-    {
-        "id": "4226583",
-        "score": 1,
-        "fields": {
-            "title": "Democratic Republic of the Congo: Humanitarian Dashboard (June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226583",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T10:11:56+00:00",
-                "created": "2026-08-21T09:56:04+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226583"
-    },
-    {
-        "id": "4226582",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo : Tableau de bord humanitaire (P\u00e9riode de rapportage : juin 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226582",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T10:12:16+00:00",
-                "created": "2026-08-21T09:54:19+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226582"
-    },
-    {
-        "id": "4226578",
-        "score": 1,
-        "fields": {
-            "title": "Nearly two children a day orphaned in DR Congo\u2019s latest Ebola outbreak \u2013 Save the Children",
-            "body": "**KINSHASA, 21 August 2026** \u2013 At least 180 children have lost both parents or primary caregivers in the Democratic Republic of Congo's (DRC) Ebola outbreak, equivalent to nearly two children every day, since the deadly virus was declared 100 days ago, Save the Children said.\n\nThousands more children have lost one parent or caregiver, exposing them to heightened risks of abuse, exploitation, trafficking and severe psychological distress as families and already fragile social services struggle to cope \\[1\\].\n\nIn what has become DRC\u2019s deadliest ever outbreak, children are bearing some of most devastating and lasting consequences, including the loss of parents and caregivers and increased risks of abuse, exploitation and psychological distress.\n\nLatest figures from the Provincial Division of Social Affairs in Ituri, the epicentre of the outbreak, show that 180 children - 90 boys and 90 girls - have lost both parents to the virus that was declared on 15 May. Most are now being cared for by relatives or in state-run childcare facilities while longer-term family-based arrangements are found.\n\nA further 114 children, including 61 boys and 53 girls, are currently separated from their parents, and are being supported by humanitarian organisations and family members, while their parents receive treatment for Ebola.\n\nChildren who are orphaned, separated or left unaccompanied by Ebola face heightened risks of human trafficking, sexual exploitation, physical violence, forced recruitment by armed groups and severe emotional distress. In communities affected by the virus, children can also face stigma and isolation, while strained protection systems leave many without the care and support they urgently need.\n\nAccording to [latest data from the Ministry of Health](https://insp.cd/sitrep-n093-mvebdb-15-08-2026/), over 4,945 cases of Ebola and 2,325 deaths have been reported to date. At least 800 children are confirmed to have contracted the disease with more than 357 children dying, accounting for nearly 32% of total confirmed deaths (1124) as of August 5 \u2013the last available age-[disaggregated data from the Ministry of Health](https://insp.cd/sitrep-n083-mve-b_05-08-2026/). The true number is likely to be higher, Save the Children said.\n\nThe outbreak has expanded rapidly over the past 100 days. According to the Africa Centres for Disease Control and Prevention (Africa CDC), it has recorded around nine times more confirmed cases and six times more deaths than were reported during the same period of the 2014-2016 West Africa Ebola epidemic, the deadliest Ebola outbreak on record.\n\nWith the outbreak still spreading \u2013 now in six provinces up from just two \u2013 Africa CDC estimates that only about 10% of potentially exposed contacts have been identified, while about four in five new infections being found outside known chains of transmission, highlighting the scale of undetected spread.\n\nThree out of every four deaths are occurring in the community rather than in health facilities, suggesting people are not accessing treatment in time. An investigation reported by [Science](https://www.science.org/content/article/exclusive-congo-s-ebola-epidemic-started-least-4-months-it-was-detected) also suggests Ebola may have been spreading around Mongbwalu in Ituri province as early as January - at least four months before the outbreak was officially declared.\n\nSave the Children is working with government and partners in Ituri province to establish safe spaces \u2013 called Observation Care Centres - for children whose parents or caregivers are currently being treated for Ebola and don\u2019t have alternative family care arrangements. These spaces will host children on a full\u2011time basis while their parents receive care in the Ebola Treatment Centre located in the same compound. Throughout a 21\u2011day surveillance period, the children will sleep, eat, live, and be supported psychologically in a safe environment.\n\n**Emmanuel Kalinde, Child Protection Manager in Ituri, said:**\n\n*\"Behind every statistic is a child whose world has been turned upside down. Many of these children are mourning parents, grandparents, siblings and caregivers who were the centre of their lives. Grief can leave a child incredibly vulnerable, especially in communities already facing conflict and displacement. Our job is to help ensure that no child is left behind. With the right support they can begin to heal and regain a sense of hope.\"*\n\n**Greg Ramm, Save the Children\u2019s Country Director in the DRC, said:**\n\n*\"Ebola is stealing more than lives. It is taking away the people children run to when they are scared. Every child who loses a parent, caregiver or loved one faces a future filled with uncertainty, and many are at risk of being left without the protection and support they need.*\n\n*\u201cThe children at the centre of this crisis need more than emergency medical care. They need safe care arrangements, protection, emotional support and the chance to continue learning and simply be children again. The longer this outbreak continues, the greater the risk that vulnerable children fall through the cracks and face exploitation, abuse, neglect or permanent disruption to their futures.*\n\n*\u201cChild protection cannot be treated as a secondary concern in an Ebola response. Every effort to stop transmission must be matched by efforts to protect the children left behind. Governments, donors and the international community must urgently invest in scaling up support for frontline health services, alternative care, mental health support, community-based child protection programmes, and the essential services families rely on.\u201d*\n\nThis outbreak is unfolding in communities already affected by armed conflict, mass displacement and chronic humanitarian needs. For many children, Ebola is the latest shock in a series of crises that have already disrupted their safety, education and wellbeing, placing additional strain on already fragile health, protection and social support system.\n\nSave the Children is supporting infection prevention, community engagement, case detection and referral, and the continuity of essential services for children and families. The aid agency is also providing psychosocial support and child protection services, including support for children who have lost caregivers, while working to ensure children can continue learning and access healthcare, nutrition and protection services safely throughout the crisis.\n\nIn the DRC since 1994, Save the Children partners with 13 local organisations, as well as international agencies and government authorities, to deliver life-saving support in health, nutrition, education, child protection, food security, water, sanitation, and hygiene for children and their families.\n\n**ENDS.**\n\n**Notes to editors**\n\n\\[1\\] Over 2,000 people have died from Ebola, according to [latest data from the Ministry of Health](https://insp.cd/sitrep-n093-mvebdb-15-08-2026/), most of them adults and parents to many children and thus thousands of children have lost a parent or caregiver.\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\nFor further enquiries please contact:\n\nDelfhin Mugo Delfhin.mugo@savethechildren.org\n\nOur media out of hours (BST) contact is media@savethechildren.org.uk / +44(0)7831 650409\n\nPlease also check our X account @Save\\_GlobalNews for news alerts, quotes, statements and location Vlogs.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2865",
-                    "id": 2865,
-                    "name": "Save the Children",
-                    "shortname": "Save the Children",
-                    "longname": "Save the Children Alliance",
-                    "spanish_name": "Save the Children",
-                    "homepage": "https://www.savethechildren.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226578",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T10:34:29+00:00",
-                "created": "2026-08-21T09:33:04+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226578"
-    },
-    {
-        "id": "4226570",
-        "score": 1,
-        "fields": {
-            "title": "How Caritas is supporting communities affected by Ebola in the DRC",
-            "body": "Three months after the Democratic Republic of the Congo declared its 17th Ebola outbreak on 15 May 2026, the situation remains deeply concerning. The outbreak continues to spread in the east of the country, driven by the rare Bundibugyo strain, for which there is currently no licensed vaccine or approved treatment.\n\nThe World Health Organization is currently assessing whether existing Ebola vaccines and available treatments could be effective against this strain.\n\nAs of mid-August 2026, **authorities have recorded 4,945 confirmed cases and 2,325 deaths** \u2014 a case fatality rate of 46 per cent \u2014 across six provinces: Ituri, North Kivu, South Kivu, Haut-U\u00e9l\u00e9, Tshopo and Bas-U\u00e9l\u00e9. Declared on 15 May, the outbreak passed 1,000 confirmed cases within 40 days, making it the fastest-growing Ebola epidemic on record.\n\nCaritas Congo ASBL is working through its diocesan networks, parishes and community health structures to support affected families, promote prevention and strengthen the response.\n\nDrawing on long-standing relationships with local communities, Caritas teams are helping to build trust, share reliable information and ensure that people affected by the outbreak are not left alone. Abb\u00e9 Edouard Makimba Milambo, Executive Secretary of Caritas Congo ASBL, recently spoke to the news outlet *Crux*. Below is a summary of the interview.\n\n## **The United Nations has described this outbreak as the largest and fastest-spreading ever recorded, caused by the Bundibugyo strain of the Ebola virus. From Caritas\u2019 perspective in eastern DRC, does that description match the reality on the ground?**\n\nYes, unfortunately, that description matches what Caritas teams are observing alongside the diocesan Caritas structures concerned. Behind the figures are families living in anguish, villages whose habits have been turned upside down, and health workers operating under intense pressure.\n\nThe epidemic is progressing rapidly, cases are touching several health zones, and local capacities are already stretched thin. In eastern DRC, population displacement, insecurity, mobility linked to mining activity and the fragility of the health system are making the outbreak considerably harder to control. For Caritas Congo ASBL, this situation represents a health emergency, a social crisis and a major challenge for communities, all at once.\n\n## **What impact is this epidemic having on people\u2019s daily lives and on the health system?**\n\nThe impact is profound and is felt in households\u2019 everyday lives. Families live with the fear of the disease, of losing a loved one, or of prolonged isolation. Markets are running at a slower pace, some small traders are seeing their custom shrink, and day labourers can lose their main source of income. In the most vulnerable households, that loss of income quickly translates into food insecurity.\n\nHealth centres, already short of staff, equipment and medicines, must strengthen infection prevention and control measures while still delivering essential care.\n\n> \u201cOne of the most worrying consequences is that some people are delaying seeking care for fear of being identified as suspected cases.\u201d\n\n## **Can you share an example or a testimony from a member of your team that illustrates what affected families are currently going through?**\n\nAn example that comes up often in our exchanges with local teams in the affected dioceses is that of families struck by several bereavements within a few days, while also having to cope with isolation, fear from their neighbours, and uncertainty about tomorrow.\n\n> \u201cWe are told of parents who can no longer hold their children in their arms during treatment or follow-up, of children who do not understand why a relative has been taken away, and of families who must accept dignified and safe burial measures even as they are living through immense grief.\u201d\n\nThese measures are not rejected because families refuse to protect the community; they are sometimes difficult to accept because they touch on very sensitive cultural, spiritual and family practices. That is where our pastoral, social and community presence takes on its full meaning: listening, explaining, accompanying, and helping families feel that they are not alone.\n\n## **How do you convince terrified populations to trust medical interventions?**\n\nCaritas\u2019s strength lies in being present alongside communities well before crises hit. Through parishes, diocesan structures, community outreach workers and faith-based health centres, we often share in people\u2019s daily lives.\n\n> \u201cIn practical terms, we take the time to listen to concerns, to answer questions in local languages, and to work with people the community trusts: priests, religious sisters and brothers, community leaders, women leaders, young people and survivors. When a message is carried by someone the community knows and respects, it is better understood and better accepted.\u201d\n\nTrust is built when families understand that the measures being proposed are meant to protect them, preserve their dignity and save lives.\n\n## **As traditional donors scale back their support, who is financing the response to the epidemic today?**\n\nAt this stage, the response is being coordinated by the DRC government, with support from WHO, the United Nations system, the Africa Centres for Disease Control and Prevention (Africa CDC), and numerous technical, financial, humanitarian and faith-based partners. Within the Caritas Internationalis network, organisations such as Caritas International Belgium, CRS, CAFOD, Caritas Germany, Secours Catholique-Caritas France, Caritas Spain, Caritas Italiana and Caritas Austria are providing valuable financial, technical, institutional and humanitarian support.\n\nDespite this backing, needs remain significant, particularly around community mobilisation, psychosocial support, local logistics, prevention and the long-term strengthening of health structures. At this stage, Caritas is observing above all a growing strain on local structures, which must respond to rising needs with limited means. We cannot say that health centres have closed purely because of budget cuts. What is clear, however, is that some essential activities can be slowed, delayed or placed under heavy pressure when funding is not available in time. That risks weakening the effectiveness of the response and making it harder to protect the most vulnerable populations.\n\nSustained resource mobilisation remains essential to guarantee an effective response and protect the most vulnerable populations.\n\n## **What concrete actions is Caritas currently carrying out on the ground in eastern DRC to slow the virus\u2019s spread and support affected communities?**\n\nCaritas contributes mainly to community mobilisation, awareness-raising on prevention measures, the dissemination of reliable messages, referring suspected cases to the appropriate services, and supporting affected families. Concretely, that means going out to communities, engaging with local leaders, explaining warning signs, encouraging handwashing, supporting acceptance of contact tracing, accompanying bereaved families, and helping to reduce the stigmatisation of people who are infected or have recovered. Through its parish, diocesan and health networks, Caritas also helps build acceptance of medical interventions by showing that the response is not imposed on communities but built together with them. For Caritas Congo ASBL, hope rests on solidarity, trust and the conviction that every life saved is the result of a collective effort.\n\n*The full interview by reporter Ngala Killian Chimtom, published on Crux, 7 August 2026, [is available at this link](https://cruxnow.com/interviews/2026/08/combating-fear-with-faith-how-caritas-is-fighting-drcs-fastest-spreading-ebola-outbreak).*\n\nThe post [How Caritas is supporting communities affected by Ebola in the DRC](https://www.caritas.org/article/how-caritas-is-supporting-communities-affected-by-ebola-in-the-drc/) appeared first on [Caritas](https://www.caritas.org).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1517",
-                    "id": 1517,
-                    "name": "Caritas",
-                    "shortname": "Caritas",
-                    "longname": "Caritas",
-                    "homepage": "https://www.caritas.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226570",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T09:10:40+00:00",
-                "created": "2026-08-21T08:33:04+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226570"
-    },
-    {
-        "id": "4226558",
-        "score": 1,
-        "fields": {
-            "title": "RD Congo : Situation de la lutte contre la rougeole en RD Congo - Semaine \u00e9pid\u00e9miologique 32, 2026 (Mise \u00e0 jour du 17/08/2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/732",
-                    "id": 732,
-                    "name": "Government of the Democratic Republic of the Congo",
-                    "shortname": "Govt. DR Congo",
-                    "longname": "Government of the Democratic Republic of the Congo",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/15477",
-                    "id": 15477,
-                    "name": "Health Cluster",
-                    "shortname": "Health Cluster",
-                    "homepage": "https://healthcluster.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226558",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T06:54:16+00:00",
-                "created": "2026-08-21T06:53:38+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226558"
     }
 ]
