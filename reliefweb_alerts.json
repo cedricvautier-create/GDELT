@@ -1,9 +1,116 @@
 [
     {
+        "id": "4226962",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Personnes d\u00e9plac\u00e9es internes et retourn\u00e9es (au 30 juin 2026)",
+            "body": "La RDC fait face \u00e0 une crise humanitaire persistante, avec une dynamique de d\u00e9placements largement li\u00e9e aux violences arm\u00e9es. Depuis janvier 2026, plus de 1,7 millions personnes se sont nouvellement d\u00e9plac\u00e9es portant le total \u00e0 environ 6,1 millions de PDI. Plus de 60% des d\u00e9placements sont dus aux attaques et affrontements arm\u00e9s tandis que 89 % des d\u00e9placements internes au cours de l\u2019ann\u00e9e ont eu lieu dans les provinces du Sud-Kivu (43 %), du Nord-Kivu (35 %) et Maniema (11 %). Par ailleurs, 99 % des retours en 2026 ont \u00e9t\u00e9 enregistr\u00e9s dans le Sud-Kivu (39 %), Nord-Kivu (31 %) et Ituri (29 %).",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226962",
+            "date": {
+                "original": "2026-08-19T00:00:00+00:00",
+                "changed": "2026-08-25T10:33:17+00:00",
+                "created": "2026-08-25T09:23:00+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226962"
+    },
+    {
+        "id": "4226963",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo: 17\u00e8me CRISE MVE - Paquet harmonise PCI/WASH pour les interventions dans le secteur",
+            "body": "Le Cluster a men\u00e9 une d\u00e9marche participative avec la contribution des acteurs des secteurs de l\u2019\u00c9ducation, de la Protection de l\u2019Enfance, du WASH ainsi qu\u2019OCHA, avec l\u2019appui technique des sp\u00e9cialistes de SCI, de l\u2019UNICEF et du NRC pour mettre en place un paquet minimum consensuel pour les interventions dans le secteur de l'education pendant la Maladie \u00e0 Virus Ebola (MVE). Ce travail a \u00e9t\u00e9 fait en appui au PROVED et Cluster Education provincial d\u2019Ituri qui avait d\u00e9j\u00e0 entam\u00e9 la r\u00e9flexion sur l\u2019harmonisation des kits. L\u2019\u00e9laboration de ce paquet minimum consensuel constitue une avanc\u00e9e importante pour harmoniser les interventions et assurer une r\u00e9ponse coh\u00e9rente aux besoins des enfants et des communaut\u00e9s affect\u00e9es par la (MVE). Cela servira ass\u0217rement pour les crises sanitaires qui pourraient intervenir en RDC. Le paquet harmonis\u00e9 PCI/ WASH qui est en lien avec le plan op\u00e9rationnel de riposte \u00e0 la MVE pour la pr\u00e9paration de la rentr\u00e9e scolaire 2026\u20132027 a \u00e9t\u00e9 valid\u00e9 par le Minist\u00e8re de l\u2019Education Nationale et Nouvelle Citoyennet\u00e9 (Min EDU NC).",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226963",
+            "date": {
+                "original": "2026-08-25T00:00:00+00:00",
+                "changed": "2026-08-25T10:35:45+00:00",
+                "created": "2026-08-25T08:56:48+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226963"
+    },
+    {
         "id": "4226941",
         "score": 1,
         "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - Zones affect\u00e9es ou \u00e0 risque d\u2019Ebola vs Zones couvertes par le plan de r\u00e9ponse (HNRP) - au 24 Ao\u00fbt 2026",
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Zones affect\u00e9es ou \u00e0 risque d\u2019Ebola vs Zones couvertes par le plan de r\u00e9ponse (HNRP) - au 15 ao\u00fbt 2026",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -33,8 +140,8 @@
             ],
             "url": "https://reliefweb.int/node/4226941",
             "date": {
-                "original": "2026-08-25T00:00:00+00:00",
-                "changed": "2026-08-25T06:37:51+00:00",
+                "original": "2026-08-15T00:00:00+00:00",
+                "changed": "2026-08-25T11:43:15+00:00",
                 "created": "2026-08-25T06:37:37+00:00"
             }
         },
@@ -1692,107 +1799,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4226657"
-    },
-    {
-        "id": "4226656",
-        "score": 1,
-        "fields": {
-            "title": "Operation du Tchad : R\u00e9alisations - Protection de l'Enfant (Juillet 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2648",
-                    "id": 2648,
-                    "name": "Government of Chad",
-                    "shortname": "Govt. Chad",
-                    "longname": "Government of Chad",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226656",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-24T00:24:57+00:00",
-                "created": "2026-08-21T18:03:17+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226656"
-    },
-    {
-        "id": "4226655",
-        "score": 1,
-        "fields": {
-            "title": "Operation du Tchad : R\u00e9alisations - Protection contre l\u2019Exploitation et les Abus Sexuels (Juillet 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2648",
-                    "id": 2648,
-                    "name": "Government of Chad",
-                    "shortname": "Govt. Chad",
-                    "longname": "Government of Chad",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226655",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-24T00:24:14+00:00",
-                "created": "2026-08-21T18:03:08+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226655"
     }
 ]
