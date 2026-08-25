@@ -1,5 +1,304 @@
 [
     {
+        "id": "4226941",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Zones affect\u00e9es ou \u00e0 risque d\u2019Ebola vs Zones couvertes par le plan de r\u00e9ponse (HNRP) - au 24 Ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226941",
+            "date": {
+                "original": "2026-08-25T00:00:00+00:00",
+                "changed": "2026-08-25T06:37:51+00:00",
+                "created": "2026-08-25T06:37:37+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226941"
+    },
+    {
+        "id": "4226929",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo - Initiative conjointe de suivi des march\u00e9s (ICSM) - juillet 2026",
+            "body": "**MESSAGES CL\u00c9S**\n\n\u2022 Le co\u00fbt m\u00e9dian du MEB, calcul\u00e9 sur l\u2019ensemble des march\u00e9s \u00e9valu\u00e9s, a augment\u00e9 de 4% entre juin et juillet. Il s\u2019\u00e9levait \u00e0 404'940 francs congolais (FC) et variait de 288'924 FC au march\u00e9 Kapulo dans la province du Tanganyika \u00e0 992'389 FC au march\u00e9 Bunangiri dans la province du Nord-Kivu.\n\n\u2022 Depuis avril, le co\u00fbt m\u00e9dian du MEB a augment\u00e9 d'environ 37% et 39% respectivement dans les deux march\u00e9s (Kilokwa et Mayangose) \u00e9valu\u00e9s dans la ville de Beni m\u00eame si en juillet une baisse \u00e0 \u00e9t\u00e9 observ\u00e9e. Cette hausse a \u00e9t\u00e9 principalement port\u00e9e par le panier alimentaire (farine de ma\u00efs et manioc), qui repr\u00e9sente la plus grande part du MEB. Les articles AME ont \u00e9galement connu des augmentations particuli\u00e8rement marqu\u00e9es par la hausse des prix des lampes, couvertures et pagnes. Le panier EHA/combustible appara\u00eet toutefois comme le plus affect\u00e9, avec une progression moyenne de sa valeur de 406% entre avril et juillet sur les deux march\u00e9s. Cette tendance semble coh\u00e9rente avec le contexte d'Ebola, o\u00f9 les mesures de pr\u00e9vention reposent largement sur le renfocement des pratiques d'hygi\u00e8ne.\n\n\u2022 L'\u00e9volution du co\u00fbt m\u00e9dian du MEB reste volatile dans les march\u00e9s \u00e9valu\u00e9s dans la ville de Bunia. Le co\u00fbt m\u00e9dian du MEB a fortement augment\u00e9 sur le march\u00e9 de Dele (+24%) entre juin et juillet. Sur le march\u00e9 Abattoir, le co\u00fbt des articles alimentaires est quant \u00e0 lui revenu \u00e0 un niveau similaire \u00e0 celui observ\u00e9 en avril, tandis que les paniers EHA/combustible et AME restent respectivement 32% et 21% plus \u00e9lev\u00e9s qu\u2019en avril.\n\n\u2022 Le co\u00fbt m\u00e9dian du MEB a augment\u00e9 dans la majorit\u00e9 des march\u00e9s \u00e9valu\u00e9s dans le territoire de Goma. Le prix m\u00e9dian de la farine de manioc aurait notamment augment\u00e9, avec des sp\u00e9cificit\u00e9s selon les march\u00e9s. Selon les commer\u00e7ants interrog\u00e9s, ces hausses seraient attribuables \u00e0 la hausse des co\u00fbts des prix pratiqu\u00e9s par les fournisseurs et \u00e0 la hausse du taux de change.\n\n\u2022 Le march\u00e9 Abattoir dans la ville de Bunia continu \u00e0 avoir de graves probl\u00e8mes de fonctionnalit\u00e9. L'accessibilit\u00e9 tant physique que s\u00e9curitaire y est rest\u00e9e limit\u00e9e. L'abordabilit\u00e9 restait faible, avec des difficult\u00e9s des commer\u00e7ants \u00e0 pr\u00e9dire les prix des fournisseurs dans le mois l'avenir. En outre, le march\u00e9 affichait des probl\u00e8mes au niveau des infrastructures (stockage et modalit\u00e9 de paiement). En cons\u00e9quence, le march\u00e9 pr\u00e9sente toujours de graves probl\u00e8mes qui affectent son bon fonctionnement.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226929",
+            "date": {
+                "original": "2026-08-25T00:00:00+00:00",
+                "changed": "2026-08-25T03:38:46+00:00",
+                "created": "2026-08-25T03:26:24+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226929"
+    },
+    {
+        "id": "4226926",
+        "score": 1,
+        "fields": {
+            "title": "Fiche d\u2019information : Groupe de travail d\u2019analyse de crises et qualit\u00e9 de r\u00e9ponse (GTACQ) Analyse provinces du Sud-Kivu, Nord-Kivu et Ituri (avril 2026)",
+            "body": "**Messages cl\u00e9s**\n\n\u2022 Nord-Kivu : la situation humanitaire se d\u00e9gradait dans plusieurs ZS, notamment \u00e0 Mabalako, o\u00f9 le d\u00e9placement de plus de 39 000 personnes \u00e9tait rapport\u00e9, tandis que les besoins et les gaps de la r\u00e9ponse restaient \u00e9lev\u00e9s, confirmant une couverture humanitaire limit\u00e9e.\n\n\u2022 Sud-Kivu : l\u2019acc\u00e8s humanitaire \u00e9tait difficile \u00e0 Itombwe et \u00e0 Mulungu, o\u00f9 les besoins et les gaps de la r\u00e9ponse restaient \u00e9lev\u00e9s. \u00c0 Itombwe, trois alertes de d\u00e9placement concernant plus de 77 000 personnes \u00e9taient rapport\u00e9es.\n\n\u2022 Ituri : le contexte humanitaire \u00e9tait difficile \u00e0 Boga et \u00e0 Rimba, sur fond d\u2019augmentation des besoins et de d\u00e9gradation du contexte suite aux d\u00e9placements des populations.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226926",
+            "date": {
+                "original": "2026-08-25T00:00:00+00:00",
+                "changed": "2026-08-25T03:38:05+00:00",
+                "created": "2026-08-25T03:23:20+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226926"
+    },
+    {
+        "id": "4226923",
+        "score": 1,
+        "fields": {
+            "title": "Second meeting of the IHR Emergency Committee on the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo \u2013 Temporary recommendations",
+            "body": "On 18 August 2026, the Emergency Committee regarding the epidemic of Ebola Bundibugyo virus disease in the Democratic Republic of the Congo met for the second time to reassess the situation, in line with [International Health Regulations (2005)](https://apps.who.int/gb/bd/pdf_files/IHR_2014-2022-2024-en.pdf).\n\nThe Director-General, considering the advice of the Committee, issued the following updated temporary recommendations for States Parties. The recommendations for the Democratic Republic of the Congo provide more detailed guidance on surveillance, case detection and investigation, infection prevention and control, clinical care, risk communication and community engagement than those previously issued, and include a new section on social measures, mass gatherings and domestic mobility.\n\n====\n\n## **Temporary recommendations**\n\nThese temporary recommendations are issued by the Director-General of WHO for subsets of States Parties according to the public health risk associated with the Bundibugyo virus disease (BVD) epidemic they face.\n\nAll current WHO interim technical guidance can be accessed on [this page](https://www.who.int/health-topics/ebola) of the WHO website. WHO evidence-based guidance has been and will continue to be updated in line with the evolving situation, updated scientific evidence, and WHO risk assessment.\n\nThe implementation of these temporary recommendations by States Parties shall be with full respect for the dignity, human rights and fundamental freedoms of persons, in accordance with the principles set out in Article 3 of the IHR.\n\n**Note:** The text in backets next to each temporary recommendation indicates the status with respect to the set of temporary recommendations issued on 22 May 2026.\n\n**For States Parties with community transmission of Bundibugyo virus (Democratic Republic of the Congo) \\[Modified\\]**\n\nAs of 14 August 2026, the WHO Secretariat assessed the risk for these States Parties as \u201cVery high\u201d. At the time these temporary recommendations are issued, only the Democratic Republic of the Congo falls in this group. \\[Modified\\]\n\nThe epidemic is caused by BDBV, a virus belonging to the *Orthoebolavirus* genus. Unlike Ebola virus causing Ebola virus disease, although clinical trials are ongoing, there are no currently approved therapeutics or vaccines against BDBV. Should effective BVD-specific vaccines and therapeutics become available, based on experience from the 2013\u20132016 Ebola virus disease epidemic in West Africa, they are likely to have a complimentary effect on transmission and mortality, but they will not be a substitute for effective, core public health interventions. \\[Modified\\]\n\n### **Coordination and high-level engagement**\n\n- Declare, or maintain, the BDBV epidemic a health emergency, at national or sub-national level, in accordance with domestic laws, and as appropriate. \\[Extended with rephrasing\\]\n- Scale-up national disaster or health emergency management mechanisms, including an activated emergency operation centre, under the authority of the Head of State or relevant government authority, to coordinate response and preparedness activities across Government sectors, administrative levels, and partners. \\[Modified\\]\n- Establish, and maintain up to date, a single national plan (e.g., action plan, response plan) to guide response efforts, across Government sectors and partners, reflecting the role and responsibilities of Government entities and all partners involved in the response, to ensure efficient and effective implementation and monitoring of comprehensive BVD control measures. These measures must include: \\[New, resulting from splitting of temporary recommendation previously under \u201cCoordination and high-level engagement\\] \n    - community protection, including risk communication and community engagement;\n    - enhanced surveillance and case identification;\n    - contact tracing;\n    - laboratory diagnostic testing;\n    - infection prevention and control (IPC);\n    - case management;\n    - safe and dignified burials;\n    - continuity of essential health services;\n    - logistics; and\n    - health workforce management and protection, including timely payment of salaries and, as appropriate, hazard pay.\n\n\\[Modified\\]\n\n- Negotiate, as applicable, and establish security corridors, including cross-border, to allow responders to safely reach affected communities, including in IDP camps and other humanitarian settings, as well as to allow communities to seek appropriate health care. \\[Extended\\]\n- Establish immigration procedures to allow timely and fluid influx and outflux of international responders both, to cater for identified response needs and to allow for their rotation. \\[New\\]\n- Establish customs clearance procedures, as well as other administrative and regulatory ones, to expedite the importation of supplies needed to sustain the response \\[New\\]\n- Notify WHO, through the relevant WHO IHR Contact Point in the WHO Regional Office, of the detection of suspected, probable and confirmed BVD cases on a daily basis, as per WHO case definitions available [here](https://www.who.int/publications/i/item/WHO-EVD-CaseDef-14.1). \\[Extended\\]\n\n### **Risk communication and community engagement**\n\n- Integrate, at the lowest level designated to coordinate response activities, the implementation of risk communication and community engagement interventions (community networks, workforce capacity, community intelligence and feedback systems, and accountability processes). \\[New\\]\n- Scale up trust-building and community engagement through trusted communication channels and local actors, including local leaders, religious leaders, traditional healers and survivors, to support community participation in fostering the acceptance of public health measures, including early detection, case referral, contact tracing, safe and dignified burial practices, and adoption of protective behaviours. \\[Extended with rephrasing, including merging of one temporary recommendation previously under \u201cRisk communication and community engagement\u201d\\]\n- Strengthen community awareness, engagement and participation, to establish and strengthen trust, by identifying and addressing cultural norms and beliefs that may serve as barriers to their full participation in the response; and by integrating interventions and community feedback, within the wider response, to address the needs of the population, particularly in contexts of the protracted humanitarian crisis in the Eastern provinces of the Democratic Republic of Congo. \\[Extended\\]\n- Activate and train local networks, including community health workers, Red Cross volunteers, and other trusted community actors to promote protective behaviours; facilitate early detection and referral of suspected BVD cases; support contact tracing activities; and collect and relay community feedback to enhance the acceptance of public health measures. \\[Extended with rephrasing\\]\n- Enable adherence to movement restrictions, associated with the application of control measures, by providing food, water, communication, financial and psychosocial support. \\[Extended\\]\n\n### **Surveillance and laboratory**\n\n- Establish and maintain up to date a register of signals consistent with BVD (\u201calerts\u201d, e.g., including for clusters of unexplained illness or deaths), including status of their investigation. \\[Extended with rephrasing, previously under \u201cCoordination and high-level engagement\u201d\\]\n- Establish and maintain an up to date a line list of suspected cases, probable cases, and confirmed BVD cases, including a consolidated one at the national level, while building chains of transmission. \\[Extended, previously under \u201cCoordination and high-level engagement\u201d\\]\n- Establish and maintain up to date the list of contacts of all confirmed and probable BVD cases, monitor, on a daily basis, each contact for 21 days after the date of last known exposure, and record their status. Both the evolution of the epidemic and resources available may require reiterative risk-based prioritization of contacts requiring identification and monitoring. \\[Extended with rephrasing, including merging of two temporary recommendations previously under \u201cCoordination and high-level engagement\u201d and \u201cSurveillance and laboratory\u201d\\]\n- Establish a mechanism to monitor the evolution of indicators related to the performance of contact tracing activities. \\[Extended\\]\n- Strengthen surveillance and laboratory capacity, decentralized across sub-national administrative levels (e.g., provinces and districts/health zones) with community BDV transmission, as well as in their neighbouring sub-national administrative levels, through: \\[Extended with rephrasing\\] \n    - dedicated surveillance and response teams within each health zone and in neighbouring health zones determined to be at high-risk for the introduction of BVD; \\[Extended\\]\n    - active case finding and enhanced community surveillance; \\[Modified\\]\n    - the investigation of \u201calerts\u201d within 24 hours from detection; and \\[Extended\\]\n    - scale-up and strengthen decentralized RT-PCR laboratory capacities for quality, safe and timely testing for BDBV, including sample collection, rapid referral and transportation of samples and timely dissemination of laboratory test results; and train laboratory personnel accordingly. \\[Modified\\]\n\n### **Safe and dignified burials**\n\n- Implement protocols, including for their recording and monitoring, in all areas with community BVD transmission, as well as neighbouring areas, ensuring funerals and burials are conducted by well-capacitated, -trained and appropriately PPE-equipped personnel, including safe handling and disinfection of the burial sites with provision made for the presence of the family and cultural practices, and in accordance with relevant national laws and regulations. \\[Extended with rephrasing\\]\n- Investigate each death, occurring outside BVD isolation and treatment centers, to identify or link to BVD chains of transmission and to better understand the reasons underpinning the community\u2019s reluctance to accept safe and dignified burials. \\[New\\]\n\n### **Patient referral pathway and access to safe and optimized intensive care**\n\n- Establish dedicated BVD isolation and treatment centers or units for suspected, probable, and confirmed BVD cases, located within, or close to, areas with community BVD transmission, with sufficient staff who are specifically trained and equipped to implement optimized intensive supportive care. \\[Extended\\]\n- Establish protocols for early identification and transferring suspected BVD patients safely to dedicated health care facilities for their isolation, assessment and treatment in a humane and patient-centred approach. This includes trained ambulance teams, mechanisms to notify the receiving health care facility, the application of appropriate IPC precautions during transfer, and decontamination protocols for vehicles and equipment. \\[Extended with rephrasing\\]\n- Establish protocols for the handling and disposal of medical waste, including segregation at point of generation, safe collection and storage, and decontamination by autoclaving or incineration prior to final disposal, in accordance with international guidance. \\[Modified\\]\n- Establish survivor follow-up programmes, including counselling, psychosocial support and stigma-reduction programmes, clinical care, as well as sexual health advice, semen testing, and condoms as appropriate. \\[Extended\\]\n- Maintain the provision of essential health services package \u2013 through implementing infection, prevention and control measures to protect healthcare workers \u2013, and monitor any disruption thereof. This package of essential health services includes, at minimum, malaria diagnosis and treatment, and maternal and child health services. \\[Extended with rephrasing\\]\n\n### **Infection prevention and control in health facilities and communities \\[Modified\\]**\n\n- Strengthen measures to prevent health-care associated infections (HAIs), including systematic mapping and assessment of public and private health facilities \u2013 that are not BVD isolation and treatment centers \u2013, the establishment, dissemination and implementation of protocols for standards and transmission-based precautions, including screening, triage, isolation, targeted IPC interventions and sustained monitoring and supervision \\[Modified\\]\n- Provide regularly scheduled IPC training to, and assessments of health workers supervision in their proper use of personal protective equipment (PPE) supported by designated IPC focal points at facility-level, and standardized supportive-supervision checklists (e.g. WHO IPC scorecard). \\[Modified\\]\n- Provide health facilities with sufficient and uninterrupted supplies, including PPE, safe injection equipment, with monitoring of stock out rates. \\[Modified, including moving part of previous temporary recommendation under \u201cCoordination and high-level engagement\u201d\\]\n- Establish channels for health workers to report and be assessed following exposures, and have access to psychosocial support and, when possible post-exposure prophylaxis under compassionate use or clinical trial. All BVD cases occurring among health workers must be investigated promptly to implement timely corrective actions within health facilities and mitigation measures as appropriate at the community level. \\[Extended with rephrasing\\]\n- Build community IPC capacity by training community leaders and emphasizing that hand hygiene not only contributes to bringing the BVD epidemic under control but also reduces the risk of transmission of other communicable diseases present in the same areas. Hand hygiene shall be facilitated at critical spots, such as schools, churches, bars, markets, local gatherings sites, points of entry, etc. \\[Extended with rephrasing\\]\n\n### **Social measures, mass-gathering events, and domestic mobility \\[New\\]**\n\n- Postpone mass gatherings in areas with ongoing community BDV transmission. For mass gathering events planned in other areas, the decision to hold them shall be based on event-specific risk assessment. \\[Modified, previously under \u201cBorder health, international travel and mass-gathering events\u201d\\]\n- Enact and implement measures reducing crowding in food and drink establishments and nightclubs. \\[New\\]\n- Enact and implement measures limiting to one the number of passengers motorbikes. \\[New\\]\n- Enact and implement measures for the safe opening of schools. \\[New\\]\n- Establish 24/7 health check points along the roads connecting areas with community BVD transmission and areas determined to be at high-risk for the introduction of BVD, as informed by the analysis of population mobility patterns. \\[New\\]\n- Establish BVD surveillance on vessels navigating inland waterways, connecting areas with community BVD transmission with major urban centers, including the Capital Kinshasa. \\[New\\]\n\n### **International travel and border health \\[Modified\\]**\n\n- Establish arrangements with States Parties adjacent to areas experiencing community BVD transmission and characterised by substantial cross border movement and trade activities, to enhance surveillance at ground crossings and along bordering areas. This includes establishing coordination mechanisms for sharing of information regarding contacts who have, or may have, crossed the border, thus enabling continuity of follow-up; as well as the identification and follow up of contacts following the detection of a BVD case in the. \\[Extended with rephrasing\\]\n- Implement measures, in accordance with national laws and regulations, to prevent suspected, probable, and confirmed BVD cases, as well as their contacts, based on the assessment of exposure, from undertaking international travel, unless the travel is part of an appropriate medical evacuation. \\[Extended\\]\n- Prevent the cross-border movement of the human remains of deceased suspected, probable or confirmed BVD cases, unless authorized through bilateral arrangements. \\[Extended\\]\n- Implement exit screening at all points of entry \u2013 airports, ports and ground crossings \u2013 consisting of, at a minimum, a questionnaire encompassing history of potential exposure to BVD, a temperature measurement and, in case of fever, an in-depth assessment of the risk of BVD, by personnel trained and adequately equipped with PPE. \\[Extended with rephrasing\\]\n- Report to WHO, through the relevant WHO IHR Contact Point in the WHO Regional Office, the implementation of any international traffic related measure adopted. \\[Extended\\]\n\n### **Operations, supplies and logistics**\n\n- Report to WHO, through the relevant WHO IHR Contact Point in the WHO Regional Office, the implementation of any international traffic related measure adopted. \\[Extended\\]\n- Establish and maintain a timely, robust and monitored end-to-end emergency supply chain to ensure needs-based forecasting, procurement, importation, storage, transportation and distribution of all relevant commodities and countermeasures, including PPE, diagnostics, therapeutics, IPC materials, medical supplies and essential non-medical equipment, while ensuring visibility of stocks, pipelines, consumption and potential gaps. \\[New, replacing terminated temporary recommendation previously under \u201cOperations, supplies and logistics\u201d\\]\n- Establish and coordinate the capacity to rapidly construct, rehabilitate, equip and maintain isolation and treatment facilities and other health infrastructure, ensuring their safe and functional operation in accordance with the standards and technical IPC and case management international guidance. \\[New, replacing terminated temporary recommendation previously under \u201cOperations, supplies and logistics\u201d\\]\n- Establish, operationalize and steer a national health logistics partners coordination cell that provides shared visibility of needs, stocks and partner pipelines of relevant health products; identifies gaps, bottlenecks and duplications; and facilitates the prioritization and mobilization of logistics resources in line with national response priorities. \\[New, replacing terminated temporary recommendation previously under \u201cOperations, supplies and logistics\u201d\\]\n\n### **Research and development of medical countermeasures**\n\n- Engage, when feasible, with research partners and international institutions to: \\[Extended\\] \n    - define a robust laboratory strategy, urgently implement head-to-head comparison studies of PCR diagnostics to validate or invalidate the PCR platforms currently used in the field and other upcoming products. \\[Extended\\]\n    - conduct in-depth investigations to identify and characterize BDBV transmission dynamics associated with specific settings, including related modes of BDBV transmission (e.g. caretaking at home, hospital, or at traditional healers, re-use of needles), as well as exposure to animal populations. \\[New\\]\n    - implement ethically approved, scientifically robust clinical trials to advance the development and use of candidate therapeutics for treatment and post-exposure prophylaxis, as well as for candidate vaccines. \\[Extended\\]\n    - establish, with a view to support research, expedited and efficient national regulatory and ethics reviews, community engagement, pharmacovigilance (where applicable), data sharing and equitable access arrangements. \\[Extended\\]\n\n### **Reporting on the implementation of temporary recommendations**\n\n- Report to WHO, on a monthly basis, on the status of, and challenges related to, the implementation of these temporary recommendations, using a standardized tool and channels that will be made available by WHO, also allowing for the monitoring of progress and the identification of gaps in the national response. \\[Modified\\]\n\n## **For States Parties with land borders adjoining States Parties with community BVD transmission \\[Modified\\]**\n\nAs of 14 August 2026, the WHO Secretariat assessed the regional risk \u201cHigh\u201d. At the time these temporary recommendations are issued, these States Parties include Angola, Burundi, Central African Republic, Republic of Congo, Rwanda, South Sudan, Tanzania, Uganda and Zambia: \\[Modified\\]\n\n- Establish, or maintain, a national coordination mechanism articulated with subnational levels. \\[Extended with rephrasing\\]\n- Enhance and maintain operational readiness respond to BVD cases, focusing on gaps identified through BVD-specific readiness assessments, and including, but not limited to: \n    - identifying areas at highest risk of importation of BVD cases;\n    - raising community awareness regarding BVD;\n    - raising awareness among health workers regarding BVD;\n    - enhancing community-based surveillance for and investigations of clusters of unexplained deaths;\n    - establishing weekly zero reporting of suspected BVD cases across health facilities;\n    - establishing timely access to laboratories, at national and, if needed, at subnational levels, qualified to perform test for BDBV and relevant differential testing. Considerations may be given to shipment to an international reference laboratory for inter-laboratory comparison as part of external quality assurance implementation;\n    - establishing rapid response teams for the investigation and management of BVD patients and their contacts;\n    - establishing a mechanism for the identification and monitoring of contacts;\n    - training health workers in infection, prevention and control (IPC) measures and interventions, including standards and transmission-based precautions for the isolation and treatment of BVD cases;\n    - identifying and training workforce should a rapid scale-up of response operations be necessary, including the identification of resources for hazard pay; and\n    - conducting simulation exercises.  \n         \\[Modified, including merging of two temporary recommendations previously under this Section\\]\n- Provide the general public with accurate and up to date information regarding the BVD epidemic, as well as measures to reduce the risk of exposure; and, where the risk of importation is assessed as highest, engage community leaders, community health workers, and trusted community actors to promote protective behaviours, conduct surveillance, facilitate referral of suspected BVD cases, collect and respond to community feedback \\[Modified\\]\n- Establish, with a view to support research, expedited and efficient national regulatory and ethics reviews, community engagement, pharmacovigilance (where applicable), data sharing and equitable access arrangements. \\[Extended\\]\n- Border health and international travel \n    - Provide travellers with accurate and up to date information regarding the BVD epidemic and measures to reduce the risk of exposure, including discouraging travel to areas with community BVD transmission. \\[Modified with rephrasing\\]\n    - Establish arrangements with States Parties with adjacent areas experiencing community BDV transmission and characterised by substantial cross border movement and trade activities, to enhance surveillance at ground crossings and along bordering areas. This includes establishing coordination mechanisms for the detection and assessment of travellers with unexplained febrile illness; and the timely sharing of information regarding contacts who have, or may have, crossed the border, thus enabling continuity of follow-up. \\[Extended with rephrasing\\]\n    - Pre-position PPE, other IPC materials, sample collection kits, case investigation forms, and safe burial supplies in border areas and points of entry, prioritizing those where the risk of importation is assessed as highest. \\[Extended with rephrasing\\]\n    - Activate health contingency plans at airport, ports, and ground crossings, involving conveyance operators, to detect, assess, and manage travellers from States Parties with community BDV transmission, presenting with symptoms compatible with BVD, and the identification of their contacts, according to established protocols. This entails the availability of trained personnel, referral mechanisms, and the application of IPC measures. \\[Extended with rephrasing\\]\n    - Coordinate with conveyance operators to facilitate timely communication, prior to arrival, of any suspected BVD cases on board conveyances, and to identify contacts associated with conveyances on an international voyage. Conduct international contact tracing operations as necessary, including by obtaining relevant information from the operators; identifying contacts associated with conveyances on an international voyage; and communicating with States Parties known as transit or final destination of those contacts. \\[Modified, including merging of one temporary recommendation previously under this Section\\]\n    - Neither the suspension of flights or waterways routes with States Parties with community BDV transmission, nor denial of entry to travellers and conveyances arriving from those States Parties, are recommended. \\[Extended with rephrasing\\]\n    - Report to WHO, through the relevant WHO IHR Contact Point, the implementation of any international traffic related measure adopted. \\[Extended\\]\n- Treat as a health emergency, including, when warranted or necessary, through a formal declaration according to domestic laws, the detection of a suspected or confirmed BVD case, of a contact thereof, or of a cluster of unexplained deaths. This includes investigating any of those events within 24 hours and, by instituting case isolation and management; establishing a definitive diagnosis; and undertaking the identification and monitoring of contacts. \\[Extended with rephrasing\\]\n- Notify to WHO immediately, through the relevant WHO IHR Contact Point in the WHO Regional Offices, any suspected, probable or confirmed BVD case, as per WHO case definitions available [here](https://www.who.int/publications/i/item/WHO-EVD-CaseDef-14.1). \\[Extended\\]\n- Report to WHO, on a quarterly basis, on the status of, and challenges related to, the implementation of these temporary recommendations, using a standardized tool and channels that will be made available by WHO, also allowing for the monitoring of progress and the identification of gaps in the national response. \\[Modified\\]\n\nIn the presence of a probable or confirmed BVD case, take actions based on the temporary recommendations for States Parties with community BDV transmission. \\[Modified\\]\n\n## **For all other States Parties**\n\nAs of 14 August 2026, the WHO Secretariat assessed the risk for these States Parties as \u201cLow\u201d.\n\n- Make arrangements to detect, assess, report and manage travellers with unexplained febrile illness arriving from areas with community BDV transmission. These include, but are not limited to, disseminating accurate and up to date information regarding the BVD epidemic and the definition of BVD cases to public and private health care facilities, including travel clinics, general practitioners, and authorities at points of entry; identifying laboratories to conduct testing for BDBV; identifying isolation facilities allowing for safe assessment and clinical care. \\[Extended with rephrasing, incorporating a temporary recommendation previously under this Section\\]\n- Provide non-governmental organizations and other entities deploying personnel internationally to respond to the BVD epidemic with information on risk, measures to minimize the risk of exposure, and advice for managing a potential exposure. \\[Extended\\]\n- Prepare to facilitate the evacuation and repatriation of nationals (e.g., health workers) who have been exposed to BVD cases. \\[Extended\\]\n- Provide the general public with accurate and up to date information regarding the BVD epidemic and measures to reduce the risk of exposure, including discouraging travel to areas with community BDV transmission. \\[Extended with rephrasing\\]\n- Provide, at points of entry, incoming travellers from areas with community BDV transmission, with information about measures to take should they develop symptoms compatible with BVD within 21 days after arrival. \\[Extended with rephrasing\\]\n- Coordinate with conveyance operators to facilitate timely communication, prior to arrival, of any suspected BVD cases on board conveyances, and to identify contacts associated with conveyances on an international voyage. Conduct international contact tracing operations as necessary, including by obtaining relevant information from the operators; identifying contacts associated with conveyances on an international voyage; and communicating with States Parties known as transit or final destination of those contacts. \\[Modified\\]\n- At the time these temporary recommendations are issued, neither the suspension of flights from States Parties with community BDV transmission, nor denial of entry to travellers and conveyances arriving from those States Parties, are recommended. \\[Extended\\]\n- Report to WHO, through the relevant WHO IHR Contact Point, the implementation of any international traffic related measure adopted. \\[Extended\\]\n- Notify to WHO immediately, through the relevant WHO IHR Contact Point in the WHO Regional Offices, any suspected, probable or confirmed BVD case, as per WHO case definitions available [here](https://www.who.int/publications/i/item/WHO-EVD-CaseDef-14.1).\n\nIn the presence of a probable or confirmed BVD case, take actions based on the temporary recommendations for States Parties with community BDV transmission. \\[Modified\\]\n\n**Media Contacts**\n\n**WHO Media Team**\n\nWorld Health Organization\n\n**Email:** mediainquiries@who.int",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226923",
+            "date": {
+                "original": "2026-08-24T00:00:00+00:00",
+                "changed": "2026-08-25T03:18:54+00:00",
+                "created": "2026-08-25T03:14:50+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226923"
+    },
+    {
+        "id": "4226919",
+        "score": 1,
+        "fields": {
+            "title": "Rep\u00fablica Democr\u00e1tica del Congo: El Movimiento Internacional de la Cruz Roja y de la Media Luna Roja condena los ataques a su personal y voluntarios",
+            "body": "**Kinsasa / Kampala / Ginebra, 24 de agosto de 2026.** Las Sociedades Nacionales de la Cruz Roja de la Rep\u00fablica Democr\u00e1tica del Congo y de Uganda, la Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja (Federaci\u00f3n Internacional) y el Comit\u00e9 Internacional de la Cruz Roja (CICR) sienten profunda preocupaci\u00f3n por los ataques a los voluntarios y el personal de la Cruz Roja en varios incidentes en los \u00faltimos d\u00edas.\n\nCien d\u00edas despu\u00e9s de la declaraci\u00f3n oficial del brote de \u00e9bola, 12 voluntarios resultaron heridos, hay ambulancias da\u00f1adas \u2014incluso una se prendi\u00f3 fuego\u2014 y equipo de respuesta de emergencia destruido a causa de 11 incidentes de violencia.\n\nEl 19 de agosto de 2026, en Beni, provincia de Kivu Norte, tres voluntarios que participaban en actividades humanitarias como parte de la respuesta al brote de \u00e9bola fueron v\u00edctimas de ataques violentos y heridos por un grupo de personas. Tambi\u00e9n se destruy\u00f3 el equipamiento utilizado en la respuesta.\n\nEl 18 de agosto de 2026, dos voluntarios tambi\u00e9n resultaron heridos mientras intentaban llevar adelante una inhumaci\u00f3n en condiciones seguras y dignas en el pueblo de Malikuti, en la zona sanitaria de Rungu, provincia de Haut-U\u00e9l\u00e9. Fueron evacuados a Isiro para recibir atenci\u00f3n m\u00e9dica despu\u00e9s del incidente, en el que dos veh\u00edculos fueron da\u00f1ados.\n\nEl 17 de agosto, un d\u00eda antes, un convoy de la Cruz Roja de Uganda que participaba en la respuesta en el cruce fronterizo fue atacado en Aru, en la provincia de Ituri. Un miembro del equipo fue herido de gravedad, y dos ambulancias de esa Sociedad Nacional fueron apedreadas y vandalizadas.\n\nLos ataques contra voluntarios y personal humanitarios son inaceptables. El respeto del personal y las actividades humanitarias es esencial para que las comunidades afectadas por epidemias y otras crisis contin\u00faen recibiendo la asistencia y los servicios que necesitan con urgencia.\n\nEstos ataques son un recordatorio alarmante de los riesgos que enfrentan los voluntarios y trabajadores humanitarios en su tarea para contrarrestar los efectos de las epidemias y emergencias. Cada miembro del personal herido y cada ambulancia, veh\u00edculo o parte del equipamiento da\u00f1ado reduce la capacidad de brindar servicios de emergencia sanitaria y humanitaria, lo que pone m\u00e1s vidas en riesgo y hace que la epidemia sea m\u00e1s dif\u00edcil de contener.\n\nLas Sociedades Nacionales de la Cruz Roja de la Rep\u00fablica Democr\u00e1tica del Congo y de Uganda, la Federaci\u00f3n Internacional y el CICR se solidarizan con los voluntarios y el personal heridos, sus familias y el personal de la Cruz Roja movilizado para brindar una respuesta. Deseamos que el personal herido tenga una pronta y completa recuperaci\u00f3n.\n\nLlamamos a las comunidades, los dirigentes locales y todas las partes interesadas pertinentes a apoyar, respetar y proteger la acci\u00f3n humanitaria. Los voluntarios, trabajadores de la salud y personal humanitario deben poder desempe\u00f1ar sus tareas en un entorno plenamente seguro, sin miedo, intimidaci\u00f3n ni amenazas.\n\nEl Movimiento Internacional de la Cruz Roja y de la Media Luna Roja mantiene su firme compromiso de apoyar a las comunidades vulnerables en la Rep\u00fablica Democr\u00e1tica del Congo y continuar\u00e1 haciendo esfuerzos para brindar asistencia humanitaria imparcial a todos los que la necesitan.\n\nPara m\u00e1s informaci\u00f3n:\n\n**Cruz Roja de Rep\u00fablica Democr\u00e1tica del Congo:** Kally Maluku Mankatu, +243 818 966 243\n\n**Cruz Roja de Uganda**: Irene Nakasita, +256 774 382 583\n\n**Medios de comunicaci\u00f3n** **de la Federaci\u00f3n Internacional:** **media@ifrc.org**\n\n**Federaci\u00f3n Internacional en Kinsasa:** Jean-Michel Ntalemwa, +243 808 804 037\n\n**CICR en Kinsasa:** Daddy Rabiou Oumarou, +243 826 955 545\n\n**CICR en Kampala:** Rhona Nabutto, +256 704 924299",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1048",
+                    "id": 1048,
+                    "name": "International Committee of the Red Cross",
+                    "shortname": "ICRC",
+                    "longname": "International Committee of the Red Cross",
+                    "spanish_name": "Comit\u00e9 Internacional de la Cruz Roja",
+                    "homepage": "https://www.icrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226919",
+            "date": {
+                "original": "2026-08-24T00:00:00+00:00",
+                "changed": "2026-08-25T03:10:50+00:00",
+                "created": "2026-08-25T02:33:28+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226919"
+    },
+    {
+        "id": "4226918",
+        "score": 1,
+        "fields": {
+            "title": "RDC : Le Mouvement international de la Croix-Rouge et du Croissant-Rouge condamne les attaques contre son personnel",
+            "body": "**Kinshasa / Kampala / Gen\u00e8ve, 24 ao\u00fbt 2026 \u2013** Les Croix-Rouge de la R\u00e9publique d\u00e9mocratique du Congo (CRRDC) et de l\u2019Ouganda (URCS), la F\u00e9d\u00e9ration internationale des Soci\u00e9t\u00e9s de la Croix-Rouge (IFRC) et le Comit\u00e9 international de la Croix-Rouge (CICR) sont profond\u00e9ment pr\u00e9occup\u00e9s par les attaques dont ont \u00e9t\u00e9 victimes des volontaires et staff de la Croix-Rouge lors de plusieurs incidents ces derniers jours.\n\nCent jours apr\u00e8s la d\u00e9claration officielle de l'\u00e9pid\u00e9mie d'Ebola, 12 volontaires ont \u00e9t\u00e9 bless\u00e9s, des ambulances endommag\u00e9es dont une incendi\u00e9e et du mat\u00e9riel d\u2019intervention d\u00e9truit au cours de 11 incidents violents.\n\nLe 19 ao\u00fbt 2026, \u00e0 Beni, dans la province du Nord-Kivu, trois volontaires qui participaient \u00e0 des activit\u00e9s humanitaires dans le cadre de la riposte \u00e0 la maladie \u00e0 virus Ebola ont \u00e9t\u00e9 violemment agress\u00e9s et bless\u00e9s par un groupe d'individus. Du mat\u00e9riel utilis\u00e9 dans le cadre de l'intervention a aussi \u00e9t\u00e9 d\u00e9truit.\n\nLe 18 ao\u00fbt 2026, deux volontaires ont \u00e9t\u00e9 \u00e9galement bless\u00e9s pendant qu\u2019ils tentaient d\u2019effectuer un enterrement digne et s\u00e9curis\u00e9 dans le village Malikuti, en zone de sant\u00e9 de Rungu dans le Haut-U\u00e9l\u00e9. Ils ont \u00e9t\u00e9 \u00e9vacu\u00e9s vers Isiro pour y recevoir des soins apr\u00e8s cet incident, au cours duquel deux v\u00e9hicules ont \u00e9t\u00e9 endommag\u00e9s.\n\nLe 17 ao\u00fbt 2026 d\u00e9j\u00e0, un convoi de l\u2019URCS intervenant dans le cadre de la riposte transfrontali\u00e8re a \u00e9t\u00e9 attaqu\u00e9 \u00e0 Aru dans la Province de l\u2019Ituri. Un membre de l\u2019\u00e9quipe a \u00e9t\u00e9 gravement bless\u00e9 et deux ambulances de la Croix-Rouge ougandaise caillass\u00e9es et vandalis\u00e9es.\n\nLes attaques contre les volontaires et les intervenants humanitaires sont inacceptables. Le respect du personnel humanitaire et des activit\u00e9s humanitaires est essentiel pour garantir que les communaut\u00e9s touch\u00e9es par les \u00e9pid\u00e9mies et d'autres crises continuent de recevoir l'assistance et les services dont elles ont urgemment besoin.\n\nCes attaques mettent en lumi\u00e8re, de mani\u00e8re alarmante, les risques auxquels sont expos\u00e9s les travailleurs humanitaires et les volontaires engag\u00e9s dans la lutte contre les \u00e9pid\u00e9mies et les situations d'urgence. Chaque volontaire ou staff bless\u00e9, et ambulance, v\u00e9hicule ou \u00e9quipement endommag\u00e9 r\u00e9duisent la capacit\u00e9 \u00e0 fournir des services sanitaires et humanitaires d\u2019urgence, ce qui met davantage de vies en danger et rend l\u2019\u00e9pid\u00e9mie plus difficile \u00e0 contenir.\n\nLa CRRDC, l\u2019URCS, le CICR et l\u2019IFRC expriment leur solidarit\u00e9 avec les volontaires et staff bless\u00e9s, leurs familles ainsi qu'avec l'ensemble des \u00e9quipes mobilis\u00e9es dans la r\u00e9ponse. Nous adressons aux personnes bless\u00e9es nos v\u0153ux de prompt et complet r\u00e9tablissement.\n\nNous appelons les communaut\u00e9s, les leaders locaux et toutes les parties prenantes concern\u00e9es \u00e0 soutenir, respecter, et prot\u00e9ger l'action humanitaire. Les volontaires, les agents de sant\u00e9 et le personnel humanitaire doivent pouvoir accomplir leur mission en toute s\u00e9curit\u00e9, sans crainte de violence, d'intimidation ou de menaces.\n\nLe Mouvement international de la Croix-Rouge et du Croissant-Rouge demeure pleinement engag\u00e9 aux c\u00f4t\u00e9s des communaut\u00e9s vuln\u00e9rables en R\u00e9publique d\u00e9mocratique du Congo et poursuivra ses efforts pour fournir une assistance humanitaire impartiale \u00e0 toutes les personnes qui en ont besoin.\n\n**Informations compl\u00e9mentaires :**\n\nCroix-Rouge de la RDC : Kally Maluku Mankatu, +243 818 966 243  \n Uganda Red Cross Society : Irene Nakasita, +256 774 382 583  \n IFRC Media: **media@ifrc.org**  \n IFRC \u00e0 Kinshasa : Jean-Michel Ntalemwa +243 808 804 037  \n CICR \u00e0 Kinshasa : Daddy Rabiou Oumarou, +243 826 955 545  \n CICR \u00e0 Kampala : Rhona Nabutto, +256 704 924299",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1048",
+                    "id": 1048,
+                    "name": "International Committee of the Red Cross",
+                    "shortname": "ICRC",
+                    "longname": "International Committee of the Red Cross",
+                    "spanish_name": "Comit\u00e9 Internacional de la Cruz Roja",
+                    "homepage": "https://www.icrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226918",
+            "date": {
+                "original": "2026-08-24T00:00:00+00:00",
+                "changed": "2026-08-25T03:10:39+00:00",
+                "created": "2026-08-25T02:32:20+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226918"
+    },
+    {
+        "id": "4226917",
+        "score": 1,
+        "fields": {
+            "title": "DRC: The International Red Cross and Red Crescent Movement condemns attacks on its volunteers and staff [EN/PT/ZH]",
+            "body": "**Kinshasa / Kampala / Geneva, 24 August 2026 \u2013 The Red Cross Societies of the Democratic Republic of the Congo (CRRDC) and Uganda (URCS), the International Federation of Red Cross and Red Crescent Societies (IFRC), and the International Committee of the Red Cross (ICRC) are deeply concerned about the attacks on Red Cross volunteers and staff in several incidents over the past few days.**\n\nOne hundred days after the official declaration of the Ebola outbreak, 12 volunteers have been injured, ambulances have been damaged - including one that was set on fire - and emergency response equipment has been destroyed during 11 violent incidents.\n\nOn 19 August 2026, in Beni, North Kivu Province, three volunteers participating in humanitarian activities as part of the response to the Ebola virus disease were violently attacked and injured by a group of individuals. Equipment used in the response was also destroyed.\n\nOn 18 August 2026, two volunteers were also injured while attempting to conduct a safe and dignified burial in the village of Malikuti, in the Rungu health zone in Haut-U\u00e9l\u00e9. They were evacuated to Isiro to receive medical care following this incident, during which two vehicles were damaged.\n\nEarlier, on 17 August 2026, a URCS convoy involved in the cross-border response was attacked in Aru, Ituri Province. One team member was seriously injured, and two ambulances belonging to the URCS were pelted with stones and vandalized.\n\nAttacks against volunteers and humanitarian personnel are unacceptable. Respect for humanitarian personnel and humanitarian activities is essential to ensuring that communities affected by epidemics and other crises continue to receive the assistance and services they urgently need.\n\nThese attacks serve as an alarming reminder of the risks faced by humanitarian workers and volunteers engaged in the fight against epidemics and emergencies. Every personnel injured and every ambulance, vehicle, or piece of equipment damaged reduces the capacity to provide emergency health and humanitarian services, putting more lives at risk and making the epidemic harder to contain.\n\nThe CRRDC, the URCS, the ICRC, and the IFRC stand in solidarity with the injured volunteers and staff, their families, and all Red Cross personnel mobilized in the response. We wish the injured personnel a full and speedy recovery.\n\nWe call on communities, local leaders, and all relevant stakeholders to support, respect, and protect humanitarian action. Volunteers, health workers, and humanitarian staff must be able to carry out their work in complete safety, without fear of violence, intimidation, or threats.\n\nThe International Red Cross and Red Crescent Movement remains fully committed to supporting vulnerable communities in the Democratic Republic of the Congo and will continue its efforts to provide impartial humanitarian assistance to all those in need.\n\n**For more information:**\n\n**DRC Red Cross:** Kally Maluku Mankatu, +243 818 966 243\n\n**Uganda Red Cross Society**: Irene Nakasita, +256 774 382 583\n\n**IFRC Media: media@ifrc.org**\n\n**IFRC in Kinshasa:** Jean-Michel Ntalemwa, +243 808 804 037\n\n**ICRC in Kinshasa:** Daddy Rabiou Oumarou, +243 826 955 545\n\n**ICRC in Kampala:** Rhona Nabutto, +256 704 924299",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1048",
+                    "id": 1048,
+                    "name": "International Committee of the Red Cross",
+                    "shortname": "ICRC",
+                    "longname": "International Committee of the Red Cross",
+                    "spanish_name": "Comit\u00e9 Internacional de la Cruz Roja",
+                    "homepage": "https://www.icrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4226917",
+            "date": {
+                "original": "2026-08-24T00:00:00+00:00",
+                "changed": "2026-08-25T03:10:23+00:00",
+                "created": "2026-08-25T02:30:36+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4226917"
+    },
+    {
         "id": "4226894",
         "score": 1,
         "fields": {
@@ -1495,291 +1794,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4226655"
-    },
-    {
-        "id": "4226639",
-        "score": 1,
-        "fields": {
-            "title": "IOM: Multi-Country Bundibugyo Ebola Virus Disease Outbreak - Situation Report No. 14 (10-16 August 2026)",
-            "body": "**SITUATION OVERVIEW**\n\nAccording to the World Health Organization, as of 16 August, the Democratic Republic of the Congo (DRC) reported 5,001 confirmed cases of Ebola disease caused by the Bundibugyo virus (BVD), including 2,378 deaths.\n\nWith the recent increase in figures, the Ebola Bundibugyo outbreak has become the largest and fastest-growing outbreak in DRC. The rapidly escalating outbreak is unfolding against the backdrop of an ongoing triple crisis in eastern DRC, where health risks, largescale displacement and persistent conflict intersect. Given the high case fatality rate of 81% in internally displaced persons (IDP) sites, as per WHO and Africa CDC, a multisectoral response to multidimensional needs of displaced populations is critically required.\n\nThe spread of the outbreak into Bas-U\u00e9l\u00e9 Province underscores the continued need to comprehensively address the mobility dimensions of the ongoing public health response. Community deaths account for over 50 per cent of fatalities as per government sources, indicating ongoing gaps in case detection and health-care seeking. Contact tracing is particularly weak in Bas-U\u00e9l\u00e9 (18.9%), highlighting the need for continued disease surveillance and monitoring to ensure a complete epidemiological picture.\n\nThe rapid geographic expansion of the outbreak creates additional needs for hygiene supplies, infection prevention and control (IPC) consumables and health infrastructure, such as ambulances, to support timely prevention, detection, referral and response. In parallel, the rising number of cases in Haut-U\u00e9l\u00e9 requires enhanced disease surveillance and cross-border coordination to prevent disease transmission into neighbouring South Sudan and the Central African Republic (CAR).\n\nCross-border movements, displacement and population mobility continue to shape disease transmission, requiring an urgent and rapid response to save lives and protect people in affected areas, while mitigating regional health risks. Given the rapidly escalating crisis, IOM\u2019s preparedness and response efforts aim to enhance monitoring at points of entry (PoEs) and points of control (PoCs), particularly along the Congo River, to strengthen detection and response capacities.\n\nIn line with the Inter-Agency Standing Committee (IASC) systemwide scale-up activation for infectious disease events, IOM has scaled up its response, enabling enhanced surge support, operational capacity and coordination across affected countries.\n\nIOM\u2019s response continues to focus on Priority 1a countries, DRC and Uganda, where outbreak response and enhanced preparedness activities remain ongoing, and Priority 1b countries, Burundi, Rwanda and South Sudan, which face an elevated risk of crossborder transmission. Preparedness interventions are also being implemented in other at-risk countries across the region, including Priority 2 countries, Angola, CAR, Ethiopia, Kenya, the Republic of the Congo, the United Republic of Tanzania and Zambia, to strengthen readiness and enhance regional health security, while supporting continent-wide efforts, particularly as co-lead of the PoE technical working group at the continental level.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226639",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-24T02:23:52+00:00",
-                "created": "2026-08-21T15:03:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226639"
-    },
-    {
-        "id": "4226628",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon | Floods in Fako DREF Operation No.: MDRCM045",
-            "body": "**Date of event** 05-08-2026\n\n**What happened, where and when?**\n\nIn the early hours of Wednesday, August 5, 2026, after more than a month of continuous rains, torrential downpours fell on the coastal city of Limbe, in the department of Fako, South-West region of Cameroon. At around 6:30 a.m., the waterlogged hillside overlooking the Mbende and Gardens neighborhoods gave way. The landslide swept away an inhabited house, burying its four sleeping occupants. Three adult women died, including a pregnant woman who lost her unborn child. The fourth occupant, an adult male, was pulled alive from the rubble by Cameroon Red Cross volunteers and community members. He is currently hospitalized in intensive care at the regional hospital of Limbe. The lives of many people are threatened and the search continues.\n\nThese same rains saturated the drainage systems of Limbe and Jenguele. Runoff from the Mount Cameroon massif carried mud, rocks, vegetation and solid waste accumulated in the residential plain, flooding Down Beach, Church Street, Motowoh, Mawoh, Mabeta New Layout, Cit\u00e9 SIC, Isokolo, Manga Williams Avenue, Bonjo and the Mile 1, 2 and 4 districts. The fence of the Limb\u00e9 Wildlife Centre has been breached. Water entered the offices of the Bank of Central African States (BEAC), an unprecedented event in the city's institutional memory. Roads have become impassable for pedestrians and vehicles. Cassava fields and markets have been flooded, with significant losses of goods.\n\nAs of August 8, 2026, several neighborhoods remain under water. More than 1,500 households, or about 12,000 people, are affected, and nearly 2,000 people (250 households) whose homes were completely flooded are now homeless and in an emergency situation. The fairly large number of people with special needs remains very worrying, with nearly 700 people concerned.\n\nStagnant water, contaminated with faeces, accumulates in low-lying and densely populated neighbourhoods, where shallow wells are the main source of drinking water, in a region which has repeatedly been the epicenter of national cholera outbreaks.\n\nThe Fako Departmental Committee in Limbe, in collaboration with the prefect of Fako, the mayor and the security forces, continues to assess the situation as it evolves. The departmental committee, which does not have a contingency stock, is almost powerless in the face of the situation, which continues to grow. If nothing is done in the coming days, the humanitarian situation in the city of Limbe could spiral out of control.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226628",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T14:06:20+00:00",
-                "created": "2026-08-21T14:03:54+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226628"
-    },
-    {
-        "id": "4226627",
-        "score": 1,
-        "fields": {
-            "title": "100 days of Ebola disease outbreak: Faster and more flexible response needed to curb deadly spread in DRC",
-            "body": "As it approaches 100 days since the [Ebola disease outbreak](https://www.msf.org/drc-ebola-outbreaks) was declared in [Democratic Republic of Congo (DRC)](https://www.msf.org/democratic-republic-congo-drc), M\u00e9decins Sans Fronti\u00e8res (MSF) warns that communities are not receiving adequate support to contain the disease. This [outbreak](https://www.msf.org/epidemics-and-pandemics) has become the largest and deadliest in the country\u2019s history, and it continues to spread at an alarming rate within communities who already contend with [conflict](https://www.msf.org/war-and-conflict), violence, [displacement](https://www.msf.org/refugees-idps-and-people-move), and hunger, among other health emergencies, in their daily lives.  \n  \nTraining for health workers and community leaders on case detection, referrals, and infection prevention and control measures must be urgently bolstered within communities affected by the outbreak.  \n  \nOver the past week, deaths due to [Ebola disease](https://www.msf.org/ebola) have been reported at a rate of roughly one every half hour. Since the outbreak began and as of 16 August, national authorities have reported more than 5,000 confirmed cases and over 2,400 deaths.   \n  \n\u201cThis epidemic continues to spread, moving faster than the response can keep up,\u201d says Dr Javid Abdelmoneim, International President of MSF. \u201cTreatment centres remain essential for saving lives, but this response needs more than extra beds.\u201d\n\n\u201cIt needs better detection, safe isolation for sick people and their contacts, and support to health workers,\u201d says Dr Abdelmoneim. \u201cPeople seeking care in existing health facilities also need to be protected from infection. Crucially, the response must be built *with* communities, not around them.\u201d  \n  \nIn Rho displacement camp, near Drodro, Ituri province, community leaders have worked with MSF to encourage people with symptoms to seek testing, isolation and treatment early. They also promote infection prevention and control measures to reduce the risk of community transmission. In the overcrowded camp, which is home to nearly 50,000 people, this collaboration has helped limit the spread of Ebola and reduce mortality.  \n  \n\u201cWe know our communities and how to reach our people,\u201d says Ezrome Kiza Lumani, a community leader living in the camp. \u201cWhen Ebola arrived, we did not wait. We spoke with families, listened to their fears, and encouraged people with symptoms to seek care. We have a crucial role to play in stopping this outbreak.\u201d  \n  \nSince the outbreak was officially declared, more than 60 per cent of Ebola disease deaths in DRC have occurred outside \u2013 and often far away from \u2013 Ebola treatment centres. This means many people are dying at home or in their communities without receiving care, and the virus continues to spread before cases are detected.  \n  \nWorryingly, case numbers are rising rapidly beyond the epicentre of Ituri, with North Kivu province experiencing particularly high levels of mortality and mistrust in the response.\n\n  \n\u201cWith cases emerging in new areas with little or no previous experience managing Ebola disease, Ebola-trained healthcare workers are urgently needed not only inside treatment centres, but also directly in affected communities,\u201d says Trish Newport, MSF\u2019s emergency programme manager in Ituri.  \n  \nMSF is currently responding across Ituri, North Kivu, South Kivu, Tshopo, and Haut-U\u00e9l\u00e9 provinces. Teams are operating six Ebola treatment centres, as well as isolation units, in affected areas, with more than 400 beds available \u2014 representing one third of all beds in the overall response. More than 1,400 MSF staff are supporting the response. Since the start of the outbreak, our teams have admitted more than 2,000 patients, of which more than 800 patients were confirmed to have Ebola disease.  \n  \nIn Beni, North Kivu province, we have worked to move our response within communities. Through supporting existing health facilities that also offer general healthcare services, which are also crucial to saving lives, systematic and symptomatic treatment can start quickly. Across the response to the outbreak in DRC, more must be done to ensure people can receive the care they need closer to home.  \n  \n\u201cHealth workers and community leaders need training to help detect cases early, refer people safely, reinforce infection prevention and control, and protect themselves and others from infection,\u201d says Newport. \u201cThe World Health Organization (WHO), other UN agencies, humanitarian organisations, including MSF, and the Congolese Ministry of Health must urgently expand this training and support.\u201d\n\nCommunity leaders like Emery Guba Mateso, also from Rho displacement camp, are sharing their experiences to encourage people to seek care. He lost his son to the disease and later survived an infection himself.  \n  \n\u201cAs a person who has recovered from Ebola disease, the message I would like to share with the community is: as soon as the first symptoms appear, it is important to seek medical care promptly, because early access to appropriate treatment increases the chances of recovery,\u201d says Guba Mateso.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2904",
-                    "id": 2904,
-                    "name": "M\u00e9decins Sans Fronti\u00e8res",
-                    "shortname": "MSF",
-                    "longname": "M\u00e9decins Sans Fronti\u00e8res",
-                    "spanish_name": "M\u00e9dicos Sin Fronteras",
-                    "homepage": "https://www.msf.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226627",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T14:00:08+00:00",
-                "created": "2026-08-21T14:00:08+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226627"
-    },
-    {
-        "id": "4226620",
-        "score": 1,
-        "fields": {
-            "title": "Ebola-Related Incident Analysis - CPT Signals and Implications - July 2026",
-            "body": "This incident analysis, covering the period from 2 to 31 July 2026, points to an acceleration and, above all, a transformation in the nature of the risk surrounding the response. A total of 97 incidents were recorded over 30 days, compared with 68 over the 47 days of the previous period. While the average severity of incidents is falling in terms of casualties, their frequency is rising sharply and their geographical spread is widening. Ituri remains the province most affected, but North Kivu now accounts for a far larger share of incidents, while Tshopo and Haut-U\u00e9l\u00e9 have entered our monitoring.\n\nBeyond this quantitative increase, three distinct \u2014 though at times interlocking \u2014 risk systems now shape the operational environment of the response. The first remains community friction, chiefly around safe and dignified burials, prevention activities and health facilities. It is, however, shifting towards North Kivu, with Beni and Butembo among the main flashpoints. The second is contestation internal to the response, linked in particular to arrears in incentive payments, salaries and other payments, and especially visible in Bunia and Rwampara, where staff protests have disrupted the functioning of health facilities and certain response activities. The third arises from territorial control exercised by armed actors, some of whom are appropriating or instrumentalising public health measures, notably in Lubero and Irumu.\n\nThis shift is accompanied by a change in the forms confrontation takes. Ebola treatment centres (ETCs), isolation centres and other health facilities are increasingly becoming targets in their own right. The emergence of threats made conditional on the notification of new cases, documented in particular in Biena, Musienene and Beni, is a particularly worrying signal: it may now affect not only the security and acceptance of the response, but also case notification and, consequently, the quality of epidemiological surveillance. The Nyakunde sequence further illustrates how quickly a grievance relating to patient care can escalate into community mobilisation, armed intervention and an interruption of the response.\n\nThe geography of priorities has also been profoundly redrawn. Beni and Butembo have become critical flashpoints in North Kivu, while Nyakunde has emerged as a major new rupture zone in Ituri. Bunia and Rwampara remain priorities, but their profile is shifting towards a crisis bound up with the internal functioning of the response rather than with community acceptance alone. Conversely, the absence of recorded incidents in Mongbwalu, previously one of the main hotspots, must be interpreted with caution until genuine de-escalation has been distinguished from a possible breakdown in reporting.\n\nThese developments make a uniform response focused exclusively on risk communication and community engagement (RCCE) inadequate. They call for a differentiated approach combining mediation and community engagement in areas of resistance, rapid resolution of contractual and financial grievances within the response, physical protection of health facilities, and access negotiation in spaces under the influence of armed groups. For the month of August, particular attention will need to be paid to resolving the incentive payments crisis, to the spread of conditional threats, to the instrumentalisation of public health measures by armed actors, to developments in the new flashpoints in Tshopo and Haut-U\u00e9l\u00e9, and to the situation in Mongbwalu.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1929",
-                    "id": 1929,
-                    "name": "Mercy Corps",
-                    "shortname": "Mercy Corps",
-                    "longname": "Mercy Corps",
-                    "homepage": "https://www.mercycorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226620",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T13:14:52+00:00",
-                "created": "2026-08-21T13:09:00+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226620"
-    },
-    {
-        "id": "4226619",
-        "score": 1,
-        "fields": {
-            "title": "Analyse d\u2019incidents li\u00e9s \u00e0 Ebola - Signaux CPT et implications - juillet 2026",
-            "body": "Cette analyse d\u2019incidents couvrant la p\u00e9riode du 2 au 31 juillet 2026 met en \u00e9vidence une acc\u00e9l\u00e9ration et, surtout, une transformation de la nature du risque entourant la riposte. Au total, 97 incidents ont \u00e9t\u00e9 recens\u00e9s en 30 jours, contre 68 au cours des 47 jours de la p\u00e9riode pr\u00e9c\u00e9dente. Si la gravit\u00e9 moyenne des incidents diminue en termes de victimes, leur fr\u00e9quence augmente fortement et leur g\u00e9ographie s\u2019\u00e9largit. L\u2019Ituri demeure la principale province concern\u00e9e, mais le Nord-Kivu repr\u00e9sente d\u00e9sormais une part beaucoup plus importante des incidents, tandis que la Tshopo et le Haut-U\u00e9l\u00e9 apparaissent dans notre suivi.\n\nAu-del\u00e0 de cette progression quantitative, trois syst\u00e8mes de risque distincts mais parfois imbriqu\u00e9s structurent d\u00e9sormais l\u2019environnement op\u00e9rationnel de la riposte. Le premier reste une friction communautaire, principalement autour des enterrements dignes et s\u00e9curis\u00e9s, des activit\u00e9s de pr\u00e9vention et des structures de sant\u00e9. Elle se d\u00e9place toutefois vers le Nord-Kivu, avec Beni et Butembo parmi les principaux foyers. Le deuxi\u00e8me est une contestation interne \u00e0 la riposte, li\u00e9e notamment aux arri\u00e9r\u00e9s de primes, de salaires et de paiements, particuli\u00e8rement visible \u00e0 Bunia et Rwampara, o\u00f9 les mouvements d\u2019agents ont perturb\u00e9 le fonctionnement de structures sanitaires et certaines activit\u00e9s de r\u00e9ponse. Le troisi\u00e8me rel\u00e8ve du contr\u00f4le territorial exerc\u00e9 par des acteurs arm\u00e9s, certains s\u2019appropriant ou instrumentalisant les mesures sanitaires, notamment dans le Lubero et l\u2019Irumu.\n\nCette \u00e9volution s\u2019accompagne d\u2019un changement dans les formes de confrontation. Les centres de traitement Ebola (CTE), centres d\u2019isolement et autres structures sanitaires deviennent davantage des cibles en tant que telles. L\u2019apparition de menaces conditionn\u00e9es \u00e0 la d\u00e9claration de nouveaux cas, document\u00e9es notamment \u00e0 Biena, Musienene et Beni, constitue un signal particuli\u00e8rement pr\u00e9occupant : elle peut d\u00e9sormais affecter non seulement la s\u00e9curit\u00e9 et l\u2019acceptation de la riposte, mais \u00e9galement la d\u00e9claration des cas et, par cons\u00e9quent, la qualit\u00e9 de la surveillance \u00e9pid\u00e9miologique. La s\u00e9quence de Nyakunde illustre par ailleurs la rapidit\u00e9 avec laquelle un grief li\u00e9 \u00e0 la prise en charge peut \u00e9voluer vers une mobilisation communautaire, une intervention arm\u00e9e et une interruption de la r\u00e9ponse.\n\nLa g\u00e9ographie des priorit\u00e9s s\u2019est \u00e9galement profond\u00e9ment renouvel\u00e9e. Beni et Butembo deviennent des foyers critiques au Nord-Kivu, tandis que Nyakunde appara\u00eet comme une nouvelle zone de rupture majeure en Ituri. Bunia et Rwampara restent prioritaires, mais leur profil \u00e9volue vers une crise davantage li\u00e9e au fonctionnement interne de la riposte qu\u2019\u00e0 la seule acceptation communautaire. \u00c0 l\u2019inverse, l\u2019absence d\u2019incidents enregistr\u00e9s \u00e0 Mongbwalu, auparavant l\u2019un des principaux hotspots, doit \u00eatre interpr\u00e9t\u00e9e avec prudence tant qu\u2019une d\u00e9sescalade r\u00e9elle n\u2019a pas \u00e9t\u00e9 distingu\u00e9e d\u2019une \u00e9ventuelle faiblesse de la remont\u00e9e d\u2019information.\n\nCes \u00e9volutions rendent inadapt\u00e9e une r\u00e9ponse uniforme centr\u00e9e exclusivement sur la communication des risques et engagement communautaire (CREC/RCCE). Elles appellent une approche diff\u00e9renci\u00e9e combinant m\u00e9diation et engagement communautaire dans les zones de r\u00e9sistance, r\u00e9solution rapide des griefs contractuels et financiers au sein de la riposte, s\u00e9curisation des structures de sant\u00e9, et n\u00e9gociation d\u2019acc\u00e8s dans les espaces sous influence des groupes arm\u00e9s. Pour le mois d\u2019ao\u00fbt, une attention particuli\u00e8re devra \u00eatre port\u00e9e \u00e0 la r\u00e9solution de la crise des primes, \u00e0 l\u2019extension des menaces conditionnelles, \u00e0 l\u2019instrumentalisation des mesures sanitaires par les acteurs arm\u00e9s, \u00e0 l\u2019\u00e9volution des nouveaux foyers en Tshopo et au Haut-U\u00e9l\u00e9, ainsi qu\u2019\u00e0 la situation de Mongbwalu.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1929",
-                    "id": 1929,
-                    "name": "Mercy Corps",
-                    "shortname": "Mercy Corps",
-                    "longname": "Mercy Corps",
-                    "homepage": "https://www.mercycorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226619",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T13:17:13+00:00",
-                "created": "2026-08-21T13:05:35+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226619"
-    },
-    {
-        "id": "4226614",
-        "score": 1,
-        "fields": {
-            "title": "WFP Central African Republic Country Brief, August 2026",
-            "body": "**KEY HIGHLIGHTS**\n\n\u2022 The updated March 2026 IPC analysis for AprilAugust 2026 projects that over 2 million people will face acute food insecurity, underscoring the need for sustained assistance throughout the lean season.\n\n\u2022 WFP provided food and cash assistance to more than 62,000 vulnerable people, contributing to the stabilization of household food consumption, amid rising prices and deteriorating economic access to food.\n\n\u2022 Despite insecurity and access constraints in the north-east, WFP continues to deliver an integrated response combining emergency assistance, nutrition support, school feeding, resiliencebuilding activities and critical supply chain services.\n\n**SITUATION OVERVIEW**\n\n\u2022 The Central African Republic faces protracted insecurity, regional spillover from Sudan and sustained displacement. Over 2 million people are projected to face acute food insecurity (IPC Phase 3+) between April and August 2026, including 262,000 people in Emergency (IPC Phase 4). Refugees, IDPs, returnees and host communities remain among the most affected populations, while access constraints persist in border areas such as Vakaga.\n\n\u2022 Humanitarian needs remain high during the peak of the lean season, while food assistance is constrained by limited funding. Market monitoring indicates increasing pressure on household economic access to food, with elevated food basket costs and localized shortages of staple commodities reported in several hard-to-reach areas.\n\n\u2022 Operational capacity and humanitarian access remain constrained by insecurity, logistical challenges and reduced funding for common services. Insecurity in north-eastern areas, particularly around Birao, together with seasonal road access constraints, continued to affect the movement of humanitarian supplies and the delivery of assistance.\n\n\u2022 While no Ebola cases have been confirmed incountry, WFP is supporting government-led preparedness efforts to the ongoing outbreak in neighbouring Democratic Republic of the Congo.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226614",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T13:08:23+00:00",
-                "created": "2026-08-21T12:55:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226614"
-    },
-    {
-        "id": "4226602",
-        "score": 1,
-        "fields": {
-            "title": "Central African Republic: Situation Report No. 81, as of 18 August 2026",
-            "body": "**HIGHLIGHTS**\n\n- In Z\u00e9mio, insecurity is driving population movements towards Zapa\u00ef in DRC.\n- More than 4,000 people affected by torrential rains are receiving cash assistance in Bangassou.\n- In Am-Dafock, access to safe drinking water has improved for more than 11,500 internally displaced persons.\n\n**GENERAL CONTEXT**\n\nHaut-Mbomou Prefecture, South-East\n\n- From 11 to 14 August, population movements were reported from Komboni, located about 5 km from Z\u00e9mio, to Zapa\u00ef in the Democratic Republic of Congo (DRC). The movements followed military operations conducted against armed elements in the area. Persistent insecurity continues to affect livelihoods by restricting access to farmland and disrupting harvesting activities. As food security conditions deteriorate, some households have been forced to sell part of the essential household items received through humanitarian assistance to meet their immediate food needs.\n\n**HUMANITARIAN NEEDS AND RESPONSE**\n\n**Multi-sector**\n\nOuham-Fafa Prefecture, North-West\n\n- From 15 to 20 August, COOPADEM strengthened the livelihoods of 45 members of local associations from both host communities and displaced populations at the Gbazara site in Batangafo. Beneficiaries received a community micro-grant and training on management and sustainable monitoring of income-generating activities to enhance their economic self-reliance. The initiative also aims to strengthen beneficiaries\u2019 participation in youth-led community mobilization and awareness-raising activities, particularly on social cohesion and protection of internally displaced persons (IDPs), thereby contributing to more inclusive governance of displacement sites and host communities. In parallel, soap-making activities enabled women to develop livelihood opportunities while improving the living conditions of vulnerable households. These activities were implemented with financial support from the Central African Republic Humanitarian Fund (CAR HF).\n\n**Food Security**\n\nVakaga Prefecture, North-East\n\n- From 11 to 14 August, Triangle G\u00e9n\u00e9ration Humanitaire (TGH) provided cash assistance to 22 agricultural groups in Birao. The intervention benefited 1,000 households from host communities and returnee populations. Beneficiaries also received training on fodder crop production techniques to strengthen their livelihoods and enhance their agricultural production capacity.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226602",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-21T12:24:16+00:00",
-                "created": "2026-08-21T11:49:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226602"
     }
 ]
