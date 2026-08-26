@@ -1,5 +1,46 @@
 [
     {
+        "id": "4227135",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Aper\u00e7u de la situation humanitaire (30 juin 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227135",
+            "date": {
+                "original": "2026-08-26T00:00:00+00:00",
+                "changed": "2026-08-26T10:50:40+00:00",
+                "created": "2026-08-26T10:29:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227135"
+    },
+    {
         "id": "4227007",
         "score": 1,
         "fields": {
@@ -1726,67 +1767,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4226666"
-    },
-    {
-        "id": "4226658",
-        "score": 1,
-        "fields": {
-            "title": "Operation du Tchad : R\u00e9alisations - VBG (Juillet 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/51887",
-                    "id": 51887,
-                    "name": "Gender Based Violence Area of Responsibility",
-                    "shortname": "GBV AoR",
-                    "homepage": "https://gbvaor.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2648",
-                    "id": 2648,
-                    "name": "Government of Chad",
-                    "shortname": "Govt. Chad",
-                    "longname": "Government of Chad",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226658",
-            "date": {
-                "original": "2026-08-21T00:00:00+00:00",
-                "changed": "2026-08-24T00:21:19+00:00",
-                "created": "2026-08-21T18:03:40+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226658"
     }
 ]
