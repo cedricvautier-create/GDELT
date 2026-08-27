@@ -1,5 +1,645 @@
 [
     {
+        "id": "4227349",
+        "score": 1,
+        "fields": {
+            "title": "Regional External Update #39 West and Central Africa Region - Eastern DRC Situation - July 2026",
+            "body": "HIGHLIGHTS\n\n\u2022 Persistent conflict and insecurity continued to drive a deepening displacement crisis in eastern DRC, with new internal displacement still outpacing returns in several affected areas. Smaller but steady cross-border movements into neighbouring countries also accumulated to more than 16,400 new Congolese arrivals since January 2026, adding pressure on host communities and overstretched services.\n\n\u2022 The Ebola outbreak further exposed the deadly overlap between insecurity, displacement and weak basic services in the DRC, with more than 5,600 confirmed cases and over 2,700 deaths1 , over three months after the outbreak was declared a public health emergency of international concern. Uganda however declared itself Ebola-free on 28 July, but cross-border preparedness remained critical. UNHCR continued contributing to the Government-led response in displacement settings despite significant funding challenges.\n\n\u2022 Despite the volatile context, voluntary returns maintained momentum, supported by health screening, water, sanitation and hygiene measures and cross-border coordination. By 31 July, around 51,000 Congolese refugees had self-organized their return from Burundi and 14,200 Government-UNHCR facilitated returns to the DRC had been recorded since the beginning of the year.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227349",
+            "date": {
+                "original": "2026-08-27T00:00:00+00:00",
+                "changed": "2026-08-27T12:37:56+00:00",
+                "created": "2026-08-27T11:03:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227349"
+    },
+    {
+        "id": "4227342",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 24 August 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227342",
+            "date": {
+                "original": "2026-08-27T00:00:00+00:00",
+                "changed": "2026-08-27T10:57:30+00:00",
+                "created": "2026-08-27T10:19:41+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227342"
+    },
+    {
+        "id": "4227337",
+        "score": 1,
+        "fields": {
+            "title": "CAR Situation g\u00e9n\u00e9rale du rapatriement volontaire des r\u00e9fugi\u00e9s centrafricains - Ann\u00e9e 2017 - 2026 (22 ao\u00fbt 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227337",
+            "date": {
+                "original": "2026-08-27T00:00:00+00:00",
+                "changed": "2026-08-27T12:32:38+00:00",
+                "created": "2026-08-27T10:03:35+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227337"
+    },
+    {
+        "id": "4227336",
+        "score": 1,
+        "fields": {
+            "title": "P21 - Tchad | Rapport semestriel sur les mouvements mixtes et secondaires (Janvier - Juin 2026)",
+            "body": "Le premier semestre 2026 s'inscrit dans un environnement r\u00e9gional marqu\u00e9 par la poursuite du conflit au Soudan, l'instabilit\u00e9 persistante en Libye et dans plusieurs pays du Sahel, ainsi que par des contraintes socio-\u00e9conomiques qui continuent d'influencer les d\u00e9cisions de mobilit\u00e9. Ces dynamiques alimentent des mouvements complexes associant migration \u00e9conomique, transit, d\u00e9placements forc\u00e9s, retours vers le pays d'origine et mouvements secondaires de r\u00e9fugi\u00e9s, ces derniers \u00e9tant particuli\u00e8rement influenc\u00e9s par l'\u00e9volution de la crise soudanaise.\n\nEn raison de sa position au carrefour de l'Afrique centrale, du Sahel et de l'Afrique du Nord, le Tchad occupe une place strat\u00e9gique dans ces dynamiques. Il constitue simultan\u00e9ment un pays d'origine, de transit, d'accueil, de retour et un espace de r\u00e9orientation des parcours migratoires et des mouvements secondaires de r\u00e9fugi\u00e9s. Les axes traversant le nord du pays demeurent particuli\u00e8rement emprunt\u00e9s par les personnes souhaitant rejoindre la Libye et, pour certaines, poursuivre leur parcours vers la M\u00e9diterran\u00e9e, tandis que les mouvements secondaires t\u00e9moignent de la mobilit\u00e9 continue des r\u00e9fugi\u00e9s au sein de la r\u00e9gion.\n\nDans ce contexte, le monitoring des mouvements mixtes permet de mieux documenter les profils des personnes en mouvement, leurs trajectoires, leurs destinations, les risques de protection auxquels elles sont expos\u00e9es, ainsi que les dynamiques de mobilit\u00e9 secondaire des r\u00e9fugi\u00e9s.  \nLes r\u00e9sultats pr\u00e9sent\u00e9s dans ce rapport reposent sur les donn\u00e9es collect\u00e9es aupr\u00e8s de 1 767 personnes interrog\u00e9es dans le cadre du monitoring des mouvements mixtes, compl\u00e9t\u00e9es par l'analyse de 1 932 r\u00e9fugi\u00e9s enregistr\u00e9s dans le cadre du suivi des mouvements secondaires 1entre janvier 2023 et juin 2026, dont 228 au cours du premier semestre 2026.\n\nCes r\u00e9sultats offrent une photographie des dynamiques des mouvements mixtes et des mouvements secondaires des r\u00e9fugi\u00e9s, sans constituer une estimation exhaustive des mouvements dans la r\u00e9gion.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227336",
+            "date": {
+                "original": "2026-08-27T00:00:00+00:00",
+                "changed": "2026-08-27T12:34:15+00:00",
+                "created": "2026-08-27T10:03:23+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227336"
+    },
+    {
+        "id": "4227335",
+        "score": 1,
+        "fields": {
+            "title": "CAR Situation du repatriement - 22 ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227335",
+            "date": {
+                "original": "2026-08-27T00:00:00+00:00",
+                "changed": "2026-08-27T12:30:36+00:00",
+                "created": "2026-08-27T10:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227335"
+    },
+    {
+        "id": "4227334",
+        "score": 1,
+        "fields": {
+            "title": "Tchad R\u00e9union Cash Travail Group Compte Rendu - Juillet 2026",
+            "body": "Lieu : Salle de r\u00e9union de la Croix Rouge du Tchad  \n Heure : 10h20min \u00e0 11h30  \n Participants pr\u00e9sentiels : PF MASSAH, DRC, CRT, CWG Co facilitateur, CWG- non programmatique,  \n AFDI, FAO, Cluster S\u00e9curit\u00e9 Alimentaire,  \n Participants en ligne : FAO/S-C SECAL Est, PUI, IRC, CONCERN, CARE, BAOBAB, HULO, HIAS,  \n ESEDD, PAM, CRS, FAO/S-C SECAL Lac, ONG RECAP/DeD, Ambassade des Etats-Unis, ASAME,  \n NRC, ACTED, JRS, HIAS, UNFPA, WVI, IMC, AFDI, OXFAM, IHDL, SOL Int, RECAP/DED,  \n Date : 21 juillet 2026  \n Lieu : Salle de r\u00e9union CRT, Horaire : 10h20 \u00e0 11h30  \n 1. Introduction  \n La r\u00e9union a d\u00e9but\u00e9 par la validation de l'ordre du jour et du compte rendu de la session pr\u00e9c\u00e9dente.  \n Les participants, pr\u00e9sents en salle et en ligne, ont ensuite examin\u00e9 les principaux dossiers  \n de coordination du Cash Working Group (CWG) Tchad.  \n 2. Suivi des recommandations pr\u00e9c\u00e9dentes  \n Les membres ont fait le point sur l'\u00e9tat d'avancement des actions convenues lors des r\u00e9unions  \n ant\u00e9rieures. Il a \u00e9t\u00e9 recommand\u00e9 de relancer les clusters n'ayant pas encore soumis leurs contributions  \n n\u00e9cessaires \u00e0 l'actualisation du MEB. Les participants ont \u00e9galement insist\u00e9 sur la  \n n\u00e9cessit\u00e9 de poursuivre l'analyse des capacit\u00e9s des m\u00e9nages afin d'identifier les \u00e9carts et d'affiner  \n le calcul des valeurs de transfert.  \n 3. Restitution de la r\u00e9union r\u00e9gionale de Dakar  \n Les repr\u00e9sentants ayant particip\u00e9 \u00e0 la rencontre r\u00e9gionale des CWG d'Afrique de l'Ouest et du  \n Centre (Dakar, 29 juin-2 juillet 2026) ont partag\u00e9 les principaux enseignements de cette r\u00e9union.  \n Les \u00e9changes ont soulign\u00e9 :  \n \u2022 L'importance du renforcement de la coordination des transferts mon\u00e9taires.  \n \u2022 La promotion du leadership des acteurs nationaux dans les m\u00e9canismes de coordination.  \n \u2022 Le rapprochement entre les programmes de transferts mon\u00e9taires et les syst\u00e8mes de protection  \n sociale.  \n \u2022 L'int\u00e9gration syst\u00e9matique des approches Cash dans les m\u00e9canismes d'Action Anticipatoire.  \n \u2022 Le renforcement du dialogue avec les prestataires de services financiers. Les participants  \n ont \u00e9t\u00e9 encourag\u00e9s \u00e0 traduire ces recommandations en actions concr\u00e8tes au niveau national.  \n 4. Rapportage 3W du deuxi\u00e8me trimestre 2026  \n La matrice 3W (Qui fait Quoi, O\u00f9) du deuxi\u00e8me trimestre 2026 a \u00e9t\u00e9 partag\u00e9e avec les  \n membres. Tous les partenaires ont \u00e9t\u00e9 invit\u00e9s \u00e0 transmettre leurs donn\u00e9es actualis\u00e9es avant le  \n 15 ao\u00fbt 2026 afin de permettre la consolidation des informations sur les interventions mon\u00e9taires  \n dans le pays.  \n 5. Gouvernance et mandat du CWG  \n Les participants ont discut\u00e9 de la fin du premier mandat des instances de coordination du CWG.  \n Les \u00e9changes ont port\u00e9 sur les modalit\u00e9s de renouvellement du co-lead programmatique et du  \n co-facilitateur, ainsi que sur les perspectives de renforcement de la gouvernance du groupe.  \n .  \n 6.  \n Mise \u00e0 jour de la Task Force MEB  \n La Task Force charg\u00e9e de la r\u00e9vision du Minimum Expenditure Basket (MEB) a pr\u00e9sent\u00e9 l'\u00e9tat d'avancement des contributions sectorielles :  \n \u2022  \n Alimentation : contribution re\u00e7ue  \n \u2022  \n Moyens d'existence : contribution re\u00e7ue  \n \u2022  \n Abris et Articles M\u00e9nagers Essentiels : contribution re\u00e7ue  \n \u2022  \n WASH : contribution re\u00e7ue  \n \u2022  \n Sant\u00e9 : contribution re\u00e7ue  \n \u2022  \n Nutrition : contribution en cours  \n \u2022  \n \u00c9ducation : contribution non re\u00e7ue  \n \u2022  \n Autres d\u00e9penses : contribution re\u00e7ue.  \n Les membres ont convenu de poursuivre les relances afin de finaliser le processus de r\u00e9vision du MEB dans les meilleurs d\u00e9lais.  \n 7.  \n Mise \u00e0 jour sur le Fonds USA  \n La Task Force en charge du Fonds USA a pr\u00e9sent\u00e9 l'\u00e9tat d'avancement des activit\u00e9s financ\u00e9es. Les participants ont salu\u00e9 les progr\u00e8s enregistr\u00e9s malgr\u00e9 les d\u00e9fis op\u00e9rationnels rencontr\u00e9s dans certaines zones d'intervention.  \n 8.  \n Tour de table  \n CRT : a annonc\u00e9 le lancement d'un projet pilote visant \u00e0 tester les m\u00e9canismes de pr\u00e9position-nement des ressources pour am\u00e9liorer la rapidit\u00e9 d'intervention en situation d'urgence, no-tamment lors des inondations. Cette initiative permettra d'\u00e9valuer l'efficacit\u00e9 op\u00e9rationnelle du dispositif lorsque les moyens sont disponibles avant le d\u00e9clenchement d'une crise.  \n Appui agricole  \n \u2022  \n Environ 67 000 b\u00e9n\u00e9ficiaires ont re\u00e7u des semences pour soutenir la campagne agricole.  \n Assistance mon\u00e9taire  \n \u2022  \n Cible totale : 2 435 m\u00e9nages.  \n \u2022  \n M\u00e9nages atteints lors de la premi\u00e8re distribution : 2 013.  \n \u2022  \n Paiement compensatoire pr\u00e9vu pour 442 m\u00e9nages non servis.  \n \u2022  \n Une deuxi\u00e8me phase de distribution devait permettre d'atteindre l'ensemble de la cible.  \n \u2022  \n Les membres ont consid\u00e9r\u00e9 ces r\u00e9sultats comme encourageants compte tenu du con-texte op\u00e9rationnel difficile.  \n IHDL : dans le cadre de la r\u00e9ponse aux inondations de 2025 dans les d\u00e9partements de la Grande Sido, de la Moula et du Barh Sara, IHDL avec ses partenaires du consortium du Projet NexSud entend distribuer des vivres (c\u00e9r\u00e9ales), des b\u00e2ches, des semences, des petits ruminants et des UCA pour 1 000 m\u00e9nages d\u00e9j\u00e0 identifi\u00e9s et 09 coop\u00e9ratives. Cet appui entre dans le cadre de rel\u00e8vement des m\u00e9nages affect\u00e9s par les inondations de 2025 gr\u00e2ce aux soutiens de AFD et UE.  \n CRS/CARE : sur une cible de 6 000 m\u00e9nages, les distributions ont d\u00e9marr\u00e9 la semaine der-ni\u00e8re. CRS a d\u00e9j\u00e0 finalis\u00e9 l\u2019assistance de 3 600 m\u00e9nages, tandis que CARE poursuit les distribu-tions pour les 2 400 m\u00e9nages restants. Les interventions couvrent les d\u00e9partements de Fouli, Mamdi (Lac) et Asounga (Est).  \n HIAS : Une assistance en cash a \u00e9t\u00e9 fournie \u00e0 1 170 enfants \u00e0 risque de protection dans trois sites d\u2019intervention. Chaque enfant a re\u00e7u 19 200 FCFA, pour un budget total d\u2019environ 10 millions FCFA. Parmi les b\u00e9n\u00e9ficiaires, on compte 742 gar\u00e7ons, 428 filles et 22 enfants vivant avec un handicap.  \n IMC : initialement pr\u00e9vu pour 2 430 m\u00e9nages, le programme a b\u00e9n\u00e9fici\u00e9 d\u2019une marge budg\u00e9taire  \n li\u00e9e \u00e0 la fluctuation du dollar, permettant l\u2019ajout de 120 m\u00e9nages. La cible passe ainsi \u00e0 2  \n 550 m\u00e9nages pour les 2e et 3e",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/823",
+                    "id": 823,
+                    "name": "Agency for Technical Cooperation and Development",
+                    "shortname": "ACTED",
+                    "longname": "Agency for Technical Cooperation and Development",
+                    "homepage": "https://www.acted.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2007",
+                    "id": 2007,
+                    "name": "Oxfam",
+                    "shortname": "Oxfam",
+                    "longname": "Oxfam International",
+                    "homepage": "https://www.oxfam.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227334",
+            "date": {
+                "original": "2026-07-21T00:00:00+00:00",
+                "changed": "2026-08-27T10:59:11+00:00",
+                "created": "2026-08-27T09:58:03+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227334"
+    },
+    {
+        "id": "4227333",
+        "score": 1,
+        "fields": {
+            "title": "Tchad R\u00e9union Cash Travail Group Compte Rendu - Juin 2026",
+            "body": "Lieu : Salle de r\u00e9union du bureau commun des Nations Unies (OCHA-BCR).  \n Heure : 10h20min \u00e0 11h30  \n Participants pr\u00e9sentiels : CRS, CRT-CWG Co facilitateur, CWG- non programmatique  \n Participants en ligne : CWG, FAO, PU, IRC, CONCERN, CARE, BAOBAB, HULO, ACF, HIAS, ESEDD,  \n PAM, CRT-CWG, CRS, FAO, CLUSTER SECAL, ONG RECAP/DeD, AMBASSADE USA,  \n INTRODUCTION  \n La r\u00e9union a commenc\u00e9 \u00e0 10h20, l\u2019agenda a \u00e9t\u00e9 soumis \u00e0 l\u2019appr\u00e9ciation des participants puis  \n la validation du dernier compte rendu.  \n ORDRE DU JOUR\n\n1. Suivi des recommandations  \n     Revue et validation du dernier compte rendu  \n     Points d\u2019action de la derni\u00e8re r\u00e9union\n2. Rapportage 3W - T1 2026  \n     Mise \u00e0 jour\n3. Task Force MEB\n4. Fond USA  \n     Matrice de risques & SOP\n5. Tour de table  \n     Echo du terrain : sous-groupe cash (Est et Lac), membres du CWG  \n     R\u00e9union de la sous-r\u00e9gion CALP (29 juin au 2 juillet 2026) mise \u00e0 jour\n6. Divers  \n     SUIVI DES RECOMMANDATIONS  \n     \u2022 Tableau de bord 2025  \n     Pour donner suite \u00e0 la mise \u00e0 jour de certaines donn\u00e9es, il a \u00e9t\u00e9 d\u00e9cid\u00e9 de proc\u00e9der \u00e0 une  \n     correction avant le partage de la version finale.  \n     \u2022 Panier de d\u00e9penses minimum  \n     La contribution de certains clusters reste attendue avant la finalisation du calcul de la valeur  \n     du panier. \u00c0 cet effet, un rappel sera adress\u00e9 aux clusters concern\u00e9s au cours de la  \n     semaine.  \n     \u2022 Matrice de risques et SOP (allocation USA)  \n     L\u2019\u00e9laboration de la matrice de risques ainsi que la mise \u00e0 jour du SOP adapt\u00e9s aux quatre  \n     provinces sont valid\u00e9s par la Task force. Ces documents seront partag\u00e9s avec l\u2019ensemble  \n     des membres, qui pourront les contextualiser \u00e0 d\u2019autres zones d\u2019intervention si besoins).  \n     \u2022 R\u00e9sultats de l\u2019enqu\u00eate Les r\u00e9sultats pour la province du Lac sont d\u00e9j\u00e0 disponibles. Ceux  \n     des trois provinces de l\u2019Est sont attendus afin de faire la compilation et l\u2019analyse avant la  \n     diffusion.  \n     RAPPORTAGE 3W T1 2026  \n     La compilation des donn\u00e9es a \u00e9t\u00e9 finalis\u00e9e et transmise au bureau r\u00e9gional de Dakar, apr\u00e8s  \n     l\u2019octroi d\u2019un d\u00e9lai additionnel d\u2019une semaine aux membres n\u2019ayant pas encore effectu\u00e9 leur  \n     rapportage. Le lien du rapport sera partag\u00e9 d\u00e8s sa r\u00e9ception.  \n     MISE A JOUR DU PANIER DE DEPENSES MINIMUM (MINIMUM EXPENDITURE BASKET - MEB)  \n     .  \n     La revue de certains paniers sectoriels est toujours en cours de validation. Un rappel sera adress\u00e9 aux clusters n\u2019ayant pas encore soumis leurs contributions. Points d\u2019action :  \n     \u2022  \n     Relancer les clusters concern\u00e9s afin d\u2019assurer la disponibilit\u00e9 des contributions man-quantes.  \n     \u2022  \n     R\u00e9aliser une analyse des capacit\u00e9s des m\u00e9nages afin d\u2019identifier les \u00e9carts et faciliter le calcul de la valeur des transferts.  \n     ALLOCATION USA  \n     \u2022  \n     La Task Force poursuit la tenue de ses r\u00e9unions hebdomadaires et a valid\u00e9 le SOP ainsi la matrice de risques. Par ailleurs, la cartographie et les analyses sur la faisabilit\u00e9 et la perti-nence sont encore en cours. En rappel, cet exercice cible principalement les 3 provinces de l\u2019Est et du Lac.  \n     TOUR DE TABLE  \n     CRT : de 18 au 30 mai, distribution \u00e0 4000 m\u00e9nages panier alimentaire (48000 cfa/m\u00e9nage dans les localit\u00e9s de Farchana, Arkoum, Kouchanguine Moura, et Adr\u00e9 pour les r\u00e9fugi\u00e9s, retourn\u00e9s et populations h\u00f4tes. PSF : Express Union  \n     IRC : 1500 m\u00e9nages au Sila du 17 au 19 juin 2026, 48000 FCFA par m\u00e9nage prestataire de ser-vices financiers Express Union.  \n     FAO : Est : Assounga, Kobe, Kimiti & Lac : Mamdi, Fouli et Kaya Ciblage de 6500 b\u00e9n\u00e9ficiaires, dont 5500 du 24 au 30 juin et 1000 en ao\u00fbt, approche Cash+ avec semences pluvial (juin) & fluvial (aout) prestataire de services financiers : Airtel money.  \n     PUI : accordera une assistance en esp\u00e8ces \u00e0 1 800 m\u00e9nages r\u00e9partis dans les trois camps de r\u00e9fugi\u00e9s d\u2019Iridimi, de Touloum et d\u2019Amnaback. La distribution est pr\u00e9vue \u00e0 partir du 22 juin 2026, en collaboration avec le prestataire de services financiers Express Union.  \n     Cibles : les m\u00e9nages h\u00f4tes vivant dans les villages d\u2019accueil des r\u00e9fugi\u00e9s.  \n     Care & CRS : Ciblage en cours de 6000 m\u00e9nages, d\u00e9marrage pr\u00e9vu premi\u00e8re semaine de juillet, 48000 FCFA par m\u00e9nage pour 3 mois de ration. PSF : Express Union  \n     R\u00e9partition des cibles au Lac et \u00e0 l\u2019Est  \n     \u2022  \n     Fouli : 36% des b\u00e9n\u00e9ficiaires- CRS  \n     \u2022  \n     Kaya : 12% des b\u00e9n\u00e9ficiaires- CARE  \n     \u2022  \n     Mamdi : 12% des b\u00e9n\u00e9ficiaires- CARE  \n     \u2022  \n     Assoungha : 40% des b\u00e9n\u00e9ficiaires- CRS (Hadjar Hadid & Farchana), CARE (Adr\u00e9)  \n     Activit\u00e9s r\u00e9alis\u00e9es& planifi\u00e9es  \n     \u2022  \n     Ciblage en cours dans le tout le mois de juin 2026  \n     \u2022  \n     Premi\u00e8re Distribution de cash par Express Union dans la premi\u00e8re semaine de juillet  \n     SADAP : Ratissage des personnes absentes \u00e0 la distribution de cash dans le MKO. 62 personnes qui ont re\u00e7u 15mil Fcfa.  \n     IMC : pr\u00e9voit aussi de distribuer du cash \u00e0 2430 m\u00e9nages dans les sous-pr\u00e9fectures de Hadjer Hadid et Farchana, d\u00e9partement de l\u2019Assoungha, r\u00e9gion du Ouada\u00ef. Les distributions sont pr\u00e9-vues du 02 au 08 Juillet 2026.  \n     HULO : La coop\u00e9rative hulo qui travaille avec 27 ONGs au Tchad a lanc\u00e9 un appel d'offres mutualis\u00e9  \n     pour la s\u00e9lection de prestataires de services mon\u00e9taires (physique et d\u00e9mat\u00e9rialis\u00e9). Le  \n     deadline pour soumettre les offres fournisseurs est fix\u00e9e au 24 juin 2026, suivra ensuite les  \n     diff\u00e9rents d\u00e9pouillements pour une s\u00e9lection des fournisseurs en ao\u00fbt. L'appel d'offres sera  \n     disponible et pr\u00eat \u00e0 l'emploi pour toutes les ONGs membres de la coop\u00e9rative hulo. Pour plus  \n     d'informations, contacter Oussoumane aboubacar, repr\u00e9sentant Pays pour la coop\u00e9rative hulo  \n     au Tchad oussoumane.aboubacar@hulo.coop ou Maelwen Le Roux Adjointe repr\u00e9sentant Pays  \n    maelwen.le-roux@hulo.coop  \n     R\u00e9union des Leads et Co-Leads (CALP) : la r\u00e9union des Leads et Co-Leads, organis\u00e9e par le CALP  \n     \u00e0 Dakar du 29 juin au 2 juillet 2026, se tiendra cette ann\u00e9e sur une dur\u00e9e de quatre jours. Elle  \n     sera compl\u00e9t\u00e9e par une formation sur l\u2019action anticipatoire, avec l\u2019appui technique des formateurs  \n     de la Task Force R\u00e9gionale sur l\u2019Action Anticipatoire (TFAA). Des informations compl\u00e9mentaires  \n     seront partag\u00e9es \u00e0 la suite de la r\u00e9union, conform\u00e9ment \u00e0 la communication du  \n     CALP.  \n     DIVERS  \n     Les dates des missions relatives aux \u00e9lections ou \u00e0 la reconduction, ainsi que l\u2019activation des  \n     membres du sous-groupe du CWG dans les zones de l\u2019Est, du Lac et du Sud, seront confirm\u00e9es  \n     dans les prochains jours.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/823",
+                    "id": 823,
+                    "name": "Agency for Technical Cooperation and Development",
+                    "shortname": "ACTED",
+                    "longname": "Agency for Technical Cooperation and Development",
+                    "homepage": "https://www.acted.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2007",
+                    "id": 2007,
+                    "name": "Oxfam",
+                    "shortname": "Oxfam",
+                    "longname": "Oxfam International",
+                    "homepage": "https://www.oxfam.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227333",
+            "date": {
+                "original": "2026-06-16T00:00:00+00:00",
+                "changed": "2026-08-27T11:00:16+00:00",
+                "created": "2026-08-27T09:51:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227333"
+    },
+    {
+        "id": "4227332",
+        "score": 1,
+        "fields": {
+            "title": "Tchad R\u00e9union Cash Travail Group Compte Rendu - Mai 2026",
+            "body": "Lieu : Salle de r\u00e9union du bureau commun des Nations Unies (OCHA-BCR).  \n Heure : 10h10min \u00e0 12h00  \n Participants pr\u00e9sentiels : SISAAP, MASSAH PF Cash, AcF, NITA  \n Participants en ligne : PAM Ab\u00e9ch\u00e9, RESPECT-IRC, IMPACT REACH, Concern Worldwide, Bagasola,  \n FAO, Care Int, CICR, OXFAM, IRC, NRC, HIAS, ACTED, OCHA, IMC, WVI, ONG IHDL, UNFPA,  \n OIM, PAM, PUI Est, USA Embassy, JRS, WVI Bol, Concern, CHORA, ONG RECAP/DeD, Cluster  \n Secal, Cooperation Suisse  \n INTRODUCTION  \n La r\u00e9union a commenc\u00e9 \u00e0 10h20 et apr\u00e8s un tour de table pour la pr\u00e9sentation en ligne en  \n pr\u00e9sentiel, l\u2019agenda a \u00e9t\u00e9 soumis \u00e0 l\u2019appr\u00e9ciation des participants puis la validation du dernier  \n compte rendu.  \n ORDRE DU JOUR  \n a. Suivi des recommandations  \n b. Revue et validation du dernier compte rendu  \n c. Suivi des points d\u2019action  \n d. Rapportage 3W T1 2026  \n e. Dashboard 2025 (version finale)  \n f. Panier de D\u00e9penses Minimum (MEB)  \n g. Prestataire de services financiers - NITA  \n h. Fonds USA (mise \u00e0 jour) Task Force  \n i. \u00c9chos du terrain  \n j. R\u00e9union de la sous-r\u00e9gion CALP (29 juin au 2 juillet 2026)  \n k. Divers  \n SUIVI DES RECOMMANDATIONS  \n \u2022 Tableau de bord 2025 (version finale).  \n \u2022 Panier de d\u00e9penses minimum (Atelier du 12 au 13 mai \u00e0 Koundoul)  \n \u2022 Retraite : atelier d\u2019Analyse du Cadre Harmonis\u00e9 2026 \u00e0 Koundoul  \n RAPPORTAGE 3W T1 2026  \n \u00c0 ce jour, certains membres ont d\u00e9j\u00e0 soumis leurs rapports d\u2019activit\u00e9s relatifs au premier trimestre  \n 2026. Un d\u00e9lai additionnel d\u2019une semaine a \u00e9t\u00e9 accord\u00e9 aux membres n\u2019ayant pas encore  \n effectu\u00e9 leur rapportage.  \n MISE A JOUR DU PANIER DE DEPENSES MINIMUM (MINIMUM EXPENDITURE BASKET - MEB)  \n A la suite de la rencontre du 12 au 13 mai \u00e0 Koundoul, les participants ont valid\u00e9 la mise \u00e0 jour  \n du panier de d\u00e9penses minimum qui passe d\u2019un mod\u00e8le national unique \u00e0 cinq paniers diff\u00e9rents,  \n adapt\u00e9s aux contextes sp\u00e9cifiques de r\u00e9gions /Hub. Ces paniers int\u00e8grent plusieurs secteurs,  \n notamment la s\u00e9curit\u00e9 alimentation, la sant\u00e9, la nutrition, l\u2019\u00e9ducation et la protection,  \n EME/Abris, Moyen d\u2019existence, WASH et Autres d\u00e9penses. La prochaine \u00e9tape consistera \u00e0 analyser  \n les capacit\u00e9s des m\u00e9nages afin de d\u00e9terminer la valeur de transfert mon\u00e9taire ainsi que  \n les narratifs des chaque cluster/secteur. D\u2019ici l\u00e0, l\u2019ancien MEB reste en vigueur.  \n Point d\u2019action :  \n \u2022 Partage et compl\u00e9ment des narratifs de chaque cluster/secteur  \n .  \n \u2022  \n Compilation et partage au plus tard le 15 juin 2026.  \n TABLEAU DE BORD 2025  \n Au cours de l\u2019ann\u00e9e \u00e9coul\u00e9e, environ 438 506 personnes ont \u00e9t\u00e9 assist\u00e9es, pour un montant total estim\u00e9 \u00e0 47 millions de dollars. Une baisse significative des financements, estim\u00e9e \u00e0 pr\u00e8s de 50 % a toutefois \u00e9t\u00e9 observ\u00e9e, en grande partie en raison de la suspension de fond am\u00e9ricain. Les transferts en esp\u00e8ces demeurent la modalit\u00e9 d\u2019assistance privil\u00e9gi\u00e9e. N\u00e9anmoins, le groupe encourage l\u2019exploration d\u2019alternatives innovantes, notamment les transferts digitaux et les cou-pons \u00e9lectroniques, afin d\u2019am\u00e9liorer l\u2019efficacit\u00e9 et la flexibilit\u00e9 des interventions.  \n \u2022  \n D\u00e9fis identifi\u00e9s  \n R\u00e9duction des financements disponibles  \n Capacit\u00e9s limit\u00e9es des prestataires de services financiers  \n Contraintes logistiques dans certaines zones  \n Faible adoption des solutions digitales  \n \u2022  \n Perspectives  \n Un accent particulier sera mis sur l\u2019am\u00e9lioration de la coordination, la diversification des pres-tataires de services financiers (PSF), la digitalisation des transferts ainsi que le renforcement de l\u2019efficacit\u00e9 op\u00e9rationnelle.  \n En conclusion, le CWG \u00e9volue dans un contexte de transition marqu\u00e9 \u00e0 la fois par des con-traintes financi\u00e8res et par des opportunit\u00e9s d\u2019innovation. Les efforts sont orient\u00e9s vers l\u2019adap-tation continue des outils, le renforcement de la coordination intersectorielle et l\u2019am\u00e9lioration des modalit\u00e9s d\u2019assistance afin d\u2019en accro\u00eetre l\u2019impact.  \n PRESENTATION DU PRESTATAIRE DE SERVICES FINANCIERS NITA  \n Le prestataire de services financiers NITA, r\u00e9cemment \u00e9tabli au Tchad, a pr\u00e9sent\u00e9 son offre qui comprend notamment les transferts en esp\u00e8ces, le paiement de salaires, la collecte de fonds, ainsi qu\u2019une solution de portefeuille \u00e9lectronique en cours de d\u00e9ploiement.  \n La structure dispose d\u2019une couverture nationale, avec plus de 110 points de service r\u00e9partis sur l\u2019ensemble du territoire. Elle propose \u00e9galement une plateforme permettant le suivi en temps r\u00e9el des op\u00e9rations, facilitant ainsi la gestion et le contr\u00f4le pour les partenaires.  \n Point d\u2019action :  \n Partage de la pr\u00e9sentation, grille tarifaire et la cartographie  \n ALLOCATION USA  \n La Task Force poursuit la tenue de ses r\u00e9unions hebdomadaires et travaille actuellement sur l\u2019\u00e9laboration des matrices de risques, la cartographie ainsi que la planification des interventions.  \n Les interventions ciblent principalement les provinces de l\u2019Est et du Lac et seront compl\u00e9t\u00e9es par des \u00e9valuations de march\u00e9 pr\u00e9vues prochainement.  \n Par ailleurs, une nouvelle enveloppe de financement a \u00e9t\u00e9 annonc\u00e9e. Les modalit\u00e9s ainsi que les d\u00e9tails y aff\u00e9rents seront communiqu\u00e9s dans les plus brefs d\u00e9lais.  \n TOUR DE TABLE  \n a)  \n R\u00e9union des Leads et Co-Leads (CALP)  \n La r\u00e9union des Leads et Co-Leads, organis\u00e9e par le CALP \u00e0 Dakar du 29 juin au 2 juillet 2026, se tiendra cette ann\u00e9e sur une dur\u00e9e de quatre jours. Elle sera compl\u00e9t\u00e9e par une formation sur l\u2019action anticipatoire, avec l\u2019appui technique des formateurs de la Task Force R\u00e9gionale sur  \n l\u2019Action Anticipatoire (TFAA). Des informations compl\u00e9mentaires seront partag\u00e9es \u00e0 la suite de  \n la r\u00e9union, conform\u00e9ment \u00e0 la communication du CALP.  \n b) Atelier d\u2019analyse du Cadre Harmonis\u00e9 \u2013 mai 2026  \n Sur invitation de la coordination nationale du SISAAP, en collaboration avec le CILSS, le CWG,  \n en tant que membre de la Cellule Nationale d\u2019Analyse du Cadre Harmonis\u00e9 (CNA-CH), a particip\u00e9  \n \u00e0 l\u2019atelier national d\u2019analyse de la situation alimentaire et nutritionnelle, tenu du 14 au 19  \n mai 2026 \u00e0 Koundoul.  \n Le rapport final des analyses sera partag\u00e9 apr\u00e8s revue et validation par le Comit\u00e9 Technique  \n R\u00e9gional.  \n c) AcF : projet GFFO, la distribution s\u2019est d\u00e9roul\u00e9e du 20 au 23 mai 2026. Au total, 1 000  \n m\u00e9nages soit 41 000 XAF par m\u00e9nage correspondant \u00e0 une demi-ration pour trois  \n rounds.  \n Les activit\u00e9s ont concern\u00e9 trois d\u00e9partements : Fouli : Karam 2, Nguilidou 2, Kaya : Baboul,  \n Malmairi  \n Mamdi : Kaya Koudou Kol\u00e9, Yakoua Koulboua  \n Parmi les b\u00e9n\u00e9ficiaires : 883 m\u00e9nages sont dirig\u00e9s par des femmes et 117 m\u00e9nages sont dirig\u00e9s  \n par des hommes",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1955",
+                    "id": 1955,
+                    "name": "Action contre la Faim France",
+                    "shortname": "ACF",
+                    "longname": "Action contre la Faim",
+                    "spanish_name": "Acci\u00f3n contra el Hambre (Francia)",
+                    "homepage": "https://www.actioncontrelafaim.org",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/823",
+                    "id": 823,
+                    "name": "Agency for Technical Cooperation and Development",
+                    "shortname": "ACTED",
+                    "longname": "Agency for Technical Cooperation and Development",
+                    "homepage": "https://www.acted.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2007",
+                    "id": 2007,
+                    "name": "Oxfam",
+                    "shortname": "Oxfam",
+                    "longname": "Oxfam International",
+                    "homepage": "https://www.oxfam.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227332",
+            "date": {
+                "original": "2026-05-19T00:00:00+00:00",
+                "changed": "2026-08-27T11:07:20+00:00",
+                "created": "2026-08-27T09:46:43+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227332"
+    },
+    {
+        "id": "4227326",
+        "score": 1,
+        "fields": {
+            "title": "Tchad R\u00e9union Cash Travail Group Compte Rendu - Avril 2026",
+            "body": "Lieu : Salle de r\u00e9union du bureau commun des Nations Unies (OCHA-BCR).  \n Heure : 10h12min \u00e0 12h00  \n Participants pr\u00e9sentiels : MASSAH PF Cash, APSELPA, CWG, CRT  \n Participants en ligne : US Embassy, RECAP/DeD, ASHDR, SADAP, IRC, PAM, RESPECCT, ACTED,  \n ESEDD, ACHDR, WVI, OXFAM, Caritas Suisse, DRC, CARE, OCHA, SI, RESILAC\\_ACF, IHDL, CWW, JRS,  \n KONOUM TOULLO, Coop\u00e9ration SUISSE.  \n INTRODUCTION  \n La r\u00e9union a commenc\u00e9 \u00e0 10h20 et apr\u00e8s un tour de table pour la pr\u00e9sentation en ligne en pr\u00e9sentiel,  \n l\u2019agenda a \u00e9t\u00e9 soumis \u00e0 l\u2019appr\u00e9ciation des participants puis la validation du dernier compte rendu.  \n ORDRE DU JOUR  \n a. Suivi des recommandations  \n b. Revue et validation du dernier compte rendu  \n c. Suivi des points d\u2019action  \n d. Dashboard 2025 (3W)  \n e. Panier de D\u00e9penses Minimum (MEB)  \n f. Task Force MEB  \n g. Enqu\u00eate de renforcement de capacit\u00e9s  \n h. Fonds USA  \n i. \u00c9chos du terrain  \n j. Partage d\u2019exp\u00e9rience Mobile Money  \n k. Divers  \n SUIVI DES RECOMMANDATIONS  \n a. Dashboard 2025 -3W : Apr\u00e8s la pr\u00e9sentation, les membres ont discut\u00e9 de l\u2019\u00e9tat d\u2019avancement,  \n pour cela, il y\u2019aura quelques donn\u00e9es en attente de certains membres avant la finalisation  \n et le partage de la version finale.  \n b. Panier de d\u00e9penses minimum (MEB) en phase de la m\u00e9thodologie du calcule de valeur. La  \n Task Force MEB a pr\u00e9sent\u00e9 une mise \u00e0 jour de ses activit\u00e9s ainsi que les prochains points  \n d\u2019actions suivants :\n\n1. Analyse des gaps en termes de donn\u00e9es surtout volet nutrition et analyse des zones  \n     situ\u00e9es au nord du pays.\n2. Analyses compl\u00e9mentaires des capacit\u00e9s \u00e9conomiques des m\u00e9nages.\n3. Retraite de revue des donn\u00e9es avec les membres des clusters concern\u00e9s et de validation  \n     du MEB  \n     c. Le SOP du processus de la mise en oeuvre de activit\u00e9s en modalit\u00e9 de transferts mon\u00e9taires  \n     a \u00e9t\u00e9 finalis\u00e9 par la Task force et partag\u00e9 avec la CNARR  \n     ENQUETE DE BESOINS DE RENFORCEMENT DE CAPACITE  \n     A ce jour le nombre de participants est de 43 dont les r\u00e9sultats re\u00e7us par th\u00e9matique sont :",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1955",
+                    "id": 1955,
+                    "name": "Action contre la Faim France",
+                    "shortname": "ACF",
+                    "longname": "Action contre la Faim",
+                    "spanish_name": "Acci\u00f3n contra el Hambre (Francia)",
+                    "homepage": "https://www.actioncontrelafaim.org",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/823",
+                    "id": 823,
+                    "name": "Agency for Technical Cooperation and Development",
+                    "shortname": "ACTED",
+                    "longname": "Agency for Technical Cooperation and Development",
+                    "homepage": "https://www.acted.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2007",
+                    "id": 2007,
+                    "name": "Oxfam",
+                    "shortname": "Oxfam",
+                    "longname": "Oxfam International",
+                    "homepage": "https://www.oxfam.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227326",
+            "date": {
+                "original": "2026-04-21T00:00:00+00:00",
+                "changed": "2026-08-27T11:06:12+00:00",
+                "created": "2026-08-27T09:38:13+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227326"
+    },
+    {
+        "id": "4227309",
+        "score": 1,
+        "fields": {
+            "title": "Tchad R\u00e9union Cash Travail Group Compte Rendu - Mars 2026",
+            "body": "Lieu : Salle de r\u00e9union du bureau commun des Nations Unies (OCHA-BCR).  \n Heure : 10h20min \u00e0 11h55  \n Participants pr\u00e9sentiels : MASSAH PF Cash, ACTED, CWG  \n Participants en ligne : CICR N'djamena, CALP, Dakar, U.S. Embassy, NRC, Zone Est FLM, IOM,  \n Concern WW, Bagasola, RECAP/DeD, UNFPA, UNHCR, Projet NexSud Caritas Suisse, RESILAC/  \n ACF, IRC Hadjer-Hadid, ASHDR -Climat Koumra, RESPECCT-Ab\u00e8che, Protection sociale,  \n PAM, ACHDR. Localisation, Cluster SECAL, PU, WVI, Word Bank, OCHA.  \n INTRODUCTION  \n a. La r\u00e9union a commenc\u00e9 \u00e0 10h20 et apr\u00e8s un tour de table pour la pr\u00e9sentation en ligne  \n en pr\u00e9sentiel, l\u2019agenda a \u00e9t\u00e9 soumis \u00e0 l\u2019appr\u00e9ciation des participants puis la validation  \n du dernier compte rendu.  \n I. SUIVI DES RECOMMANDATIONS  \n a. Dashboard 2025 -3W \u2013 en cours de compilation  \n b. Panier de d\u00e9penses minimum (MEB) en phase de la m\u00e9thodologie du calcule de valeur.  \n c. Partage des matrices des risques  \n d. Task Force PSF (braquage et Extorsion) partage du TdR et SOP  \n II. PLAN DE REPONSE HUMANITAIRE 2026  \n A ce jour le montant re\u00e7u globale dans le pays s\u2019\u00e9lev\u00e9 \u00e0 177,7 millions de dollars (US), 173,3  \n millions (US), allou\u00e9 dans le cadre du HNRP soit un taux de financement de 17, 6% et 4 ,4 millions  \n (US), proviennent des financements hors HNRP. Pour plus des d\u00e9tailles veuillez visiter le  \n lien ci-apr\u00e8s : [https://app.powerbi.com/view?r=eyJrIjoiNjY5Mjlk-](https://app.powerbi.com/view?r=eyJrIjoiNjY5Mjlk-)  \n MzYtMmU1ZS00MjA5LWI4NTQtNzM0N2NiZDU4YzhiIiwidCI6IjBmOWUzNWRiLTU0NGYt-  \n NGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9  \n III. TASK FORCE MEB  \n Les activit\u00e9s li\u00e9es \u00e0 la collecte des donn\u00e9es, qu\u2019elles soient secondaires ou primaires, sont en  \n cours d\u2019analyse. D\u2019autres donn\u00e9es compl\u00e9mentaires (ECOSIT et de l\u2019ENSA) sont en cours  \n d\u2019analyse). Une r\u00e9union technique est pr\u00e9vue au bureau de REACH le jeudi 19 mars \u00e0 14h.  \n IV. TASK FORCE BRAQUAGES PSF, ETC.  \n L\u2019exercice de collecte des SOP et des matrices de risques est en cours. \u00c0 ce jour, le draft du  \n SOP et de termes de r\u00e9f\u00e9rence aux 4 membres permanant du CWG pour la revue avant le  \n partage.  \n V. BILAN 2025 & PLAN D\u2019ACTION 2026  \n Le plan de travail a \u00e9t\u00e9 \u00e9labor\u00e9 avec l\u2019ajout d\u2019une rubrique d\u00e9di\u00e9e au budget pr\u00e9visionnel,  \n puis transmis aux membres du CWG et le bilan 2025 sont report\u00e9s (en attente de la finalisation  \n du Dashboard 2025.  \n VI. FINANCEMENT USA  \n Un mini atelier pr\u00e9vu avec l\u2019ensemble clusters, secteurs et groupe de travail concern\u00e9s le  \n lundi 23 mars 2026. L\u2019objectif est de faire la revue des projets post\u00e9s.  \n VII. TOUR DE TABLE  \n CRS : Projet : R\u00e9ponse multisectorielle dans le d\u00e9partement de Fouli  \n Bailleur : FHRAOC  \n Consortium : CRS, INTERSOS, ADESOL & AFA  \n Dur\u00e9e : Septembre 2025 mars 2026  \n Appui Agricoles  \n Le partenaire ADESOL a soutenu 560 m\u00e9nages en leur fournissant des kits agricoles compos\u00e9s de pelles, r\u00e2teaux, houes, coupe-coupe et arrosoirs, ainsi que 50 grammes de semences par sp\u00e9culation (gombo, laitue, tomate, carotte et p\u00e9pini\u00e8res d\u2019oignon). Par ailleurs, une formation sur les techniques agricoles destin\u00e9e aux petits mara\u00eechers a \u00e9t\u00e9 organis\u00e9e pour ces 560 m\u00e9-nages. Cette formation a \u00e9t\u00e9 facilit\u00e9e par le chef du secteur ANADER du d\u00e9partement de Fouli.  \n Aide alimentaire & cash multisectoriel  \n Le partenaire CRS  \n CASH",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1955",
+                    "id": 1955,
+                    "name": "Action contre la Faim France",
+                    "shortname": "ACF",
+                    "longname": "Action contre la Faim",
+                    "spanish_name": "Acci\u00f3n contra el Hambre (Francia)",
+                    "homepage": "https://www.actioncontrelafaim.org",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2007",
+                    "id": 2007,
+                    "name": "Oxfam",
+                    "shortname": "Oxfam",
+                    "longname": "Oxfam International",
+                    "homepage": "https://www.oxfam.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227309",
+            "date": {
+                "original": "2026-03-17T00:00:00+00:00",
+                "changed": "2026-08-27T09:52:00+00:00",
+                "created": "2026-08-27T09:13:13+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227309"
+    },
+    {
+        "id": "4227297",
+        "score": 1,
+        "fields": {
+            "title": "Tchad R\u00e9union Cash Travail Group Compte Rendu - F\u00e9vrier 2026",
+            "body": "Lieu : Salle de r\u00e9union du bureau commun des Nations Unies (OCHA-BCR).  \n Heure : 10h15min \u00e0 11h55  \n Participants pr\u00e9sentiels : MASSAH PF Cash, Acted, CWG  \n Participants en ligne : CICR N'djamena, CALP, Dakar, U.S. Embassy, NRC, Zone Est FLM, IOM,  \n Concern WW, Bagasola, RECAP/DeD, UNFPA, UNHCR, Projet NexSud Caritas Suisse, RESILAC/  \n ACF, IRC Hadjer-Hadid, ASHDR -Climat Koumra, RESPECCT-Ab\u00e8che, Protection sociale,  \n PAM, ACHDR. Localisation, Cluster SECAL, PU, WVI, Word Bank, OCHA.  \n INTRODUCTION  \n a. La r\u00e9union a commenc\u00e9 \u00e0 10h10 et apr\u00e8s un tour de table pour la pr\u00e9sentation en ligne  \n en pr\u00e9sentiel, l\u2019agenda a \u00e9t\u00e9 soumis \u00e0 l\u2019appr\u00e9ciation des participants puis la validation  \n du dernier compte rendu.  \n I. SUIVI DES RECOMMANDATIONS  \n A) Partage des matrices des risques et SOP (en cours de collection)  \n B) Point focal du gouvernement (MASSAH) au sein du CWG (pr\u00e9sent\u00e9 aux membres) Mr.  \n Idriss Yacoub Kelley, chef de service d\u00e9veloppement des filets sociaux est d\u00e9sign\u00e9  \n comme point focal permanent au sein du CWG.  \n C) Panier de d\u00e9penses minimum (MEB) en cours  \n II. PLAN DE REPONSE HUMANITAIRE 2026  \n Le plan de R\u00e9ponse Humanitaire 2026 vise \u00e0 assister 3,4 millions de personnes, contre 5,5  \n millions en 2025, sur une population totale estim\u00e9e \u00e0 4,5 millions de personnes en situation  \n de besoin humanitaire (contre 7 millions en 2025). Les besoins financiers pour la mise en  \n oeuvre de cette r\u00e9ponse sont \u00e9valu\u00e9s \u00e0 986,1 millions de dollars am\u00e9ricains, contre  \n 1,454 milliard de dollars en 2025.  \n L'adoption des Transferts d'Esp\u00e8ce \u00e0 Usages Multiples (TEUM) est la modalit\u00e9 prioritaire dans  \n les zones d'intervention accessibles et o\u00f9 les march\u00e9s sont r\u00e9silients (Phase 1 et 2 IPC-A).  \n Par suite du non-financement de la rubrique TEUM en 2025 et au faible rapportage des partenaires  \n (seulement 96 K USD pour 1 000 m\u00e9nages hors HNRP), une r\u00e9vision \u00e0 la baisse de 76%  \n a \u00e9t\u00e9 d\u00e9cid\u00e9e pour 2026 : la cible passe de 104 800 \u00e0 33 444 personnes et le budget de 5,7M  \n \u00e0 1,8M USD. L'objectif sectoriel vise \u00e0 renforcer l'assistance humanitaire centr\u00e9e sur la personne  \n et sa dignit\u00e9 \u00e0 travers les transferts d'esp\u00e8ces \u00e0 usage multiple (TEUM).  \n Deux indicateurs permettront le suivi : le nombre de b\u00e9n\u00e9ficiaires en cash et la proportion du  \n budget HNRP 2026 ex\u00e9cut\u00e9e en cash. Huit activit\u00e9s sont programm\u00e9es, incluant l'assistance  \n TEUM aux personnes affect\u00e9es, les \u00e9valuations de march\u00e9, la r\u00e9vision du MEB, la coordination  \n des m\u00e9canismes cash, le renforcement des capacit\u00e9s, l'\u00e9valuation d'impact, le lien avec la  \n protection sociale, et l'activation du sous-groupe cash au Sud. Les TEUM, contribuant aux objectifs  \n strat\u00e9giques 1 et 2 du HNRP 2026, serviront de r\u00e9ponse de premi\u00e8re ligne pour couvrir  \n les besoins essentiels des m\u00e9nages vuln\u00e9rables, notamment dans les zones difficiles d'acc\u00e8s  \n soumises \u00e0 des contraintes extr\u00eames.  \n III. TASK FORCE MEB  \n Les activit\u00e9s li\u00e9es \u00e0 la collecte des donn\u00e9es, qu\u2019elles soient secondaires ou primaires, sont en  \n cours d\u2019analyse. Nous sommes en attente de la transmission des donn\u00e9es de l\u2019INSEED afin de  \n .  \n finaliser l\u2019ensemble du processus. D\u00e8s r\u00e9ception et compilation de ces donn\u00e9es, une r\u00e9union de la Task force sera convoqu\u00e9e.  \n IV.  \n TASK FORCE BRAQUAGES PSF, ETC.  \n L\u2019exercice de collecte des SOP et des matrices de risques est en cours. \u00c0 ce jour, moins de cinq membres volontaires ont partag\u00e9 leurs documents. Un message de rappel a \u00e9t\u00e9 adress\u00e9 \u00e0 l\u2019ensemble des membres du CWG. Un premier bilan a \u00e9t\u00e9 pr\u00e9sent\u00e9 \u00e0 l\u2019\u00c9quipe humanitaire pays, et la principale recommandation retenue comme point d\u2019action est l\u2019\u00e9laboration d\u2019un SOP ainsi que de Termes de R\u00e9f\u00e9rence (TdR).  \n V.  \n PLAN DE TRAVAIL CWG 2026  \n Le plan de travail a \u00e9t\u00e9 \u00e9labor\u00e9, avec l\u2019ajout d\u2019une rubrique d\u00e9di\u00e9e au budget pr\u00e9visionnel, puis transmis aux membres du CWG pour revue avant sa diffusion finale.  \n VI.  \n TOUR DE TABLE  \n CRS : Projet : R\u00e9ponse multisectorielle dans le d\u00e9partement de Fouli  \n Bailleur : FHRAOC  \n Consortium : CRS, INTERSOS, ADESOL & AFA  \n Dur\u00e9e : Septembre 2025 mars 2026  \n Appui Agricoles  \n Le partenaire ADESOL a soutenu 560 m\u00e9nages en leur fournissant des kits agricoles compos\u00e9s de pelles, r\u00e2teaux, houes, coupe-coupe et arrosoirs, ainsi que 50 grammes de semences par sp\u00e9culation (gombo, laitue, tomate, carotte et p\u00e9pini\u00e8res d\u2019oignon). Par ailleurs, une formation sur les techniques agricoles destin\u00e9e aux petits mara\u00eechers a \u00e9t\u00e9 organis\u00e9e pour ces 560 m\u00e9-nages. Cette formation a \u00e9t\u00e9 facilit\u00e9e par le chef du secteur ANADER du d\u00e9partement de Fouli.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1955",
+                    "id": 1955,
+                    "name": "Action contre la Faim France",
+                    "shortname": "ACF",
+                    "longname": "Action contre la Faim",
+                    "spanish_name": "Acci\u00f3n contra el Hambre (Francia)",
+                    "homepage": "https://www.actioncontrelafaim.org",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2926",
+                    "id": 2926,
+                    "name": "World Vision",
+                    "shortname": "World Vision",
+                    "longname": "World Vision",
+                    "homepage": "https://www.wvi.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227297",
+            "date": {
+                "original": "2026-02-17T00:00:00+00:00",
+                "changed": "2026-08-27T09:58:08+00:00",
+                "created": "2026-08-27T08:55:23+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227297"
+    },
+    {
         "id": "4227267",
         "score": 1,
         "fields": {
@@ -1322,448 +1962,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4226816"
-    },
-    {
-        "id": "4226815",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR Emergency situation in Chad I Update on arrivals from Sudan (23 August 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226815",
-            "date": {
-                "original": "2026-08-24T00:00:00+00:00",
-                "changed": "2026-08-24T13:02:30+00:00",
-                "created": "2026-08-24T12:03:20+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226815"
-    },
-    {
-        "id": "4226814",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR Tchad | Situation d'urgence au Tchad Mise \u00e0 jour des arriv\u00e9es du Soudan (23 Aout. 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226814",
-            "date": {
-                "original": "2026-08-24T00:00:00+00:00",
-                "changed": "2026-08-24T14:38:45+00:00",
-                "created": "2026-08-24T12:03:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226814"
-    },
-    {
-        "id": "4226800",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Sud-soudanais au 31 juillet 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226800",
-            "date": {
-                "original": "2026-08-18T00:00:00+00:00",
-                "changed": "2026-08-24T12:16:03+00:00",
-                "created": "2026-08-24T11:04:02+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226800"
-    },
-    {
-        "id": "4226799",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Rwandais au 31 juillet 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226799",
-            "date": {
-                "original": "2026-08-18T00:00:00+00:00",
-                "changed": "2026-08-24T12:15:45+00:00",
-                "created": "2026-08-24T11:03:53+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226799"
-    },
-    {
-        "id": "4226798",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Centrafricains au 31 juillet 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226798",
-            "date": {
-                "original": "2026-08-18T00:00:00+00:00",
-                "changed": "2026-08-24T12:15:34+00:00",
-                "created": "2026-08-24T11:03:45+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226798"
-    },
-    {
-        "id": "4226797",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Burundais au 31 juillet 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226797",
-            "date": {
-                "original": "2026-08-18T00:00:00+00:00",
-                "changed": "2026-08-24T12:15:21+00:00",
-                "created": "2026-08-24T11:03:33+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226797"
-    },
-    {
-        "id": "4226796",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - Tableau de bord de sant\u00e9 et nutrition de janvier \u00e0 juin 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226796",
-            "date": {
-                "original": "2026-08-19T00:00:00+00:00",
-                "changed": "2026-08-24T12:14:58+00:00",
-                "created": "2026-08-24T11:03:21+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226796"
-    },
-    {
-        "id": "4226795",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - D\u00e9termination du Statut de R\u00e9fugi\u00e9 (DSR) au 31 juillet 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226795",
-            "date": {
-                "original": "2026-08-19T00:00:00+00:00",
-                "changed": "2026-08-24T12:14:39+00:00",
-                "created": "2026-08-24T11:03:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226795"
-    },
-    {
-        "id": "4226787",
-        "score": 1,
-        "fields": {
-            "title": "Over 5200 cases recorded as Democratic Republic of the Congo crosses 100 days since Ebola outbreak declaration",
-            "body": "\\*\\*Kinshasa\u2014\\*\\*One hundred days have passed since the Democratic Republic of the Congo declared the ongoing Ebola outbreak, which has now become the country's fastest growing. Transmission is outpacing control efforts, requiring a substantial scale-up across all areas of response to halt the spread of the virus.\n\nA daily average of around 90 confirmed cases has been recorded in the first three months, markedly higher than the rate observed in the same period during the 2014\u20132016 West Africa and the 2018\u20132020 Democratic Republic of the Congo outbreaks. The outbreak has now expanded to a sixth province, with Ituri remaining the epicentre, accounting for about 85% of cases and 79% of deaths.\n\n\u201cWe can bring the Ebola outbreak under control but only through scaled-up action in affected communities that is led by national, provincial and local leaders and the affected communities, sustained by needed resources and backed by committed collaboration by all partners in DRC and beyond,\u201d said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. \u201cWHO and partners will continue to support the DRC government, communities and neighbouring countries in delivering the response needed to end the outbreak.\u201d\n\nMortality is high both in communities and among patients in treatment facilities. Community deaths\u2014those occurring outside Ebola treatment centres\u2014accounted for around 60% of the 260 weekly fatalities recorded over the past six weeks. This highlights the persistent challenges in early detection, referral and access to treatment, while mortality among patients reaching treatment facilities may reflect late admission and severe stage of the disease.\n\nThe response needs to be rapidly ramped up and adapted to local transmission patterns and operational gaps. All response partners need to reinforce operations in areas with high virus transmission and community deaths, as well as in high-risk areas and in areas reporting new cases. However, the response faces many challenges such as insecurity and recurrent conflict, population displacement, attacks on health facilities, community reluctance and difficult access. Scaling up and adapting the response requires intensified action and resource intense mobilization, stronger disease surveillance, preparedness and coordination across provinces, along the Congo River and national borders.\n\n\u201cThis outbreak has reached a defining moment. The progress made over the past three months shows that stronger action delivers results, but it also reminds us that incremental gains will not be enough. We now need to significantly step up the response: moving faster to detect cases, reaching communities sooner and strengthening operations where they are needed most. The choices we make now will determine how quickly we can bring this outbreak under control, protect and save lives,\u201d said Dr Mohamed Janabi, WHO Regional Director for Africa.\n\nDespite the challenges, important outbreak response efforts have been made over the past three months. Laboratory capacity has expanded from one testing site to 19 laboratories capable of processing more than 3000 samples a day. Treatment capacity has increased from fewer than 10 beds to more than 1300, while over 900 health facilities have received infection prevention and control support. Community engagement activities have reached more than 2.5 million people and contact follow-up has improved from 9% during the first week of the outbreak to 84% as of 18 August.\n\nScientific efforts are also advancing, including clinical trials of potential treatments, evaluation of candidate vaccines and deployment of the first emergency-listed molecular diagnostic test for Bundibugyo virus disease. In countries neighbouring the Democratic Republic of the Congo and beyond, preparedness is being reinforced through closer cross-border collaboration, harmonized disease surveillance, information sharing and joint planning to detect and contain imported cases.\n\nNational authorities, supported by WHO and partners, are reinforcing disease surveillance and contact tracing, expanding laboratory testing and clinical care, strengthening infection prevention and control, and working with communities to encourage early reporting, care-seeking and safe and dignified burials. WHO has deployed over 260 experts, delivered more than 330 tonnes of essential medical and operational supplies.\n\nBringing the outbreak under control will require sustained national leadership, strong community engagement, secure access to affected communities, regional and global solidarity and continued investment to rapidly strengthen response operations where they are needed most. A halt in conflict is also critical to enable frontline teams to reach affected communities. The coming months will be critical to building on the gains made over the first 100 days, closing remaining operational gaps and accelerating efforts to contain the outbreak.\n\n## **Media contacts**\n\n**Eugene Kabambi**\n\nCommunications Officer\n\nWHO DRC\n\nTel : +243 81 715 1697  \n Office : +47 241 39 027  \n Email: kabambie@who.int\n\n**Collins Boakye-Agyemang**\n\nCommunications and marketing officer  \n Tel: + 242 06 520 65 65 (WhatsApp)  \n Email: boakyeagyemangc@who.int\n\n**Saida Swaleh**\n\nCommunications and Media Relations Officer  \n WHO Regional Office for Africa  \n Email: saida.swaleh@who.int",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226787",
-            "date": {
-                "original": "2026-08-24T00:00:00+00:00",
-                "changed": "2026-08-24T10:56:07+00:00",
-                "created": "2026-08-24T10:35:59+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226787"
-    },
-    {
-        "id": "4226786",
-        "score": 1,
-        "fields": {
-            "title": "DRC: The International Red Cross and Red Crescent Movement condemns attacks on its volunteers and staff | IFRC",
-            "body": "**Kinshasa / Kampala / Geneva, 24 August 2026** - The Red Cross Societies of the Democratic Republic of the Congo (CRRDC) and Uganda (URCS), the International Federation of Red Cross and Red Crescent Societies (IFRC), and the International Committee of the Red Cross (ICRC) are deeply concerned about the attacks on Red Cross volunteers and staff in several incidents over the past few days.\n\nOne hundred days after the official declaration of the Ebola outbreak, 12 volunteers have been injured, ambulances have been damaged\u2014including one that was set on fire\u2014and emergency response equipment has been destroyed during 11 violent incidents.\n\nOn 19 August 2026, in Beni, North Kivu Province, three volunteers participating in humanitarian activities as part of the response to the Ebola virus disease were violently attacked and injured by a group of individuals. Equipment used in the response was also destroyed.\n\nOn 18 August 2026, two volunteers were also injured while attempting to conduct a safe and dignified burial in the village of Malikuti, in the Rungu health zone in Haut-U\u00e9l\u00e9. They were evacuated to Isiro to receive medical care following this incident, during which two vehicles were damaged.\n\nEarlier, on 17 August 2026, a URCS convoy involved in the cross-border response was attacked in Aru, Ituri Province. One team member was seriously injured, and two ambulances belonging to the URCS were pelted with stones and vandalized.\n\nAttacks against volunteers and humanitarian personnel are unacceptable. Respect for humanitarian personnel and humanitarian activities is essential to ensuring that communities affected by epidemics and other crises continue to receive the assistance and services they urgently need.\n\nThese attacks serve as an alarming reminder of the risks faced by humanitarian workers and volunteers engaged in the fight against epidemics and emergencies. Every personnel injured and every ambulance, vehicle, or piece of equipment damaged reduces the capacity to provide emergency health and humanitarian services, putting more lives at risk and making the epidemic harder to contain.\n\nThe CRRDC, the URCS, the ICRC, and the IFRC stand in solidarity with the injured volunteers and staff, their families, and all Red Cross personnel mobilized in the response. We wish the injured personnel a full and speedy recovery.\n\nWe call on communities, local leaders, and all relevant stakeholders to support, respect, and protect humanitarian action. Volunteers, health workers, and humanitarian staff must be able to carry out their work in complete safety, without fear of violence, intimidation, or threats.\n\nThe International Red Cross and Red Crescent Movement remains fully committed to supporting vulnerable communities in the Democratic Republic of the Congo and will continue its efforts to provide impartial humanitarian assistance to all those in need.\n\n**DRC Red Cross:** Kally Maluku Mankatu, +243 818 966 243\n\n**Uganda Red Cross Society**: Irene Nakasita, +256 774 382 583\n\n**IFRC Media:** [\\[email protected\\]](https://www.ifrc.org/cdn-cgi/l/email-protection#3d505859545c7d545b4f5e13524f5a)\n\n**IFRC in Kinshasa:** Jean-Michel Ntalemwa, +243 808 804 037\n\n**ICRC in Kinshasa:** Daddy Rabiou Oumarou, +243 826 955 545\n\n**ICRC in Kampala:** Rhona Nabutto, +256 704 924299",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226786",
-            "date": {
-                "original": "2026-08-24T00:00:00+00:00",
-                "changed": "2026-08-24T11:33:38+00:00",
-                "created": "2026-08-24T10:33:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226786"
-    },
-    {
-        "id": "4226785",
-        "score": 1,
-        "fields": {
-            "title": "RDC : Le Mouvement international de la Croix-Rouge et du Croissant-Rouge condamne les attaques contre son personnel | IFRC",
-            "body": "**Kinshasa / Kampala / Gen\u00e8ve, 24 ao\u00fbt 2026** - Les Croix-Rouge de la R\u00e9publique d\u00e9mocratique du Congo (CRRDC) et de l\u2019Ouganda (URCS), la F\u00e9d\u00e9ration internationale des Soci\u00e9t\u00e9s de la Croix-Rouge (IFRC) et le Comit\u00e9 international de la Croix-Rouge (CICR) sont profond\u00e9ment pr\u00e9occup\u00e9s par les attaques dont ont \u00e9t\u00e9 victimes des volontaires et staff de la Croix-Rouge lors de plusieurs incidents ces derniers jours.\n\nCent jours apr\u00e8s la d\u00e9claration officielle de l'\u00e9pid\u00e9mie d'Ebola, 12 volontaires ont \u00e9t\u00e9 bless\u00e9s, des ambulances endommag\u00e9es dont une incendi\u00e9e et du mat\u00e9riel d\u2019intervention d\u00e9truit au cours de 11 incidents violents.\n\nLe 19 ao\u00fbt 2026, \u00e0 Beni, dans la province du Nord-Kivu, trois volontaires qui participaient \u00e0 des activit\u00e9s humanitaires dans le cadre de la riposte \u00e0 la maladie \u00e0 virus Ebola ont \u00e9t\u00e9 violemment agress\u00e9s et bless\u00e9s par un groupe d'individus. Du mat\u00e9riel utilis\u00e9 dans le cadre de l'intervention a aussi \u00e9t\u00e9 d\u00e9truit.\n\nLe 18 ao\u00fbt 2026, deux volontaires ont \u00e9t\u00e9 \u00e9galement bless\u00e9s pendant qu\u2019ils tentaient d\u2019effectuer un enterrement digne et s\u00e9curis\u00e9 dans le village Malikuti, en zone de sant\u00e9 de Rungu dans le Haut-U\u00e9l\u00e9. Ils ont \u00e9t\u00e9 \u00e9vacu\u00e9s vers Isiro pour y recevoir des soins apr\u00e8s cet incident, au cours duquel deux v\u00e9hicules ont \u00e9t\u00e9 endommag\u00e9s.\n\nLe 17 ao\u00fbt 2026 d\u00e9j\u00e0, un convoi de l\u2019URCS intervenant dans le cadre de la riposte transfrontali\u00e8re a \u00e9t\u00e9 attaqu\u00e9 \u00e0 Aru dans la Province de l\u2019Ituri. Un membre de l\u2019\u00e9quipe a \u00e9t\u00e9 gravement bless\u00e9 et deux ambulances de la Croix-Rouge ougandaise caillass\u00e9es et vandalis\u00e9es.\n\nLes attaques contre les volontaires et les intervenants humanitaires sont inacceptables. Le respect du personnel humanitaire et des activit\u00e9s humanitaires est essentiel pour garantir que les communaut\u00e9s touch\u00e9es par les \u00e9pid\u00e9mies et d'autres crises continuent de recevoir l'assistance et les services dont elles ont urgemment besoin.\n\nCes attaques mettent en lumi\u00e8re, de mani\u00e8re alarmante, les risques auxquels sont expos\u00e9s les travailleurs humanitaires et les volontaires engag\u00e9s dans la lutte contre les \u00e9pid\u00e9mies et les situations d'urgence. Chaque volontaire ou staff bless\u00e9, et ambulance, v\u00e9hicule ou \u00e9quipement endommag\u00e9 r\u00e9duisent la capacit\u00e9 \u00e0 fournir des services sanitaires et humanitaires d\u2019urgence, ce qui met davantage de vies en danger et rend l\u2019\u00e9pid\u00e9mie plus difficile \u00e0 contenir.\n\nLa CRRDC, l\u2019URCS, le CICR et l\u2019IFCR expriment leur solidarit\u00e9 avec les volontaires et staff bless\u00e9s, leurs familles ainsi qu'avec l'ensemble des \u00e9quipes mobilis\u00e9es dans la r\u00e9ponse. Nous adressons aux personnes bless\u00e9es nos v\u0153ux de prompt et complet r\u00e9tablissement.\n\nNous appelons les communaut\u00e9s, les leaders locaux et toutes les parties prenantes concern\u00e9es \u00e0 soutenir, respecter, et prot\u00e9ger l'action humanitaire. Les volontaires, les agents de sant\u00e9 et le personnel humanitaire doivent pouvoir accomplir leur mission en toute s\u00e9curit\u00e9, sans crainte de violence, d'intimidation ou de menaces.\n\nLe Mouvement international de la Croix-Rouge et du Croissant-Rouge demeure pleinement engag\u00e9 aux c\u00f4t\u00e9s des communaut\u00e9s vuln\u00e9rables en R\u00e9publique d\u00e9mocratique du Congo et poursuivra ses efforts pour fournir une assistance humanitaire impartiale \u00e0 toutes les personnes qui en ont besoin.\n\n**Pour plus d\u2019informations :**\n\n**Croix-Rouge de la RDC :** Kally Maluku Mankatu, +243 818 966 243\n\n**Croix-Rouge de l'Ouganda** : Irene Nakasita, +256 774 382 583\n\n**IFRC Media:** [\\[email protected\\]](https://www.ifrc.org/cdn-cgi/l/email-protection#543931303d35143d3226377a3b2633)\n\n**IFRC \u00e0 Kinshasa :** Jean-Michel Ntalemwa +243 808 804 037\n\n**CICR \u00e0 Kinshasa :** Daddy Rabiou Oumarou, +243 826 955 545\n\n**CICR \u00e0 Kampala :** Rhona Nabutto, +256 704 924 299",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4226785",
-            "date": {
-                "original": "2026-08-24T00:00:00+00:00",
-                "changed": "2026-08-24T11:48:07+00:00",
-                "created": "2026-08-24T10:33:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4226785"
     }
 ]
