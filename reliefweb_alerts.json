@@ -1,5 +1,108 @@
 [
     {
+        "id": "4227852",
+        "score": 1,
+        "fields": {
+            "title": "Rapport de la situation epidemiologique du cholera en RD Congo (Interne OMS), semaine 33, 2026",
+            "body": "**I. POINTS SAILLANTS**\n\n\u2022 Le nombre de cas suspects de chol\u00e9ra notifi\u00e9s SE33 (1 669) est de l\u2019ordre de celui rapport\u00e9 \u00e0 la SE32.\n\n\u2022 A la 33 \u00e8me semaine \u00e9pid\u00e9miologique, le nombre de cas suspects notifi\u00e9s reste largement sup\u00e9rieur au seuil de 1000 cas suspects de chol\u00e9ra, comme depuis plusieurs semaines. Ce niveau d\u2019incidence \u00e9lev\u00e9 est alarmant \u00e0 l\u2019approche de la saison des pluies.\n\n\u2022 \u00c0 la 33\u1d49 semaine \u00e9pid\u00e9miologique, 14 sur 26 provinces ont notifi\u00e9 des cas suspects de chol\u00e9ra dans 64 zones de sant\u00e9 sur les 519 que compte le pays.\n\n\u2022 Aucune zone de sant\u00e9 nouvellement affect\u00e9e \u00e0 la 33 \u00e8me semaine \u00e9pid\u00e9miologique sur l\u2019ensemble du territoire sanitaire de la RD Congo.\n\n\u2022 A la 33 \u00e8me semaine \u00e9pid\u00e9miologique, les provinces du Sud-Kivu et du Nord-Kivu, seules ont notifi\u00e9 plus de la moiti\u00e9 soit (52 %) des cas suspects chol\u00e9ra.\n\n\u2022 Poursuite des pr\u00e9paratifs de la campagne VCO dans les ZS de Mulungu et Shabunda (DPS Sud-Kivu) \u00e0 la miseptembre, avec sensibilisation communautaire.\n\n\u2022 Poursuites des pr\u00e9paratifs de la campagne VCO dans les \u00eelots du corridor du fleuve Congo se poursuivent, avec un plan conjoint de vaccination transfrontali\u00e8re RDC\u2013R\u00e9publique du Congo \u00e9labor\u00e9 avec l'appui de l'OMS.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227852",
+            "date": {
+                "original": "2026-08-31T00:00:00+00:00",
+                "changed": "2026-08-31T23:50:47+00:00",
+                "created": "2026-08-31T23:49:40+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227852"
+    },
+    {
+        "id": "4227851",
+        "score": 1,
+        "fields": {
+            "title": "RD Congo : Situation de la lutte contre la rougeole en RD Congo - Semaine \u00e9pid\u00e9miologique 34, 2026 (Mise \u00e0 jour du 31/08/2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/732",
+                    "id": 732,
+                    "name": "Government of the Democratic Republic of the Congo",
+                    "shortname": "Govt. DR Congo",
+                    "longname": "Government of the Democratic Republic of the Congo",
+                    "type": {
+                        "id": 271,
+                        "name": "Government"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227851",
+            "date": {
+                "original": "2026-08-31T00:00:00+00:00",
+                "changed": "2026-08-31T23:48:10+00:00",
+                "created": "2026-08-31T23:46:59+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227851"
+    },
+    {
         "id": "4227832",
         "score": 1,
         "fields": {
@@ -34,7 +137,7 @@
             "url": "https://reliefweb.int/node/4227832",
             "date": {
                 "original": "2026-08-31T00:00:00+00:00",
-                "changed": "2026-08-31T17:47:08+00:00",
+                "changed": "2026-09-01T00:31:00+00:00",
                 "created": "2026-08-31T17:46:54+00:00"
             }
         },
@@ -69,16 +172,69 @@
                         "id": 272,
                         "name": "International Organization"
                     }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
                 }
             ],
             "url": "https://reliefweb.int/node/4227833",
             "date": {
                 "original": "2026-08-31T00:00:00+00:00",
-                "changed": "2026-08-31T17:47:10+00:00",
+                "changed": "2026-09-01T00:56:13+00:00",
                 "created": "2026-08-31T17:22:26+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4227833"
+    },
+    {
+        "id": "4227811",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Regional Bureau for West and Central Africa: Forcibly Displaced and Stateless Persons Presence (Figures Available as of 31 July 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4227811",
+            "date": {
+                "original": "2026-08-31T00:00:00+00:00",
+                "changed": "2026-09-01T03:17:04+00:00",
+                "created": "2026-08-31T15:03:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4227811"
     },
     {
         "id": "4227788",
@@ -1098,7 +1254,7 @@
         "score": 1,
         "fields": {
             "title": "Regional Situation Report: Ebola Bundibugyo Virus Disease Outbreak 1 - 31 July 2026",
-            "body": "Highlights\n\n\u25cf Uganda declared the end of the outbreak on 28 July 2026 following the end of the mandatory 42-day monitoring period.\n\n\u25cf The outbreak in the Democratic Republic of the Congo (DRC) threatens maternal health outcomes for an estimated 63,700 pregnant women living in affected areas. 1 Service disruptions and declining public confidence are leading women to avoid health facilities. Data from Ituri\u2014the epicentre of the outbreak\u2014shows a 65% rise in maternal deaths in the past ten weeks compared to the ten weeks prior. At the same time, contraceptive uptake has declined sharply, with use of short-acting oral contraceptive pills falling by 62.5% and injectable contraceptives by 54.3%. 2 This is particularly concerning in an area with over 360,000 women of childbearing age, where access to contraception plays a critical role in enabling women to avoid unintended pregnancies at a time when pregnancy carries heightened risks.\n\n\u25cf In the DRC, UNFPA has strengthened its focus on ensuring the continuity of sexual and reproductive health (SRH) and gender-based violence (GBV) services. To address the rising incidence of maternal deaths observed in the affected zones, UNFPA is working closely with partners to scale up risk communications and community engagement (RCCE) and improve the quality of care for pregnant mothers.",
+            "body": "While Uganda declared the end of its Ebola outbreak on 28 July 2026, the outbreak in the Democratic Republic of the Congo (DRC) continues to escalate rapidly, becoming the second-largest Ebola epidemic on record.\n\nThe outbreak is triggering a catastrophic secondary reproductive health emergency. Widespread fear of health facility transmission, coupled with stigma and misinformation, is causing pregnant women to abandon facility-based antenatal care and deliveries, leading to a concerning increase in maternal deaths.\n\nAt the same time, contraceptive uptake has declined sharply, with use of short-acting oral contraceptive pills falling by 62.5% and injectable contraceptives by 54.3%. This is particularly concerning in an area with more than 360,000 women of reproductive age, where access to contraception plays a critical role in enabling women to avoid unintended pregnancies at a time when pregnancy carries heightened risks.\n\nTo address the rising number of maternal deaths, UNFPA is working closely with partners to scale up risk communication and community engagement, improve the quality of care for pregnant women, and ensure continuity of essential sexual and reproductive health services. In July, UNFPA reached 82,291 people with reproductive health services through operational support provided across 130 health facilities and four Ebola treatment centres. UNFPA also distributed reproductive health kits to 34 health facilities in the affected area, which will support an additional 11,240 people.\n\nUNFPA also scaled up gender-based violence prevention and response activities, as the socio-economic disruptions caused by the outbreak have adversely affected livelihoods and further heightened vulnerability to gender-based violence, including sexual exploitation and abuse. In July, UNFPA and its partners reached 129,380 people with prevention and response interventions.\n\nAs the Ebola outbreak continues to escalate in the DRC, with other countries remaining at high risk, urgent funding is needed to sustain life-saving reproductive health and protection services while strengthening prevention and preparedness efforts. UNFPA requires a total of US$20.8 million for the Ebola response, but as of 31 July, only 17 per cent of this amount had been funded.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -1128,7 +1284,7 @@
             "url": "https://reliefweb.int/node/4227572",
             "date": {
                 "original": "2026-08-28T00:00:00+00:00",
-                "changed": "2026-08-31T07:54:54+00:00",
+                "changed": "2026-08-31T23:41:40+00:00",
                 "created": "2026-08-28T17:03:08+00:00"
             }
         },
@@ -1564,127 +1720,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4227405"
-    },
-    {
-        "id": "4227349",
-        "score": 1,
-        "fields": {
-            "title": "Regional External Update #39 West and Central Africa Region - Eastern DRC Situation - July 2026",
-            "body": "HIGHLIGHTS\n\n\u2022 Persistent conflict and insecurity continued to drive a deepening displacement crisis in eastern DRC, with new internal displacement still outpacing returns in several affected areas. Smaller but steady cross-border movements into neighbouring countries also accumulated to more than 16,400 new Congolese arrivals since January 2026, adding pressure on host communities and overstretched services.\n\n\u2022 The Ebola outbreak further exposed the deadly overlap between insecurity, displacement and weak basic services in the DRC, with more than 5,600 confirmed cases and over 2,700 deaths1 , over three months after the outbreak was declared a public health emergency of international concern. Uganda however declared itself Ebola-free on 28 July, but cross-border preparedness remained critical. UNHCR continued contributing to the Government-led response in displacement settings despite significant funding challenges.\n\n\u2022 Despite the volatile context, voluntary returns maintained momentum, supported by health screening, water, sanitation and hygiene measures and cross-border coordination. By 31 July, around 51,000 Congolese refugees had self-organized their return from Burundi and 14,200 Government-UNHCR facilitated returns to the DRC had been recorded since the beginning of the year.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4227349",
-            "date": {
-                "original": "2026-08-27T00:00:00+00:00",
-                "changed": "2026-08-27T12:37:56+00:00",
-                "created": "2026-08-27T11:03:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4227349"
-    },
-    {
-        "id": "4227342",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 24 August 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4227342",
-            "date": {
-                "original": "2026-08-27T00:00:00+00:00",
-                "changed": "2026-08-27T10:57:30+00:00",
-                "created": "2026-08-27T10:19:41+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4227342"
-    },
-    {
-        "id": "4227337",
-        "score": 1,
-        "fields": {
-            "title": "CAR Situation g\u00e9n\u00e9rale du rapatriement volontaire des r\u00e9fugi\u00e9s centrafricains - Ann\u00e9e 2017 - 2026 (22 ao\u00fbt 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4227337",
-            "date": {
-                "original": "2026-08-27T00:00:00+00:00",
-                "changed": "2026-08-27T12:32:38+00:00",
-                "created": "2026-08-27T10:03:35+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4227337"
     }
 ]
