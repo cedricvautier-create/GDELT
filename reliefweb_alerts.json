@@ -1,5 +1,161 @@
 [
     {
+        "id": "4228471",
+        "score": 1,
+        "fields": {
+            "title": "Dispositif op\u00e9rationnel du sous-pilier Nutrition",
+            "body": "Le dispositif op\u00e9rationnel du sous-pilier Nutrition repose sur six composantes compl\u00e9mentaires : le renforcement des ressources humaines et mat\u00e9rielles, la prise en charge des cas de MVE souffrant de malnutrition, l\u2019assistance alimentaire, la protection nutritionnelle des enfants de moins de 24 mois, les rations de protection pour les groupes vuln\u00e9rables et la continuit\u00e9 des services essentiels de nutrition dans les zones affect\u00e9es.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/4145",
+                    "id": 4145,
+                    "name": "Nutrition Cluster",
+                    "shortname": "Nutrition Cluster",
+                    "homepage": "http://nutritioncluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4228471",
+            "date": {
+                "original": "2026-09-04T00:00:00+00:00",
+                "changed": "2026-09-04T10:49:29+00:00",
+                "created": "2026-09-04T10:48:19+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4228471"
+    },
+    {
+        "id": "4228456",
+        "score": 1,
+        "fields": {
+            "title": "Compte rendu de la r\u00e9union mensuelle du cluster nutrition (Mois d'Aout 2026)",
+            "body": "## Points saillants de la r\u00e9union\n\nLa r\u00e9union du Cluster Nutrition a r\u00e9uni plus de 60 partenaires. Les principaux points \u00e0 retenir sont :\n\n- Hausse de 39,7 % des admissions MAS entre janvier et juillet 2026, par rapport \u00e0 la m\u00eame p\u00e9riode en 2025\n- Stabilit\u00e9 de la prise en charge de la MAM (+2 %), mais baisse de la couverture des FEFA (-16,1 %) et de l\u2019ANJE-U (-22,1 %).\n- Forte progression du BSFP, dont le nombre de b\u00e9n\u00e9ficiaires a plus que doubl\u00e9 (+108 %).\n- Importants gaps dans les CTE/CT affect\u00e9s par la MVE: moins de 60 % disposent d\u2019au moins une composante nutritionnelle et tr\u00e8s peu offrent le paquet complet.\n    \n    Ces tendances restent influenc\u00e9es par la couverture g\u00e9ographique, le nombre de projets op\u00e9rationnels, la disponibilit\u00e9 des intrants, la compl\u00e9tude du rapportage, les variations saisonni\u00e8res et l\u2019apparition de la MVE dans certaines provinces).\n- Besoins prioritaires en nutritionnistes, \u00e9quipements anthropom\u00e9triques, intrants, prise en charge de la malnutrition aigu\u00eb, ANJE-U, r\u00e9gimes adapt\u00e9s et rations de protection.\n- Mise en place du rapportage MVE \u00e0 travers KoboToolbox et transition du rapportage nutritionnel global vers ActivityInfo d\u00e8s septembre 2026.\n- Pr\u00e9sentation de nouveaux positionnements et projets dans plusieurs provinces, malgr\u00e9 des contraintes s\u00e9curitaires et des gaps persistants.\n- Annonce d\u2019une allocation de 20 millions USD pour la nutrition, ciblant notamment les zones insuffisamment couvertes et de s\u00e9v\u00e9rit\u00e9 4+ du Haut-U\u00e9l\u00e9, Bas-U\u00e9l\u00e9, Ituri, Maniema et Tanganyika.\n- Appel du PRONANUT \u00e0 renforcer la coordination, \u00e9viter les doubles comptes et mieux documenter la r\u00e9ponse nutritionnelle \u00e0 la MVE.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/4145",
+                    "id": 4145,
+                    "name": "Nutrition Cluster",
+                    "shortname": "Nutrition Cluster",
+                    "homepage": "http://nutritioncluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4228456",
+            "date": {
+                "original": "2026-09-04T00:00:00+00:00",
+                "changed": "2026-09-04T09:51:25+00:00",
+                "created": "2026-09-04T09:37:36+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4228456"
+    },
+    {
+        "id": "4228433",
+        "score": 1,
+        "fields": {
+            "title": "SitRep de la r\u00e9ponse nutritionnelle \u00e0 la maladie \u00e0 virus Ebola (MVE)-Aout 2026",
+            "body": "**Faits saillants**\n\n- **5 514 cas confirm\u00e9s, 2 642 d\u00e9c\u00e8s et 57 zones de sant\u00e9 affect\u00e9es** dans six provinces, soit un taux de l\u00e9talit\u00e9 de 47,9 % ;\n- **35 zones de sant\u00e9 couvertes** par la r\u00e9ponse nutritionnelle, soit 61 % des 57 zones affect\u00e9es ;\n- **37 CTE/CT appuy\u00e9s** et **87 nutritionnistes** mobilis\u00e9s dans **25 zones de sant\u00e9** ;\n- **32 zones de sant\u00e9** sans appui dans les CTE/CT, notamment l\u2019ensemble des zones affect\u00e9es du Haut-U\u00e9l\u00e9, de la Tshopo et du Bas-U\u00e9l\u00e9.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/4145",
+                    "id": 4145,
+                    "name": "Nutrition Cluster",
+                    "shortname": "Nutrition Cluster",
+                    "homepage": "http://nutritioncluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4228433",
+            "date": {
+                "original": "2026-09-04T00:00:00+00:00",
+                "changed": "2026-09-04T08:54:26+00:00",
+                "created": "2026-09-04T08:19:51+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4228433"
+    },
+    {
         "id": "4228400",
         "score": 1,
         "fields": {
@@ -201,7 +357,7 @@
             "url": "https://reliefweb.int/node/4228366",
             "date": {
                 "original": "2026-08-31T00:00:00+00:00",
-                "changed": "2026-09-04T00:54:04+00:00",
+                "changed": "2026-09-04T10:03:28+00:00",
                 "created": "2026-09-03T14:09:44+00:00"
             }
         },
@@ -1680,172 +1836,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4227962"
-    },
-    {
-        "id": "4227944",
-        "score": 1,
-        "fields": {
-            "title": "DRC: Ebola BVD Outbreak: LTC Situation Report (Telecoms) #10 (Reporting period: 15 \u2013 31 August 2026)",
-            "body": "*This situation report provides updates on the Ebola Bundibugyo Virus Disease (BVD) Outbreak in the Democratic Republic of the Congo (DRC). It outlines planned and ongoing telecommunications activities of the Logistics & Telecommunications Cluster1 (LTC) Telecoms Area to support the ongoing humanitarian response.*\n\n**Summary Points**\n\n- LTC Telecoms continued to support the Ebola response in Ituri Province through coordination, ICT needs assessments, telecommunications planning, security communications upgrades, power solutions and information management activities, while preparing for the scale-up of services in priority response locations.\n- LTC Telecoms advanced upgrades to Security Communications Systems (SCS) in Bunia and Mongbwalu, including the replacement and expansion of VHF repeater infrastructure to strengthen secure and reliable communications for humanitarian responders.\n- Twenty SpaceX-donated Starlink kits arrived in Bunia on 28 August and are being prioritized for deployment to Ebola-affected locations, significantly expanding connectivity capacity to support response operations.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/13799",
-                    "id": 13799,
-                    "name": "Emergency Telecommunications Cluster",
-                    "shortname": "ETC",
-                    "longname": "Emergency Telecommunications Cluster",
-                    "homepage": "https://www.etcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3594",
-                    "id": 3594,
-                    "name": "Logistics Cluster",
-                    "shortname": "Logistics Cluster",
-                    "homepage": "https://www.logcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4227944",
-            "date": {
-                "original": "2026-09-01T00:00:00+00:00",
-                "changed": "2026-09-01T13:12:07+00:00",
-                "created": "2026-09-01T13:11:33+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4227944"
-    },
-    {
-        "id": "4227852",
-        "score": 1,
-        "fields": {
-            "title": "Rapport de la situation epidemiologique du cholera en RD Congo (Interne OMS), semaine 33, 2026",
-            "body": "**I. POINTS SAILLANTS**\n\n\u2022 Le nombre de cas suspects de chol\u00e9ra notifi\u00e9s SE33 (1 669) est de l\u2019ordre de celui rapport\u00e9 \u00e0 la SE32.\n\n\u2022 A la 33 \u00e8me semaine \u00e9pid\u00e9miologique, le nombre de cas suspects notifi\u00e9s reste largement sup\u00e9rieur au seuil de 1000 cas suspects de chol\u00e9ra, comme depuis plusieurs semaines. Ce niveau d\u2019incidence \u00e9lev\u00e9 est alarmant \u00e0 l\u2019approche de la saison des pluies.\n\n\u2022 \u00c0 la 33\u1d49 semaine \u00e9pid\u00e9miologique, 14 sur 26 provinces ont notifi\u00e9 des cas suspects de chol\u00e9ra dans 64 zones de sant\u00e9 sur les 519 que compte le pays.\n\n\u2022 Aucune zone de sant\u00e9 nouvellement affect\u00e9e \u00e0 la 33 \u00e8me semaine \u00e9pid\u00e9miologique sur l\u2019ensemble du territoire sanitaire de la RD Congo.\n\n\u2022 A la 33 \u00e8me semaine \u00e9pid\u00e9miologique, les provinces du Sud-Kivu et du Nord-Kivu, seules ont notifi\u00e9 plus de la moiti\u00e9 soit (52 %) des cas suspects chol\u00e9ra.\n\n\u2022 Poursuite des pr\u00e9paratifs de la campagne VCO dans les ZS de Mulungu et Shabunda (DPS Sud-Kivu) \u00e0 la miseptembre, avec sensibilisation communautaire.\n\n\u2022 Poursuites des pr\u00e9paratifs de la campagne VCO dans les \u00eelots du corridor du fleuve Congo se poursuivent, avec un plan conjoint de vaccination transfrontali\u00e8re RDC\u2013R\u00e9publique du Congo \u00e9labor\u00e9 avec l'appui de l'OMS.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4227852",
-            "date": {
-                "original": "2026-08-31T00:00:00+00:00",
-                "changed": "2026-08-31T23:50:47+00:00",
-                "created": "2026-08-31T23:49:40+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4227852"
-    },
-    {
-        "id": "4227851",
-        "score": 1,
-        "fields": {
-            "title": "RD Congo : Situation de la lutte contre la rougeole en RD Congo - Semaine \u00e9pid\u00e9miologique 34, 2026 (Mise \u00e0 jour du 31/08/2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/732",
-                    "id": 732,
-                    "name": "Government of the Democratic Republic of the Congo",
-                    "shortname": "Govt. DR Congo",
-                    "longname": "Government of the Democratic Republic of the Congo",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/15477",
-                    "id": 15477,
-                    "name": "Health Cluster",
-                    "shortname": "Health Cluster",
-                    "homepage": "https://healthcluster.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4227851",
-            "date": {
-                "original": "2026-08-31T00:00:00+00:00",
-                "changed": "2026-08-31T23:48:10+00:00",
-                "created": "2026-08-31T23:46:59+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4227851"
     }
 ]
