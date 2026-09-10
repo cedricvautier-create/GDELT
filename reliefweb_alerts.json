@@ -1,9 +1,91 @@
 [
     {
+        "id": "4229319",
+        "score": 1,
+        "fields": {
+            "title": "Lake Chad Basin - Humanitarian Overview \u2013 2026 (as of 9 September 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229319",
+            "date": {
+                "original": "2026-09-10T00:00:00+00:00",
+                "changed": "2026-09-10T12:48:25+00:00",
+                "created": "2026-09-10T12:43:47+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229319"
+    },
+    {
+        "id": "4229318",
+        "score": 1,
+        "fields": {
+            "title": "Sahel Dashboard - Humanitarian Overview \u2013 2026 (As of 9 September 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229318",
+            "date": {
+                "original": "2026-09-10T00:00:00+00:00",
+                "changed": "2026-09-10T12:49:40+00:00",
+                "created": "2026-09-10T12:42:16+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229318"
+    },
+    {
         "id": "4229293",
         "score": 1,
         "fields": {
-            "title": "Across six countries in West and Central africa, cholera tests communities and ocha\u2019s emergency response and humanitarian funds enable a timely response",
+            "title": "Across six countries in West and Central Africa, Cholera tests communities and OCHA's emergency response and humanitarian funds enable a timely response",
             "body": "As the rainy season sweeps across West and Central Africa, cholera is once again compounding communities\u2019 vulnerabilities already grappling with conflict, displacement, poverty and limited access to basic services. From the shores of Lake Chad to the banks of the Congo and Oubangui rivers, the disease is spreading in overcrowded displacement sites, refugee camps and underserved urban neighborhoods, threatening lives and livelihoods.\n\nBehind the numbers are families like that of Aisa Maani Tela and Kabiru Mohammed in north-east **Nigeria**. Borno State alone has recorded more than 59,000 suspected and confirmed cases and over 300 deaths as of late August. In Monguno, where thousands of displaced families live in overcrowded camps, Aisa remembers the night her daughters Kellu and Zara suddenly fell ill.\n\n\"I kept thinking about how quickly children can die from illness,\" she said.\n\nBoth girls were diagnosed with cholera and treated through interventions supported by the Nigeria Humanitarian Fund and a US$4 million allocation from the Central Emergency Response Fund (CERF). The family also received water-treatment supplies, hygiene awareness support, and access to newly constructed sanitation facilities. For families uprooted by years of conflict, humanitarian aid has become a vital lifeline.\n\nFurther west, **Cameroon's** Far North Region is facing a rapidly expanding outbreak. Since late June, more than 1,250 cases and 31 deaths have been reported across nine health districts. The outbreak has already surpassed the scale of recent epidemics recorded in 2019, 2022 and 2024 in Cameroon. Particularly concerning is the situation in Minawao refugee camp, home to over 81,000 refugees, where dozens of cases have been recorded. To bolster the response, $1 million was allocated from CERF to support cholera prevention, treatment, water and sanitation interventions targeting 230,000 people, including children and refugee populations in high-risk border areas. The funding comes as humanitarian partners struggle with severe shortfalls under the country's humanitarian response plan.\n\nIn neighboring **Chad**, cholera has emerged alongside a worsening displacement crisis in the Lake Province. Violence has recently forced more than 75,000 people to flee, while cholera, confirmed in early August, caused 219 cases claiming the lives of eight persons by mid-August. Recognizing the dual emergency, humanitarian partners mobilized $7 million, including $4 million from CERF and $3 million from the Regional Humanitarian Fund for West and Central Africa. CERF resources are supporting emergency health, nutrition and cholera response activities, while the regional pooled fund is financing food aid, shelter, household items and water, sanitation and hygiene interventions. The allocation also enables national non-governmental organizations to lead frontline operations in hard-to-reach areas around Lake Chad.\n\nAcross the Congo Basin, cholera remains a persistent threat. In the **Democratic Republic of the Congo (DRC)**, Africa's largest cholera hotspot, over 39,400 suspected cases and 1,173 deaths were reported between January and August 2026. The eastern provinces of North Kivu and South Kivu remain the epicentre of the outbreak, accounting for more than half of all new weekly cases. Ongoing insecurity, people\u2019s movements and inadequate water and sanitation infrastructure continue to drive transmission, placing additional strain on a health system already stretched by multiple humanitarian crises. To strengthen preparedness and response efforts, a $750,000 CERF Rapid Response anticipatory action allocation was activated, targeting cholera-affected and high-risk communities.\n\nIn the neighboring **Republic of the Congo**, authorities continue to battle an outbreak first declared in July 2025. By early September 2026, the country reported 1,598 cases and 130 deaths across multiple departments. An earlier CERF allocation of $1 million proved instrumental in reducing spreading, helping halt the spread in affected districts for nine consecutive weeks and preventing any deaths in cholera treatment centres. However, the outbreak has since expanded into new riverine areas, prompting renewed efforts to secure additional emergency funding, strengthen community engagement, improve surveillance, and support cross-border coordination with the DRC.\n\nMeanwhile, in the **Central African Republic (CAR)**, cholera has returned for the first time in a decade. Since the Government declared an epidemic in June 2026, 650 suspected cases and 44 deaths have been reported, with infections spreading from Bimbo and Mba\u00efki to the capital, Bangui. To contain the outbreak, CERF allocated $1 million to scale up health, water, sanitation and hygiene interventions, reaching nearly 89,000 people in affected and high-risk areas. Humanitarian partners are expanding disease surveillance, community engagement, water treatment, and hygiene promotion to prevent a wider public health emergency.\n\nAcross these six countries, cholera is deepening vulnerabilities amidst chronic gaps in access to safe water and sanitation. Yet timely funding from CERF and country and regional humanitarian pooled funds is helping partners act quickly, contain the outbreak and save lives. Sustained funding is critical to prevent further disease upsurge and protect the most vulnerable communities.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
@@ -35,7 +117,7 @@
             "url": "https://reliefweb.int/node/4229293",
             "date": {
                 "original": "2026-09-10T00:00:00+00:00",
-                "changed": "2026-09-10T10:56:52+00:00",
+                "changed": "2026-09-10T13:47:03+00:00",
                 "created": "2026-09-10T10:56:20+00:00"
             }
         },
@@ -45,7 +127,7 @@
         "id": "4229279",
         "score": 1,
         "fields": {
-            "title": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
+            "title": "Disease Outbreak News: Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo (10 September 2026)",
             "body": "Since the last Disease Outbreak News was published on 28 August 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded to one additional health zone, Kayna, in North Kivu. This increase brings the total number of affected health zones to 61 across six out of 26 provinces of the country: Bas-U\u00e9l\u00e9, Haut-U\u00e9l\u00e9, Ituri, North Kivu, South Kivu, and Tshopo. As of 7 September 2026, the Democratic Republic of the Congo has reported 6757 confirmed cases, including 3267 deaths, resulting in a crude case fatality ratio (CFR) of 48.3%. The transmission dynamics remain variable across affected locations, with evidence of ongoing geographical expansion and sustained increase in cases in some health zones. The continuously high CFR highlights the seriousness of the disease and persistent challenges in timely case detection, access to early and adequate patient care, and effective interruption of transmission. Delayed detection of cases continues to increase the risk of further spread within households, communities, and healthcare settings.\n\nSince the publication of the previous [Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616) on 28 August 2026, additional confirmed cases and deaths of Bundibugyo virus disease (BVD) have been reported only in the Democratic Republic of the Congo.\n\nAs of 7 September 2026, a cumulative total of 6778 confirmed cases has been reported: 6757 in the Democratic Republic of the Congo (including two cases diagnosed in the Democratic Republic of the Congo and subsequently treated in Germany), 20 cases in Uganda and one case in France. Overall, 3269 deaths have been reported, including two in Uganda. As of 7 September, at least 1611 patients have recovered, including 1590 in the Democratic Republic of the Congo, 18 in Uganda, two in Germany and one in France.\n\nThe sustained level of transmission in the Democratic Republic of the Congo continues to pose a risk of cross-border spread. Health screening and surveillance activities remain operational at airports, ports, and official land border crossings; however, travel through informal crossing routes persists and may facilitate virus exportation, importation, and subsequent transmission. In this context, strengthened cross-border coordination, together with ongoing surveillance and preparedness efforts, remains critical to limiting further regional spread and supporting an effective public health response.\n\n**Figure 1. Distribution of cumulative confirmed cases of Bundibugyo virus disease in the Democratic Republic of the Congo, as of 7 September**\n\n**Democratic Republic of the Congo**\n\nSince the previous [Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616) was published on 28 August 2026, an additional 963 confirmed cases, including 481 confirmed deaths, have been reported in the Democratic Republic of the Congo. While part of this increase may be attributable to strengthened surveillance activities, enhanced laboratory testing, improved diagnostic capacity, and reconciliation of previously unreported data, the continued growth in both cases and deaths also reflects sustained community transmission and significant geographic expansion of the outbreak. As of 7 September, the Democratic Republic of the Congo has reported a total of 6757 confirmed cases, including 3267 deaths (CFR 48.3%). A total of 1590 patients have recovered to date.\n\nConfirmed cases have been reported from 61 health zones (HZ) across six provinces, with 51 HZ from five provinces reporting at least one case in the last 21 days. Ituri remains the most affected province, with 28 of its 36 health zones reporting cases, followed by North Kivu (16/34), Tshopo (7/23), Haut-U\u00e9l\u00e9 (6/13), Bas-U\u00e9l\u00e9 (3/11), and South Kivu (1/34). No new cases have been reported from South Kivu province since 29 May 2026. Kayna HZ in North Kivu province is the most recently affected area. As of 7 September, 71 new confirmed cases had been reported in the preceding 24 hours from 17 health zones located in Ituri, North Kivu, and Haut-U\u00e9l\u00e9 provinces.\n\nIturi continues to be the epicentre of the outbreak, accounting for 5406 confirmed cases since the start of the outbreak, including 1114 new confirmed cases reported in the previous 21 days, as of 7 September. North Kivu is the second most affected province, with a cumulative number of 1066 confirmed cases, including 453 reported in the last 21 days, as of 7 September. One of the highest CFR (65.4%) observed in this outbreak has been reported from North Kivu province; and investigations are ongoing to better understand the factors contributing to this elevated mortality rate.\n\nThe number of individuals requiring follow-up as contact has also risen considerably with the expansion of the outbreak. As of 7 September, 85.3% of identified contacts were successfully monitored during the previous 24 hours with 21 359 contacts seen out of 24 719 requiring follow up. The large volume of contacts under surveillance highlights the extent of potential exposure within affected communities and the substantial demands placed on response operations.\n\nThe outbreak continues to unfold within a complex humanitarian setting characterized by insecurity, armed conflict, and widespread population displacement. More than 26 million people are experiencing acute food insecurity, while approximately one million internally displaced persons reside in Ituri Province alone. Ongoing insecurity and displacement limit access to healthcare and essential services, constrain the ability of response teams to reach affected areas, and impede surveillance, case investigation and contact tracing activities. Overcrowding, limited water, sanitation and hygiene services, and restricted access to healthcare in mining communities, informal settlements and sites for internally displaced persons further undermine early case detection, infection prevention and control measures, and the provision of timely care. These conditions also reduce the effectiveness of response interventions and outreach efforts.\n\n**Figure 2: Number of confirmed Bundibugyo virus disease cases in the Democratic Republic of the Congo, by date of notification, as of 7 September 2026**\n\n**Figure 3: Number of deaths among confirmed Bundibugyo virus disease cases in the Democratic Republic of the Congo by date of notification, as of 7 September 2026.**\n\nBundibugyo virus disease (BVD) is a severe Ebola disease caused by the Bundibugyo virus, one of the *Orthoebolavirus* species. It is a zoonotic disease, with fruit bats suspected to be the natural reservoir.\n\nHuman infection is thought to occur through close contact with the blood or secretions of infected wildlife, such as bats or non-human primates, and it subsequently spreads from person-to-person through direct contact with the blood, secretions, organs, or other bodily fluids of infected individuals or contaminated surfaces and materials. Transmission is particularly amplified in health-care settings when IPC measures are inadequate and during unsafe burial practices involving direct contact with deceased individuals.\n\nThe incubation period for BVD ranges from two to 21 days, and infected individuals are not infectious until symptom onset. Early symptoms such as fever, fatigue, muscle pain, headache, and sore throat are non-specific, which complicates clinical diagnosis and can delay detection. These symptoms then progress to gastrointestinal symptoms, organ dysfunction, and, in some cases, haemorrhagic manifestations.\n\nThe historical CFR from the past two BVD outbreaks, reported in Uganda and in the Democratic Republic of the Congo in 2007 and 2012, were 30% and 50%, respectively.\n\nDifferentiating BVD from other endemic febrile illnesses such as malaria is challenging without laboratory confirmation using polymerase chain reaction (PCR) or antigen- or antibody-based assays. Outbreak control relies on rapid case identification, isolation and care, contact tracing, safe burials and strong community engagement, as no approved vaccines or specific treatments currently exist for BVD.\n\nSince first detected in May 2026, this BVD outbreak has rapidly evolved into a large and geographically expanding epidemic in the Democratic Republic of the Congo, with sustained transmission, high mortality and an increasing risk of further international spread. The current outbreak is the second documented Bundibugyo virus disease outbreak in the country, after the 2012 outbreak, and the largest Ebola disease outbreak ever recorded in the Democratic Republic of the Congo irrespective of Ebola virus species. The population at greatest risk of exposure is concentrated in communities living in and moving through the health areas with active transmission.\n\nFor detailed information about the ongoing public health response actions by the Ministry of Health, WHO and partners please refer to the latest situation reports published by the WHO Regional Office for Africa: [Ongoing outbreak in the Democratic Republic of the Congo | WHO | Regional Office for Africa](https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26)\n\nHealth authorities in the Democratic Republic of the Congo, in collaboration with WHO and partners, are continuing to implement and coordinate extensive public health measures, including disease surveillance, laboratory testing, infection prevention and control, clinical care, community engagement, research, logistics and support for response interventions and essential health services, engaging donors and mobilizing additional resources to address critical funding gaps and sustain response operations across affected and at-risk areas. A substantial scale-up is ongoing across all response pillars to get ahead of the outbreak.\n\nOn 14 August 2026, WHO reassessed the risk of the outbreak of BVD, incorporating newly available information on the evolving situation. The risk for countries sharing land borders with the Democratic Republic of the Congo was separated from the risk for other countries in the African Region.\n\nThe risk in the Democratic Republic of the Congo was assessed as very high, the risk for countries sharing land borders with the Democratic Republic of the Congo was again assessed as high, and the risks for the rest of the African region and at the global level was again assessed as low.\n\nFor further information, please see [WHO Rapid Risk Assessment-Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo v4](https://www.who.int/publications/m/item/who-rapid-risk-assessment-ebola-disease-caused-by-bundibugyo-virus--democratic-republic-of-the-congo-v4)\n\nBased on the currently available information, WHO advises against any restriction of travel to, or trade with, affected countries. WHO continues to closely monitor and, where necessary, verify travel and trade measures in relation to this event.\n\nThe updated [Temporary Recommendations](https://www.who.int/news/item/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations) issued to States Parties on 24 August 2026 underscore the importance of coordinated outbreak control, strengthened cross\u2011border collaboration, and sustained surveillance and preparedness to prevent further regional spread and ensure an effective public health response. Rapid recognition of cases, testing and optimized supportive care can reduce mortality, and improve community perceptions and acceptance of health care within the response.\n\nOn 7 August, the WHO Technical Advisory Group on candidate vaccine prioritization released a report regarding possible candidate vaccines for Bundibugyo virus disease. The members recommended that Ervebo, the only licensed Ebola vaccine (previously known as ebolavirus Zaire), be prioritized for inclusion in a randomized clinical trial in the context of the ongoing outbreak in the Democratic Republic of the Congo. Following a review of additional evidence on 19 August 2026, the WHO Strategic Advisory Group of Experts on Immunization (SAGE) concluded that available evidence remains insufficient to support the programmatic use of Ervebo for the prevention of BVD, and that its efficacy against BVD in humans remains unknown. WHO therefore recommends that Ervebo be used for BVD only within the context of a research protocol. Ervebo vaccination of healthcare and frontline workers is now underway. As of 6 September 2026, a total of 2007 people had been vaccinated across six health zones in three provinces: Tshopo, Bas-U\u00e9l\u00e9 and Ituri.\n\nOn 2 July, a clinical trial to find effective treatments against BVD began patient enrollment on 2 July. The trial, known as the PARTNERS trial, is now open in five different clinical management facilities in Ituri province, and has enrolled over 300 people who are confirmed cases.\n\n\\*\\*Regular Information products on the outbreak of Bundibugyo virus disease\n\n**Additional information**\n\n**Current outbreak: declarations and status**\n\n**WHO Rapid risk assessments**\n\n**Epidemiological updates and situation reports**\n\n**Published Disease Outbreak News (current outbreak)**\n\n**Clinical management, IPC, and occupational safety**\n\n**Vaccines**\n\n**Training**\n\n- [WHO Launches Online Training to Strengthen Filovirus Outbreak Response](https://www.who.int/news/item/26-03-2025-who-launches-online-training-to-strengthen-filovirus-outbreak-response)\n\n**Prior Bundibugyo virus disease events, DRC (2012)**\n\n**Background and reference**\n\n- [Ebola disease fact sheet](https://www.who.int/news-room/fact-sheets/detail/ebola-disease)\n- [Ebola vaccines](https://www.who.int/news-room/questions-and-answers/item/ebola-vaccines)\n\n**Citable reference:** World Health Organization (10 September 2026). Disease Outbreak News; Bundibugyo Virus Disease, Democratic Republic of the Congo. Available at: [https://www/who.int/emergencies/disease-outbreak.news.item/2026-DON617](https://www/who.int/emergencies/disease-outbreak.news.item/2026-DON617)",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
@@ -76,7 +158,7 @@
             "url": "https://reliefweb.int/node/4229279",
             "date": {
                 "original": "2026-09-10T00:00:00+00:00",
-                "changed": "2026-09-10T09:54:38+00:00",
+                "changed": "2026-09-10T12:12:44+00:00",
                 "created": "2026-09-10T09:33:06+00:00"
             }
         },
@@ -1072,7 +1154,7 @@
             "url": "https://reliefweb.int/node/4228955",
             "date": {
                 "original": "2026-09-08T00:00:00+00:00",
-                "changed": "2026-09-09T01:03:53+00:00",
+                "changed": "2026-09-10T12:14:06+00:00",
                 "created": "2026-09-08T16:03:09+00:00"
             }
         },
@@ -1667,87 +1749,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4228874"
-    },
-    {
-        "id": "4228866",
-        "score": 1,
-        "fields": {
-            "title": "Japan contributes USD 1.3 million to support school feeding and prevent malnutrition in Chad | World Food Programme",
-            "body": "N\u2019DJAMENA, Chad \u2013 The United Nations World Food Programme (WFP) and the Government of Japan today signed an agreement for a JPY 200 million contribution, equivalent to USD 1.3 million or XAF 706,000,000 to provide school meals and malnutrition prevention services to communities in food-insecure and crisis-affected areas of Chad.\n\nThe agreement was signed in N'Djamena by Kentaro Minami, Ambassador of Japan to the Republic of Chad, and Jean-No\u00ebl Gentile, WFP Representative and Country Director in Chad.\n\n\u201cThe Japanese Government reaffirms its commitment to laying the groundwork for a better future for Chad,\u201d said Kentaro. \u201cChildren are the future of Chad, and ensuring they can study under better conditions is crucial, especially for young girls. It is also important to support the Chadian efforts to eradicate malnutrition. Doing so today means building a better Chad for tomorrow.\u201d\n\nJapan's contribution will enable WFP to buy 333 metric tons of food to support 23,000 people. Some 16,400 schoolchildren will receive school meals for six months during the 2026/2027 school year, helping to improve nutrition and support school attendance and retention, particularly among girls. The contribution will also provide malnutrition prevention services to 6,700 children under five and pregnant and breastfeeding women, while promoting healthy feeding practices.\n\n\u201cThe sustained partnership with the people of Japan is allowing us to invest in Chad\u2019s future by protecting the health of young children and promoting access to education for the most vulnerable students,\u201d said Gentile. \u201cBy combining school feeding and other nutrition interventions, we are contributing to human capital development and longer-term community resilience.\u201d Japan's support comes as 3.5 million people in Chad face severe food insecurity and two million children under five are affected by acute malnutrition. Chad also hosts 1.5 million refugees, including nearly 945,000 people who have fled the conflict in Sudan since April 2023. WFP requires about USD 85 million to sustain its operations from September 2026 to February 2027 to achieve its objective of reaching 3.7 million people per year.\n\n\\# # #\n\nThe United Nations World Food Programme is the world\u2019s largest humanitarian organization saving lives in emergencies and using food assistance to build a pathway to peace, stability and prosperity for people recovering from conflict, disasters and the impact of climate change.\n\nFollow us on X, formerly Twitter, via @WFP\\_Chad",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4228866",
-            "date": {
-                "original": "2026-09-08T00:00:00+00:00",
-                "changed": "2026-09-08T09:46:57+00:00",
-                "created": "2026-09-08T09:03:04+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4228866"
-    },
-    {
-        "id": "4228844",
-        "score": 1,
-        "fields": {
-            "title": "Chad: Project Highlights",
-            "body": "Improving food security and nutrition and women\u2019s empowerment in communities of eastern Chad province of Wadi Fira affected by the Sudan crisis\n\nObjective\n\nTo protect and strengthen agricultural and pastoral livelihoods, improve the food security and nutrition of vulnerable households, promote the empowerment of women and contribute to social cohesion among refugee, returnee and host communities in the department of Dar-Tama, province of Wadi Fira.\n\nActivities implemented\n\n\u2022 Distributed a total of 20 125 kg of rainfed seeds, including 4 375 kg of millet, 1 750 kg of cowpea and 14 000 kg of groundnut to 350 farming households (12.5 kg of millet, 5 kg of cowpea and 40 kg of groundnut per household).\n\n\u2022 Distributed an additional 1 050 vegetable seed packages (52.5 kg in total) to the 350 households, including 350 tomato, 350 okra and 350 onion seed packages (one 50-g package of each seed type per household) and tools (one shovel, one daba hoe, one local hoe, one watering can, one rake and one pickaxe).\n\n\u2022 Trained 20 household representatives on gender, nutrition and agricultural techniques, including food groups and hygiene, technical guidelines for vegetable crops, soil fertilization techniques and integrated pest management.\n\n\u2022 Distributed 49 tonnes of cotton seed cake and 40 tonnes of nutritional blocks (140 kg of cotton seed cake and five 20-kg cartons of licking blocks per household) to 350 pastoral households.\n\n\u2022 Organized a livestock vaccination campaign, vaccinating 97 880 animals and deworming an additional 4 763.\n\n\u2022 Rehabilitated three pastoral wells in the canton of Koursigu\u00e9.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2836",
-                    "id": 2836,
-                    "name": "Food and Agriculture Organization of the United Nations",
-                    "shortname": "FAO",
-                    "longname": "Food and Agriculture Organization of the United Nations",
-                    "spanish_name": "Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n",
-                    "homepage": "https://www.fao.org/home/en/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4228844",
-            "date": {
-                "original": "2026-09-08T00:00:00+00:00",
-                "changed": "2026-09-08T08:45:48+00:00",
-                "created": "2026-09-08T08:03:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4228844"
     }
 ]
