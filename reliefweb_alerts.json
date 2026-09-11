@@ -1,5 +1,250 @@
 [
     {
+        "id": "4229452",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique centrafricaine: Aper\u00e7u des mouvements de population (juillet 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229452",
+            "date": {
+                "original": "2026-09-11T00:00:00+00:00",
+                "changed": "2026-09-11T09:17:43+00:00",
+                "created": "2026-09-11T09:17:25+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229452"
+    },
+    {
+        "id": "4229451",
+        "score": 1,
+        "fields": {
+            "title": "Central African Republic: Overview of population movements (July 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229451",
+            "date": {
+                "original": "2026-09-11T00:00:00+00:00",
+                "changed": "2026-09-11T09:20:08+00:00",
+                "created": "2026-09-11T09:09:18+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229451"
+    },
+    {
+        "id": "4229450",
+        "score": 1,
+        "fields": {
+            "title": "Groupe de Travail Cash : Compte rendu de la r\u00e9union mensuelle de juillet, vendredi 31 juillet 2026 (10h00 - 11h30) [Meeting Minutes]",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229450",
+            "date": {
+                "original": "2026-09-11T00:00:00+00:00",
+                "changed": "2026-09-11T09:05:40+00:00",
+                "created": "2026-09-11T09:05:24+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229450"
+    },
+    {
+        "id": "4229449",
+        "score": 1,
+        "fields": {
+            "title": "Groupe de Travail Cash : Compte rendu de la r\u00e9union mensuelle de juin, vendredi 26 juin 2026 (10h00 - 11h30) [Meeting Minutes]",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229449",
+            "date": {
+                "original": "2026-09-11T00:00:00+00:00",
+                "changed": "2026-09-11T08:50:39+00:00",
+                "created": "2026-09-11T08:49:27+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229449"
+    },
+    {
+        "id": "4229446",
+        "score": 1,
+        "fields": {
+            "title": "RCA GTCASH: Note d'orientation - Calcul des valeurs des Transferts d'esp\u00e8ces \u00e0 usage multiple (juillet 2026)",
+            "body": "Cette note propose une base commune pour harmoniser les montants des transferts d\u2019esp\u00e8ces \u00e0 usages multiples (TEUM/MPCA) en R\u00e9publique centrafricaine. Elle s\u2019appuie sur le Minimum Expenditure Basket (MEB), tout en int\u00e9grant deux param\u00e8tres essentiels : la taille des m\u00e9nages et les diff\u00e9rences de contexte entre les zones d\u2019intervention. L\u2019enjeu est de retenir une m\u00e9thode \u00e0 la fois robuste sur le plan technique, simple \u00e0 appliquer sur le plan op\u00e9rationnel et coh\u00e9rente pour l\u2019ensemble des acteurs.  \nPlusieurs approches peuvent \u00eatre utilis\u00e9es pour d\u00e9terminer la valeur de transfert. Toutefois, dans une perspective d\u2019harmonisation, l\u2019ajustement du montant doit permettre de mieux refl\u00e9ter les besoins r\u00e9els des m\u00e9nages, tout en \u00e9vitant d\u2019alourdir les processus de ciblage, de planification et de mise en oeuvre. Deux approches bas\u00e9es sur le co\u00fbt du MEB apparaissent particuli\u00e8rement pertinentes \u00e0 cet effet.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229446",
+            "date": {
+                "original": "2026-09-11T00:00:00+00:00",
+                "changed": "2026-09-11T08:38:12+00:00",
+                "created": "2026-09-11T08:35:33+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229446"
+    },
+    {
         "id": "4229386",
         "score": 1,
         "fields": {
@@ -1547,206 +1792,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4228905"
-    },
-    {
-        "id": "4228890",
-        "score": 1,
-        "fields": {
-            "title": "MSF Chad: Our\u00e9-Cassoni refugee camp, a snapshot of humanitarian funding cuts",
-            "body": "**07 Sept 2026 -** In eastern Chad, near the border with Sudan, more than 117,000 refugees live in the Our\u00e9-Cassoni camp. As new families continue to arrive after fleeing the war, needs are increasing while humanitarian funding is declining. Food, water, shelter, healthcare: in this isolated camp, the consequences of reduced aid are being felt directly in people\u2019s daily lives. For M\u00e9decins Sans Fronti\u00e8res/Doctors Without Borders (MSF), Our\u00e9-Cassoni must be among the priorities of the humanitarian response in Chad.\n\nSadia \u200b arrived in Our\u00e9- Cassoni \u200b with her family after fleeing violence in Sudan. Today, she works in the camp as a health promoter with MSF. \u201cI arrived here as a refugee and today I work with other refugees. I know what it means to wonder what tomorrow will bring,\u201d she says.\n\nOur\u00e9-Cassoni is located in a remote region of Ennedi-Est, in north-eastern Chad. Its isolation makes access to services and the delivery of aid more difficult. Since the war in Sudan began in April 2023, the camp has experienced several waves of arrivals.\n\nMore than 60,000 people arrived in May 2025 following the fall of Zamzam camp, in North Darfur. Following the takeover of El-Fasher, more than 21,000 new arrivals were registered between October 2025 and August 2026. MSF teams continue to observe daily arrivals from Sudan. The camp is therefore growing, but the resources allocated to the humanitarian response are not following the same trajectory.\n\nFor families in Our\u00e9-Cassoni, the insufficiency of food is very real, it means not having enough to put on the table for their children. Salwa, a refugee mother in the camp, explains: \u201cThere are times when we do not know what we will feed our children the next day. When distributions are reduced, we have to make do with very little.\u201d\n\nMSF teams are also seeing an increase in malnutrition among the children screened. Between 2025 and 2026, severe acute malnutrition increased from 2.2 per cent to 3.4 per cent, while moderate acute malnutrition increased from 10 to 13 per cent.\n\nBehind these percentages are children arriving at health facilities in need of nutritional treatment, and parents trying every day to find ways to feed their families. The reduction in food assistance adds further pressure. This situation forces families to make difficult choices. \u201cBefore, we could at least rely on distributions to help us feed the children. Now, we have to do more with what we have. When there is not enough food, the whole family suffers,\u201d says Salwa. \u200b\n\n**Two litres of water a day**\n\nWater is another urgent concern. In Our\u00e9-Cassoni, only around two litres of water is available per person per day, far below the 15 to 20 litres generally recommended in emergency situations. Getting this water to families requires a complex chain: pumping it from the lake, treating it, checking its quality, transporting it and distributing it across the different areas of the camp. \u200b For MSF, this shows what funding makes possible \u2013 or no longer makes possible \u2013 in concrete terms on the ground, as reduced funding translates into less clean water being provided to people in the camp.\n\nIn July, more than 14 per cent of consultations carried out by MSF in the camp concerned cases of non-bloody diarrhoea. Although a lack of clean drinking water is not the only cause, it is certainly among the causing factors\n\n\u201cWhen we talk about humanitarian funding, we also need to think about very concrete needs: keeping pumps running, treating water and making sure it reaches families in sufficient quantities and on a regular basis. For people living in Our\u00e9-Cassoni, access to safe water in sufficient quantities is not a luxury: it is a basic necessity for their health and dignity,\u201d says Joshua Ayuba Mpato,MSF project coordinator in Our\u00e9-Cassoni.\n\n**A precarious roof, difficult access to healthcare**\n\nAfter food and water, shelter is one of the main needs identified by communities. Thousands of families have to improvise homes using whatever materials they can find, often in conditions that provide limited protection. These living conditions also have consequences for health. Respiratory infections, particularly those associated with precarious housing conditions, account for more than 30 per cent of MSF consultations across the different areas of the camp and among all age groups.\n\nHowever, Our\u00e9-Cassoni has only one health centre, and secondary healthcare is not directly accessible within the camp. Cases requiring specialised care must be referred to other facilities, where only critical ones are supported financially.\n\nDire living conditions and lack of assistance also translate into increased risks for women and girls, who are forced to leave the camp to collect water and firewood. \u200b Between January and July 2026, MSF teams provided care to 91 survivors of sexual violence in Our\u00e9-Cassoni. Although it is not possible to determine how many of these episodes took place in Chad, after survivors fled Sudan, displacements outside the camp expose women to an increased risk of violence. \u200b\n\n**A huge camp, a shrinking response**\n\nIt is against this backdrop that the question of Our\u00e9-Cassoni\u2019s place in the humanitarian response arises. Our\u00e9-Cassoni was not included in the priority areas outlined in the 2026 Humanitarian Needs and Response Plan (HNRP) for Chad. For MSF the contrast is concerning. \u200b Needs are increasing at the very time that available resources are decreasing.\n\n\u201cOur\u00e9-Cassoni must be a priority for donors. We are talking about more than 117,000 people, with considerable needs and new arrivals every day. The situation we are seeing here is not sustainable. Needs are increasing, but resources are not keeping pace. Without an urgent increase in assistance, the gap between people\u2019s needs and the humanitarian response will only continue to widen,\u201d says \u200b Joshua Ayuba Mpato.\n\nIn Our\u00e9-Cassoni, the consequences of reductions in aid are therefore not abstract. They are felt in the meals families are able to provide, in the amount of water available, in precarious shelters and in access to healthcare. For MSF, the scale and urgency of the needs in Our\u00e9-Cassoni fully justify prioritisation of the camp in the humanitarian response in Chad.\n\n-ENDS-\n\n## **MSF UK**\n\n- **media@london.msf.org**\n- **+44 (0) 207 067 4236**",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2904",
-                    "id": 2904,
-                    "name": "M\u00e9decins Sans Fronti\u00e8res",
-                    "shortname": "MSF",
-                    "longname": "M\u00e9decins Sans Fronti\u00e8res",
-                    "spanish_name": "M\u00e9dicos Sin Fronteras",
-                    "homepage": "https://www.msf.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4228890",
-            "date": {
-                "original": "2026-09-08T00:00:00+00:00",
-                "changed": "2026-09-08T11:04:31+00:00",
-                "created": "2026-09-08T11:04:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4228890"
-    },
-    {
-        "id": "4228889",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon: Locations of UNHCR persons of concern (August 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4228889",
-            "date": {
-                "original": "2026-08-31T00:00:00+00:00",
-                "changed": "2026-09-08T12:17:17+00:00",
-                "created": "2026-09-08T11:03:54+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4228889"
-    },
-    {
-        "id": "4228888",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR Cameroon Multi Country Office: Forcibly displaced persons movements (August 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4228888",
-            "date": {
-                "original": "2026-08-31T00:00:00+00:00",
-                "changed": "2026-09-08T12:08:49+00:00",
-                "created": "2026-09-08T11:03:43+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4228888"
-    },
-    {
-        "id": "4228887",
-        "score": 1,
-        "fields": {
-            "title": "MCO Cameroon: Refugee and asylum-seeker statistics - August 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4228887",
-            "date": {
-                "original": "2026-08-31T00:00:00+00:00",
-                "changed": "2026-09-08T12:15:54+00:00",
-                "created": "2026-09-08T11:03:31+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4228887"
-    },
-    {
-        "id": "4228886",
-        "score": 1,
-        "fields": {
-            "title": "Refugees and internally displaced persons in Cameroon Multi Country Office (August 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4228886",
-            "date": {
-                "original": "2026-08-31T00:00:00+00:00",
-                "changed": "2026-09-08T12:14:31+00:00",
-                "created": "2026-09-08T11:03:21+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4228886"
     }
 ]
