@@ -1,5 +1,87 @@
 [
     {
+        "id": "4229729",
+        "score": 1,
+        "fields": {
+            "title": "RDC \u2014 Ituri : Suivi des flux de population dans le cadre de la riposte \u00e0 la maladie \u00e0 virus Ebola (MVE), semaine 36 (ao\u00fbt-septembre 2026)",
+            "body": "Ce tableau de bord hebdomadaire de suivi des flux de population de la DTM RDC fournit un aper\u00e7u des dynamiques de mobilit\u00e9 observ\u00e9es dans la province de l\u2019Ituri dans le cadre de la riposte \u00e0 la maladie \u00e0 virus Ebola (MVE). Il pr\u00e9sente les principales tendances des mouvements de voyageurs observ\u00e9s aux points de contr\u00f4le actifs, ainsi qu\u2019une analyse des d\u00e9placements en lien avec les zones de sant\u00e9 touch\u00e9es par la transmission active de la maladie.\n\nLes donn\u00e9es ont \u00e9t\u00e9 collect\u00e9es du 31 ao\u00fbt au 6 septembre 2026 dans sept points de contr\u00f4le actifs. Au total, 80 090 voyageurs ont \u00e9t\u00e9 enregistr\u00e9s et 4 466 entretiens individuels ont \u00e9t\u00e9 r\u00e9alis\u00e9s afin d\u2019analyser les itin\u00e9raires emprunt\u00e9s, les profils des voyageurs et les mouvements entre les diff\u00e9rentes zones de sant\u00e9 de la province. Les r\u00e9sultats montrent que 86 pour cent des trajets franchissent une limite de zone de sant\u00e9 et que 5 pour cent des voyageurs quittent la province de l\u2019Ituri.\n\nCe tableau de bord est mis \u00e0 jour chaque semaine afin de fournir des informations r\u00e9guli\u00e8res sur les tendances de mobilit\u00e9 dans le contexte de la riposte \u00e0 la MVE. Les donn\u00e9es collect\u00e9es contribuent \u00e0 l\u2019identification des principaux couloirs de d\u00e9placement, au suivi des mouvements li\u00e9s aux zones \u00e0 transmission active et au renforcement des activit\u00e9s de surveillance et de r\u00e9ponse \u00e0 l\u2019\u00e9pid\u00e9mie.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229729",
+            "date": {
+                "original": "2026-09-14T00:00:00+00:00",
+                "changed": "2026-09-14T13:39:56+00:00",
+                "created": "2026-09-14T13:33:24+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229729"
+    },
+    {
+        "id": "4229728",
+        "score": 1,
+        "fields": {
+            "title": "DRC \u2014 Ituri: Population Flow Monitoring Dashboard in the Context of the Ebola Virus Disease (EVD) Response, Week 36 (August - September 2026)",
+            "body": "This weekly DTM DRC Flow Monitoring dashboard provides an overview of mobility dynamics observed in Ituri Province in the context of the Ebola Virus Disease (EVD) response. It presents key trends in traveller movements recorded at active Flow Monitoring Points, as well as an analysis of movements linked to health zones affected by active disease transmission.\n\nData were collected from 31 August to 6 September 2026 at seven active points of control. A total of 80,090 travellers were counted and 4,466 individual interviews were conducted to analyse travel routes, traveller profiles, and movements between health zones within and beyond the province. Results indicate that 86 per cent of journeys crossed a health zone boundary, while 5 per cent of travellers left Ituri Province during the reporting period.\n\nThis dashboard will be updated on a weekly basis to provide regular information on mobility trends in the context of the EVD response. As the monitoring network expands, geographical coverage will be progressively strengthened to enhance population movement monitoring and support outbreak response activities.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229728",
+            "date": {
+                "original": "2026-09-14T00:00:00+00:00",
+                "changed": "2026-09-14T13:39:20+00:00",
+                "created": "2026-09-14T13:33:16+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229728"
+    },
+    {
         "id": "4229689",
         "score": 1,
         "fields": {
@@ -1727,86 +1809,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4229034"
-    },
-    {
-        "id": "4229033",
-        "score": 1,
-        "fields": {
-            "title": "Rapport mensuel des d\u00e9placements - Aout 2026",
-            "body": "**Points saillants des tendances pour le mois d\u2019aout :**\n\n- Les conflits arm\u00e9s demeurent le principal moteur des d\u00e9placements dans l\u2019Est de la RDC en ao\u00fbt 2026. La multiplication et l\u2019extension des affrontements impliquant l\u2019AFC/M23, les FARDC et les groupes Wazalendo ont continu\u00e9 d\u2019alimenter d\u2019importants mouvements de population, auxquels s\u2019ajoutent les attaques des ADF contre les populations civiles en Ituri.\n- Le Sud-Kivu demeure le principal foyer de d\u00e9placement parmi les provinces couvertes, avec environ 27 324 m\u00e9nages nouvellement d\u00e9plac\u00e9s. Le territoire de Kalehe concentre la majorit\u00e9 des mouvements (16 003 m\u00e9nages), suivi de Fizi, Walungu, Kabare, Mwenga et Uvira, sous l\u2019effet de l\u2019extension des combats depuis les territoires voisins, de la multiplication des foyers de violence et de l\u2019instabilit\u00e9 persistante dans les moyens et hauts plateaux.\n- Au Nord-Kivu, les d\u00e9placements restent \u00e9lev\u00e9s, avec environ 22 380 m\u00e9nages nouvellement d\u00e9plac\u00e9s, principalement dans les territoires de Walikale, Lubero et Rutshuru. Les affrontements entre l\u2019AFC/M23 et les VDP/Wazalendo ont provoqu\u00e9 des d\u00e9placements entre plusieurs territoires, tandis que les intemp\u00e9ries \u00e0 Vitshumbi ont aggrav\u00e9 la vuln\u00e9rabilit\u00e9 des populations d\u00e9j\u00e0 affect\u00e9es par des d\u00e9placements successifs.\n- En Ituri, les attaques des ADF constituent le principal moteur de d\u00e9placement, avec environ 3 105 m\u00e9nages d\u00e9plac\u00e9s dans le territoire de Mambasa. Les pillages et les destructions d\u2019habitations et de biens associ\u00e9s \u00e0 ces attaques ont accentu\u00e9 la vuln\u00e9rabilit\u00e9 des populations et leurs besoins en assistance.\n- La pression sur les communaut\u00e9s d\u2019accueil demeure importante. La majorit\u00e9 des m\u00e9nages d\u00e9plac\u00e9s est accueillie au sein de familles d\u2019accueil, tandis que d\u2019autres trouvent refuge dans des sites spontan\u00e9s, des \u00e9coles, des \u00e9glises et d\u2019autres structures collectives. Cette situation accentue la pression sur les ressources locales, les services de base et les capacit\u00e9s d\u2019accueil, notamment en mati\u00e8re d\u2019abris, d\u2019articles m\u00e9nagers essentiels, de protection, de sant\u00e9, de s\u00e9curit\u00e9 alimentaire et de WASH.\n- Les provinces de Maniema et Tanganyika n\u2019ont pas enregistr\u00e9 de d\u00e9placement des populations au cours de la p\u00e9riode.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1929",
-                    "id": 1929,
-                    "name": "Mercy Corps",
-                    "shortname": "Mercy Corps",
-                    "longname": "Mercy Corps",
-                    "homepage": "https://www.mercycorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229033",
-            "date": {
-                "original": "2026-09-09T00:00:00+00:00",
-                "changed": "2026-09-09T07:41:02+00:00",
-                "created": "2026-09-09T06:53:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229033"
-    },
-    {
-        "id": "4229023",
-        "score": 1,
-        "fields": {
-            "title": "GIEWS Country Brief: Chad 07-September-2026",
-            "body": "**FOOD SECURITY SNAPSHOT**\n\n1. **Uncertain production prospects for 2026 cereal crops**\n2. **Cereal output in 2025 estimated at above\u2011average level**\n3. **Prices of coarse grains below year\u2011earlier levels**\n4. **About 3.18 million people estimated to face severe acute food insecurity during 2026 lean season**\n\n## Uncertain production prospects for 2026 cereal crops\n\nPlanting of the 2026 coarse grain and rice crops was completed in August. The May\u2011September rainy season had an erratic start in several producing areas. Severe rainfall deficits in parts of the Sudanian zone in May and delays of up to one month in the onset of seasonal rains in some parts of the Sahelian zone disrupted planting operations and hampered crop germination. Although rainfall conditions generally improved in June, recurrent dry spells were reported across the country between July and mid\u2011August, and cumulative precipitation amounts remained below the average in several producing areas. As of mid\u2011August, satellite\u2011based data indicate poor vegetation conditions in Logone Occidental, Logone Oriental, Mandoul, Moyen\u2011Chari, Lac, Batha, Wadi Fira and Ouadda\u00ef provinces, raising concerns over crop development and yield prospects.\n\nNear\u2011 to above\u2011average rainfall amounts forecast for September and October could support a partial recovery of late\u2011planted crops and improve vegetation conditions. However, the extent of any improvement will depend on the spatial and temporal distribution of rainfall through the remainder of the cropping season. Increased precipitation amounts could also heighten the risk of localized flooding and related crop losses in vulnerable areas. Production prospects therefore remain subject to considerable uncertainty, particularly in areas affected by delayed planting, recurrent dry spells and poor vegetation conditions.\n\nHigh domestic fuel prices continue to increase agricultural transport and production costs. In addition, the limited availability of and access to fertilizers may have resulted in reduced application rates, with potential negative effects on crop yields.\n\nCivil insecurity continues to disrupt agricultural activities, particularly in Lac Province and parts of the Sudanian zone, likely resulting in localized production shortfalls.\n\n## Cereal output in 2025 estimated at above\u2011average level\n\nThe 2025 aggregate cereal production is officially estimated at about 3 million tonnes, approximately 10 percent above the average of the previous five years. Production outcomes, however, varied considerably across regions. Well\u2011distributed and above\u2011average rainfall amounts boosted yields in the Sahelian zone, offsetting the lower output harvested in parts of the Sudanian zone, where the delayed onset and erratic distribution of seasonal rains adversely affected crops. Civil insecurity also disrupted agricultural activities, particularly in Lac Province and some southern areas, resulting in localized production shortfalls.\n\n## Prices of coarse grains below year\u2011earlier levels\n\nRetail prices of locally produced sorghum and millet were stable or rose by up to 15 and 20 percent, respectively, between May and July 2026, while retail prices of local maize followed mixed trends. Despite recent increases, prices of coarse grains in July 2026 were 20 to 45 percent below their year\u2011earlier levels in most monitored markets, reflecting subdued household demand amid low purchasing power.\n\n## About 3.18 million people estimated to face severe acute food insecurity during 2026 lean season\n\nAccording to the latest [*Cadre Harmonis\u00e9*  (CH) analysis ](https://agrhymet.cilss.int/wp-content/uploads/2026/07/CH-FICHE-COMMUNICATION-JUIN-2026_Version-finale.pdf), nearly 3.18 million people (17 percent of the analysed population) were estimated to face severe acute food insecurity (CH Phase 3 \\[Crisis\\] and above) during the June\u2011August 2026 lean season, including about 241 000 people in CH Phase 4 (Emergency). This marks a slight improvement compared to the same period in 2025, when 3.31 million people (19 percent of the analysed population) were in CH Phase 3 (Crisis) and above.\n\nThe sustained influx of people fleeing the conflict in the Sudan has increased the country\u2019s refugee population to about 1.5 million, two and a half times the level prior the start of the conflict in April 2023. Over the same period, about 401 000 Chadian nationals had returned to the country as of late August 2026. The presence of a large number of displaced people is increasing pressure on local livelihoods, basic services and markets, particularly in eastern provinces. Fluctuations in the pace of refugee arrivals, coupled with deteriorating security conditions, continue to hamper the effective planning and delivery of humanitarian assistance. A separate [CH analysis ](https://agrhymet.cilss.int/wp-content/uploads/2026/07/CH-FICHE-COMMUNICATION-JUIN-2026_Version-finale.pdf)estimated that over 332 000 Sudanese refugees (34 percent of the analysed refugee population) faced severe acute food insecurity between June and August 2026, including about 82 000 people in CH Phase 4 (Emergency).\n\nCivil insecurity remains a key driver of acute food insecurity, particularly in Lac Province, where nearly 295 000 people are internally displaced and a state of emergency was in place from May to August 2026 following a series of attacks by non\u2011state armed groups. Intercommunal conflicts also persist in several areas across the country. The resulting disruptions of livelihoods and trade, coupled with losses of food stocks, has contributed to localized food shortages and elevated prices in affected markets.\n\nThe poor start of the 2026 rainy season reduced agricultural income\u2011earning opportunities in affected areas, keeping household incomes below typical seasonal levels and further constraining food access among market\u2011dependent households.\n\n*Disclaimer: The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the part of FAO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.*\n\n*This brief was prepared using the following data/tools:*  \n*FAO/GIEWS Country Cereal Balance Sheet (CCBS)*\n\n[*https://www.fao.org/giews/data-tools/en/* ](https://www.fao.org/giews/data-tools/en/).\n\n*FAO/GIEWS Food Price Monitoring and Analysis (FPMA) Tool* [*https://fpma.fao.org/* ](https://fpma.fao.org/).\n\n*FAO/GIEWS Earth Observation for Crop Monitoring* [*https://www.fao.org/giews/earthobservation/* ](https://www.fao.org/giews/earthobservation/).\n\n*Cadre Harmonis\u00e9 (CH)* [*http://cadreharmonise.org/* ](http://cadreharmonise.org/).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2836",
-                    "id": 2836,
-                    "name": "Food and Agriculture Organization of the United Nations",
-                    "shortname": "FAO",
-                    "longname": "Food and Agriculture Organization of the United Nations",
-                    "spanish_name": "Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n",
-                    "homepage": "https://www.fao.org/home/en/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229023",
-            "date": {
-                "original": "2026-09-07T00:00:00+00:00",
-                "changed": "2026-09-09T04:41:22+00:00",
-                "created": "2026-09-09T04:37:54+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229023"
     }
 ]
