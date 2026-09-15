@@ -1,5 +1,87 @@
 [
     {
+        "id": "4229998",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: Latest Events at a glance (8-14 September 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229998",
+            "date": {
+                "original": "2026-09-15T00:00:00+00:00",
+                "changed": "2026-09-15T16:55:44+00:00",
+                "created": "2026-09-15T16:54:00+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229998"
+    },
+    {
+        "id": "4229997",
+        "score": 1,
+        "fields": {
+            "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (du 8 au 14 septembre 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229997",
+            "date": {
+                "original": "2026-09-15T00:00:00+00:00",
+                "changed": "2026-09-15T16:53:35+00:00",
+                "created": "2026-09-15T16:52:56+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229997"
+    },
+    {
         "id": "4229974",
         "score": 1,
         "fields": {
@@ -1606,87 +1688,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4229621"
-    },
-    {
-        "id": "4229576",
-        "score": 1,
-        "fields": {
-            "title": "Weekly Bulletin on Outbreak and other Emergencies: Week 33: 10 to 16 August 2026 (Data as reported by: 17:00; 16 August 2026)",
-            "body": "This Weekly Bulletin focuses on public health emergencies occurring in the WHO African Region. This week\u2019s articles cover:\n\n- Mpox in Angola\n- Cholera in Cameroon\n- Humanitarian situation in Democratic Republic of the Congo",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229576",
-            "date": {
-                "original": "2026-09-12T00:00:00+00:00",
-                "changed": "2026-09-14T02:57:43+00:00",
-                "created": "2026-09-12T23:03:27+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229576"
-    },
-    {
-        "id": "4229574",
-        "score": 1,
-        "fields": {
-            "title": "Weekly Bulletin on Outbreak and other Emergencies: Week 32: 3 to 9 August 2026 (Data as reported by: 17:00; 9 August 2026)",
-            "body": "This Weekly Bulletin focuses on public health emergencies occurring in the WHO African Region. This week\u2019s articles cover:\n\n- Measles in Democratic Republic of the Congo\n- Humanitarian Situation in South Sudan\n- Lassa Fever in Liberia",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229574",
-            "date": {
-                "original": "2026-09-12T00:00:00+00:00",
-                "changed": "2026-09-14T03:37:51+00:00",
-                "created": "2026-09-12T23:03:16+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229574"
     }
 ]
