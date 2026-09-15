@@ -1,5 +1,206 @@
 [
     {
+        "id": "4229974",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Central African Republic Situation: 2026 Funding Update (as of 31 August 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229974",
+            "date": {
+                "original": "2026-09-15T00:00:00+00:00",
+                "changed": "2026-09-15T14:47:53+00:00",
+                "created": "2026-09-15T14:47:45+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229974"
+    },
+    {
+        "id": "4229972",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Central African Republic: 2026 Funding Update (as of 31 August 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229972",
+            "date": {
+                "original": "2026-09-15T00:00:00+00:00",
+                "changed": "2026-09-15T14:46:19+00:00",
+                "created": "2026-09-15T14:46:16+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229972"
+    },
+    {
+        "id": "4229966",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon MCO Funding Update 2026 (as of 31 August 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229966",
+            "date": {
+                "original": "2026-09-15T00:00:00+00:00",
+                "changed": "2026-09-15T14:39:01+00:00",
+                "created": "2026-09-15T14:38:58+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229966"
+    },
+    {
+        "id": "4229962",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Chad: 2026 Funding Update (as of 31 October 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229962",
+            "date": {
+                "original": "2026-09-15T00:00:00+00:00",
+                "changed": "2026-09-15T14:32:23+00:00",
+                "created": "2026-09-15T14:32:16+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229962"
+    },
+    {
+        "id": "4229943",
+        "score": 1,
+        "fields": {
+            "title": "The air support behind Ebola response in the Democratic Republic of the Congo",
+            "body": "**Bunia\u2014** On-the-ground presence is the essence of an effective health emergency response. Equally vital is the ability to deploy frontline teams, medicines and essential supplies to the communities that need them most. In the Democratic Republic of the Congo\u2019s Ebola response, the United Nations Humanitarian Air Service (UNHAS) is providing that critical link, delivering responders and lifesaving cargo to the frontlines of the response.\n\nSince the declaration of the outbreak, response efforts have been intensified and scaled up, including air operations, to meet the demands of the response. Bunia, the capital of Ituri Province, which previously operated three flights per week, is now connected to the capital Kinshasa by five regular weekly rotations. In addition, dedicated Ebola response flights serve several affected areas, including Beni, Isiro, Buta and Kisangani towns, in addition to special flights to meet operational needs.\n\nEvery day, UNHAS teams adapt to meet the needs as the response operations have expanded. At the same time health measures have been strengthened to ensure safety. \u201cOur work does not begin at take-off. From four o\u2019clock in the morning, we check safety, fuel and aircraft disinfection. Passengers go through several checkpoints before boarding,\u201d Says Daniel Honne Guissil, Ebola operations coordinator in Bunia.\n\nTo meet the growing demand, the team has been reinforced, increasing from three station managers to eight staff members, while the number of handlers rose from 14 to 30. Pilots, co-pilots, flight attendants, logisticians, handlers, airfield operations staff and ground personnel all ensure a vital mission: connecting affected areas, transporting response teams, delivering medical supplies and maintaining the logistical flow essential for a rapid and effective response.\n\n\u201cThe contribution of UNHAS is invaluable. More than logistical support, it is a pillar of the response, linking almost all affected provinces,\u201d notes Dr Steve Ahuka, Incident Manager of the Presidential Task Force on the Ebola response. For him, every pilot, handler or baggage operator is a frontline responder, just like doctors, epidemiologists or hygienists working in Ebola treatment centres.\n\n\u201cUNHAS supports the response across multiple hotspots from Bunia. Without this support, interventions would be delayed and ultimately ineffective,\u201d he adds.\n\nMost personnel, equipment and medicines destined for Ituri depart from the capital Kinshasa, located about 1800 kilometres by air from Bunia and nearly 3000 kilometres by road. By air, the journey takes just two-and-a half hours. Reaching Bunia by other means takes weeks: four days by road to Kisangani then by river to Kinshasa that can take between 10 and 20 days.\n\nHumanitarian flights are the fastest and safest way to deploy responders and equipment needed for case detection and patient care. \u201cWithout UNHAS, this response would not have been possible. It is truly a critical partner,\u201d says Dr Thierno Balde, WHO Incident Manager for the Ebola response, pointing out that Ituri, the epicenter of the outbreak, is the starting point for operations to North Kivu, Tshopo, Haut-U\u00e9l\u00e9 and Bas-U\u00e9l\u00e9 provinces. \u201cWhen the first cases were reported in Kisangani, the very next day, UNHAS mobilized a special flight, enabling us to support the response in Tshopo. That is an important example of its value.\u201d\n\nAs of 9 September, 2026, in Ituri Province, UNHAS had carried out 876 flights, transported 6918 passengers and delivered over 100 tonnes of cargo. Behind these numbers lies the expertise, resilience and commitment of an entire team maintaining a vital air bridge between coordination centres, affected health zones and Ebola treatment facilities.\n\n\u201cWithout the UNHAS air bridge no progress would have been possible to date. From the earliest hours of the response, they have stood with us alongside affected communities,\u201d says Dr Anne Ancia, Acting WHO Representative in the Democratic Republic of the Congo. \u201cThe heroes of this response are not only doctors and community mobilizers. UNHAS personnel are also our heroes.\u201d  \nAt the Bunia base, infection prevention measures are strict: aircraft and baggage disinfection, use of personal protective equipment, and quarantine for contacts. The risk of infection is real, but the ground and air teams remain determined. \u201cWe are not direct health workers, but without us there would be no medicines or medical staff on the ground. We are proud to be part of the chain that saves lives,\u201d says Guissil.\n\nFor the teams, each take-off is a battle won against time and against Ebola. \u201cWe\u2019re still saving lives, of course,\u201d Guissil says.\n\n## **Media contacts**\n\n**Kayi Lawson**\n\nCommunications Officer  \nRegional Office for Africa  \nEmail: lawsonagbluluf@who.int\n\n**Eugene Kabambi**\n\nCommunications Officer\n\nWHO DRC\n\nTel : +243 81 715 1697  \nOffice : +47 241 39 027  \nEmail: kabambie@who.int\n\n**Ren\u00e9 Koundou IFONO**\n\nCharg\u00e9 de communication\n\nOMS - R\u00e9publique Centrafricaine\n\nEmail : ifonor@who.int",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229943",
+            "date": {
+                "original": "2026-09-15T00:00:00+00:00",
+                "changed": "2026-09-15T13:44:02+00:00",
+                "created": "2026-09-15T13:44:02+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229943"
+    },
+    {
         "id": "4229903",
         "score": 1,
         "fields": {
@@ -33,7 +234,7 @@
             "url": "https://reliefweb.int/node/4229903",
             "date": {
                 "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-15T11:24:42+00:00",
+                "changed": "2026-09-15T11:27:25+00:00",
                 "created": "2026-09-15T11:03:08+00:00"
             }
         },
@@ -78,6 +279,366 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4229890"
+    },
+    {
+        "id": "4229884",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Mobilisation communautaire - janvier - juin 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229884",
+            "date": {
+                "original": "2026-09-13T00:00:00+00:00",
+                "changed": "2026-09-15T12:54:42+00:00",
+                "created": "2026-09-15T10:04:33+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229884"
+    },
+    {
+        "id": "4229879",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Monitoring de Protection - Tableau de bord annuel - janvier \u00e0 juin 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229879",
+            "date": {
+                "original": "2026-09-13T00:00:00+00:00",
+                "changed": "2026-09-15T14:21:14+00:00",
+                "created": "2026-09-15T10:03:44+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229879"
+    },
+    {
+        "id": "4229878",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Monitoring de Protection -- Tableau de bord mensuel au 31 juillet 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229878",
+            "date": {
+                "original": "2026-09-13T00:00:00+00:00",
+                "changed": "2026-09-15T14:18:40+00:00",
+                "created": "2026-09-15T10:03:35+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229878"
+    },
+    {
+        "id": "4229877",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Monitoring de Protection Tableau de bord mensuel - 31 ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229877",
+            "date": {
+                "original": "2026-09-14T00:00:00+00:00",
+                "changed": "2026-09-15T13:57:11+00:00",
+                "created": "2026-09-15T10:03:23+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229877"
+    },
+    {
+        "id": "4229876",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Burundais au 31 ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229876",
+            "date": {
+                "original": "2026-09-14T00:00:00+00:00",
+                "changed": "2026-09-15T13:36:12+00:00",
+                "created": "2026-09-15T10:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229876"
+    },
+    {
+        "id": "4229866",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Sud-soudanais au 31 ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229866",
+            "date": {
+                "original": "2026-09-14T00:00:00+00:00",
+                "changed": "2026-09-15T13:40:36+00:00",
+                "created": "2026-09-15T09:05:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229866"
+    },
+    {
+        "id": "4229864",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Rwandais au 31 ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229864",
+            "date": {
+                "original": "2026-09-14T00:00:00+00:00",
+                "changed": "2026-09-15T12:09:50+00:00",
+                "created": "2026-09-15T09:04:49+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229864"
+    },
+    {
+        "id": "4229863",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - R\u00e9fugi\u00e9s Centrafricains au 31 ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229863",
+            "date": {
+                "original": "2026-09-14T00:00:00+00:00",
+                "changed": "2026-09-15T12:03:49+00:00",
+                "created": "2026-09-15T09:04:40+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229863"
+    },
+    {
+        "id": "4229862",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Statistiques mensuelles des r\u00e9fugi\u00e9s et des demandeurs d'asile - 31 ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229862",
+            "date": {
+                "original": "2026-09-15T00:00:00+00:00",
+                "changed": "2026-09-15T12:01:41+00:00",
+                "created": "2026-09-15T09:04:30+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229862"
     },
     {
         "id": "4229859",
@@ -1127,614 +1688,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4229574"
-    },
-    {
-        "id": "4229556",
-        "score": 1,
-        "fields": {
-            "title": "UNICEF deeply concerned by deadly fire in Bukavu, South Kivu, and its devastating impact on children",
-            "body": "**KINSHASA, 11 September 2026 \u2013** \u201cUNICEF is deeply saddened and alarmed by the recent fire in Bukavu, South Kivu, that broke out on 10 September that claimed the lives of at least 26 children and injured 25 others.\n\n''We extend our sincere condolences to the bereaved families and express our solidarity with the children, families, and communities affected by this tragedy.\n\n\u201cThe fire affected homes and two primary schools in Furaha and Ujamaa, with a tragic human toll, while the injured children are currently receiving medical care.\n\n\u201cThe impact of the fire on children is long-lasting. Beyond the destruction of homes and schools, children are facing psychological distress in an already volatile environment marked by armed conflict and insecurity.\u201d\n\n\u201cUNICEF is working with partners to support affected children, families and communities providing mental health and psychosocial support to children, including students, and affected community members, and supporting access to education so affected students can continue the school year. Eleven children, separated from their parents were reunited with their families today.\u201d\n\n\\#####\n\n## **Media contacts**\n\n**Halimatou Amadou**\n\nCommunication Specialist\n\nUNICEF Office West and Central Africa\n\nTel: +221 787 003 555\n\nEmail: hamadou@unicef.org\n\n**Giacomo Colarullo**\n\nCommunication Officer\n\nUNICEF\n\nTel: +1 917 622 2782\n\nEmail: gcolarullo@unicef.org",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229556",
-            "date": {
-                "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-14T07:26:51+00:00",
-                "created": "2026-09-11T21:33:27+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229556"
-    },
-    {
-        "id": "4229534",
-        "score": 1,
-        "fields": {
-            "title": "Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 11/09/2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/620",
-                    "id": 620,
-                    "name": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
-                    "shortname": "ECHO",
-                    "longname": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
-                    "spanish_name": "Direcci\u00f3n General de Protecci\u00f3n Civil y Operaciones de Ayuda Humanitaria Europeas",
-                    "homepage": "https://civil-protection-humanitarian-aid.ec.europa.eu/index_en",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229534",
-            "date": {
-                "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-14T02:07:14+00:00",
-                "created": "2026-09-11T15:17:24+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229534"
-    },
-    {
-        "id": "4229531",
-        "score": 1,
-        "fields": {
-            "title": "IOM: Multi-Country Bundibugyo Ebola Virus Disease Outbreak - Situation Report No. 17 (31 August to 6 September 2026)",
-            "body": "**SITUATION OVERVIEW**\n\n30,560,048 Health screenings supported at PoEs/PoCs 230 PoEs/PoCs supported across affected and at-risk countries 26,500,916 Individuals reached through RCCE activities According to the Ministry of Health of the Democratic Republic of the Congo (DRC), over 6,200 confirmed cases of Ebola disease caused by the Bundibugyo virus disease (BVD) had been reported as of 1 September and more than 3,000 confirmed deaths. The outbreak is unfolding against the backdrop of a longstanding triple crisis in eastern DRC, where conflict, displacement and health risks converge, leaving internally displaced persons (IDPs) and mobile populations at heightened risk. Over 50 IOM-managed IDP sites in eastern DRC, located in the areas of Ituri and North Kivu, are impacted by the outbreak. Inadequate water, sanitation and hygiene (WASH), health and shelter services accelerate risks of disease transmission and compound vulnerabilities, impacting the safety and protection of displaced, mobile and host communities. Over 10 per cent of the journeys originating in affected areas of Ituri Province led to a zone without new cases, as per latest data from IOM\u2019s Displacement Tracking Matrix (DTM). Nearly 4 per cent of travellers leave Ituri for other locations across DRC, including Kinshasa, as well as to other countries, including Uganda and Tanzania. At the same time, data indicates a total of 171 fatalities intercepted at points of control (PoCs) \u2013 highlighting the continued importance of expanding health operations across DRC to effectively detect, prevent and respond to potential new cases. Given ongoing transmission in Haut-U\u00e9l\u00e9 and Bas-U\u00e9l\u00e9 Provinces in DRC, bordering the prefectures of Haut-Mbomou and Mbomou in CAR, there remains a high risk of cross-border spread. Porous borders, informal crossings and frequent cross-border population movements linked to trade, family ties, health-care-seeking behaviours, livelihoods, displacement and insecurity may facilitate transmission and compound existing humanitarian vulnerabilities. Investments in preparedness, including strengthening screening, community and event-based surveillance, risk communication and community engagement (RCCE) and infection prevention and control (IPC) measures, alongside strengthening data systems and pre-positioning of essential supplies at priority border locations, are therefore urgently required to support early detection and mitigate cross-border spread. In line with the Inter-Agency Standing Committee (IASC) systemwide scale-up activation for infectious disease events, IOM has scaled up its response, particularly at points of entry (PoEs), PoCs and in displacement sites, enabling enhanced surge support, operational capacity and coordination across affected countries. IOM\u2019s response continues to focus on Priority 1a countries, DRC and Uganda, where outbreak response and enhanced preparedness activities remain ongoing and Priority 1b countries, Burundi, Rwanda and South Sudan, which face an elevated risk of cross-border transmission. Preparedness interventions are also implemented in other at-risk countries across the region, including Priority 2 countries, Angola, the Central African Republic (CAR), Ethiopia, Kenya, the Republic of the Congo, the United Republic of Tanzania and Zambia, to strengthen readiness and enhance regional health security, while supporting continent-wide efforts, particularly as co-lead of the PoE technical working group at the continental level.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229531",
-            "date": {
-                "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-14T02:15:22+00:00",
-                "created": "2026-09-11T15:03:08+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229531"
-    },
-    {
-        "id": "4229508",
-        "score": 1,
-        "fields": {
-            "title": "OIM RDC Suivi des mouvements de populations - Province du Tanganyika 15\u00e8me cycle Collecte de donn\u00e9es: juin - juillet 2026 Tableau de bord",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229508",
-            "date": {
-                "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-11T13:46:02+00:00",
-                "created": "2026-09-11T13:33:16+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229508"
-    },
-    {
-        "id": "4229484",
-        "score": 1,
-        "fields": {
-            "title": "Cluster Protection RDC : Analyse des r\u00e9ponses et des lacunes (au 31 juillet 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/8619",
-                    "id": 8619,
-                    "name": "Protection Cluster",
-                    "shortname": "Protection Cluster",
-                    "longname": "Protection Cluster",
-                    "homepage": "https://www.globalprotectioncluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229484",
-            "date": {
-                "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-11T12:44:34+00:00",
-                "created": "2026-09-11T11:24:44+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229484"
-    },
-    {
-        "id": "4229480",
-        "score": 1,
-        "fields": {
-            "title": "Cluster Protection RDC : aper\u00e7u du monitoring de protection : Faits saillants et tendances majeures (juillet et ao\u00fbt 2026)",
-            "body": "En juillet et ao\u00fbt 2026, l'environnement de protection au Nord-Kivu n'a connu aucune am\u00e9lioration : intensification des a\ufb00rontements entre le groupe arm\u00e9 et des coalitions de groupes arm\u00e9s, multiplication des incursions et embuscades motiv\u00e9es par la recherche de vivres, et persistance des repr\u00e9sailles contre les civils soup\u00e7onn\u00e9s de collusion. Ces violences ont provoqu\u00e9 de nombreuses exactions, une aggravation des violences sexuelles aux abords du parc national des Virunga et d'importants d\u00e9placements forc\u00e9s.\n\nPrincipaux faits saillants de la p\u00e9riode :\n\n- Baisse sensible des attaques d'envergure des pr\u00e9sum\u00e9s d\u2019un groupe arm\u00e9 en ao\u00fbt gr\u00e2ce aux patrouilles, mais hausse des extorsions, de la taxation ill\u00e9gale et des meurtres cibl\u00e9s \u00e0 Beni.\n- Nouvelles vagues de d\u00e9placements forc\u00e9s et pr\u00e9ventifs li\u00e9es aux a\ufb00rontements et aux repositionnements d'\u00e9l\u00e9ments arm\u00e9s dans le Masisi et \u00e0 Walikale.\n- Structures de la riposte \u00e0 la maladie \u00e0 virus Ebola de nouveau prises pour cible par des acteurs arm\u00e9s, entravant l'acc\u00e8s des populations aux soins \u00e0 Butembo.\n- Enl\u00e8vements collectifs de femmes suivis de viols signal\u00e9s, principalement dans le parc national des Virunga, \u00e0 Nyiragongo et \u00e0 Walikale.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/8619",
-                    "id": 8619,
-                    "name": "Protection Cluster",
-                    "shortname": "Protection Cluster",
-                    "longname": "Protection Cluster",
-                    "homepage": "https://www.globalprotectioncluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229480",
-            "date": {
-                "original": "2026-09-08T00:00:00+00:00",
-                "changed": "2026-09-11T12:46:55+00:00",
-                "created": "2026-09-11T11:03:17+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229480"
-    },
-    {
-        "id": "4229452",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique centrafricaine: Aper\u00e7u des mouvements de population (juillet 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229452",
-            "date": {
-                "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-11T12:50:40+00:00",
-                "created": "2026-09-11T09:17:25+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229452"
-    },
-    {
-        "id": "4229451",
-        "score": 1,
-        "fields": {
-            "title": "Central African Republic: Overview of population movements (July 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229451",
-            "date": {
-                "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-11T12:49:11+00:00",
-                "created": "2026-09-11T09:09:18+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229451"
-    },
-    {
-        "id": "4229450",
-        "score": 1,
-        "fields": {
-            "title": "Groupe de Travail Cash : Compte rendu de la r\u00e9union mensuelle de juillet, vendredi 31 juillet 2026 (10h00 - 11h30) [Meeting Minutes]",
-            "body": "**1. Suivi des points d\u2019action**  \n  \nConcernant le reporting et l'analyse de donn\u00e9es, les contributions pour le Cash Dashboard du deuxi\u00e8me trimestre (T2) 2026 sont attendues en urgence afin de finaliser un premier draft avec par l\u2019\u00e9quipe de gestion de l'information (IM) ; les cycles futurs devront imp\u00e9rativement int\u00e9grer des indicateurs pour analyser l'\u00e9volution de la couverture et l'impact du financement. Pour le suivi des march\u00e9s, le rapport final du dispositif conjoint (REACH/PAM VAM) a \u00e9t\u00e9 diffus\u00e9, et une nouvelle collecte par REACH est programm\u00e9e (pr\u00e9vue du 4 au 31 ao\u00fbt) pour inclure des indicateurs sp\u00e9cifiques sur la faisabilit\u00e9 technique du cash. Enfin, l'ajustement des param\u00e8tres d\u00e9mographiques du panier de d\u00e9pense minimum (MEB), notamment la taille moyenne des m\u00e9nages, est mis en attente des r\u00e9sultats officiels du recensement national (RGPH) pour garantir un alignement sur des donn\u00e9es officielles actualis\u00e9es.  \n  \nSur le plan de la gouvernance et des services op\u00e9rationnels, les Termes de R\u00e9f\u00e9rence (ToR) du GT-Cash sont d\u00e9sormais finalis\u00e9s, ayant re\u00e7u la validation de l'ICCG avant d'\u00eatre partag\u00e9s avec l'ensemble des membres. Une session ad hoc organis\u00e9e par Hulo concernant l'approche de contrat mutualis\u00e9 avec les fournisseurs de services de paiement (FSP) est officiellement pr\u00e9vue le 12 ao\u00fbt ; cette session visera \u00e0 pr\u00e9senter le processus aux organisations int\u00e9ress\u00e9es par cette plateforme partag\u00e9e. Par ailleurs, en r\u00e9ponse aux recommandations de la r\u00e9union pr\u00e9c\u00e9dente, la coordination a pr\u00e9sent\u00e9 lors de cette s\u00e9ance du 31 juillet une nouvelle proposition de m\u00e9thodologie de transfert bas\u00e9e sur des groupes de taille de m\u00e9nage (approche hybride) pour am\u00e9liorer l'\u00e9quit\u00e9 et la praticabilit\u00e9 sur le terrain.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229450",
-            "date": {
-                "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-11T14:09:53+00:00",
-                "created": "2026-09-11T09:05:24+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229450"
-    },
-    {
-        "id": "4229449",
-        "score": 1,
-        "fields": {
-            "title": "Groupe de Travail Cash : Compte rendu de la r\u00e9union mensuelle de juin, vendredi 26 juin 2026 (10h00 - 11h30) [Meeting Minutes]",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229449",
-            "date": {
-                "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-11T14:11:28+00:00",
-                "created": "2026-09-11T08:49:27+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229449"
-    },
-    {
-        "id": "4229446",
-        "score": 1,
-        "fields": {
-            "title": "RCA GTCASH: Note d'orientation - Calcul des valeurs des Transferts d'esp\u00e8ces \u00e0 usage multiple (juillet 2026)",
-            "body": "Cette note propose une base commune pour harmoniser les montants des transferts d\u2019esp\u00e8ces \u00e0 usages multiples (TEUM/MPCA) en R\u00e9publique centrafricaine. Elle s\u2019appuie sur le Minimum Expenditure Basket (MEB), tout en int\u00e9grant deux param\u00e8tres essentiels : la taille des m\u00e9nages et les diff\u00e9rences de contexte entre les zones d\u2019intervention. L\u2019enjeu est de retenir une m\u00e9thode \u00e0 la fois robuste sur le plan technique, simple \u00e0 appliquer sur le plan op\u00e9rationnel et coh\u00e9rente pour l\u2019ensemble des acteurs.  \n Plusieurs approches peuvent \u00eatre utilis\u00e9es pour d\u00e9terminer la valeur de transfert. Toutefois, dans une perspective d\u2019harmonisation, l\u2019ajustement du montant doit permettre de mieux refl\u00e9ter les besoins r\u00e9els des m\u00e9nages, tout en \u00e9vitant d\u2019alourdir les processus de ciblage, de planification et de mise en oeuvre. Deux approches bas\u00e9es sur le co\u00fbt du MEB apparaissent particuli\u00e8rement pertinentes \u00e0 cet effet.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229446",
-            "date": {
-                "original": "2026-09-11T00:00:00+00:00",
-                "changed": "2026-09-11T14:11:48+00:00",
-                "created": "2026-09-11T08:35:33+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229446"
-    },
-    {
-        "id": "4229386",
-        "score": 1,
-        "fields": {
-            "title": "Ebola Outbreak, DRC and Region, Situation Report #13 (September 10, 2026)",
-            "body": "**FAST FACTS**\n\n- On May 15, the DRC declared an outbreak of Ebola virus disease (EVD), later confirmed to be caused by the Bundibugyo strain.\n- As of September 8, 6,843 confirmed EVD cases and 3,310 confirmed EVD deaths had been reported in the DRC.\n- Uganda, where the last confirmed case was released from treatment on July 16, has officially declared its outbreak to be over. Final numbers in Uganda were 20 confirmed cases and two confirmed deaths.\n- In the DRC, the outbreak remains centered in Ituri province, but cases have also been confirmed in Bas-U\u00e9l\u00e9, Haut-U\u00e9l\u00e9, North Kivu, South Kivu and Tshopo provinces.\n- This outbreak has been classified by the World Health Organization (WHO) as a Public Health Emergency of International Concern.\n- No EVD cases have been confirmed in South Sudan, but risk of an outbreak remains high due to transient populations and porous borders with the DRC.\n\n**OUR RESPONSE**\n\n- Across the region, our teams are providing case management, infection prevention and control (IPC), screening and triage, risk communication and community engagement (RCCE), training and preparedness planning.\n- We are supporting more than 100 facilities in the screening, identification and treatment of EVD.\n- Our supported sites in the DRC have so far conducted 626,380 EVD screenings and provided treatment to 1,911 patients, including 521 confirmed cases.\n- We have so far trained 2,930 people in the DRC on EVD case management, response and transmission prevention.\n\nIn the DRC, International Medical Corps continues to closely coordinate with the Ministry of Health and relevant partners to support case management, screening-and-referral units, facility-based surveillance, MHPSS, IPC, logistics, just-in-time training, continuity of essential health services, and water, sanitation and hygiene services. We also are part of broader efforts to expand contact tracing, which will strengthen mapping, daily monitoring and follow-up activities to better address the risk of undetected transmission across operational areas and beyond.\n\nIn Uganda, International Medical Corps is working through a trusted partner to support Ebola preparedness and surveillance results across Bundibugyo, Kampala and Ntoroko districts. We have provided training on community-based disease surveillance to 369 people, and have screened 2,665 people at points of entry and 1,022 at bus stations. Our surveillance systems have supported daily monitoring of 1,399 contacts, received 254 alerts from village health teams, identified 94 alerts that met the Ebola case definition and collected 31 samples. Our RCCE interventions have directly reached 1,858 people, supported 18 community dialogue sessions with 1,368 participants and distributed 11,398 educational materials.\n\nInternational Medical Corps is continuing to support national EVD preparedness efforts across South Sudan and is actively participating in coordination and technical pillar meetings at both national and county levels. We regularly engage with the National Public Health Institute, the Ministry of Health, county health departments and EVD technical working groups\u2014including key coordination platforms for case management, IPC, surveillance and RCCE\u2014to strengthen coordination, technical capacity and overall readiness for timely detection and response to potential EVD cases.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2019",
-                    "id": 2019,
-                    "name": "International Medical Corps",
-                    "shortname": "IMC",
-                    "longname": "International Medical Corps",
-                    "homepage": "https://internationalmedicalcorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229386",
-            "date": {
-                "original": "2026-09-10T00:00:00+00:00",
-                "changed": "2026-09-11T00:38:50+00:00",
-                "created": "2026-09-10T18:43:08+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229386"
-    },
-    {
-        "id": "4229319",
-        "score": 1,
-        "fields": {
-            "title": "Lake Chad Basin - Humanitarian Overview \u2013 2026 (as of 9 September 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229319",
-            "date": {
-                "original": "2026-09-10T00:00:00+00:00",
-                "changed": "2026-09-10T12:48:25+00:00",
-                "created": "2026-09-10T12:43:47+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229319"
-    },
-    {
-        "id": "4229318",
-        "score": 1,
-        "fields": {
-            "title": "Sahel Dashboard - Humanitarian Overview \u2013 2026 (As of 9 September 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229318",
-            "date": {
-                "original": "2026-09-10T00:00:00+00:00",
-                "changed": "2026-09-10T12:49:40+00:00",
-                "created": "2026-09-10T12:42:16+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229318"
     }
 ]
