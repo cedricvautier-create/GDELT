@@ -1,18 +1,57 @@
 [
     {
+        "id": "4230032",
+        "score": 1,
+        "fields": {
+            "title": "Northeastern DRC - Bordering areas | Regional overview: mobility patterns - September 2026 (Update 4, 15 September 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4230032",
+            "date": {
+                "original": "2026-09-15T00:00:00+00:00",
+                "changed": "2026-09-16T03:08:12+00:00",
+                "created": "2026-09-16T02:40:16+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4230032"
+    },
+    {
         "id": "4229998",
         "score": 1,
         "fields": {
             "title": "West and Central Africa: Latest Events at a glance (8-14 September 2026)",
             "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
                 "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
+                    "lat": -4.03833,
+                    "lon": 21.7587
                 }
             },
             "source": [
@@ -34,7 +73,7 @@
             "url": "https://reliefweb.int/node/4229998",
             "date": {
                 "original": "2026-09-15T00:00:00+00:00",
-                "changed": "2026-09-15T16:55:44+00:00",
+                "changed": "2026-09-16T00:10:09+00:00",
                 "created": "2026-09-15T16:54:00+00:00"
             }
         },
@@ -46,14 +85,14 @@
         "fields": {
             "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (du 8 au 14 septembre 2026)",
             "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
                 "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
+                    "lat": -4.03833,
+                    "lon": 21.7587
                 }
             },
             "source": [
@@ -75,7 +114,7 @@
             "url": "https://reliefweb.int/node/4229997",
             "date": {
                 "original": "2026-09-15T00:00:00+00:00",
-                "changed": "2026-09-15T16:53:35+00:00",
+                "changed": "2026-09-16T00:10:41+00:00",
                 "created": "2026-09-15T16:52:56+00:00"
             }
         },
@@ -1635,58 +1674,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4229625"
-    },
-    {
-        "id": "4229621",
-        "score": 1,
-        "fields": {
-            "title": "COD: Incendie - 09-2026 - S\u00e9rie d'incendies \u00e0 Bukavu dans la province du Sud-Kivu en RDC (2026-09-12)",
-            "body": "## **Description**\n\nUne s\u00e9rie d'incendies d\u00e9vastateurs a frapp\u00e9 trois aires de sant\u00e9 de la ville de Bukavu (Buholo-Kasha, Mosala et Chimpunda), provoquant d'importants d\u00e9g\u00e2ts mat\u00e9riels et de lourdes pertes humaines.\n\nLe premier foyer s'est d\u00e9clar\u00e9 pendant les heures de cours sur l\u2019avenue Nyabwanda, dans le quartier Buholo-Kasha (commune de Bagira). Un feu de cuisine laiss\u00e9 sans surveillance serait \u00e0 l'origine de l'embrasement d'une habitation situ\u00e9e \u00e0 proximit\u00e9 imm\u00e9diate des complexes scolaires *Furaha* et *Ujamaa*. L'incendie s'est ensuite rapidement propag\u00e9 jusqu\u2019\u00e0 l\u2019avenue Maendeleo (Funu B), dans le quartier voisin de Mosala (commune de Kadutu). Simultan\u00e9ment, deux autres incendies distincts se sont d\u00e9clar\u00e9s dans le quartier de Chimpunda, sur les avenues Lugulu et Elila A.\n\nL'annonce du sinistre a provoqu\u00e9 un mouvement de panique g\u00e9n\u00e9ralis\u00e9 : de nombreux parents se sont pr\u00e9cipit\u00e9s vers les \u00e9tablissements scolaires pour r\u00e9cup\u00e9rer leurs enfants, obstruant ainsi les voies d'\u00e9vacuation. Afin d'\u00e9viter que les \u00e9l\u00e8ves ne soient pi\u00e9tin\u00e9s dans la cour, les enseignants leur ont demand\u00e9 de rester confin\u00e9s dans les salles de classe en attendant un retour au calme. Malheureusement, d'\u00e9paisses fum\u00e9es ont rapidement envahi les locaux, asphyxiant d'abord les enseignants, puis les enfants.\n\nD\u00e9g\u00e2ts humains : 26 victimes d\u00e9c\u00e9d\u00e9es par asphyxie (dont 24 enfants et 2 adultes, parmi lesquels un enseignant), tous membres du Complexe Scolaire Ujamaa . M\u00e9nages touch\u00e9s : 441menages. \u2022 D\u00e9g\u00e2ts mat\u00e9riels : 344 maisons calcin\u00e9es, 2 \u00e9coles et 1 \u00e9glise d\u00e9truite. Destruction du r\u00e9seau de distribution d\u2019eau potable surtout mat\u00e9riaux en caoutchouc (tuyaux PVC et autres) ; Destruction des installations \u00e9lectriques ; Destruction des latrines ; Plusieurs personnes avec des probl\u00e8mes de sant\u00e9 mentale et Plusieurs enfants \u00e9taient s\u00e9par\u00e9s de leurs familles, la plupart ont retrouv\u00e9 leurs familles.\n\n## **Demandes d'aide**\n\nDemandes d'assistance internationale des gouvernements: **-**\n\nDemandes d'assistance internationale des Soci\u00e9t\u00e9s Nationales: **Oui**\n\n## **Bulletin d'information publi\u00e9**\n\nNon\n\n## **Actions entreprises par Soci\u00e9t\u00e9 nationale**\n\n### **General**\n\nEau et assainissement\n\nPremiers secours\n\nSant\u00e9\n\n\u00c9vacuation\n\nRecherche et sauvetage\n\n\u00c9valuation des dommages/besoins\n\nAide alimentaire\n\nGestion et identification des restes humains\n\nRLF\n\nServices de soutien psychosocial\n\n**R\u00e9sum\u00e9**\n\n## **Actions initi\u00e9es par d'autres**\n\nLe Gouvernement provincial a mis \u00e0 disposition trois ambulances publiques pour assurer le transport des bless\u00e9s et des d\u00e9pouilles : une de l\u2019h\u00f4pital g\u00e9n\u00e9ral de Kadutu, une de la zone de sant\u00e9 de Kadutu et une de l\u2019h\u00f4pital provincial g\u00e9n\u00e9ral de r\u00e9f\u00e9rence de Bukavu.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52293",
-                    "id": 52293,
-                    "name": "Croix-Rouge de la RDC",
-                    "shortname": "Croix-Rouge de la RDC",
-                    "longname": "Croix-Rouge de la R\u00e9publique D\u00e9mocratique du Congo",
-                    "homepage": "https://www.croixrouge-rdc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229621",
-            "date": {
-                "original": "2026-09-12T00:00:00+00:00",
-                "changed": "2026-09-14T01:59:32+00:00",
-                "created": "2026-09-14T01:32:25+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229621"
     }
 ]
