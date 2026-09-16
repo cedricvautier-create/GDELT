@@ -121,6 +121,47 @@
         "href": "https://api.reliefweb.int/v2/reports/4229997"
     },
     {
+        "id": "4229993",
+        "score": 1,
+        "fields": {
+            "title": "P21 - Tchad | Note de monitoring de protection (Janvier \u2013 juin 2026)",
+            "body": "Au premier semestre 2026, le Projet 21 a r\u00e9alis\u00e9 5 234 entretiens m\u00e9nages, 1 430 entretiens avec des informateurs cl\u00e9s et document\u00e9 5 563 incidents de protection dans 27 d\u00e9partements. Les atteintes \u00e0 l'int\u00e9grit\u00e9 physique, les violations du droit \u00e0 la propri\u00e9t\u00e9 et les violences bas\u00e9es sur le genre demeurent les principaux risques, soulignant la n\u00e9cessit\u00e9 de renforcer les m\u00e9canismes communautaires et les capacit\u00e9s de r\u00e9ponse",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4229993",
+            "date": {
+                "original": "2026-09-15T00:00:00+00:00",
+                "changed": "2026-09-16T04:28:27+00:00",
+                "created": "2026-09-15T16:03:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4229993"
+    },
+    {
         "id": "4229974",
         "score": 1,
         "fields": {
@@ -1621,58 +1662,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4229662"
-    },
-    {
-        "id": "4229625",
-        "score": 1,
-        "fields": {
-            "title": "COD: D\u00e9placement de population - 09-2026 - Mouvement des populations dans le village de KINTYA dans le territoire de Mitwaba, province de Haut-Katanga (2026-09-13)",
-            "body": "## **Description**\n\nLe territoire de Mitwaba reste l'un des principaux foyers d'instabilit\u00e9 du Haut-Katanga, marqu\u00e9 par l'activisme r\u00e9current des Ma\u00ef-Ma\u00ef Bakata Katanga. L'ann\u00e9e 2026 a \u00e9t\u00e9 marqu\u00e9e par deux incursions majeures confirm\u00e9es par les autorit\u00e9s et par une d\u00e9gradation de la s\u00e9curit\u00e9 autour du Parc National de l'Upemba.\n\n\u00c0 l\u2019heure actuelle, une nouvelle incursion des Ma\u00ef-Ma\u00ef a \u00e9t\u00e9 signal\u00e9e ce matin, vendredi 11 septembre 2026, aux environs de 4 h du matin. De vifs affrontements l'opposent aux \u00e9l\u00e9ments de l\u2019arm\u00e9e r\u00e9guli\u00e8re au village KINTYA, situ\u00e9 \u00e0 68 km au nord du centre de Mitwaba, \u00e0 la limite du territoire de Malemba-Nkulu. Le bilan provisoire fait \u00e9tat de 4 civils (Ma\u00ef-Ma\u00ef) tu\u00e9s, du d\u00e9placement de tout le village (soit plus ou moins 3 000 m\u00e9nages) vers les Village : NABIA, KANYONGA, KIPINDI a plus 12 km du lieu d'affrontements. et de plusieurs d\u00e9g\u00e2ts mat\u00e9riels. La situation est en cours d'\u00e9volution.\n\n**Chronologie des incursions r\u00e9centes**\n\n**a) Kyubo Mamba - 1er au 3 ao\u00fbt 2026 : Attaque la plus meurtri\u00e8re de l'ann\u00e9e**\n\nC'est l'\u00e9v\u00e9nement le plus document\u00e9.\n\n- **Lieu :** Localit\u00e9 de Kyubo Mamba, \u00e0 plus de 100 km de Mitwaba-centre et pr\u00e8s de 300 km de Lubumbashi.\n- **Heure :** Attaque lanc\u00e9e entre 5 h et 8 h du matin le dimanche 1er ao\u00fbt (certaines sources indiquent le 2 ao\u00fbt).\n- **Cible :** Cantonnement des FARDC.\n- **Mode op\u00e9ratoire :** Les assaillants ont ouvert le feu sur le cantonnement puis ont incendi\u00e9 plusieurs habitations. Des vid\u00e9os publi\u00e9es sur les r\u00e9seaux sociaux le 4 ao\u00fbt montrent des huttes en feu, des motos calcin\u00e9es et la panique des habitants.\n\n**Bilan humain \u00e9volutif :**\n\n- **Bilan initial de Radio Okapi :** 8 morts (dont 2 militaires et 6 civils, parmi lesquels une \u00e9pouse de militaire et 5 enfants morts dans l'incendie), ainsi qu'une dizaine de bless\u00e9s (dont une femme enceinte).\n- **Bilan r\u00e9vis\u00e9 par le Minist\u00e8re Provincial de l\u2019Int\u00e9rieur :** 10 morts (dont 2 FARDC et 8 civils), plus plusieurs bless\u00e9s.\n\n**b) Nkonga - 19 mars 2026 : Incursion repouss\u00e9e**\n\n- **Lieu :** Village de Nkonga, \u00e0 environ 35 km du centre de Mitwaba.\n- **Faits :** Des hommes arm\u00e9s ont \u00e9t\u00e9 vus sur le pont du village, et des cr\u00e9pitements de balles ont \u00e9t\u00e9 entendus entre 15 h et 17 h. Des vid\u00e9os virales montrent les assaillants se disant oppos\u00e9s au r\u00e9gime.\n\n**4. Cons\u00e9quences humanitaires**\n\n- **D\u00e9placements :** 15 000 \u00e0 20 000 d\u00e9plac\u00e9s internes recens\u00e9s dans plusieurs villages de Mitwaba, avec 50 \u00e0 100 nouveaux arrivants par jour fuyant les attaques et le harc\u00e8lement des milices ainsi que des soldats.\n- **Pr\u00e9carit\u00e9 :** Plus de 400 d\u00e9plac\u00e9s venus de Tomombo vers Lubudi vivent dans une grande pr\u00e9carit\u00e9 ; Caritas lance un appel \u00e0 l'aide.\n- **\u00c9ducation :** Historiquement, plus de 2 000 \u00e9l\u00e8ves issus de 9 \u00e9coles ont abandonn\u00e9 leurs \u00e9tudes apr\u00e8s des affrontements opposant les FARDC \u00e0 la milice de G\u00e9d\u00e9on Kyungu.\n\n## **Demandes d'aide**\n\nDemandes d'assistance internationale des gouvernements: **-**\n\nDemandes d'assistance internationale des Soci\u00e9t\u00e9s Nationales: **Oui**\n\n## **Bulletin d'information publi\u00e9**\n\nNon\n\n## **Actions entreprises par Soci\u00e9t\u00e9 nationale**\n\n### **General**\n\nEau et assainissement\n\nPremiers secours\n\nSant\u00e9\n\n\u00c9vacuation\n\nRecherche et sauvetage\n\nGestion et identification des restes humains\n\nDistribution de secours/d\u2019approvisionnement\n\nRLF\n\n**R\u00e9sum\u00e9**\n\n\u2022 Assistance et secours d\u2019urgence aux personnes d\u00e9plac\u00e9es durant le mouvement de population ; \u2022 Orientation des d\u00e9plac\u00e9s malades vers les structures de sant\u00e9 pour leur prise en charge \u2022 \u00c9valuation imm\u00e9diate ;\n\n## **Actions initi\u00e9es par d'autres**\n\n\u2022 \u00c9valuation s\u00e9curitaire et mission de l'administrateur du territoire sur place le 3 ao\u00fbt \u2022 Prise en charge m\u00e9dicale des bless\u00e9s \u00e0 Mitwaba \u2022 Annonce d'un d\u00e9ploiement d'une base d'op\u00e9ration temporaire \u00e0 Mitwaba par la MONUSCO / OCHA pour coordonner la r\u00e9ponse Mobilisation communautaire ; \u2022 \u00c9valuation rapide par l\u2019administration du territoire ; \u2022 Situation en cours.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52293",
-                    "id": 52293,
-                    "name": "Croix-Rouge de la RDC",
-                    "shortname": "Croix-Rouge de la RDC",
-                    "longname": "Croix-Rouge de la R\u00e9publique D\u00e9mocratique du Congo",
-                    "homepage": "https://www.croixrouge-rdc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229625",
-            "date": {
-                "original": "2026-09-13T00:00:00+00:00",
-                "changed": "2026-09-14T02:01:18+00:00",
-                "created": "2026-09-14T01:44:37+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229625"
     }
 ]
