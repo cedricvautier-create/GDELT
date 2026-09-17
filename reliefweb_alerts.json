@@ -1,5 +1,87 @@
 [
     {
+        "id": "4230278",
+        "score": 1,
+        "fields": {
+            "title": "WFP Chad Situation Report, 30 August 2026",
+            "body": "**HIGHLIGHTS**\n\n\u2022 WFP reached 566,354 acutely foodinsecure refugees through general food assistance, with women accounting for 51 percent of the beneficiaries.\n\n\u2022 WFP is scaling up its response to the rapidly deteriorating situation in Lake Province, where an estimated 75,210 people have been displaced since May 2026.\n\n\u2022 Following the official declaration of a cholera outbreak in N\u2019Djamena by the Ministry of Public Health and Prevention, WFP and other UN agencies and partners stand ready to support the Government\u2019s response efforts.\n\n**SITUATION UPDATE**\n\n**Humanitarian Situation:**\n\n\u2022 Between June and September, crisis levels of acute food insecurity (IPC 3) are expected in Chad\u2019s eastern provinces that host Sudanese refugees, as well as in the western Lake Province, which has a large internally displaced population due to persistent attacks by armed groups, according to FEWS NET\u2019s latest analysis . The analysis also highlights that refugees \u2013 more than 940,610 people who have arrived since April 2023, according to UNHCR \u2013 remain with limited livelihood opportunities and sources of income. Many refugees continue to rely heavily on food assistance to meet their basic food needs, and significant investments in livelihoods and agriculture, such as the ones under the Haguina initiative, continue to be required. In Lake Province, which hosts more than 294,800 internally displaced persons (IDPs), recent insecurity has led to the abandonment of arable land, population displacement, and a decline in fishing activities.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4230278",
+            "date": {
+                "original": "2026-09-17T00:00:00+00:00",
+                "changed": "2026-09-17T11:00:26+00:00",
+                "created": "2026-09-17T09:25:34+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4230278"
+    },
+    {
+        "id": "4230275",
+        "score": 1,
+        "fields": {
+            "title": "Eastern Democratic Republic of the Congo (DRC) Situation - Regional External Update #41 - August 2026",
+            "body": "HIGHLIGHTS\n\n\u2022 Despite progress in ongoing mediation efforts to end the conflict in eastern Democratic Republic of the Congo (DRC), violence continued to drive displacement and protection risks, with around 1.3 million Congolese refugees and asylum-seekers still hosted in neighbouring countries by end-August. UNHCR continued to call for sustained protection, humanitarian access and support to host communities.\n\n\u2022 The Ebola outbreak added urgency to the response: transmission in the DRC exceeded 7,200 confirmed cases and nearly 3,500 deaths1 across seven provinces since the outbreak was declared in May 2026. Meanwhile, the World Health Organization (WHO) and the Africa Centres for Disease Control declared Uganda Ebola-free after 42 days without a new confirmed case. Continued surveillance, preparedness and community engagement remained essential to protect displaced people and host communities.\n\n\u2022 Despite the challenges, voluntary returns to the DRC continued, with more than 70,000 Congolese refugees returning from Burundi in 2026 and tripartite frameworks with Tanzania and Zambia supporting principled, phased approaches. UNHCR and its partners continued working to ensure all returns remain voluntary, informed, safe and dignified, backed by reintegration support.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4230275",
+            "date": {
+                "original": "2026-09-17T00:00:00+00:00",
+                "changed": "2026-09-17T09:08:09+00:00",
+                "created": "2026-09-17T09:03:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4230275"
+    },
+    {
         "id": "4230210",
         "score": 1,
         "fields": {
@@ -1580,111 +1662,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4229837"
-    },
-    {
-        "id": "4229823",
-        "score": 1,
-        "fields": {
-            "title": "Activit\u00e9s d\u2019\u00e9radication de la poliomy\u00e9lite en R\u00e9publique d\u00e9mocratique du Congo (IEP)\u2013 S36 - 2026, Mise \u00e0 jour au 10 septembre 2026",
-            "body": "**Points saillants de la Semaine 36/2026**\n\n- Cas de PFA notifi\u00e9s et re\u00e7us au laboratoire \u00e0 la semaine 36: 40 cas de 2026\n- Isolats envoy\u00e9s vers NICD pour s\u00e9quen\u00e7age dans la semaine : 13 isolats envoy\u00e9s en s\u00e9quen\u00e7age et 48 en attente pour le r\u00e9sultat de s\u00e9quen\u00e7age ( 42 pour PFA et 6 isolats environnementaux);\n- Isolats envoy\u00e9s vers CDC pour s\u00e9quen\u00e7age dans la semaine : N\u00e9ant\n- Examens de suivi au 60\u00e8me jour r\u00e9alis\u00e9s au cours de la semaine : 9 cas (Kasai Central 1, Lualaba 1, Maniema 1, Nord Kivu 4 et Sud Kivu 2)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3748",
-                    "id": 3748,
-                    "name": "Global Polio Eradication Initiative",
-                    "shortname": "GPEI",
-                    "longname": "Global Polio Eradication Initiative",
-                    "spanish_name": "Iniciativa Mundial de Erradicaci\u00f3n de la Poliomielitis",
-                    "homepage": "https://polioeradication.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/732",
-                    "id": 732,
-                    "name": "Government of the Democratic Republic of the Congo",
-                    "shortname": "Govt. DR Congo",
-                    "longname": "Government of the Democratic Republic of the Congo",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229823",
-            "date": {
-                "original": "2026-09-15T00:00:00+00:00",
-                "changed": "2026-09-15T05:33:45+00:00",
-                "created": "2026-09-15T05:31:28+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229823"
-    },
-    {
-        "id": "4229794",
-        "score": 1,
-        "fields": {
-            "title": "Central African Republic BVD Readiness - DREF Operational Update (MDRCF034)",
-            "body": "**Description of the Event**\n\n**Date of event**\n\n17-05-2026\n\n**What happened, where and when?**\n\nBetween 15 and 18 May 2026, the Democratic Republic of the Congo (DRC) declared an outbreak of Ebola Virus Disease (EVD) caused by the Bundibugyo strain as a major public health emergency. This declaration was rapidly echoed by the World Health Organization (WHO) and the Africa Centres for Disease Control and Prevention (Africa CDC).\n\nAt that time, the outbreak was mainly affecting three provinces in the DRC, namely Ituri, North Kivu, and South Kivu. As of 18 June 2026, a total of 33 health zones had reported confirmed cases, distributed as follows: 21 out of 36 health zones (58.3%) in Ituri; 11 out of 34 health zones (32.4%) in North Kivu; 1 health zone in South Kivu.  \nThese figures confirmed that Ituri Province remained the epicentre of the outbreak.\n\nAccording to WHO data available on 18 June 2026, the DRC had recorded 896 confirmed EVD cases, including 208 deaths and 78 recoveries. Cross-border transmission had also been reported in Uganda, with 19 confirmed cases, including two deaths and seven recoveries.\n\nAlthough the Central African Republic (CAR) had not reported any confirmed EVD cases at that time, the country remained at high risk of disease importation due to its proximity to affected areas of the DRC. This outbreak, the seventeenth recorded in the DRC and the second associated with the Bundibugyo strain, had progressively expanded towards provinces located near the CAR border, notably Haut-U\u00e9l\u00e9.\n\nAvailable epidemiological information indicated a high likelihood of ongoing undetected transmission in this province, which, although it does not share a direct border with CAR, represents an important population movement corridor towards the border provinces of Bas- U\u00e9l\u00e9 and South Ubangi, thereby increasing the risk of regional spread.\n\nFurthermore, several public health alerts had been reported in areas close to the CAR border, including:  \nThe report of a death associated with a suspected viral haemorrhagic fever in Libenge Health Zone, South Ubangi Province, which hosts Central African refugees.\n\nA report dated 18 June 2026 from the Chief Medical Officer of Yakoma Health Zone in the DRC regarding a suspected EVD case in a locality bordering Ouango-Gambo Health District in CAR. A sample was collected and sent to the National Institute for Biomedical Research (INRB) in Kinshasa for testing, while the situation was closely monitored.\n\nIn this context, although no province directly bordering CAR had been affected at that stage, the combination of proximity to areas of probable transmission, intense cross-border population movements, repeated epidemiological alerts, and limited preparedness capacities fully justified the activation of a DREF preparedness operation. The operation aimed to anticipate and reduce the risk of EVD introduction and spread in CAR through proactive preparedness, community-based surveillance, and community engagement activities. A risk map illustrating the relationship between the affected provinces in the DRC and vulnerable areas in CAR was attached to support this analysis. Since the launch of the preparedness operation, seventeen suspected EVD cases have been reported and investigated in CAR. All laboratory results returned negative for Ebola Virus Disease.\n\nHowever, the epidemiological situation has evolved in a concerning manner over the past two months, with the outbreak progressively spreading to provinces that share a direct border with CAR. In August 2026, Bas-U\u00e9l\u00e9 Province, which borders CAR, reported its first confirmed EVD case in Buta Health Zone, becoming the sixth affected province in the DRC. The confirmed case was linked to travel from Haut-U\u00e9l\u00e9 Province, highlighting the persistent risk associated with population movements between affected areas and border districts in CAR.\n\nAs of 19 August 2026, the epidemiological situation in the DRC reported 103 new confirmed cases and 35 new deaths. The cumulative number of cases had reached 5,208 confirmed cases, compared with 896 cases on 18 June 2026, while cumulative deaths had risen to 2,476, compared with 208 deaths recorded on 18 June 2026. In addition, 84 per cent of identified contacts were under follow-up. On the same date, another confirmed EVD case was reported in Viadana Health Zone, Bas-U\u00e9l\u00e9 Province, in close proximity to the Haut-Mbomou, Mbomou, and Basse-Kotto health districts of the Central African Republic.\n\nThe progression of the outbreak is particularly alarming. While three provinces and 33 health zones were affected as of 18 June 2026, the situation by 19 August 2026 had expanded to six provinces and 55 affected health zones. The number of affected provinces therefore doubled within two months, while the number of affected health zones increased by nearly 67 per cent. This continued geographical expansion has brought the outbreak significantly closer to the CAR border and has substantially increased the risk of virus introduction into the country.\n\nIn response to this evolving situation, national authorities strengthened preparedness measures. A crisis coordination meeting was convened, and, on 22 August 2026, the Minister of Health led a field mission to Mbomou Prefecture accompanied by a multidisciplinary team. The mission aimed to assess the evolving situation, reinforce preparedness activities, and strengthen coordination mechanisms in areas considered at highest risk of cross-border transmission.\n\nGiven the rapid evolution of the outbreak in neighbouring DRC provinces, the recent confirmation of cases in areas bordering CAR, the doubling of affected provinces within only two months, and the continued high volume of cross-border population movements, sustained and strengthened preparedness efforts remain essential to reduce the risk of EVD introduction into the Central African Republic and to ensure the readiness of health authorities, communities, and Central African Red Cross response structures.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4229794",
-            "date": {
-                "original": "2026-09-14T00:00:00+00:00",
-                "changed": "2026-09-15T03:32:08+00:00",
-                "created": "2026-09-15T02:01:53+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4229794"
     }
 ]
