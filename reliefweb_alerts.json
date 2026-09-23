@@ -1,5 +1,125 @@
 [
     {
+        "id": "4231075",
+        "score": 1,
+        "fields": {
+            "title": "RCA Commission des mouvements de population - 31 Ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231075",
+            "date": {
+                "original": "2026-09-23T00:00:00+00:00",
+                "changed": "2026-09-23T10:56:49+00:00",
+                "created": "2026-09-23T10:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231075"
+    },
+    {
+        "id": "4231065",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR RBWCA - Forcibly Displaced and Stateless Persons Presence - August 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231065",
+            "date": {
+                "original": "2026-09-20T00:00:00+00:00",
+                "changed": "2026-09-23T09:15:59+00:00",
+                "created": "2026-09-23T09:03:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231065"
+    },
+    {
+        "id": "4231062",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR RBWCA - Democratic Republic of the Congo refugees situation - August 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231062",
+            "date": {
+                "original": "2026-09-20T00:00:00+00:00",
+                "changed": "2026-09-23T09:19:37+00:00",
+                "created": "2026-09-23T09:03:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231062"
+    },
+    {
         "id": "4231025",
         "score": 1,
         "fields": {
@@ -317,7 +437,7 @@
             "url": "https://reliefweb.int/node/4230953",
             "date": {
                 "original": "2026-09-22T00:00:00+00:00",
-                "changed": "2026-09-22T15:57:34+00:00",
+                "changed": "2026-09-23T10:10:07+00:00",
                 "created": "2026-09-22T15:57:21+00:00"
             }
         },
@@ -328,6 +448,7 @@
         "score": 1,
         "fields": {
             "title": "West and Central Africa: Latest Events at a glance (15-21 September 2026)",
+            "body": "**Democratic Republic of the Congo**\n\n**Ebola transmission continues across affected provinces,with Ituri remaining the epicentre**  \n  \nMore than 7,670 confirmed cases were reported by nationalauthorities as of 20 September 2026. Ituri, North Kivu and Haut-U\u00e9l\u00e9 continue to report sustained transmission, while aresurgence has been observed in Tshopo. No confirmed caseswere reported in Bas-U\u00e9l\u00e9 over the past 48 hours. Dungu HealthZone in Haut-U\u00e9l\u00e9 has also been newly affected, underscoring theneed to strengthen cross-border surveillance given its proximity toSouth Sudan. Ituri remains the epicentre, accounting for 77.2 percent of confirmed cases and 63 per cent of new cases reported inthe past 24 hours. Vaccination of frontline health workers startedon 19 September at the Grand Laboratory in Bunia, with support from M\u00e9decins Sans Fronti\u00e8res (MSF).\n\n**Central African Republic**\n\n**70 security and access incidents affected humanitarianworkers between January and August 2026**  \n  \n70 security and access-related incidents affecting humanitarianworkers were recorded between January and August 2026. Thelevel of incidents remains high, with an average of eight incidentsper month since the beginning of the year. The most affectedlocalities are Bangui, Birao (Vakaga prefecture, on the border withSudan) and Zemio (Haut-Mbomou prefecture, in the south-east onthe border with the Democratic Republic of the Congo). Of the sixincidents recorded in August, most were criminal in nature,including three cases of theft, one armed robbery and oneattempted armed robbery. Since January 2026, Vakaga hasremained the most affected prefecture, with 18 incidents recorded.\n\n**Cameroon**\n\n**Escalating violence displaces more than 10,700 peoplefrom Waza**\n\n  \nSince 17 September, non-state armed group attacks in Logone-et-Chari Division, Far North region, have displaced more than 10,700people from Waza Subdivision, including 8,600 to Waza Centre,1,600 to Maroua and nearly 500 to Mora. Displaced people aresheltering in schools, stadiums, abandoned buildings and hostcommunities, with priority needs including water, hygiene andsanitation (WASH), shelter, food, dignity kits and healthcare.Despite an initial WASH response, sanitation gaps remain critical.A rapid assessment in Waza Centre is planned for 23 September,while insecurity continues to constrain humanitarian access.Some displaced people are reportedly seeking safer areas inneighbouring divisions despite authorities\u2019 calls for return.\n\n**Niger**\n\n**Floods affect more than 57,000 people nationwide**\n\n  \nAs of 14 September, floods had affected 57,356 people (8,214households), causing 65 deaths and 118 injuries. Maradi, Zinderand Dosso are the worst affected, with 7,512 houses collapsed,253 classrooms damaged, and significant livestock and food-stock losses. Further rainfall is expected this week but withinnormal seasonal patterns. The rainy season is expected to end inlate September\u2013early October, slightly later than usual. Diffa andZinder remain under drought-risk monitoring linked to El Ni\u00f1o,with localized drought already reported. By comparison, floodsaffected 588,537 people and caused 116 deaths during the sameperiod in 2025.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/49",
                 "id": 49,
@@ -358,7 +479,7 @@
             "url": "https://reliefweb.int/node/4230946",
             "date": {
                 "original": "2026-09-22T00:00:00+00:00",
-                "changed": "2026-09-22T15:25:40+00:00",
+                "changed": "2026-09-23T09:02:57+00:00",
                 "created": "2026-09-22T15:25:20+00:00"
             }
         },
@@ -409,7 +530,7 @@
             "url": "https://reliefweb.int/node/4230927",
             "date": {
                 "original": "2026-09-22T00:00:00+00:00",
-                "changed": "2026-09-22T14:04:50+00:00",
+                "changed": "2026-09-23T08:57:46+00:00",
                 "created": "2026-09-22T14:04:38+00:00"
             }
         },
@@ -1583,126 +1704,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4230548"
-    },
-    {
-        "id": "4230518",
-        "score": 1,
-        "fields": {
-            "title": "Improved Local Flour in CAR: What it Takes to Sustain Community-Led Nutrition Solutions",
-            "body": "## How can families improve young children\u2019s diets when nutritious foods are costly, external funding is uncertain and supply chains are under pressure? This was the challenge facing many households in Ouaka, in the Central African Republic (CAR), where diets often rely heavily on staple foods such as cassava. While cassava is widely available, it is naturally low in essential nutrients. Over time, limited dietary diversity can contribute to micronutrient deficiencies and increase the risk of malnutrition.\n\n## Why local alternatives matter\n\nMalnutrition remains a major public health concern in CAR, particularly in Ouaka, regularly classified as being in an alert or critical nutritional situation. Nationally, according to the IPC, 29.8% of the population is undernourished, and it was estimated that more than 228,500 children ages 6-59 months would suffer from acute malnutrition between March 2025 and February 2026, including over 61,500 cases of severe acute malnutrition. This reflects a combination of insecurity and population movement, low household incomes, climate shocks, rising food prices, high levels of infectious disease and limited access to safe water and adequate sanitation. Pregnant and breastfeeding women and children under two are among those most affected.\n\nHumanitarian organisations often respond through imported, processed and fortified nutritional products. These can play an important role in preventing malnutrition, but they depend on external funding and international supply chains and are rarely accessible to the most vulnerable households once project support ends. Enriched local flours are sometimes available on local markets, but their cost can also place them beyond the reach of many families. As funding pressures grow, organisations are therefore paying renewed attention to locally produced alternatives that draw on ingredients available through local markets and agricultural systems.\n\nBetween September 2024 and August 2026, Concern and Acted implemented the project *\u2018Promotion de la r\u00e9silience nutritionnelle et promotion de l'\u00e9galit\u00e9 de genre au sein des m\u00e9nages vuln\u00e9rables de la Ouaka\u2019*, funded by the French Ministry for Europe and Foreign Affairs. The project tested whether locally produced improved flour could become a sustainable, affordable and community-led option within resilience programming, and what would be needed for families and communities to continue producing it after direct project support ended.\n\nThe project worked directly with 670 families to promote improved local flour made from affordable, locally available ingredients, including cowpea, sesame, groundnut and maize. Cooking demonstrations at nutrition education centres shared preparation techniques and encouraged complementary feeding using local foods. The approach aimed to improve the quality of young children\u2019s diets while strengthening household self-reliance. Awareness-raising sessions therefore focused not only on nutritional knowledge, but also on practical skills that families could continue to apply after the project ended.\n\nImproved local flour offers a promising complement to specialised nutritional supplements, particularly where funding and supply chains are under pressure. The project also reported wider changes in household practices, including improved hygiene behaviours and a 154 per cent increase in reported male involvement in childcare.\n\nThe project also points to a wider lesson for nutrition programming: locally available ingredients are only part of the solution. For improved flour to remain viable after external support ends, communities also need reliable input supplies, functioning equipment and clear systems for managing production.\n\n## What made local production difficult?\n\nThe project aimed to shift gradually from externally supplied inputs to production by participating families. In practice, two constraints limited this transition.\n\n1. Delays in seed distribution disrupted the agricultural calendar, preventing sufficient local production from being established before the project ended.\n2. Use of the mills remained limited because of breakdowns, maintenance difficulties and weak management arrangements. The final evaluation found that one quarter of the mills were already out of working order by the end of the project, mainly due to breakdowns and a lack of spare parts.\n\nThese constraints do not undermine the relevance of improved local flour. Instead, they show that technical solutions need practical systems around them. Communities may have the skills to produce improved flour, but sustainability also depends on timely access to seeds, functioning mills, maintenance arrangements and clear local management. The lesson is straightforward: improved local flour can support nutrition prevention when local supply and management systems are planned from the start.\n\n## Designing local solutions to last\n\nThis points to the need to treat improved local flour not only as a nutrition intervention, but as part of a wider food systems approach. This means planning for agricultural production, household and market access to inputs, income-generating opportunities and the functioning of local markets.\n\nOne opportunity lies in strengthening local input production chains. Agricultural Seed Multiplier Groups could be mobilised earlier and more systematically to multiply and distribute the seeds needed for the crops used in improved local flour. This would help secure supply after the project ends and embed flour production within a more self-sufficient local value chain, reducing dependence on external support.\n\nMills also need to be managed as part of a community-led income-generating activity, rather than treated only as shared equipment. A management committee could oversee their use, organise routine maintenance and ensure transparent management of any income generated. A simple business plan would help define service terms, user contributions and how revenue should be allocated. This income could cover operating costs such as petrol, oil, repairs and spare parts, and could also support the purchase of inputs or seeds when local production is insufficient. This would help keep the mills in use, support regular maintenance and improve access to the ingredients needed for improved local flour.\n\nFor practitioners and programme designers, the key takeaway is clear: local nutrition solutions need to be designed as systems, not stand-alone activities. Improved local flour can support nutrition prevention when communities have the skills, inputs, equipment and management structures to keep producing it after external support ends. Building these conditions from the start can help turn a promising project intervention into a more durable, locally owned approach.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/359",
-                    "id": 359,
-                    "name": "Concern Worldwide",
-                    "shortname": "Concern",
-                    "longname": "Concern",
-                    "homepage": "https://www.concern.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230518",
-            "date": {
-                "original": "2026-09-18T00:00:00+00:00",
-                "changed": "2026-09-21T05:46:07+00:00",
-                "created": "2026-09-18T16:33:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230518"
-    },
-    {
-        "id": "4230508",
-        "score": 1,
-        "fields": {
-            "title": "IOM: Multi-Country Bundibugyo Ebola Virus Disease Outbreak - Situation Report No. 18 (7 to 13 September 2026)",
-            "body": "**SITUATION OVERVIEW**\n\nAccording to the Ministry of Health of the Democratic Republic of the Congo (DRC), as of 13 September 2026, the country had reported 7,258 confirmed cases of Ebola disease caused by the Bundibugyo virus, including 3,510 confirmed deaths, resulting in a crude case fatality ratio of 48.4 per cent. The outbreak remains concentrated in Ituri, North Kivu, Haut-U\u00e9l\u00e9, Tshopo and Bas-U\u00e9l\u00e9 provinces, with 54 health zones (administrative health districts) currently affected.\n\nThe outbreak continues to unfold within a complex humanitarian and mobility context. Population movements associated with trade, livelihoods, displacement, health-seeking behaviours and family links continue within outbreak-affected areas and across international borders, including neighbouring countries that continue to strengthen preparedness measures due to the risk of cross-border transmission. In this context, preparedness capacities at points of entry (PoEs), border communities and other high-risk locations remain essential to support early warning, detection, reporting and response to potential cross-border public health events.\n\nPreparedness activities across affected and at-risk countries continue to be informed by findings from mobility mapping, readiness assessments and cross-border risk analyses. Through population mobility mapping (PMM), flow monitoring and border health interventions, IOM and partners continue to strengthen understanding of population mobility patterns, mobility corridors and informal crossing routes that may influence transmission risks. These approaches support evidence-based prioritization of preparedness investments, including disease surveillance, referral systems, risk communication and community engagement (RCCE) and operational readiness measures.\n\nGiven ongoing transmission in eastern and north-eastern DRC, the risk of cross-border spread remains elevated in neighbouring countries connected through formal and informal mobility corridors.  \nPorous borders, informal crossings and frequent population movements linked to trade, family ties, displacement, insecurity and access to services may facilitate transmission and compound existing humanitarian vulnerabilities. Continued investment in preparedness measures, including screening, community- and event-based surveillance, RCCE, infection prevention and control (IPC), data systems and the pre-positioning of essential supplies",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230508",
-            "date": {
-                "original": "2026-09-18T00:00:00+00:00",
-                "changed": "2026-09-21T05:23:49+00:00",
-                "created": "2026-09-18T15:33:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230508"
-    },
-    {
-        "id": "4230497",
-        "score": 1,
-        "fields": {
-            "title": "RCA Dashboard du monitoring des incidents de protection - Juillet 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230497",
-            "date": {
-                "original": "2026-09-18T00:00:00+00:00",
-                "changed": "2026-09-18T14:39:40+00:00",
-                "created": "2026-09-18T14:03:43+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230497"
     }
 ]
