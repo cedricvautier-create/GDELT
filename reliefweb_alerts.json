@@ -1,5 +1,139 @@
 [
     {
+        "id": "4231395",
+        "score": 1,
+        "fields": {
+            "title": "UNICEF Democratic Republic of the Congo Humanitarian Situation Report No. 3 \u2013 Ebola Outbreak (Bundibugyo Virus), 31 August",
+            "body": "**Highlights**\n\n- UNICEF is scaling up its response from 49 to 60 affected and high-risk health zones, supporting Government-led efforts across community-based surveillance, RCCE, IPC/WASH, nutrition, MHPSS, clinical care, PSEA and continuity of essential services.\n- In August, 11,723 community actors, including 6,546 community mobilizers (RECOs), were trained and mobilized on RCCE and community-based surveillance. Since the beginning of the response, a total of 24,750 frontline workers, including 12,555 community mobilizers (RECOs), have been mobilized.\n- UNICEF-supported community surveillance networks generated 29,689 alerts in August, representing an 186 per cent increase from the previous reporting period. Contact tracing coverage reached 88 per cent, with 22,499 of 25,560 contacts followed, strengthening outbreak detection and monitoring efforts.\n- UNICEF and partners continued to deliver lifesaving support despite operational constraints due to the Ebola outbreak. In August, 126,078 people were reached with essential supplies and emergency health and nutrition assistance through the rapid response mechanism.\n- Ahead of the new school year, UNICEF and the Ministry of Education agreed on measures to ensure the safe reopening of schools in Ebola-affected provinces. UNICEF provided technical support to establish reopening standards based on risk assessments of the BVD spread in schools and will support 900 schools with WASH and IPC supplies, MHPSS services, and community awareness activities on Ebola prevention.\n- UNICEF requires US$113.5 million for its revised six-month response plan. As of 31 August 2026, US$34.4 million had been mobilized, leaving a US$79 million funding gap, equivalent to 70 per cent of the requirement.\n\n**EPIDEMIOLOGICAL SITUATION UPDATE**\n\nBetween 1 and 31 August 2026, the Democratic Republic of the Congo (DRC) reported 2,581 confirmed Bundibugyo virus disease (BVD) cases and 1,420 deaths. As of 31 August, cumulative confirmed cases had reached 6,186, including 3,007 deaths, corresponding to a case fatality ratio (CFR) of 48.6%. The outbreak continued to expand geographically with confirmed cases reported for the first time in Bas-U\u00e9l\u00e9 Province, bringing the number of affected provinces to six (Ituri, North Kivu, South Kivu, Haut-U\u00e9l\u00e9,  \nTshopo and Bas-U\u00e9l\u00e9). During August, an additional 12 health zones reported confirmed cases, increasing the total to 60 affected health zones, representing 39.7 per cent of the country's 151 health zones.\n\nThe outbreak is now the largest Ebola outbreak ever recorded in the DRC and the second largest globally. Ituri Province remains the epicentre, accounting for 81.9 per cent of all confirmed cases (5,065) and 2,305 deaths followed by North Kivu (868 cases, 589 deaths) and Haut-U\u00e9l\u00e9 (227 cases, 100 deaths). Transmission also continued in Tshopo, South Kivu and Bas-U\u00e9l\u00e9. Women and girls represent 53 per cent of reported cases. Children under 17 account for approximately 30.2 per cent of cases and 21.8 per cent of reported deaths, with children under five bearing the greatest burden, representing nearly two-thirds of deaths among children under 18. During August, 42 health workers were affected, underscoring ongoing risks to frontline responders.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231395",
+            "date": {
+                "original": "2026-09-24T00:00:00+00:00",
+                "changed": "2026-09-25T03:38:45+00:00",
+                "created": "2026-09-25T03:35:30+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231395"
+    },
+    {
+        "id": "4231391",
+        "score": 1,
+        "fields": {
+            "title": "MSNA - Termes de R\u00e9f\u00e9rence de la recherche - Evaluation multisectorielle des besoins (MSNA), CMR2601, Cameroun (24/09/2026, Version 1)",
+            "body": "Objectif g\u00e9n\u00e9ral\n\nL'\u00e9valuation multisectorielle des besoins (Multi-Sectoral Needs Assessment, MSNA) 2026 au Cameroun vise \u00e0 mettre \u00e0 disposition de la communaut\u00e9 humanitaire des donn\u00e9es permettant de comprendre la nature et la s\u00e9v\u00e9rit\u00e9 des besoins humanitaires des populations dans les r\u00e9gions de l\u2019Extr\u00eame Nord, du Nord-Ouest et du Sud-Ouest au Cameroun, afin d\u2019informer le cycle de programmation humanitaire (HPC 2027).",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231391",
+            "date": {
+                "original": "2026-09-24T00:00:00+00:00",
+                "changed": "2026-09-25T02:57:33+00:00",
+                "created": "2026-09-25T02:55:25+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231391"
+    },
+    {
+        "id": "4231384",
+        "score": 1,
+        "fields": {
+            "title": "COD: \u00c9pid\u00e9mie - 09-2026 - La R\u00e9publique D\u00e9mocratique du Congo fait face \u00e0 l'\u00e9pid\u00e9mique du chol\u00e9ra orient\u00e9e \u00e0 la hausse \u00e0 l'\u00e9chelle nationale (2026-09-24)",
+            "body": "## **Description**\n\nLa R\u00e9publique D\u00e9mocratique du Congo fait face \u00e0 une dynamique \u00e9pid\u00e9mique du chol\u00e9ra orient\u00e9e \u00e0 la hausse \u00e0 l'\u00e9chelle nationale. Pour la semaine 37, le pays avait enregistr\u00e9 environ 2 200 cas suspects et 14 d\u00e9c\u00e8s \u00e0 travers diff\u00e9rentes zones de sant\u00e9. Le bilan cumul\u00e9 de l'ann\u00e9e 2026 d\u00e9passe d\u00e9sormais les 41 300 cas suspects et 1 214 d\u00e9c\u00e8s notifi\u00e9s sur le territoire national. Au total, 16 des 26 provinces de la RDC ont notifi\u00e9 des foyers \u00e9pid\u00e9miques ou des cas actifs depuis le d\u00e9but de l'ann\u00e9e. Durant la semaine 38, l'Institut National de Sant\u00e9 Publique (INSP) identifie 5 provinces prioritaires ayant directement notifi\u00e9 des cas. Le Nord-Kivu constitue l'\u00e9picentre majeur de l'\u00e9pid\u00e9mie \u00e0 l'Est, aggrav\u00e9 par l'ins\u00e9curit\u00e9 et les d\u00e9placements massifs de populations. La province du Lualaba enregistre une transmission active au sein du bloc g\u00e9ographique du Grand-Katanga. La province du Tanganyika demeure un foyer sanitaire end\u00e9mique situ\u00e9 le long du bassin des Grands Lacs. Le Kasa\u00ef-Oriental pr\u00e9sente une r\u00e9\u00e9mergence active de cas n\u00e9cessitant un suivi particulier dans le Grand-Kasa\u00ef. La province de la Mongala confirme l'extension de la maladie le long du corridor fluvial du fleuve Congo. Onze autres provinces (Sud-Kivu, Haut-Katanga, Ituri, Maniema, Tshopo, Kasa\u00ef, Sud-Ubangi, Ma\u00ef-Ndombe, Kwango, Kinshasa, Kongo Central) restent sous surveillance. Les dix provinces restantes du pays n'ont pas rapport\u00e9 de foyer \u00e9pid\u00e9mique majeur durant cette p\u00e9riode. L'Est du pays concentre la majorit\u00e9 absolue des cas cumul\u00e9s en raison de la fragilit\u00e9 des infrastructures d'acc\u00e8s \u00e0 l'eau. Le trafic fluvial le long du fleuve Congo agit comme un vecteur cl\u00e9 de propagation du chol\u00e9ra vers les provinces de l'Ouest",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/52293",
+                    "id": 52293,
+                    "name": "Croix-Rouge de la RDC",
+                    "shortname": "Croix-Rouge de la RDC",
+                    "longname": "Croix-Rouge de la R\u00e9publique D\u00e9mocratique du Congo",
+                    "homepage": "https://www.croixrouge-rdc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1242",
+                    "id": 1242,
+                    "name": "International Federation of Red Cross and Red Crescent Societies",
+                    "shortname": "IFRC",
+                    "longname": "International Federation of Red Cross and Red Crescent Societies",
+                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                    "homepage": "https://www.ifrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231384",
+            "date": {
+                "original": "2026-09-24T00:00:00+00:00",
+                "changed": "2026-09-25T00:44:06+00:00",
+                "created": "2026-09-25T00:38:43+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231384"
+    },
+    {
         "id": "4231279",
         "score": 1,
         "fields": {
@@ -1539,140 +1673,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4230733"
-    },
-    {
-        "id": "4230730",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo, Ituri : Personnes d\u00e9plac\u00e9es internes et retourn\u00e9es (Au 30 juin 2026)",
-            "body": "Depuis le d\u00e9but de l\u2019ann\u00e9e 2026, pr\u00e9s de 144 000 personnes se sont nouvellement d\u00e9plac\u00e9es en Ituri, portant le total \u00e0 plus de 1,01 millions de personnes d\u00e9plac\u00e9es.\n\nLes femmes repr\u00e9sentent 51% de la population d\u00e9plac\u00e9es dans la province. Plus de 46% des d\u00e9placements sont dus aux attaques et affrontements arm\u00e9s.\n\nAu cours des 18 derniers mois pr\u00e8s de 614 000 personnes retourn\u00e9es dont 62,5% dans le territoire d\u2019Irumu.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230730",
-            "date": {
-                "original": "2026-09-21T00:00:00+00:00",
-                "changed": "2026-09-21T14:32:00+00:00",
-                "created": "2026-09-21T14:09:36+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230730"
-    },
-    {
-        "id": "4230729",
-        "score": 1,
-        "fields": {
-            "title": "Bulletin Cluster Sant\u00e9 \u2013 Septembre 2026\u2013 RDC",
-            "body": "La R\u00e9publique d\u00e9mocratique du Congo traverse une crise sanitaire complexe, marqu\u00e9e par la combinaison des conflits, d\u00e9placements de populations, ins\u00e9curit\u00e9 alimentaire, malnutrition, violences bas\u00e9es sur le genre (VBG) et plusieurs \u00e9pid\u00e9mies. Cette situation exerce une forte pression sur un syst\u00e8me de sant\u00e9 d\u00e9j\u00e0 fragile.\n\nAu 13 septembre 2026, la maladie \u00e0 virus Ebola (MVE) comptait 7 258 cas confirm\u00e9s et 3 510 d\u00e9c\u00e8s, avec 7 provinces et 62 zones de sant\u00e9 touch\u00e9es. L\u2019Ituri reste l\u2019\u00e9picentre avec 5 659 cas et 2 583 d\u00e9c\u00e8s, tandis que le Nord-Kivu rapporte 1 281 cas et 797 d\u00e9c\u00e8s. La r\u00e9ponse se poursuit sous le leadership du Minist\u00e8re de la Sant\u00e9, avec l\u2019appui du Cluster Sant\u00e9 et de ses partenaires dans la surveillance, la prise en charge, la pr\u00e9vention et contr\u00f4le des infections (PCI), le laboratoire, la communication sur les risques et l\u2019engagement communautaire.\n\nLes autres \u00e9pid\u00e9mies restent pr\u00e9occupantes. \u00c0 la semaine 36, 43 422 cas suspects de chol\u00e9ra et 1 050 d\u00e9c\u00e8s ont \u00e9t\u00e9 rapport\u00e9s depuis le d\u00e9but de l\u2019ann\u00e9e. \u00c0 la semaine 34, la rougeole comptait 122 236 cas suspects et 1 593 d\u00e9c\u00e8s, avec 142 zones de sant\u00e9 en \u00e9pid\u00e9mie.\n\nLes besoins humanitaires restent importants. Le HNRP r\u00e9vis\u00e9 estime 12,6 millions de personnes dans le besoin dans le secteur de la sant\u00e9, dont 5,4 millions cibl\u00e9es, pour un besoin financier de 236,5 millions USD. Dans les zones affect\u00e9es par Ebola, les d\u00e9placements, l\u2019ins\u00e9curit\u00e9 alimentaire et les contraintes d\u2019acc\u00e8s continuent de limiter l\u2019acc\u00e8s aux soins essentiels.\n\nLe Cluster Sant\u00e9 appelle \u00e0 renforcer la couverture des zones de sant\u00e9 p\u00e9riph\u00e9riques et difficiles d\u2019acc\u00e8s, maintenir les services essentiels non li\u00e9s \u00e0 Ebola, assurer la disponibilit\u00e9 des m\u00e9dicaments et intrants, renforcer les \u00e9quipes mobiles et la r\u00e9f\u00e9rence, et int\u00e9grer les besoins des personnes d\u00e9plac\u00e9es dans la planification sanitaire et multisectorielle.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/15477",
-                    "id": 15477,
-                    "name": "Health Cluster",
-                    "shortname": "Health Cluster",
-                    "homepage": "https://healthcluster.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230729",
-            "date": {
-                "original": "2026-09-21T00:00:00+00:00",
-                "changed": "2026-09-22T01:31:16+00:00",
-                "created": "2026-09-21T14:08:49+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230729"
-    },
-    {
-        "id": "4230727",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo : Ituri, \u00c9volution de la situation humanitaire (Au 30 juin 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230727",
-            "date": {
-                "original": "2026-09-21T00:00:00+00:00",
-                "changed": "2026-09-21T14:30:27+00:00",
-                "created": "2026-09-21T14:06:32+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230727"
     }
 ]
