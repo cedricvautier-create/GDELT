@@ -1,5 +1,85 @@
 [
     {
+        "id": "4231442",
+        "score": 1,
+        "fields": {
+            "title": "RBESA: SADC Region | Population of concern to UNHCR - 31 August 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231442",
+            "date": {
+                "original": "2026-09-25T00:00:00+00:00",
+                "changed": "2026-09-25T11:11:35+00:00",
+                "created": "2026-09-25T11:03:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231442"
+    },
+    {
+        "id": "4231425",
+        "score": 1,
+        "fields": {
+            "title": "Tchad \u2014 Suivi des urgences I Mouvements de Populations # 227 (septembre 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231425",
+            "date": {
+                "original": "2026-09-25T00:00:00+00:00",
+                "changed": "2026-09-25T11:18:53+00:00",
+                "created": "2026-09-25T10:03:17+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231425"
+    },
+    {
         "id": "4231395",
         "score": 1,
         "fields": {
@@ -1591,87 +1671,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4230755"
-    },
-    {
-        "id": "4230734",
-        "score": 1,
-        "fields": {
-            "title": "RD Congo : Chiffres humanitaires cl\u00e9s (au 31 ao\u00fbt 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230734",
-            "date": {
-                "original": "2026-09-21T00:00:00+00:00",
-                "changed": "2026-09-22T01:26:05+00:00",
-                "created": "2026-09-21T14:31:33+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230734"
-    },
-    {
-        "id": "4230733",
-        "score": 1,
-        "fields": {
-            "title": "DR Congo: Humanitarian Key Figures (as of 31 August 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230733",
-            "date": {
-                "original": "2026-09-21T00:00:00+00:00",
-                "changed": "2026-09-22T01:26:39+00:00",
-                "created": "2026-09-21T14:28:49+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230733"
     }
 ]
