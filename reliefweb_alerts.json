@@ -1,5 +1,47 @@
 [
     {
+        "id": "4231569",
+        "score": 1,
+        "fields": {
+            "title": "RD Congo : Ituri : le Coordonnateur humanitaire appelle \u00e0 pr\u00e9server la s\u00e9curit\u00e9 et la dignit\u00e9 des personnes d\u00e9plac\u00e9es de Kigonze",
+            "body": "**Kinshasa, le 27 septembre 2026 \u2013** Le Coordonnateur humanitaire en R\u00e9publique d\u00e9mocratique du Congo, M. Damien Mama, exprime sa vive pr\u00e9occupation face \u00e0 la d\u00e9t\u00e9rioration de la situation sur le site de Kigonze, \u00e0 Bunia (province de l\u2019Ituri), qui accueille pr\u00e8s de 19 000 personnes d\u00e9plac\u00e9es. Depuis le 20 septembre, des incidents de s\u00e9curit\u00e9 et de protection y ont \u00e9t\u00e9 signal\u00e9s, poussant de nombreuses familles \u00e0 quitter le site. \u00ab Des familles qui ont d\u00e9j\u00e0 tout perdu doivent pouvoir trouver s\u00e9curit\u00e9 et dignit\u00e9 l\u00e0 o\u00f9 elles sont venues chercher refuge. Les sites de personnes d\u00e9plac\u00e9es doivent pr\u00e9server leur caract\u00e8re civil et humanitaire, et toute solution concernant l\u2019avenir de ces familles doit \u00eatre volontaire, s\u00fbre et digne \u00bb, a d\u00e9clar\u00e9 M. Mama. Le Coordonnateur humanitaire est en contact \u00e9troit avec les autorit\u00e9s nationales et provinciales, dont il salue la disponibilit\u00e9, et poursuit avec elles un dialogue constructif afin de garantir la protection des personnes d\u00e9plac\u00e9es et de faciliter la r\u00e9ponse humanitaire. L\u2019ins\u00e9curit\u00e9 a \u00e9galement entrav\u00e9 l\u2019acc\u00e8s humanitaire au site, limitant la capacit\u00e9 des organisations \u00e0 \u00e9valuer les besoins, \u00e0 fournir une assistance vitale et \u00e0 assurer des services essentiels de protection. Kigonze figure \u00e9galement parmi les sites couverts par la riposte contre l\u2019\u00e9pid\u00e9mie d\u2019Ebola en cours. La dispersion des familles et les restrictions d\u2019acc\u00e8s risquent de compliquer la surveillance \u00e9pid\u00e9miologique et les efforts de contr\u00f4le de l\u2019\u00e9pid\u00e9mie. En Ituri, plus de 1,1 million de personnes sont d\u00e9plac\u00e9es par les conflits et les violences, dont plus de 373 000 vivent sur des sites de d\u00e9plac\u00e9s. Le Coordonnateur humanitaire r\u00e9it\u00e8re son appel \u00e0 la protection des civils et \u00e0 un acc\u00e8s humanitaire s\u00fbr et sans entrave, et r\u00e9affirme l\u2019engagement de la communaut\u00e9 humanitaire \u00e0 soutenir les efforts des autorit\u00e9s en faveur des personnes d\u00e9plac\u00e9es.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231569",
+            "date": {
+                "original": "2026-09-27T00:00:00+00:00",
+                "changed": "2026-09-27T13:22:29+00:00",
+                "created": "2026-09-27T13:21:42+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231569"
+    },
+    {
         "id": "4231462",
         "score": 1,
         "fields": {
@@ -1644,46 +1686,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4230921"
-    },
-    {
-        "id": "4230920",
-        "score": 1,
-        "fields": {
-            "title": "La Directrice g\u00e9n\u00e9rale de l'OIM appelle \u00e0 un soutien urgent alors que la RDC fait face \u00e0 la plus grande \u00e9pid\u00e9mie d'Ebola jamais enregistr\u00e9e",
-            "body": "IOM 2026 / La r\u00e9ponse de l'OIM \u00e0 Ebola appuie les d\u00e9pistages sanitaires au port de Bende, Kinshasa\n\n**Gen\u00e8ve/Nairobi, 22 septembre 2026** \u2013 Alors que l'\u00e9pid\u00e9mie d'Ebola en R\u00e9publique d\u00e9mocratique du Congo (RDC) atteint des niveaux sans pr\u00e9c\u00e9dent, l'Organisation internationale pour les migrations (OIM) intensifie ses efforts afin de renforcer la surveillance des maladies et la pr\u00e9paration le long des principaux corridors de mobilit\u00e9, notamment les voies fluviales et les zones frontali\u00e8res, afin de contribuer \u00e0 pr\u00e9venir toute nouvelle propagation.\n\nDepuis la d\u00e9claration de l'\u00e9pid\u00e9mie en mai 2026, le nombre de cas a continu\u00e9 d'augmenter. Plus de 7 400 cas confirm\u00e9s ont d\u00e9sormais \u00e9t\u00e9 enregistr\u00e9s, faisant de cette \u00e9pid\u00e9mie la plus importante jamais signal\u00e9e dans le pays, une crise exacerb\u00e9e par les conflits en cours et les d\u00e9placements \u00e0 grande \u00e9chelle. Au 16 septembre, l'Organisation mondiale de la Sant\u00e9 avait signal\u00e9 plus de 3 600 d\u00e9c\u00e8s. Au cours de la m\u00eame p\u00e9riode, l'OIM a appuy\u00e9 les autorit\u00e9s locales en r\u00e9alisant plus de 33 millions de d\u00e9pistages sanitaires dans la r\u00e9gion, atteignant des millions de personnes gr\u00e2ce \u00e0 des informations vitales et \u00e0 des orientations vers des services appropri\u00e9s.\n\n\u00ab Il s'agit de la plus grande \u00e9pid\u00e9mie d'Ebola \u00e0 laquelle la RDC ait jamais \u00e9t\u00e9 confront\u00e9e, soumettant \u00e0 une pression encore plus grande les familles touch\u00e9es par les conflits et les crises. Nos \u00e9quipes travaillent aux c\u00f4t\u00e9s des autorit\u00e9s sanitaires locales pour d\u00e9tecter les risques pr\u00e9cocement et aider les personnes \u00e0 acc\u00e9der aux soins. Une coop\u00e9ration \u00e9troite \u00e0 travers les fronti\u00e8res est indispensable pour contenir la maladie \u00bb, a d\u00e9clar\u00e9 Amy Pope, Directrice g\u00e9n\u00e9rale de l'OIM.\n\n\u00ab Mais nous n'avons re\u00e7u qu'un tiers du financement n\u00e9cessaire \u00e0 notre r\u00e9ponse. Nous avons urgemment besoin d'un soutien accru pour maintenir ce travail et prot\u00e9ger les communaut\u00e9s en RDC et dans les pays voisins. \u00bb\n\nLes personnes d\u00e9plac\u00e9es et les communaut\u00e9s d'accueil au sein de l'\u00e9picentre de l'\u00e9pid\u00e9mie se heurtent \u00e0 des obstacles particuliers pour acc\u00e9der aux services de sant\u00e9. La surpopulation, l'insuffisance des services d'eau, d'assainissement et d'hygi\u00e8ne, le manque d'acc\u00e8s aux services essentiels ainsi que les lacunes dans la surveillance des maladies dans les sites de d\u00e9placement rendent la d\u00e9tection pr\u00e9coce plus difficile.\n\nL'OIM renforce la surveillance des maladies et la pr\u00e9paration \u00e0 travers la RDC en utilisant la cartographie de la mobilit\u00e9 des populations et le suivi des flux afin d'identifier les corridors de mobilit\u00e9 \u00e0 haut risque, les points d'entr\u00e9e des communaut\u00e9s frontali\u00e8res et les points de passage informels, permettant ainsi aux autorit\u00e9s de mieux cibler leur r\u00e9ponse face \u00e0 une maladie \u00e0 propagation rapide.\n\nL'organisation intensifie \u00e9galement la surveillance des maladies dans les sites de d\u00e9placement et le long du fleuve Congo, une voie essentielle pour les personnes se dirigeant vers Kinshasa. Au point de contr\u00f4le de Bende-Bende, l'OIM appuie les autorit\u00e9s sanitaires gr\u00e2ce \u00e0 des formations et \u00e0 d'autres activit\u00e9s essentielles de pr\u00e9paration, parall\u00e8lement au d\u00e9pistage des voyageurs. Les \u00e9quipes y r\u00e9alisent en moyenne environ 1 000 d\u00e9pistages sanitaires par jour.\n\nL'OIM travaille en \u00e9troite collaboration avec les gouvernements et les partenaires des pays voisins, notamment l'Ouganda, le Soudan du Sud, le Burundi, le Rwanda et la R\u00e9publique centrafricaine, ainsi qu'avec d'autres pays de la r\u00e9gion pr\u00e9sentant des risques, afin de renforcer la pr\u00e9paration et de r\u00e9duire le risque de transmission transfrontali\u00e8re.\n\nPour maintenir et d\u00e9velopper ces activit\u00e9s, l'OIM sollicite 110 millions USD dans le cadre de son Plan de pr\u00e9paration et de r\u00e9ponse \u00e0 la maladie \u00e0 virus Ebola dans plusieurs pays. \u00c0 ce jour, 29,6 millions USD ont \u00e9t\u00e9 re\u00e7us, laissant plus de la moiti\u00e9 de l'appel sans financement. Des ressources suppl\u00e9mentaires sont n\u00e9cessaires d'urgence pour maintenir la surveillance le long des principaux corridors de mobilit\u00e9, renforcer la pr\u00e9paration dans les pays voisins et veiller \u00e0 ce que les populations en situation de mobilit\u00e9 et les personnes d\u00e9plac\u00e9es soient pleinement incluses dans la r\u00e9ponse.\n\nLa r\u00e9ponse de l'OIM est soutenue par le Gouvernement des \u00c9tats-Unis, le Fonds central pour les interventions d'urgence des Nations Unies (CERF), l'Union europ\u00e9enne, le Gouvernement du Japon et la Banque mondiale.\n\n*Pour de plus amples informations, veuillez consulter le* [*Centre m\u00e9dias de l'OIM*](https://www.iom.int/media-inquiries)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230920",
-            "date": {
-                "original": "2026-09-22T00:00:00+00:00",
-                "changed": "2026-09-22T13:59:27+00:00",
-                "created": "2026-09-22T13:33:19+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230920"
     }
 ]
