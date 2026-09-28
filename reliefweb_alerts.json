@@ -1,5 +1,389 @@
 [
     {
+        "id": "4231723",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 28st September 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231723",
+            "date": {
+                "original": "2026-09-28T00:00:00+00:00",
+                "changed": "2026-09-28T17:13:07+00:00",
+                "created": "2026-09-28T17:12:59+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231723"
+    },
+    {
+        "id": "4231710",
+        "score": 1,
+        "fields": {
+            "title": "WFP Cameroon Country Brief, September 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231710",
+            "date": {
+                "original": "2026-09-28T00:00:00+00:00",
+                "changed": "2026-09-28T14:56:10+00:00",
+                "created": "2026-09-28T14:56:05+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231710"
+    },
+    {
+        "id": "4231709",
+        "score": 1,
+        "fields": {
+            "title": "Impact de la crise Ebola sur le secteur de l\u2019\u00e9ducation_ Mise \u00e0 jour Septembre 2026",
+            "body": "- Ampleur de la crise Ebola sur l\u2019\u00e9ducation (Sep 2026): rentr\u00e9e scolaire en contexte d'Ebola\n- O\u00f9 sont les besoins ?\n- Appel au financement",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231709",
+            "date": {
+                "original": "2026-09-28T00:00:00+00:00",
+                "changed": "2026-09-28T14:54:04+00:00",
+                "created": "2026-09-28T14:51:26+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231709"
+    },
+    {
+        "id": "4231707",
+        "score": 1,
+        "fields": {
+            "title": "Bulletin des incidents contre l'\u00e9ducation au 31 ao\u00fbt 2026",
+            "body": "Bulletin des incidents contre l'\u00e9ducation au 31 ao\u00fbt 2026:\n\nSituation des incidents contre l\u2019\u00e9ducation  \n\\- Incidents contre l'education et les zones affect\u00e9es\n\n\\- Ecoles et enfants directement affect\u00e9s par province\n\n\\- Ecoles ferm\u00e9es et enfants affect\u00e9s suite aux incidents contre les \u00e9coles",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231707",
+            "date": {
+                "original": "2026-09-28T00:00:00+00:00",
+                "changed": "2026-09-28T14:43:25+00:00",
+                "created": "2026-09-28T14:39:35+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231707"
+    },
+    {
+        "id": "4231698",
+        "score": 1,
+        "fields": {
+            "title": "NWSW Nutrition Cluster Map reflecting SAM and MAM screened in 2025 and 2026",
+            "body": "**SUMMARY OF SAM SCREENED IN 2026**\n\nIn 2026, the Nutrition Cluster screened 128,940 children (54% girls and 46% boys) for malnutrition. A total of 7,015 (5.44%) children were identified with SAM out of which 1,563 (22.22%) were admitted, that it 866 (12%) girls and 697 (10%) boys of the total SAM cases. A total of 77.78% of the SAM cases identified in 2026 are still unattended.\n\nOut of the 128,940 children screened, 3,937 (3%) were found to be Moderately Acutely Malnourished (MAM), with an admission rate of 12% (470) of the total MAM, comprising 246 (52%) girls and 224 (48%) boys. This falls short of expectations, with 97% unadmitted.\n\n**SUMMARY OF SAM SCREENED IN 2025**\n\nIn 2025, the Nutrition Cluster screened 342,057 children (53% girls and 47% boys) for malnutrition. A total of 3739 (1.09%) children were identified with SAM out of which 3,670 (98.15%) were admitted, that it 2,102 (56%) girls and 1,568 (42%) boys of the total SAM cases. This presents an excellent admission rate compared to 2026 plagued by funding scarcity.\n\nOut of the 342,057 children screened, 28,973 (8.47%) were found to be Moderately Acutely Malnourished (MAM), with an admission rate of 59% (17,056) of the total MAM, comprising 9,800 (57%) girls and 7,256 (43%) boys. This presents a good admission rate compared to 2026, during which only 3% of MAM cases were admitted.\n\n**These findings call for a dire need for timely nutrition interventions to continue to save the lives of children 6 to 59 months old in the NWSW Regions. THE TIME TO ACT IS NOW**",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/4145",
+                    "id": 4145,
+                    "name": "Nutrition Cluster",
+                    "shortname": "Nutrition Cluster",
+                    "homepage": "http://nutritioncluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231698",
+            "date": {
+                "original": "2026-09-28T00:00:00+00:00",
+                "changed": "2026-09-28T14:13:46+00:00",
+                "created": "2026-09-28T14:12:30+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231698"
+    },
+    {
+        "id": "4231695",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR TCHAD | Afflux des R\u00e9fugi\u00e9s du Soudan | Statistiques de l'enregistrement individuel biom\u00e9trique (27 sep 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231695",
+            "date": {
+                "original": "2026-09-28T00:00:00+00:00",
+                "changed": "2026-09-28T14:09:08+00:00",
+                "created": "2026-09-28T14:03:18+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231695"
+    },
+    {
+        "id": "4231677",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR CHAD | CORE Sudan Emergency Situation (27 Sep 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231677",
+            "date": {
+                "original": "2026-09-28T00:00:00+00:00",
+                "changed": "2026-09-28T14:02:06+00:00",
+                "created": "2026-09-28T13:04:30+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231677"
+    },
+    {
+        "id": "4231676",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR CHAD | CORE Situation d'urgence des R\u00e9fugi\u00e9s Soudanais (27 sep. 2026)",
+            "body": "Depuis avril 2023, le CNARR, le HCR et l'OIM surveillent et assistent un afflux de r\u00e9fugi\u00e9s soudanais et de  \nretourn\u00e9s tchadiens arrivant dans les provinces de Ouaddai, Sila, Wadi-Fira et Ennedi Est. Les agences  \nhumanitaires soutiennent le gouvernement tchadien et les autorit\u00e9s locales pour fournir une assistance vitale et  \ndes services de protection. Le gouvernement et le HCR ont aid\u00e9 69% des r\u00e9fugi\u00e9s \u00e0 quitter les sites d'arriv\u00e9e  \nspontan\u00e9e pour s'installer dans des camps nouvellement \u00e9tablis o\u00f9 les d\u00e9plac\u00e9s b\u00e9n\u00e9ficient des services fournis  \npar les \u00e9quipes humanitaires.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231676",
+            "date": {
+                "original": "2026-09-28T00:00:00+00:00",
+                "changed": "2026-09-28T14:01:30+00:00",
+                "created": "2026-09-28T13:04:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231676"
+    },
+    {
         "id": "4231671",
         "score": 1,
         "fields": {
@@ -1421,328 +1805,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4231109"
-    },
-    {
-        "id": "4231093",
-        "score": 1,
-        "fields": {
-            "title": "DRC: Humanitarian needs surging as Ebola spreads and El Ni\u00f1o looms",
-            "body": "The twin threat of Ebola and El Ni\u00f1o in the Democratic Republic of Congo risks deepening an already dire humanitarian crisis, CARE International warns today.\n\nThe warning comes as a [new report](https://impactlab.org/research/451000-at-risk) projects [as many as 10,000 people](https://www.theguardian.com/environment/2026/sep/23/el-nino-450000-extra-deaths-six-months) in the DRC could die as a result of additional heat brought by the super El Ni\u00f1o in the next six months.\n\n**Michael Alandu, CARE Regional Director for West and Central Africa, said:** \u201cWe are witnessing Ebola spread at a terrifying speed through communities already pushed to the brink by severe hunger, displacement, disease and conflict. At the same time, communities are bracing for El Ni\u00f1o-driven floods and drought.\u201d\n\nExtreme weather cause by El Ni\u00f1o could displace families, destroy homes and livelihoods, contaminate water sources, disrupt health services, and leave entire communities cut off as roads and bridges become impassable.\n\n\u201cWhen people are struggling to meet their most basic needs, disease spreads faster and becomes far harder to contain. The appearance of Ebola in South Ubangi, more than 1,000 kilometers from where it started in Ituri province, proves that no community is safe from the virus. Every new case places an intolerable burden on a healthcare system that is already stretched beyond its limits,\u201d Alandu said.\n\nWith millions displaced across the affected provinces, tracking exposure and containing Ebola is especially challenging. Many people live in overcrowded areas with limited access to healthcare, clean water and sanitation, while insecurity and poor road infrastructure make it harder to detect cases, reach communities and stop transmission. These same barriers can also undermine community engagement, surveillance, referral and access to care, all of which are essential to controlling an outbreak.\n\nWomen and girls are paying the highest price in this crisis. They are often the ones caring for sick relatives, collecting water, finding food and looking after children, increasing their risk of exposure while adding to an already overwhelming burden. Displacement, disrupted services and economic hardship also heighten the risks of gender-based violence, including sexual violence, exploitation and exclusion from essential healthcare and protection services.\n\nCARE International is highlighting the urgent need to scale up prevention, surveillance and community-based response to save lives. CARE teams are working alongside the Ministry of Health, women-led organisations, healthcare workers and community members to build trust, strengthen awareness, support early identification of suspected cases, and provide vulnerable people with essential assistance.\n\nBut the response is not keeping pace with growing needs; increased investment is urgently needed alongside guaranteed humanitarian access. As climate risks intensify, humanitarian and public health responses must also be better prepared to operate in communities that may become increasingly difficult to reach.\n\n\u201cInvesting now in local capacity, community preparedness and resilient health systems can help ensure that an Ebola response is not disrupted by the next climate-related shock. Acting now will save lives,\u201d Alandu said.\n\n**For media inquiries**, please email ellis@careinternational.org or press.uk@careinternational.org",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1457",
-                    "id": 1457,
-                    "name": "CARE",
-                    "shortname": "CARE",
-                    "longname": "CARE International",
-                    "homepage": "https://www.care-international.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231093",
-            "date": {
-                "original": "2026-09-23T00:00:00+00:00",
-                "changed": "2026-09-23T13:24:26+00:00",
-                "created": "2026-09-23T12:33:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231093"
-    },
-    {
-        "id": "4231090",
-        "score": 1,
-        "fields": {
-            "title": "PAM RDC - Apercu du Pays - aout 2026",
-            "body": "- **Assistance d\u2019urgence :** En juillet, le PAM a aid\u00e9 environ 1,38 million de personnes, dont pr\u00e8s de 689 000 gr\u00e2ce \u00e0 des distributions alimentaires en nature et 402 000 au moyen de transferts mon\u00e9taires et de bons \u00e9lectroniques.\n- **Nutrition :** Les activit\u00e9s de pr\u00e9vention et de traitement de la malnutrition ont b\u00e9n\u00e9fici\u00e9 \u00e0 271 200 enfants de moins de cinq ans ainsi qu\u2019\u00e0 des femmes et des filles enceintes ou allaitantes.\n- **Riposte \u00e0 Ebola :** Le PAM a servi des repas chauds \u00e0 12 700 personnes dans 36 centres de traitement et d\u2019isolement, et a rapidement distribu\u00e9 3 900 repas \u00e0 1 000 voyageurs et agents de sant\u00e9.\n- **R\u00e9silience et \u00e9ducation :** Les transferts mon\u00e9taires et les activit\u00e9s de renforcement des capacit\u00e9s ont soutenu environ 14 000 personnes, tandis que les rations \u00e0 emporter ont b\u00e9n\u00e9fici\u00e9 \u00e0 plus de 10 000 \u00e9coliers.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231090",
-            "date": {
-                "original": "2026-09-23T00:00:00+00:00",
-                "changed": "2026-09-23T12:38:23+00:00",
-                "created": "2026-09-23T12:08:12+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231090"
-    },
-    {
-        "id": "4231088",
-        "score": 1,
-        "fields": {
-            "title": "WFP DRC Country Brief August 2026",
-            "body": "- **Emergency assistance:** WFP reached about 1.38 million people in July, including nearly 689,000 with in-kind food and 402,000 with cash and e-vouchers.\n- **Nutrition:** Malnutrition treatment and prevention activities supported 271,200 children under 5 and pregnant and breastfeeding women and girls.\n- **Ebola response:** WFP served hot meals to 12,700 people across 36 treatment and isolation sites and rapidly delivered 3,900 meals to 1,000 travellers and health workers.\n- **Resilience and education:** Cash transfers and capacity strengthening supported around 14,000 people, while take-home rations reached more than 10,000 schoolchildren.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231088",
-            "date": {
-                "original": "2026-09-23T00:00:00+00:00",
-                "changed": "2026-09-23T12:33:42+00:00",
-                "created": "2026-09-23T11:57:14+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231088"
-    },
-    {
-        "id": "4231077",
-        "score": 1,
-        "fields": {
-            "title": "Statistiques d\u00e9taill\u00e9es des personnes d\u00e9plac\u00e9es internes en RCA - 31 Ao\u00fbt 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231077",
-            "date": {
-                "original": "2026-09-23T00:00:00+00:00",
-                "changed": "2026-09-23T11:20:08+00:00",
-                "created": "2026-09-23T10:03:31+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231077"
-    },
-    {
-        "id": "4231076",
-        "score": 1,
-        "fields": {
-            "title": "RCA Rapport Commission Mouvement de Population - 31 Ao\u00fbt 2026",
-            "body": "I. Introduction\n\nLa Commission Mouvement de Population (CMP) est un m\u00e9canisme inter-organisationnel qui a pour but de fournir mensuellement des statistiques pr\u00e9cises et d\u2019analyser les tendances des d\u00e9placements forc\u00e9s de populations en RCA. Cette t\u00e2che implique l\u2019examen, la compilation et la consolidation des informations recueillies par les CMP locales et par les partenaires op\u00e9rant dans les zones non couvertes par une CMP. Le rapport s\u2019appuie sur des donn\u00e9es issues de diverses sources, dont le CCCM, la DTM et le monitoring de protection, ainsi que des \u00e9valuations alertes et des rapports de mission relatifs aux mouvements de population. La CMP effectue d\u2019abord une validation pr\u00e9liminaire des donn\u00e9es au niveau national, puis les transmet \u00e0 l\u2019\u00c9quipe Humanitaire Pays (EHP) pour approbation d\u00e9finitive. Le suivi des d\u00e9placements internes demeure un \u00e9l\u00e9ment essentiel pour orienter la r\u00e9ponse humanitaire et soutenir la prise de d\u00e9cision op\u00e9rationnelle en R\u00e9publique Centrafricaine (RCA). Dans un contexte marqu\u00e9 par des mouvements de populations li\u00e9s aux conflits, aux tensions communautaires, aux catastrophes naturelles et aux chocs socio-\u00e9conomiques, la disponibilit\u00e9 d'informations actualis\u00e9es sur les personnes d\u00e9plac\u00e9es internes (PDI) constitue un pr\u00e9alable indispensable \u00e0 une planification efficace des interventions.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231076",
-            "date": {
-                "original": "2026-09-23T00:00:00+00:00",
-                "changed": "2026-09-23T11:08:58+00:00",
-                "created": "2026-09-23T10:03:22+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231076"
-    },
-    {
-        "id": "4231075",
-        "score": 1,
-        "fields": {
-            "title": "RCA Commission des mouvements de population - 31 Ao\u00fbt 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231075",
-            "date": {
-                "original": "2026-09-23T00:00:00+00:00",
-                "changed": "2026-09-23T10:56:49+00:00",
-                "created": "2026-09-23T10:03:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231075"
-    },
-    {
-        "id": "4231065",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR RBWCA - Forcibly Displaced and Stateless Persons Presence - August 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231065",
-            "date": {
-                "original": "2026-09-20T00:00:00+00:00",
-                "changed": "2026-09-23T09:15:59+00:00",
-                "created": "2026-09-23T09:03:22+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231065"
-    },
-    {
-        "id": "4231062",
-        "score": 1,
-        "fields": {
-            "title": "UNHCR RBWCA - Democratic Republic of the Congo refugees situation - August 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231062",
-            "date": {
-                "original": "2026-09-20T00:00:00+00:00",
-                "changed": "2026-09-23T09:19:37+00:00",
-                "created": "2026-09-23T09:03:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231062"
     }
 ]
