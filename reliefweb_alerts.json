@@ -1,5 +1,85 @@
 [
     {
+        "id": "4231573",
+        "score": 1,
+        "fields": {
+            "title": "DRC \u2014 Ituri: Population Flow Monitoring Dashboard in the Context of the Ebola Virus Disease (EVD) Response, Week 37 (September 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231573",
+            "date": {
+                "original": "2026-09-27T00:00:00+00:00",
+                "changed": "2026-09-28T01:46:35+00:00",
+                "created": "2026-09-27T13:33:24+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231573"
+    },
+    {
+        "id": "4231572",
+        "score": 1,
+        "fields": {
+            "title": "RDC \u2014 Ituri : Suivi des flux de population \u2014 riposte \u00e0 la maladie \u00e0 virus Ebola (07/09/2026 \u2013 13/09/2026, semaine 37)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231572",
+            "date": {
+                "original": "2026-09-27T00:00:00+00:00",
+                "changed": "2026-09-28T01:49:07+00:00",
+                "created": "2026-09-27T13:33:13+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231572"
+    },
+    {
         "id": "4231569",
         "score": 1,
         "fields": {
@@ -40,6 +120,88 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4231569"
+    },
+    {
+        "id": "4231511",
+        "score": 1,
+        "fields": {
+            "title": "Disease Outbreak News: Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo (25 September 2026)",
+            "body": "**Situation at a glance**\n\nSince the last Disease Outbreak News was published on 11 September 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded further, with two additional health zones affected. These include Bulu health zone in a new province, Sud Ubangi, located on the north-west part of the country and Dungu health zone in Haut-U\u00e9l\u00e9 province, bordering South Sudan. This brings the total number of affected health zones to 63 across seven provinces out of 26 provinces of the country: Bas-U\u00e9l\u00e9, Haut-U\u00e9l\u00e9, Ituri, North Kivu, South Kivu, Sud Ubangi and Tshopo. This latest geographic expansion increases the risk of cross-border transmission. As of 23 September 2026, the Democratic Republic of the Congo has reported 7890 confirmed cases, including 3799 deaths, resulting in a crude case fatality ratio (CFR) of 48.1%. At the national level, the number of new cases reported each day remains high. However, the situation varies across the country, with some provinces and health zones experiencing much higher levels of transmission than others. The continuously high CFR, and especially the continuous high rate of deaths occurring in communities, highlights the seriousness of the disease and the persistent challenges in timely case detection and access to early and adequate patient care. These delays can contribute to preventable illness and deaths among people in affected and newly affected areas, while also allowing transmission to continue within households, communities, and healthcare settings.\n\n**Description of the situation**\n\nSince the previous [Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON617) was published on 11 September 2026, an additional 1133 confirmed cases, including 532 confirmed deaths, have been reported in the Democratic Republic of the Congo. The seven-day moving average shows a resurgence in early September followed by a decline over the most recent reporting days. However, the aggregate national trend conceals substantial variation in transmission intensity across affected provinces and health zones.\n\nAs of 23 September, the Democratic Republic of the Congo has reported a total of 7890 confirmed cases, including 3799 deaths (CFR 48.1%). A total of 1966 patients have recovered to date.\n\nConfirmed cases have been reported from 63 health zones across seven provinces, with 48 health zones from six provinces reporting at least one case in the last 21 days. Ituri remains the most affected province, with 28 of its 36 health zones reporting cases, followed by North Kivu (16/34), Tshopo (7/23), Haut-U\u00e9l\u00e9 (7/13), Bas-U\u00e9l\u00e9 (3/11), South Kivu (1/34), and Sud Ubangi (1/16). No new cases have been reported from South Kivu province since 29 May 2026. Dungu Health Zone in Haut-U\u00e9l\u00e9 province and Bulu in Sud Ubangi are the most recently affected areas. As of 23 September, 70 new confirmed cases had been reported in the preceding 24 hours from 26 health zones located in Ituri, North Kivu, Haut-U\u00e9l\u00e9, Bas U\u00e9l\u00e9 and Tshopo provinces.\n\nIturi continues to be the epicentre of the outbreak, accounting for 6032 confirmed cases since the start of the outbreak, including 868 new confirmed cases reported in the previous 21 days, as of 23 September. North Kivu is the second most affected province, with a cumulative number of 1480 confirmed cases, including 567 reported in the last 21 days, as of 23 September. North Kivu province continues to report the highest CFR (59.7%) observed in this outbreak; and investigations are ongoing to better understand the factors contributing to this elevated mortality rate.\n\nIn Ituri, case incidence continues to decline gradually from the peak observed in mid-August, although transmission remains at elevated levels. North Kivu, in contrast, has experienced a substantial increase in incidence, reaching its highest reported level in mid-September, followed by a decline in recent reporting days. Haut-U\u00e9l\u00e9 continues to demonstrate sustained transmission, albeit at levels below the peak recorded in late August, while Tshopo is showing renewed transmission activity following a period of low incidence. In Bas-U\u00e9l\u00e9, transmission remains sporadic, whereas no recent evidence of transmission has been reported in Sud-Kivu. Sud Ubangi is the seventh province to report a confirmed case of BVD, with one case that was reported on 10 September (Figure 2).\n\nThe number of individuals requiring follow-up as contact has also risen considerably with the expansion of the outbreak. As of 23 September, 83.4% of identified contacts were successfully monitored during the previous 24 hours with 26 980 contacts seen out of 32 342 requiring follow up. The large volume of contacts under surveillance highlights the extent of potential exposure within affected communities and the substantial demands placed on response operations.\n\nThe response is being implemented in a challenging humanitarian environment, where conflict, insecurity, displacement, and limited access to basic services continue to affect outbreak control. These constraints continue to hamper surveillance, case finding, contact tracing, infection prevention and control, and timely access to appropriate care, thereby limiting the overall effectiveness of response activities.\n\n**Epidemiology**\n\nBundibugyo virus disease (BVD) is a severe Ebola disease caused by the Bundibugyo virus, one of the *Orthoebolavirus* species. It is a zoonotic disease, with fruit bats suspected to be the natural reservoir.\n\nHuman infection is thought to occur through close contact with the blood or secretions of infected wildlife, such as bats or non-human primates, and it subsequently spreads from person-to-person through direct contact with the blood, secretions, organs, or other bodily fluids of infected individuals or contaminated surfaces and materials. Transmission is particularly amplified in health-care settings when IPC measures are inadequate and during unsafe burial practices involving direct contact with deceased individuals.\n\nThe incubation period for BVD ranges from two to 21 days, and infected individuals are not infectious until symptom onset. Early symptoms such as fever, fatigue, muscle pain, headache, and sore throat are non-specific, which complicates clinical diagnosis and can delay detection. These symptoms then progress to gastrointestinal symptoms, organ dysfunction, and, in some cases, haemorrhagic manifestations.\n\nThe historical CFR from the past two BVD outbreaks, reported in Uganda and in the Democratic Republic of the Congo in 2007 and 2012, were 30% and 50%, respectively.\n\nDifferentiating BVD from other endemic febrile illnesses such as malaria is challenging without laboratory confirmation using polymerase chain reaction (PCR) or antigen- or antibody-based assays. Outbreak control relies on rapid case identification, isolation and care, contact tracing, safe burials and strong community engagement, as no approved vaccines or specific treatments currently exist for BVD.\n\nSince first detected in May 2026, this BVD outbreak has rapidly evolved into a large and geographically expanding epidemic in the Democratic Republic of the Congo, with sustained transmission, high mortality and an increasing risk of further international spread. The current outbreak is the second documented Bundibugyo virus disease outbreak in the country, after the 2012 outbreak, and the largest Ebola disease outbreak ever recorded in the Democratic Republic of the Congo irrespective of Ebola virus species. The population at greatest risk of exposure is concentrated in communities living in and moving through the health areas with active transmission.\n\n**Public health response**\n\nFor detailed information about the ongoing public health response actions by the Ministry of Health, WHO and partners please refer to the latest situation reports published by the WHO Regional Office for Africa: [Ongoing outbreak in the Democratic Republic of the Congo | WHO | Regional Office for Africa](https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26)\n\nHealth authorities in the Democratic Republic of the Congo, in collaboration with WHO and partners, are continuing to implement and coordinate extensive public health measures, including disease surveillance, laboratory testing, infection prevention and control, clinical care, community engagement, research, logistics and support for response interventions and essential health services, engaging donors and mobilizing additional resources to address critical funding gaps and sustain response operations across affected and at-risk areas. A substantial scale-up is ongoing across all response pillars to get ahead of the outbreak.\n\n**WHO risk assessment**\n\nOn 14 August 2026, WHO reassessed the risk of the outbreak of BVD, incorporating newly available information on the evolving situation. The risk for countries sharing land borders with the Democratic Republic of the Congo was separated from the risk for other countries in the African Region.\n\nThe risk in the Democratic Republic of the Congo was assessed as very high, the risk for countries sharing land borders with the Democratic Republic of the Congo was assessed as high, and the risks for the rest of the African region and at the global level was again assessed as low.\n\n**WHO advice**\n\nBased on the currently available information, WHO advises against any restriction of travel to, or trade with, affected countries. WHO continues to closely monitor and, where necessary, verify travel and trade measures in relation to this event.\n\nThe updated [Temporary Recommendations](https://www.who.int/news/item/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations) issued to States Parties on 24 August 2026 underscore the importance of coordinated outbreak control, strengthened cross\u2011border collaboration, and sustained surveillance and preparedness to prevent further regional spread and ensure an effective public health response. Rapid recognition of cases, testing and optimized supportive care can reduce mortality, and improve community perceptions and acceptance of health care within the response.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231511",
+            "date": {
+                "original": "2026-09-25T00:00:00+00:00",
+                "changed": "2026-09-28T00:53:04+00:00",
+                "created": "2026-09-25T18:03:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231511"
+    },
+    {
+        "id": "4231505",
+        "score": 1,
+        "fields": {
+            "title": "IOM: Multi-Country Bundibugyo Ebola Virus Disease Outbreak - Situation Report No. 19 (14 - 20 September 2026)",
+            "body": "**SITUATION OVERVIEW**\n\nAccording to the Ministry of Health of the Democratic Republic of the Congo (DRC), as of 20 September 2026, the Bundibugyo Ebola virus disease (BVD) outbreak had resulted in 7,733 confirmed cases, 3,732 deaths and 1,902 recoveries, representing a case fatality rate of 48.3 per cent. Since the beginning of the outbreak, 63 of 167 health zones (37.7%) across seven provinces have reported at least one confirmed case, while 55 health zones across five provinces remain classified as active transmission zones.\n\nAlthough several health zones have reported extended periods without detecting new cases, transmission remains concentrated in eastern DRC. A total of 61 newly confirmed cases were reported in Ituri (34), North Kivu (23) and Haut-U\u00e9l\u00e9 (4), with Ituri and North Kivu accounting for 93.4 per cent of all newly reported cases. The continued concentration of transmission in these areas underscores the need to sustain disease surveillance, response and preparedness capacities within affected provinces, while maintaining readiness in neighbouring countries connected through cross-border mobility corridors.\n\nWhile localized progress has been observed in parts of the response, mortality remains a significant concern. Community deaths continue to account for the majority of newly reported deaths, highlighting ongoing challenges related to early detection, timely referral and access to care. These challenges are particularly relevant in settings affected by displacement, insecurity and population movement, where delays in seeking or accessing care may contribute to continued transmission.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231505",
+            "date": {
+                "original": "2026-09-25T00:00:00+00:00",
+                "changed": "2026-09-28T01:55:03+00:00",
+                "created": "2026-09-25T15:03:15+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231505"
     },
     {
         "id": "4231462",
@@ -1512,179 +1674,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4230956"
-    },
-    {
-        "id": "4230953",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon Cholera Outbreak: Situation Report #6 (September 22, 2026)",
-            "body": "**FAST FACTS**\n\n- As of September 20, 447 cholera cases and four deaths have been reported in Minawao Refugee Camp, which currently is home to more than 81,000 refugees and operating at about 325% of intended capacity. In Cameroon, there have been 2,753 cases and 77 deaths across 11 health districts.\n- This cholera outbreak has a case fatality rate of 2.87%, which is nearly three times higher than the internationally accepted target of less than 1%.\n- Multiple transmission chains are suspected within the camp, where heavy rainfall is increasing the risk of rapid spread among vulnerable populations.\n\n**OUR RESPONSE**\n\n- International Medical Corps has been operating in Minawao Refugee Camp since 2013, providing refugees fleeing violence in Nigeria with primary, community-based and referred secondary healthcare.\n- In response to the severe outbreak, our team expanded the cholera treatment unit by 45 beds, trained 105 health workers in advanced case management and reached a daily average of 9,486 people through community hygiene sessions.\n- We have directly managed 447 patients\u2014predominantly children under 10\u2014with 438 successful recoveries (98% recovery rate). Working with the Mokolo Health District, teams also monitored 57 new contacts and referred nine suspected cases this period.\n- We are coordinating with national health authorities, United Nations agencies, camp management and humanitarian partners to support a harmonized response.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2019",
-                    "id": 2019,
-                    "name": "International Medical Corps",
-                    "shortname": "IMC",
-                    "longname": "International Medical Corps",
-                    "homepage": "https://internationalmedicalcorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230953",
-            "date": {
-                "original": "2026-09-22T00:00:00+00:00",
-                "changed": "2026-09-23T10:10:07+00:00",
-                "created": "2026-09-22T15:57:21+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230953"
-    },
-    {
-        "id": "4230946",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: Latest Events at a glance (15-21 September 2026)",
-            "body": "**Democratic Republic of the Congo**\n\n**Ebola transmission continues across affected provinces,with Ituri remaining the epicentre**  \n  \nMore than 7,670 confirmed cases were reported by nationalauthorities as of 20 September 2026. Ituri, North Kivu and Haut-U\u00e9l\u00e9 continue to report sustained transmission, while aresurgence has been observed in Tshopo. No confirmed caseswere reported in Bas-U\u00e9l\u00e9 over the past 48 hours. Dungu HealthZone in Haut-U\u00e9l\u00e9 has also been newly affected, underscoring theneed to strengthen cross-border surveillance given its proximity toSouth Sudan. Ituri remains the epicentre, accounting for 77.2 percent of confirmed cases and 63 per cent of new cases reported inthe past 24 hours. Vaccination of frontline health workers startedon 19 September at the Grand Laboratory in Bunia, with support from M\u00e9decins Sans Fronti\u00e8res (MSF).\n\n**Central African Republic**\n\n**70 security and access incidents affected humanitarianworkers between January and August 2026**  \n  \n70 security and access-related incidents affecting humanitarianworkers were recorded between January and August 2026. Thelevel of incidents remains high, with an average of eight incidentsper month since the beginning of the year. The most affectedlocalities are Bangui, Birao (Vakaga prefecture, on the border withSudan) and Zemio (Haut-Mbomou prefecture, in the south-east onthe border with the Democratic Republic of the Congo). Of the sixincidents recorded in August, most were criminal in nature,including three cases of theft, one armed robbery and oneattempted armed robbery. Since January 2026, Vakaga hasremained the most affected prefecture, with 18 incidents recorded.\n\n**Cameroon**\n\n**Escalating violence displaces more than 10,700 peoplefrom Waza**\n\n  \nSince 17 September, non-state armed group attacks in Logone-et-Chari Division, Far North region, have displaced more than 10,700people from Waza Subdivision, including 8,600 to Waza Centre,1,600 to Maroua and nearly 500 to Mora. Displaced people aresheltering in schools, stadiums, abandoned buildings and hostcommunities, with priority needs including water, hygiene andsanitation (WASH), shelter, food, dignity kits and healthcare.Despite an initial WASH response, sanitation gaps remain critical.A rapid assessment in Waza Centre is planned for 23 September,while insecurity continues to constrain humanitarian access.Some displaced people are reportedly seeking safer areas inneighbouring divisions despite authorities\u2019 calls for return.\n\n**Niger**\n\n**Floods affect more than 57,000 people nationwide**\n\n  \nAs of 14 September, floods had affected 57,356 people (8,214households), causing 65 deaths and 118 injuries. Maradi, Zinderand Dosso are the worst affected, with 7,512 houses collapsed,253 classrooms damaged, and significant livestock and food-stock losses. Further rainfall is expected this week but withinnormal seasonal patterns. The rainy season is expected to end inlate September\u2013early October, slightly later than usual. Diffa andZinder remain under drought-risk monitoring linked to El Ni\u00f1o,with localized drought already reported. By comparison, floodsaffected 588,537 people and caused 116 deaths during the sameperiod in 2025.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230946",
-            "date": {
-                "original": "2026-09-22T00:00:00+00:00",
-                "changed": "2026-09-23T09:02:57+00:00",
-                "created": "2026-09-22T15:25:20+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230946"
-    },
-    {
-        "id": "4230927",
-        "score": 1,
-        "fields": {
-            "title": "Cluster eau hygi\u00e8ne et assainissement - RDC: Bilan de la r\u00e9ponse humanitaire au 31 juillet 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3476",
-                    "id": 3476,
-                    "name": "WASH Cluster",
-                    "shortname": "WASH Cluster",
-                    "homepage": "https://www.washcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230927",
-            "date": {
-                "original": "2026-09-22T00:00:00+00:00",
-                "changed": "2026-09-23T08:57:46+00:00",
-                "created": "2026-09-22T14:04:38+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230927"
-    },
-    {
-        "id": "4230921",
-        "score": 1,
-        "fields": {
-            "title": "La directora general de la OIM llama a un apoyo urgente ante el mayor brote de \u00e9bola registrado en la RDC",
-            "body": "OIM 2026 / La respuesta de la OIM al \u00e9bola apoya los controles sanitarios en el puerto de Bende, Kinshasa\n\n**Ginebra/Nairobi, 22 de septiembre de 2026** \u2013 A medida que el brote de \u00e9bola en la Rep\u00fablica Democr\u00e1tica del Congo (RDC) alcanza niveles sin precedentes, la Organizaci\u00f3n Internacional para las Migraciones (OIM) est\u00e1 ampliando sus esfuerzos para reforzar la vigilancia epidemiol\u00f3gica y la preparaci\u00f3n a lo largo de las principales rutas de desplazamiento, incluidos los corredores fluviales y los pasos fronterizos, con el fin de contribuir a prevenir una mayor propagaci\u00f3n.\n\nDesde que el brote fue declarado en mayo de 2026, las cifras han seguido aumentando. Se han registrado m\u00e1s de 7.400 casos confirmados, lo que convierte este episodio en el mayor brote de \u00e9bola jam\u00e1s notificado en el pa\u00eds, una crisis agravada por el conflicto persistente y el desplazamiento a gran escala. Al 16 de septiembre, la Organizaci\u00f3n Mundial de la Salud hab\u00eda reportado m\u00e1s de 3.600 fallecidos. En el mismo per\u00edodo, la OIM ha apoyado a las autoridades locales con m\u00e1s de 33 millones de controles sanitarios en toda la regi\u00f3n, proporcionando informaci\u00f3n que puede salvar vidas y derivaciones a los servicios adecuados a millones de personas.\n\n*\"Este es el mayor brote de \u00e9bola al que se ha enfrentado la RDC, y somete a una presi\u00f3n a\u00fan mayor a las familias afectadas por el conflicto y la crisis. Nuestros equipos trabajan junto a las autoridades sanitarias locales para identificar los riesgos de manera temprana y ayudar a las personas a acceder a la atenci\u00f3n. La estrecha cooperaci\u00f3n transfronteriza es fundamental para contener la enfermedad\"*, declar\u00f3 Amy Pope, Directora General de la OIM. *\"Sin embargo, hemos recibido menos de un tercio de los fondos necesarios para nuestra respuesta. Necesitamos urgentemente m\u00e1s apoyo para sostener este trabajo y proteger a las comunidades de la RDC y de los pa\u00edses vecinos.\"*\n\nLas personas desplazadas y las comunidades de acogida dentro del epicentro del brote enfrentan barreras particulares para acceder a los servicios de salud. El hacinamiento, la insuficiencia de los servicios de agua y saneamiento, el acceso limitado a servicios esenciales para preservar la vida y las deficiencias en la vigilancia epidemiol\u00f3gica en los sitios de desplazamiento dificultan la detecci\u00f3n temprana.\n\nLa OIM est\u00e1 reforzando la vigilancia epidemiol\u00f3gica y la preparaci\u00f3n en toda la RDC mediante el mapeo de la movilidad y el seguimiento de flujos de poblaci\u00f3n para identificar los corredores de movilidad de alto riesgo, las comunidades fronterizas, los puntos de entrada (PoE) y los pasos informales, lo que permite a las autoridades orientar mejor la respuesta ante una enfermedad de r\u00e1pida propagaci\u00f3n.\n\nLa organizaci\u00f3n tambi\u00e9n est\u00e1 ampliando la vigilancia epidemiol\u00f3gica en los sitios de desplazamiento y a lo largo del r\u00edo Congo, una ruta clave para las personas que viajan hacia Kinshasa. En el punto de control de Bende-Bende, la OIM apoya a las autoridades sanitarias con capacitaci\u00f3n y otras actividades cr\u00edticas de preparaci\u00f3n, adem\u00e1s de los controles sanitarios de viajeros, con equipos que realizan un promedio de alrededor de 1.000 controles sanitarios por d\u00eda.\n\nLa OIM trabaja en estrecha colaboraci\u00f3n con los gobiernos y socios de los pa\u00edses vecinos, incluidos Uganda, Sud\u00e1n del Sur, Burundi, Rwanda y la Rep\u00fablica Centroafricana, as\u00ed como con otros pa\u00edses en riesgo de la regi\u00f3n, para reforzar la preparaci\u00f3n y reducir el riesgo de transmisi\u00f3n transfronteriza.\n\nPara sostener y ampliar esta labor, la OIM busca 110 millones de d\u00f3lares para su Plan de Preparaci\u00f3n y Respuesta ante la Enfermedad por el Virus del \u00c9bola en m\u00faltiples pa\u00edses. Hasta el momento se han recibido 29,6 millones de d\u00f3lares, dejando m\u00e1s de la mitad de las necesidades financieras sin cubrir. Se necesitan recursos adicionales de manera urgente para mantener la vigilancia a lo largo de las principales rutas de movimiento, fortalecer la preparaci\u00f3n en los pa\u00edses vecinos y garantizar que las comunidades m\u00f3viles y las personas desplazadas queden incluidas en la respuesta.\n\nLa respuesta de la OIM cuenta con el apoyo del Gobierno de los Estados Unidos, el Fondo Central de Respuesta a Emergencias de las Naciones Unidas (CERF), la Uni\u00f3n Europea, el Gobierno del Jap\u00f3n y el Banco Mundial.\n\n*Para m\u00e1s informaci\u00f3n, visite el* [*Centro de Medios de la OIM*](https://www.iom.int/media-inquiries)*.*",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4230921",
-            "date": {
-                "original": "2026-09-22T00:00:00+00:00",
-                "changed": "2026-09-22T14:00:30+00:00",
-                "created": "2026-09-22T13:33:21+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4230921"
     }
 ]
