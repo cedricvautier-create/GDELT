@@ -1,5 +1,46 @@
 [
     {
+        "id": "4231784",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - \u00c9pid\u00e9mie de maladie \u00e0 virus Ebola - Aper\u00e7u de la situation, semaine 39 - \u00e0 la date du 28 septembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231784",
+            "date": {
+                "original": "2026-09-29T00:00:00+00:00",
+                "changed": "2026-09-29T09:22:57+00:00",
+                "created": "2026-09-29T08:47:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231784"
+    },
+    {
         "id": "4231758",
         "score": 1,
         "fields": {
@@ -38,6 +79,46 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4231758"
+    },
+    {
+        "id": "4231749",
+        "score": 1,
+        "fields": {
+            "title": "Suivi des urgences - Mouvements de populations I Synth\u00e8se de d\u00e9placement dans la ville d\u2019Ounianga-K\u00e9bir - Tchad | Tableau de bord : 229 | Collecte des donn\u00e9es : 07 septembre 2026 | Date de publication : 23 septembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231749",
+            "date": {
+                "original": "2026-09-29T00:00:00+00:00",
+                "changed": "2026-09-29T05:16:25+00:00",
+                "created": "2026-09-29T01:33:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231749"
     },
     {
         "id": "4231748",
@@ -514,7 +595,7 @@
         "id": "4231677",
         "score": 1,
         "fields": {
-            "title": "UNHCR CHAD | CORE Sudan Emergency Situation (27 Sep 2026)",
+            "title": "CORE Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (27 Sep 2026)",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/55",
                 "id": 55,
@@ -544,7 +625,7 @@
             "url": "https://reliefweb.int/node/4231677",
             "date": {
                 "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-28T14:02:06+00:00",
+                "changed": "2026-09-29T06:15:04+00:00",
                 "created": "2026-09-28T13:04:30+00:00"
             }
         },
@@ -554,8 +635,8 @@
         "id": "4231676",
         "score": 1,
         "fields": {
-            "title": "UNHCR CHAD | CORE Situation d'urgence des R\u00e9fugi\u00e9s Soudanais (27 sep. 2026)",
-            "body": "Depuis avril 2023, le CNARR, le HCR et l'OIM surveillent et assistent un afflux de r\u00e9fugi\u00e9s soudanais et de  \nretourn\u00e9s tchadiens arrivant dans les provinces de Ouaddai, Sila, Wadi-Fira et Ennedi Est. Les agences  \nhumanitaires soutiennent le gouvernement tchadien et les autorit\u00e9s locales pour fournir une assistance vitale et  \ndes services de protection. Le gouvernement et le HCR ont aid\u00e9 69% des r\u00e9fugi\u00e9s \u00e0 quitter les sites d'arriv\u00e9e  \nspontan\u00e9e pour s'installer dans des camps nouvellement \u00e9tablis o\u00f9 les d\u00e9plac\u00e9s b\u00e9n\u00e9ficient des services fournis  \npar les \u00e9quipes humanitaires.",
+            "title": "CORE Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (27 sep. 2026)",
+            "body": "Depuis avril 2023, le CNARR, le HCR et l'OIM surveillent et assistent un afflux de r\u00e9fugi\u00e9s soudanais et de  \n retourn\u00e9s tchadiens arrivant dans les provinces de Ouaddai, Sila, Wadi-Fira et Ennedi Est. Les agences  \n humanitaires soutiennent le gouvernement tchadien et les autorit\u00e9s locales pour fournir une assistance vitale et  \n des services de protection. Le gouvernement et le HCR ont aid\u00e9 69% des r\u00e9fugi\u00e9s \u00e0 quitter les sites d'arriv\u00e9e  \n spontan\u00e9e pour s'installer dans des camps nouvellement \u00e9tablis o\u00f9 les d\u00e9plac\u00e9s b\u00e9n\u00e9ficient des services fournis  \n par les \u00e9quipes humanitaires.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/55",
                 "id": 55,
@@ -585,7 +666,7 @@
             "url": "https://reliefweb.int/node/4231676",
             "date": {
                 "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-28T14:01:30+00:00",
+                "changed": "2026-09-29T06:08:28+00:00",
                 "created": "2026-09-28T13:04:22+00:00"
             }
         },
@@ -1754,87 +1835,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4231197"
-    },
-    {
-        "id": "4231192",
-        "score": 1,
-        "fields": {
-            "title": "MSF expands response to Ebola disease with new treatment centres as outbreak spreads across provinces",
-            "body": "In northeastern [Democratic Republic of Congo (DRC)](https://www.msf.org/democratic-republic-congo-drc), M\u00e9decins Sans Fronti\u00e8res (MSF) is expanding our response to the [Ebola disease outbreak](https://www.msf.org/drc-ebola-outbreaks), as it spreads from the remote town of Nia Nia, in Ituri province, to Kisangani, the busy capital of neighbouring Tshopo province.  \n  \nIn Kisangani, MSF has been running the Ebola treatment centre (ETC) at H\u00f4pital du Cinquantenaire, in collaboration with the Ministry of Health, since the end of June. In the first week of September, patients were transferred to a new 22-bed ETC, built and run by MSF, increasing treatment capacity in Kisangani.  \n  \nIn Nia Nia, MSF teams started working alongside the Ministry of Health at the ETC in the local hospital in early August. This week, MSF opened a new 50-bed ETC next to the hospital, further expanding access to [Ebola](https://www.msf.org/ebola) care in the area.\n\nThe two locations are closely connected. Nia Nia is situated in an area with significant movement of people and goods between Ituri, Tshopo and Haut-Uele provinces. Since the first cases were reported there, people infected in or linked to Nia Nia have travelled to other areas, including Kisangani. Thirteen of the 14 positive cases recorded in Kisangani as of 1 September had an epidemiological link to Nia Nia.\n\n## Responding where the outbreak is spreading\n\nNia Nia has become a major focus of the [outbreak](https://www.msf.org/epidemics-and-pandemics) in southern Ituri. The town recorded its first cases at the end of June, but the response has faced significant challenges, including limited access to healthcare, gaps in infection prevention and control, and fear and misinformation within the community.  \n  \nMSF teams began working in Nia Nia in early August. As of 1 September, the Nia Nia ETC had admitted 85 people with symptoms matching Ebola. Of these, 59 were confirmed Ebola cases, including 15 patients who died. MSF opened a 50-bed ETC next to the existing facility, with 16 beds for suspected cases and 34 for confirmed cases, this week. The new centre is designed to provide safer and more effective care, with the protocols and bio-safety measures needed to treat patients with Ebola.  \n  \n\u201cIn an Ebola treatment centre, what we can do is care for the individual patient, but epidemics are stopped in the community,\u201d says Miriam Alia, MSF medical coordinator.\n\n## When fear prevents people from seeking care\n\nDuring the first weeks of the outbreak in Nia Nia, fewer patients were reaching the ETC than the number of confirmed deaths reported in the community. Many people remained at home rather than seeking care.  \n  \nThere are now signs of change. More people are reaching the treatment centre alive, giving them the opportunity to receive early, supportive treatment.  \n  \n\u201cThree weeks ago, we started receiving patients rather than only alerts about deaths in the community,\u201d says Alia. \u201cThis is a major change because it means people are coming to the ETC earlier, when they develop symptoms.\u201d  \n  \nFrom the beginning, the response in Nia Nia has faced strong resistance, with rumours and misinformation fuelling fear. These have included claims that Ebola did not exist or that medical staff were bringing the disease into communities. Health workers were threatened, and an earlier treatment centre in the region was attacked and destroyed on 30 June.  \n  \n\u201cI didn\u2019t believe that Ebola existed,\u201d says Maurice, a recovered Ebola patient who was treated by MSF in Kisangani. \u201cBut when I was tested and found out that I had Ebola, that\u2019s when I understood that it exists. But people still say that Ebola isn\u2019t real. In my neighbourhood, in people\u2019s homes, that\u2019s what I used to hear.\u201d\n\nMSF teams are working with community leaders, health workers and other local organisations to understand concerns, address misinformation, and build acceptance of the response.  \n  \n\u201cDuring Ebola outbreaks, we used to talk about two epidemics: the epidemic itself, and the epidemic of fear,\u201d says Alia. \u201cNow we have a third one: the epidemic of misinformation.\u201d\n\n## From Nia-Nia to Kisangani\n\nThe link between Nia Nia and Kisangani shows why containing the outbreak in hard-to-reach areas is critical.  \n  \n\u201cIn the past month, two other people were infected in Kisangani after coming into contact with a body that had arrived from Nia Nia,\u201d says Amy Low, MSF project medical adviser in Kisangani.  \n  \nAlso in the past week, three patients with an epidemiological link to Nia Nia died at the MSF-supported ETC in Kisangani.  \n  \nMSF is expanding our capacity in both locations. But treatment centres alone cannot stop Ebola. Surveillance, testing, contact tracing, infection prevention and control, early isolation, treatment and community engagement all need to work together to reduce transmission and ensure that communities, such as Nia Nia, are not left behind.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2904",
-                    "id": 2904,
-                    "name": "M\u00e9decins Sans Fronti\u00e8res",
-                    "shortname": "MSF",
-                    "longname": "M\u00e9decins Sans Fronti\u00e8res",
-                    "spanish_name": "M\u00e9dicos Sin Fronteras",
-                    "homepage": "https://www.msf.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231192",
-            "date": {
-                "original": "2026-09-23T00:00:00+00:00",
-                "changed": "2026-09-24T01:58:48+00:00",
-                "created": "2026-09-24T01:58:48+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231192"
-    },
-    {
-        "id": "4231182",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique Centrafricaine : Matrice de suivi des d\u00e9placements - Tableau de bord des d\u00e9placements, Round 25 (30 juillet au 27 ao\u00fbt 2026)",
-            "body": "En r\u00e9ponse aux crises multiples en RCA, l\u2019Organisation internationale pour les migrations (OIM) d\u00e9ploie depuis d\u00e9cembre 2013 la Matrice de suivi des d\u00e9placements (*Displacement Tracking Matrix* en anglais, DTM), un outil qui collecte des donn\u00e9es sur les tendances de d\u00e9placements et les besoins humanitaires multisectoriels des populations affect\u00e9es par les crises. \u00c0 travers sa composante de suivi de la mobilit\u00e9 des populations, la DTM met \u00e0 jour les tendances de d\u00e9placements en collectant des informations aupr\u00e8s d\u2019informateurs cl\u00e9s (autorit\u00e9s locales, repr\u00e9sentants des d\u00e9plac\u00e9s) au sein des localit\u00e9s et des sites d\u2019accueil des d\u00e9plac\u00e9s internes et retourn\u00e9s. Ces informations sont partag\u00e9es avec la communaut\u00e9 humanitaire afin d\u2019informer les programmes de r\u00e9ponse strat\u00e9giques et op\u00e9rationnels.\n\nEn ao\u00fbt 2026, 381 483 PDI, 2 451 285 retourn\u00e9s anciens PDI et 614 144 retourn\u00e9s de l'\u00e9tranger ont \u00e9t\u00e9 recens\u00e9s.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231182",
-            "date": {
-                "original": "2026-09-24T00:00:00+00:00",
-                "changed": "2026-09-24T02:28:19+00:00",
-                "created": "2026-09-24T01:33:38+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231182"
     }
 ]
