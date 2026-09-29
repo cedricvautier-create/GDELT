@@ -1,5 +1,319 @@
 [
     {
+        "id": "4231867",
+        "score": 1,
+        "fields": {
+            "title": "D\u00e9claration du Coordonnateur humanitaire - Des attaques r\u00e9p\u00e9t\u00e9es contre le personnel et les op\u00e9rations humanitaires risquent de priver des milliers de personnes d'une assistance essentielle dans la pr\u00e9fecture du Haut-Mbomou, au sud-est de la RCA",
+            "body": "**Bangui, le 29 septembre 2026** \u2013 Je condamne fermement les r\u00e9centes attaques perp\u00e9tr\u00e9es contre le personnel humanitaire et les op\u00e9rations humanitaires sur l'axe Z\u00e9mio-Dj\u00e9ma les 17 et 21 septembre.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231867",
+            "date": {
+                "original": "2026-09-29T00:00:00+00:00",
+                "changed": "2026-09-29T14:26:47+00:00",
+                "created": "2026-09-29T14:26:25+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231867"
+    },
+    {
+        "id": "4231866",
+        "score": 1,
+        "fields": {
+            "title": "Statement from the Humanitarian Coordinator - Repeated attacks against humanitarian personnel leave thousands at risk of being cut off from essential assistance in Haut-Mbomou Prefecture, South-Eastern Central African Republic.",
+            "body": "Bangui, 29 September 2026 \u2013 I strongly condemn the recent attacks against humanitarian personnel and humanitarian operations along the Zemio-Djema axis on 17 and 21 September.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231866",
+            "date": {
+                "original": "2026-09-29T00:00:00+00:00",
+                "changed": "2026-09-29T14:24:30+00:00",
+                "created": "2026-09-29T14:23:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231866"
+    },
+    {
+        "id": "4231862",
+        "score": 1,
+        "fields": {
+            "title": "DRC: Ebola BVD Outbreak Response: Global LTC (Telecoms) Teleconference #06 (Date: 24/09/2026 Time: 10:00 UTC)",
+            "body": "**1. Situation update**  \n  \n\u2022 As of 21 September, the Democratic Republic of the Congo (DRC) had reported more than 7,700 confirmed Bundibugyo virus disease (BVD) cases, including over 3,700 deaths, across 63 health zones in seven provinces. Transmission remained widespread, with daily case numbers continuing to fluctuate and geographic spread persisting despite recent declines in some affected areas.  \n  \n\u2022 The outbreak remains a public health emergency. The World Health Organization (WHO) and response partners continue to prioritize surveillance, contact tracing, clinical preparedness and treatment capacity, infection prevention and control measures, and community engagement activities.  \n  \n\u2022 Weekly cross-border coordination calls with Uganda continue to support the exchange of situation updates, lessons learned, and preparedness measures, helping to strengthen regional readiness and response efforts.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/13799",
+                    "id": 13799,
+                    "name": "Emergency Telecommunications Cluster",
+                    "shortname": "ETC",
+                    "longname": "Emergency Telecommunications Cluster",
+                    "homepage": "https://www.etcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3594",
+                    "id": 3594,
+                    "name": "Logistics Cluster",
+                    "shortname": "Logistics Cluster",
+                    "homepage": "https://www.logcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231862",
+            "date": {
+                "original": "2026-09-24T00:00:00+00:00",
+                "changed": "2026-09-29T14:05:51+00:00",
+                "created": "2026-09-29T14:05:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231862"
+    },
+    {
+        "id": "4231847",
+        "score": 1,
+        "fields": {
+            "title": "Cameroun \u2014 Suivi des urgences 146 (18\u201327 septembre 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231847",
+            "date": {
+                "original": "2026-09-29T00:00:00+00:00",
+                "changed": "2026-09-29T13:54:11+00:00",
+                "created": "2026-09-29T13:33:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231847"
+    },
+    {
+        "id": "4231842",
+        "score": 1,
+        "fields": {
+            "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (du 22 au 28 septembre 2026)",
+            "body": "**R\u00e9publique d\u00e9mocratique du Congo**  \n*La violence entra\u00eene des d\u00e9placements de population et aggrave les difficult\u00e9s humanitaires et sanitaires*\n\nLes combats dans le Sud-Kivu et le Nord-Kivu continuent de provoquer des d\u00e9placements de civils. Depuis juillet, plus de 40 000 personnes ont \u00e9t\u00e9 nouvellement d\u00e9plac\u00e9es dans le territoire de Fizi, tandis que le Sud-Kivu accueille pr\u00e8s de 1,2 million de personnes d\u00e9plac\u00e9es \u00e0 l\u2019int\u00e9rieur du pays. En Ituri, l\u2019ins\u00e9curit\u00e9 sur le site de d\u00e9plac\u00e9s de Kigonze, \u00e0 Bunia, qui accueille pr\u00e8s de 19 000 personnes, a accru les pr\u00e9occupations en mati\u00e8re de protection et fortement restreint l\u2019acc\u00e8s humanitaire depuis le 20 septembre. Par ailleurs, la riposte \u00e0 Ebola se heurte \u00e0 des difficult\u00e9s croissantes d\u2019acceptation par les communaut\u00e9s. Au 26 septembre, les autorit\u00e9s faisaient \u00e9tat de 8 116 cas confirm\u00e9s et de pr\u00e8s de 4 000 d\u00e9c\u00e8s. De r\u00e9centes attaques li\u00e9es aux activit\u00e9s de pr\u00e9vention d\u2019Ebola dans le Nord-Kivu ont encore compliqu\u00e9 les efforts de riposte, dans un contexte marqu\u00e9 par l\u2019ins\u00e9curit\u00e9, les contraintes d\u2019acc\u00e8s et la poursuite des mouvements de population.\n\n**Lib\u00e9ria**  \n*La malnutrition infantile s'aggrave alors que l'aide diminue*\n\nLa malnutrition infantile et l\u2019ins\u00e9curit\u00e9 alimentaire s\u2019aggravent dans un contexte de r\u00e9duction de l\u2019acc\u00e8s aux services de nutrition et de sant\u00e9, \u00e0 la suite de coupes dans l\u2019aide internationale. Selon les estimations r\u00e9centes, seuls 2,4 % des enfants \u00e2g\u00e9s de 6 \u00e0 23 mois b\u00e9n\u00e9ficient d\u2019une alimentation minimale acceptable, tandis que la malnutrition aigu\u00eb chez les enfants de moins de cinq ans a atteint 8,5 %. Les organisations humanitaires alertent sur les importantes lacunes dans les services essentiels engendr\u00e9es par l\u2019arr\u00eat de programmes auparavant financ\u00e9s, qui accroissent les risques pour les enfants et les familles vuln\u00e9rables.\n\n**Mauritanie**  \n*Des inondations mettent en \u00e9vidence une vuln\u00e9rabilit\u00e9 croissante face aux chocs climatiques*\n\nLes fortes pluies tomb\u00e9es depuis le 24 septembre ont provoqu\u00e9 des inondations g\u00e9n\u00e9ralis\u00e9es \u00e0 Nouakchott, perturbant les transports et les activit\u00e9s quotidiennes et ravivant les inqui\u00e9tudes concernant les infrastructures de drainage. Ces inondations surviennent dans un contexte de risques climatiques croissants \u00e0 travers le pays, en particulier dans les r\u00e9gions du sud et du sud-est expos\u00e9es aux s\u00e9cheresses, aux inondations et aux temp\u00eates de sable. Une r\u00e9cente \u00e9tude de l\u2019OIM a r\u00e9v\u00e9l\u00e9 que 75 % des personnes interrog\u00e9es se consid\u00e8rent vuln\u00e9rables aux chocs climatiques, tandis que beaucoup ne disposent pas des ressources suffisantes pour s\u2019y adapter. L\u2019OIM a appel\u00e9 \u00e0 un renforcement des investissements en faveur de la r\u00e9silience, de la s\u00e9curit\u00e9 alimentaire et de l\u2019adaptation au changement climatique.\n\n**Afrique de l'Ouest**  \n*Les risques climatiques soulignent les besoins de financement de la r\u00e9gion, estim\u00e9s \u00e0 294 milliards de dollars d'ici 2030*\n\nDepuis le 24 septembre, de fortes pluies ont provoqu\u00e9 d\u2019importantes inondations \u00e0 Nouakchott, perturbant les transports et les activit\u00e9s quotidiennes et suscitant de nouvelles pr\u00e9occupations concernant les infrastructures de drainage. Ces inondations surviennent dans un contexte de risques climatiques croissants \u00e0 travers le pays, notamment dans les r\u00e9gions du sud et du sud-est, expos\u00e9es aux s\u00e9cheresses, aux inondations et aux temp\u00eates de sable. Selon une r\u00e9cente \u00e9tude de l\u2019OIM, 75 % des personnes interrog\u00e9es se consid\u00e8rent vuln\u00e9rables aux chocs climatiques, tandis que beaucoup ne disposent pas de ressources suffisantes pour s\u2019y adapter. L\u2019OIM a appel\u00e9 \u00e0 davantage d\u2019investissements dans la r\u00e9silience, la s\u00e9curit\u00e9 alimentaire et l\u2019adaptation au changement climatique.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231842",
+            "date": {
+                "original": "2026-09-29T00:00:00+00:00",
+                "changed": "2026-09-29T13:33:31+00:00",
+                "created": "2026-09-29T13:12:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231842"
+    },
+    {
+        "id": "4231839",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: Latest Events at a glance (22\u201328 September 2026)",
+            "body": "**Democratic Republic of the Congo**  \n*Violence drives displacement and compounds humanitarian and health challenges*\n\nFighting across South Kivu and North Kivu continues to displace civilians, with more than 40,000 people newly displaced in Fizi territory since July and nearly 1.2 million internally displaced people hosted across South Kivu. In Ituri, insecurity at the Kigonze displacement site in Bunia, hosting nearly 19,000 people, has heightened protection concerns and severely restricted humanitarian access since 20 September. Meanwhile, the Ebola response faces growing community acceptance challenges. As of 26 September, authorities reported 8,116 confirmed cases and nearly 4,000 deaths. Recent attacks linked to Ebola prevention activities in North Kivu have further complicated response efforts, alongside insecurity, access constraints and continued population movements.\n\n**Liberia**  \n*Child malnutrition worsens amid reduced assistance*\n\nChild malnutrition and food insecurity are worsening amid reduced access to nutrition and health services following cuts in international assistance. Recent estimates indicate that only 2.4 per cent of children aged 6\u201323 months receive a minimum acceptable diet, while acute malnutrition among children under five has risen to 8.5 per cent. Humanitarian organizations warn that the closure of previously funded programmes has created significant gaps in essential services, increasing risks for vulnerable children and families.\n\n**Mauritania**  \n*Flooding highlights growing vulnerability to climate shocks*\n\nHeavy rains since 24 September have caused widespread flooding in Nouakchott, disrupting transport and daily activities and renewing concerns over drainage infrastructure. The flooding comes amid growing climate risks across the country, particularly in southern and southeastern regions exposed to droughts, floods and sandstorms. A recent IOM study found that 75 per cent of respondents consider themselves vulnerable to climate shocks, while many lack adequate resources to adapt. IOM called for increased investment in resilience, food security and climate adaptation.\n\n**West Africa**  \n*Climate risks underscore region\u2019s $294 billion financing needs by 2030*\n\nECOWAS estimates that approximately $294 billion will be required by 2030 to implement Member States\u2019 climate commitments and strengthen resilience, as climate-related risks intensify across the region. A new study warns that the current El Ni\u00f1o phenomenon could contribute to more than 450,000 additional heat-related deaths globally by early 2027, with the Sahel among the most affected regions. Researchers estimate nearly 67,000 additional deaths in the Sahel, including more than 31,000 in Nigeria, amid extreme heat, food insecurity and limited access to healthcare. At a regional parliamentary seminar in Accra, ECOWAS officials called for stronger climate governance and increased investment in adaptation and resilience, including through innovative financing mechanisms such as carbon markets.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231839",
+            "date": {
+                "original": "2026-09-29T00:00:00+00:00",
+                "changed": "2026-09-29T13:32:21+00:00",
+                "created": "2026-09-29T13:08:57+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231839"
+    },
+    {
+        "id": "4231838",
+        "score": 1,
+        "fields": {
+            "title": "DRC Humanitarian Fund Annual Report 2025",
+            "body": "**Donor Contribution**\n\nIn 2025, a year marked by historically low funding for the DRC Humanitarian Needs and Response Plan (HNRP) (below 24 per cent), the DRC Humanitarian Fund succeeded in slightly increasing donor support. The Fund secured $51.3 million, complemented by $49.7 million from Central Emergency Response Fund (CERF) allocations, a 5.6 per cent increase compared with the $48.6 million received in 2024. Despite the constrained funding environment, this upward trend reflects strong donor confidence in the Fund\u2019s management, accountability systems and its capacity to channel resources quickly and effectively to those most in need.  \n Throughout the year, the DRC HF received contributions from eight recurring donors (Belgium, Canada, Germany, Ireland, Luxembourg, the Netherlands, Norway and Sweden), whose continued engagement provided the Fund with operational stability. Belgium provided its largest contribution to date with $12.3 million, and Canada increased its support by 24 per cent compared to 2024. Norway\u2019s contribution nearly tripled to $2.4 million, reaching its highest level since 2017, while Luxembourg raised its support by 32 per cent, contributing $361,944. Ireland and the Netherlands maintained their 2024 levels, with $4.3 million and $11 million, respectively. Conversely, Germany, the DRC HF\u2019s top donor in 2024, significantly reduced its humanitarian contribution in 2025, providing $2.6 million, a 77 per cent decrease from the $11.2 million contributed the previous year. Sweden also reduced its support by 16 per cent, contributing $4 million.  \n Efforts to diversify the Fund\u2019s resource base also delivered positive outcomes. Denmark, which contributed for the first time in 2024, renewed and increased its support by 22 per cent, providing $5.5 million. France, which made its initial contribution in 2023 but did not fund the DRC HF in 2024, returned with $585,480 in 2025. New donors also joined the Fund for the first time: Switzerland contributed $4.2 million, and Portugal provided $346,821, thus broadening the Fund\u2019s donor base.  \n This strengthened and diversified funding base directly shaped implementation throughout the year. A quarter of the 2025 contributions ($12.9 million) arrived during the first quarter. Combined with unspent funds carried over from 2024, this enabled the DRC HF to launch a $20 million allocation responding to the humanitarian consequences of the expansion of territory under the control of the Alliance Fleuve Congo/Mouvement du 23 Mars (AFC/M23) in North and South Kivu, in early 2025. Later in the year, more than a third of the 2025 contributions, received during the last quarter, was critical in supporting a $20 million allocation targeting priority needs identified through the 2026 HNRP analysis.  \n Combined with the $13 million already anticipated for 2026 through multiyear pledges, these resources strengthen the Fund\u2019s predictability, planning and response capacity as 2026 began, enabling it to deliver life saving interventions in a highly volatile environment. This outlook is further strengthened by an exceptional pilot contribution of $150 million from the United States for 2026. This unprecedented level of support significantly reinforces the scale, predictability and strategic positioning of the DRC HF in a highly volatile operating environment, enabling the Fund to deliver life-saving interventions more effectively and at scale.  \n Despite an improved funding outlook as 2026 begins, humanitarian needs in the DRC remain unprecedented. Protracted conflict, large-scale displacement, climate shocks and recurring epidemics continue to affect 14.9 million people, according to the 2026 HNRP. In this context, the DRC HF will need to consolidate recent gains while intensifying engagement with core donors, further diversifying its funding base and securing predictable financial commitments. Continued donor support will be essential to ensure the Fund remains agile and able to deliver timely, life-saving assistance to the most vulnerable populations throughout 2026 and beyond.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4231838",
+            "date": {
+                "original": "2026-09-29T00:00:00+00:00",
+                "changed": "2026-09-29T13:26:24+00:00",
+                "created": "2026-09-29T13:07:37+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4231838"
+    },
+    {
         "id": "4231784",
         "score": 1,
         "fields": {
@@ -1527,313 +1841,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4231395"
-    },
-    {
-        "id": "4231391",
-        "score": 1,
-        "fields": {
-            "title": "MSNA - Termes de R\u00e9f\u00e9rence de la recherche - Evaluation multisectorielle des besoins (MSNA), CMR2601, Cameroun (24/09/2026, Version 1)",
-            "body": "Objectif g\u00e9n\u00e9ral\n\nL'\u00e9valuation multisectorielle des besoins (Multi-Sectoral Needs Assessment, MSNA) 2026 au Cameroun vise \u00e0 mettre \u00e0 disposition de la communaut\u00e9 humanitaire des donn\u00e9es permettant de comprendre la nature et la s\u00e9v\u00e9rit\u00e9 des besoins humanitaires des populations dans les r\u00e9gions de l\u2019Extr\u00eame Nord, du Nord-Ouest et du Sud-Ouest au Cameroun, afin d\u2019informer le cycle de programmation humanitaire (HPC 2027).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9965",
-                    "id": 9965,
-                    "name": "REACH Initiative",
-                    "shortname": "REACH",
-                    "longname": "REACH Initiative",
-                    "homepage": "http://www.reach-initiative.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231391",
-            "date": {
-                "original": "2026-09-24T00:00:00+00:00",
-                "changed": "2026-09-25T02:57:33+00:00",
-                "created": "2026-09-25T02:55:25+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231391"
-    },
-    {
-        "id": "4231384",
-        "score": 1,
-        "fields": {
-            "title": "COD: \u00c9pid\u00e9mie - 09-2026 - La R\u00e9publique D\u00e9mocratique du Congo fait face \u00e0 l'\u00e9pid\u00e9mique du chol\u00e9ra orient\u00e9e \u00e0 la hausse \u00e0 l'\u00e9chelle nationale (2026-09-24)",
-            "body": "## **Description**\n\nLa R\u00e9publique D\u00e9mocratique du Congo fait face \u00e0 une dynamique \u00e9pid\u00e9mique du chol\u00e9ra orient\u00e9e \u00e0 la hausse \u00e0 l'\u00e9chelle nationale. Pour la semaine 37, le pays avait enregistr\u00e9 environ 2 200 cas suspects et 14 d\u00e9c\u00e8s \u00e0 travers diff\u00e9rentes zones de sant\u00e9. Le bilan cumul\u00e9 de l'ann\u00e9e 2026 d\u00e9passe d\u00e9sormais les 41 300 cas suspects et 1 214 d\u00e9c\u00e8s notifi\u00e9s sur le territoire national. Au total, 16 des 26 provinces de la RDC ont notifi\u00e9 des foyers \u00e9pid\u00e9miques ou des cas actifs depuis le d\u00e9but de l'ann\u00e9e. Durant la semaine 38, l'Institut National de Sant\u00e9 Publique (INSP) identifie 5 provinces prioritaires ayant directement notifi\u00e9 des cas. Le Nord-Kivu constitue l'\u00e9picentre majeur de l'\u00e9pid\u00e9mie \u00e0 l'Est, aggrav\u00e9 par l'ins\u00e9curit\u00e9 et les d\u00e9placements massifs de populations. La province du Lualaba enregistre une transmission active au sein du bloc g\u00e9ographique du Grand-Katanga. La province du Tanganyika demeure un foyer sanitaire end\u00e9mique situ\u00e9 le long du bassin des Grands Lacs. Le Kasa\u00ef-Oriental pr\u00e9sente une r\u00e9\u00e9mergence active de cas n\u00e9cessitant un suivi particulier dans le Grand-Kasa\u00ef. La province de la Mongala confirme l'extension de la maladie le long du corridor fluvial du fleuve Congo. Onze autres provinces (Sud-Kivu, Haut-Katanga, Ituri, Maniema, Tshopo, Kasa\u00ef, Sud-Ubangi, Ma\u00ef-Ndombe, Kwango, Kinshasa, Kongo Central) restent sous surveillance. Les dix provinces restantes du pays n'ont pas rapport\u00e9 de foyer \u00e9pid\u00e9mique majeur durant cette p\u00e9riode. L'Est du pays concentre la majorit\u00e9 absolue des cas cumul\u00e9s en raison de la fragilit\u00e9 des infrastructures d'acc\u00e8s \u00e0 l'eau. Le trafic fluvial le long du fleuve Congo agit comme un vecteur cl\u00e9 de propagation du chol\u00e9ra vers les provinces de l'Ouest",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52293",
-                    "id": 52293,
-                    "name": "Croix-Rouge de la RDC",
-                    "shortname": "Croix-Rouge de la RDC",
-                    "longname": "Croix-Rouge de la R\u00e9publique D\u00e9mocratique du Congo",
-                    "homepage": "https://www.croixrouge-rdc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231384",
-            "date": {
-                "original": "2026-09-24T00:00:00+00:00",
-                "changed": "2026-09-25T00:44:06+00:00",
-                "created": "2026-09-25T00:38:43+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231384"
-    },
-    {
-        "id": "4231279",
-        "score": 1,
-        "fields": {
-            "title": "Flash Updates #57 Nouvel afflux de r\u00e9fugi\u00e9s soudanais au Tchad (21 Septembre 2026)",
-            "body": "La situation s\u00e9curitaire le long des fronti\u00e8res tchadiennes demeure pr\u00e9occupante, bien qu\u2019elle reste globalement stable \u00e0 l\u2019int\u00e9rieur du pays. Les provinces frontali\u00e8res du Sila, de l\u2019Ouadda\u00ef, du Wadi-Fira et de l\u2019Ennedi-Est continuent de subir les r\u00e9percussions du conflit au Soudan voisin. Depuis la fin du mois d\u2019ao\u00fbt, outre les violences persistantes au Soudan qui continuent de contraindre des populations \u00e0 chercher refuge au Tchad, le pays est \u00e9galement affect\u00e9 par les retomb\u00e9es directes du conflit. Plusieurs frappes de drones ont ainsi \u00e9t\u00e9 signal\u00e9es dans les provinces du Wadi-Fira et de l\u2019Ennedi-Est. Le 11 septembre, dans une localit\u00e9 pr\u00e8s de Koulbous dans la province du Wadi-Fira, un ressortissant tchadien aurait \u00e9t\u00e9 tu\u00e9 par des \u00e9l\u00e9ments des Forces de soutien rapide (FSR). Des cas d\u2019enl\u00e8vements auraient \u00e9galement \u00e9t\u00e9 rapport\u00e9s dans cette zone frontali\u00e8re.\n\nPar ailleurs, la d\u00e9gradation des conditions climatiques et les effets de la s\u00e9cheresse, qualifi\u00e9e par le Programme alimentaire mondial (PAM) comme l\u2019une des plus s\u00e9v\u00e8res enregistr\u00e9es dans la r\u00e9gion depuis 1984, continuent d\u2019affecter les moyens de subsistance, de compromettre les r\u00e9coltes et d\u2019alimenter de nouveaux mouvements de population vers l\u2019est du Tchad. Face \u00e0 cette situation, le Gouvernement tchadien a conduit ces derni\u00e8res semaines une mission d\u2019\u00e9valuation dans les provinces orientales afin d\u2019appr\u00e9cier l\u2019ampleur du d\u00e9ficit pluviom\u00e9trique et d\u2019identifier des mesures d\u2019att\u00e9nuation adapt\u00e9es. Parmi les r\u00e9ponses envisag\u00e9es figurent notamment l\u2019exon\u00e9ration des droits de douane sur certains produits alimentaires de premi\u00e8re n\u00e9cessit\u00e9 ainsi que la distribution cibl\u00e9e de c\u00e9r\u00e9ales aux m\u00e9nages les plus affect\u00e9s.\n\nLa probl\u00e9matique de la s\u00e9cheresse a \u00e9galement \u00e9t\u00e9 abord\u00e9e lors des \u00e9changes entre les autorit\u00e9s provinciales du Ouadda\u00ef et le Directeur r\u00e9gional du HCR pour l\u2019Afrique de l\u2019Est, la Corne de l\u2019Afrique et les Grands Lacs, ainsi que Coordonnateur r\u00e9gional pour la situation des r\u00e9fugi\u00e9s soudanais, \u00e0 l\u2019occasion de sa mission au Tchad du 17 au 21 septembre 2026.  \nLes autorit\u00e9s tchadiennes ont exprim\u00e9 leurs inqui\u00e9tudes quant aux cons\u00e9quences humanitaires et socio-\u00e9conomiques de cette crise climatique, qui vient s\u2019ajouter aux pressions engendr\u00e9es par l\u2019afflux continu de r\u00e9fugi\u00e9s soudanais.\n\n\u00c0 l\u2019int\u00e9rieur du pays, des incidents de criminalit\u00e9 et de petite d\u00e9linquance, notamment des vols \u00e0 main arm\u00e9e, des agressions et des explosions d\u2019engins explosifs, continuent d\u2019\u00eatre signal\u00e9s dans certaines zones accueillant des r\u00e9fugi\u00e9s. En parall\u00e8le, les fortes pluies saisonni\u00e8res et la mont\u00e9e des eaux des ouadis entravent l\u2019acc\u00e8s \u00e0 plusieurs localit\u00e9s de l\u2019est du Tchad, compliquant la mise en \u0153uvre des op\u00e9rations humanitaires.\n\nDeux sessions de formation Safe and Secure Approaches in Field Environments (SSAFE) ont \u00e9t\u00e9 organis\u00e9es au profit de 61 participants et deux sessions suppl\u00e9mentaires, men\u00e9es en collaboration avec le PAM, sont pr\u00e9vues en octobre.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231279",
-            "date": {
-                "original": "2026-09-21T00:00:00+00:00",
-                "changed": "2026-09-24T12:12:10+00:00",
-                "created": "2026-09-24T12:03:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231279"
-    },
-    {
-        "id": "4231247",
-        "score": 1,
-        "fields": {
-            "title": "Ebola Bundibugyo Virus Disease Outbreak Democratic Republic of the Congo | Uganda Weekly External Situation Report 19, Data as of 20 September 2026",
-            "body": "**Event description**  \nThe Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo has expanded further, with Dungu Health Zone in Haut-U\u00e9l\u00e9 Province, bordering South Sudan, being the latest affected, bringing the total number of health zones affected to 63 since the start of the outbreak. This latest geographic expansion heightens concern about further spread towards international borders, while transmission within the country remains increasingly heterogeneous across affected provinces and health zones. Since External Situation Report #18, a further 475 confirmed cases and 222 confirmed deaths have been reported, bringing the cumulative total to 7733 confirmed cases, including 3732 deaths \\[crude case fatality ratio (CFR 48.3%)\\], as of 20 September 2026. Ituri remains the principal focus, although its relative contribution continues to decline, accounting for 76.9% of cumulative confirmed cases, while substantial transmission continues in Nord-Kivu and persists in Haut-U\u00e9l\u00e9.\n\nAt the national level, daily incidence remains high and fluctuating, with the seven-day moving average rebounding in early September before declining in the most recent days. This national pattern masks divergent provincial trajectories. Ituri continues a gradual decline from its late-July peak but remains at a high level, while Nord-Kivu experienced a marked increase, reaching its highest incidence in mid-September, followed by an apparent decline in recent days. Transmission in Haut-U\u00e9l\u00e9 remains sustained but below its August peak, while Tshopo shows renewed activity from a low baseline. Bas-U\u00e9l\u00e9 continues to report sporadic transmission, with no recent transmission evident in Sud-Kivu. Overall, the epidemic remains geographically heterogeneous, with recent declines in the principal transmission areas occurring alongside persistent low-level transmission and continued geographic expansion to new areas.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231247",
-            "date": {
-                "original": "2026-09-24T00:00:00+00:00",
-                "changed": "2026-09-24T09:30:50+00:00",
-                "created": "2026-09-24T09:29:35+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231247"
-    },
-    {
-        "id": "4231212",
-        "score": 1,
-        "fields": {
-            "title": "Crisis Analysis Team - Ebola incident analysis August 2026",
-            "body": "**Summary :**\n\nFrom 1 to 31 August 2026, the Crisis Analysis Team (CAT) documented 73 incidents related to the Ebola response, compared with 97 in July, a decrease of 25% and a rate of 16.5 incidents per week against 23 the previous month.\n\nThe human toll rose slightly, from 31 to 33 victims (2 deaths, 29 injured, 2 abducted), equivalent to 45 victims per 100 incidents compared with 32 in July. Two coercion incidents account for most of this: six civilians injured by the FARDC in Bunia and six people beaten at an M23 checkpoint in Kirumba, together 12 of the month\u2019s 29 injured.\n\nSources of friction persist despite the fall in the volume of incidents. Violence against prevention and awareness-raising fell from 20 to 18 incidents, but its share rose from 21% to 25%; incidents related to safe and dignified burials (SDB) fell from 21 to 17. Financial grievances held steady, at 14 incidents against 15, but shifted from Bunia and Rwampara to Mongbwalu, Lita, Tchomia, Nizi, Kisangani and Avakubi.\n\nHealth facilities remain a direct target and are now being attacked repeatedly: the Mongbwalu ETC was set on fire on 18 August, the Bethesda dispensary in Katwa on the 27th, and the Bora Maisha hospital centre in Butembo twice in eleven days. These attacks follow narratives linking transfers, health workers or collaboration with the response to deaths that have occurred.\n\nRisk is both concentrating and shifting. Beni is the only critical zone, with a score of 29, compared with four critical zones in July; Butembo (from 31 to 16), Bunia (from 28 to 11) and Katwa (from 1 to 12) are at the high level. Nyankunde, Nia-Nia and Rwampara declined markedly, Alimbongo recorded no further incidents and Mongbwalu returned to the moderate level. At the same time, the share of Ituri and North Kivu fell from 96% to 86%, while Tshopo rose from 3 to 8 incidents, with the emergence of Kabondo, and Haut-U\u00e9l\u00e9 from 1 to 2.\n\nEight incidents are directly attributed to armed actors: four to the M23 on the Lubero axes, the others to CODECO, the Sambaza FDBC militia, the FARDC and a soldier in Kisangani. They are a matter for access negotiation, not awareness-raising.\n\nThree risk systems therefore call for distinct responses: community friction around SDBs, prevention and health facilities; internal protest linked to payments; and armed control of movement and health measures. Physical protection of facilities is becoming a priority in Butembo and Katwa. For the coming month, there are five points of vigilance: the resumption of care in Butembo and Katwa, arrears owed to providers and training participants, developments in Mongbwalu, the safety of outreach teams in Beni and Bafwasende, and restrictions on the Lubero axes.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1929",
-                    "id": 1929,
-                    "name": "Mercy Corps",
-                    "shortname": "Mercy Corps",
-                    "longname": "Mercy Corps",
-                    "homepage": "https://www.mercycorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231212",
-            "date": {
-                "original": "2026-09-24T00:00:00+00:00",
-                "changed": "2026-09-24T09:16:40+00:00",
-                "created": "2026-09-24T06:38:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231212"
-    },
-    {
-        "id": "4231211",
-        "score": 1,
-        "fields": {
-            "title": "Crisis Analysis Team - Analyse d'incidents Ebola ao\u00fbt 2026",
-            "body": "**R\u00e9sum\u00e9**\n\nDu 1er au 31 ao\u00fbt 2026, le Crisis Analysis Team (CAT) a document\u00e9 73 incidents li\u00e9s \u00e0 la riposte Ebola, contre 97 en juillet, soit une baisse de 25 % et un rythme de 16,5 incidents par semaine contre 23 le mois pr\u00e9c\u00e9dent.  \n Le bilan humain progresse l\u00e9g\u00e8rement, passant de 31 \u00e0 33 victimes (2 d\u00e9c\u00e8s, 29 bless\u00e9s, 2 enlev\u00e9s), soit 45 victimes pour 100 incidents contre 32 en juillet. Deux incidents de coercition en expliquent l\u2019essentiel : six civils bless\u00e9s par les FARDC \u00e0 Bunia et six personnes frapp\u00e9es \u00e0 une barri\u00e8re du M23 \u00e0 Kirumba, soit 12 des 29 bless\u00e9s du mois.  \n Les motifs de friction persistent malgr\u00e9 la baisse du volume d\u2019incidents. Les violences contre la pr\u00e9vention et la sensibilisation passent de 20 \u00e0 18 incidents, mais leur part monte de 21 % \u00e0 25 % ; les incidents li\u00e9s aux enterrements dignes et s\u00e9curis\u00e9s (EDS) passent de 21 \u00e0 17. Les griefs financiers se maintiennent, 14 incidents contre 15, mais se d\u00e9placent de Bunia et Rwampara vers Mongbwalu, Lita, Tchomia, Nizi, Kisangani et Avakubi.  \n Les structures de soins restent une cible directe, d\u00e9sormais attaqu\u00e9e de fa\u00e7on r\u00e9p\u00e9t\u00e9e : incendie du CTE de Mongbwalu le 18 ao\u00fbt, du dispensaire Bethesda \u00e0 Katwa le 27, et \u00e0 deux reprises en onze jours du centre hospitalier Bora Maisha \u00e0 Butembo. Ces attaques suivent des r\u00e9cits liant les transferts, les soignants ou la collaboration avec la riposte aux d\u00e9c\u00e8s survenus.  \n Le risque se concentre et se d\u00e9place. Beni est la seule zone critique, avec un score de 29, contre quatre zones critiques en juillet ; Butembo (de 31 \u00e0 16), Bunia (de 28 \u00e0 11) et Katwa (de 1 \u00e0 12) sont au niveau \u00e9lev\u00e9. Nyankunde, Nia-Nia et Rwampara reculent nettement, Alimbongo n\u2019enregistre plus d\u2019incident et Mongbwalu revient au niveau mod\u00e9r\u00e9. Dans le m\u00eame temps, la part de l\u2019Ituri et du Nord-Kivu passe de 96 % \u00e0 86 % ; tandis que la Tshopo passe de 3 \u00e0 8 incidents, avec l\u2019apparition de Kabondo, et le Haut-U\u00e9l\u00e9 de 1 \u00e0 2.  \n Huit incidents sont directement attribu\u00e9s \u00e0 des acteurs arm\u00e9s : quatre au M23 sur les axes du Lubero, les autres \u00e0 la CODECO, aux miliciens Sambaza FDBC, aux FARDC et \u00e0 un militaire \u00e0 Kisangani. Ils rel\u00e8vent de la n\u00e9gociation d\u2019acc\u00e8s, non de la sensibilisation.  \n Trois syst\u00e8mes de risque appellent donc des r\u00e9ponses distinctes : la friction communautaire autour des EDS, de la pr\u00e9vention et des structures ; la contestation interne li\u00e9e aux paiements ; le contr\u00f4le arm\u00e9 des d\u00e9placements et des mesures sanitaires. La protection physique des structures devient prioritaire \u00e0 Butembo et Katwa. Pour le mois \u00e0 venir, cinq points de vigilance : la reprise des soins \u00e0 Butembo et Katwa, les arri\u00e9r\u00e9s dus aux prestataires et aux participants aux formations, l\u2019\u00e9volution de Mongbwalu, la s\u00e9curit\u00e9 des \u00e9quipes de proximit\u00e9 \u00e0 Beni et Bafwasende, et les restrictions sur les axes du Lubero.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1929",
-                    "id": 1929,
-                    "name": "Mercy Corps",
-                    "shortname": "Mercy Corps",
-                    "longname": "Mercy Corps",
-                    "homepage": "https://www.mercycorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231211",
-            "date": {
-                "original": "2026-09-24T00:00:00+00:00",
-                "changed": "2026-09-24T09:21:50+00:00",
-                "created": "2026-09-24T06:35:01+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231211"
-    },
-    {
-        "id": "4231197",
-        "score": 1,
-        "fields": {
-            "title": "M\u00e9canisme de r\u00e9ponse humanitaire : R\u00e9publique centrafricaine, Bulletin bimestriel (01 juillet - 31 ao\u00fbt 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9965",
-                    "id": 9965,
-                    "name": "REACH Initiative",
-                    "shortname": "REACH",
-                    "longname": "REACH Initiative",
-                    "homepage": "http://www.reach-initiative.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231197",
-            "date": {
-                "original": "2026-09-23T00:00:00+00:00",
-                "changed": "2026-09-24T02:34:31+00:00",
-                "created": "2026-09-24T02:34:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231197"
     }
 ]
