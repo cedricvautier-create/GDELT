@@ -1,5 +1,269 @@
 [
     {
+        "id": "4232240",
+        "score": 1,
+        "fields": {
+            "title": "Note de plaidoyer: Renforcer d\u2019urgence la r\u00e9ponse nutritionnelle dans la province du Maniema: Aout 2026",
+            "body": "## 1. CONTEXTE ET JUSTIFICATION\n\n**La province du Maniema fait de plus en plu**s face \u00e0 la probl\u00e9matique li\u00e9e **\u00e0 la malnutrition infantile** notifi\u00e9s dans plusieurs aires de sant\u00e9 accentu\u00e9 par une **\u00e9pid\u00e9mie de rougeole** qui touche actuellement plusieurs zones de sant\u00e9. Durant la p\u00e9riode allant de janvier \u00e0 juillet 2026, **4 668 cas de rougeoles sont confirm\u00e9s avec 105 d\u00e9c\u00e8s.** Cette situation \u00e9pid\u00e9miologique entraine une vuln\u00e9rabilit\u00e9 accrue \u00e0 la malnutrition chez les enfants de moins de cinq ans.\n\nLes donn\u00e9es **du Syst\u00e8me de Surveillance Nutritionnelle, S\u00e9curit\u00e9 Alimentaire et Alerte Pr\u00e9coce (SNSAP)** du premiers semestre 2026, 2 Zones de sant\u00e9 (Kindu et Samba) sont en alerte et 4 zones de sant\u00e9 (Alunguli, Kibombo, Kunda, Lubutu) \u00e0 suivre de pr\u00e8s.\n\nSelon les sources issues du SNSAP, la situation nutritionnelle au Maniema s\u2019est d\u00e9grad\u00e9e au premier trimestre 2026, sous l'effet conjugu\u00e9 de crises multisectorielles :\n\n- U**rgence Sanitaire :** une forte recrudescence de la rougeole avec un pic \u00e0 la 10\u00e8me semaine. Des foyers de chol\u00e9ra (Kampene et Punia) et de Mpox (Pangi et Kibombo) aggravent la morbidit\u00e9 infantile.\n- **Chocs Environnementaux :** des inondations majeures dans les zones riveraines (Punia, Kindu, Kailo, etc.) ont limit\u00e9 l\u2019acc\u00e8s \u00e0 l\u2019eau potable et d\u00e9truit les moyens d\u2019existence.\n- **Ins\u00e9curit\u00e9 Alimentaire & \u00c9conomique :** crise g\u00e9n\u00e9ralis\u00e9e dans les 18 zones de sant\u00e9 due \u00e0 l'inflation et au faible pouvoir d'achat. L'abandon de l'agriculture au profit des mines r\u00e9duit la disponibilit\u00e9 et la diversit\u00e9 alimentaire locale.\n- **Conflits & D\u00e9placements** Les affrontements arm\u00e9s survenus dans plusieurs localit\u00e9s, notamment \u00e0 Kampene et Kabambare, ont provoqu\u00e9 d\u2019importants mouvements de population, entra\u00eenant une perturbation des services sociaux de base.\n- **Faiblesses Structurelles :** un acc\u00e8s pr\u00e9caire \u00e0 l'eau et une r\u00e9ponse nutritionnelle paralys\u00e9e par la rupture des intrants (ATPE) et l'absence d'appui aux programmes de prise en charge (PCIMA) ; la synergie de ces facteurs cr\u00e9e un contexte de vuln\u00e9rabilit\u00e9 extr\u00eame n\u00e9cessitant une intervention urgente",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/4145",
+                    "id": 4145,
+                    "name": "Nutrition Cluster",
+                    "shortname": "Nutrition Cluster",
+                    "homepage": "http://nutritioncluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232240",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-01T14:41:53+00:00",
+                "created": "2026-10-01T14:39:36+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232240"
+    },
+    {
+        "id": "4232223",
+        "score": 1,
+        "fields": {
+            "title": "Cluster eau hygi\u00e8ne et assainissement - RDC: Bilan de la r\u00e9ponse humanitaire au 31 ao\u00fbt 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3476",
+                    "id": 3476,
+                    "name": "WASH Cluster",
+                    "shortname": "WASH Cluster",
+                    "homepage": "https://www.washcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232223",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-01T13:40:59+00:00",
+                "created": "2026-10-01T13:40:48+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232223"
+    },
+    {
+        "id": "4232215",
+        "score": 1,
+        "fields": {
+            "title": "Tchad \u2014 R\u00e9ponse \u00e0 la crise du Soudan : Bulletin d'informations 68 (ao\u00fbt 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232215",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-01T14:23:04+00:00",
+                "created": "2026-10-01T13:34:25+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232215"
+    },
+    {
+        "id": "4232214",
+        "score": 1,
+        "fields": {
+            "title": "Chad \u2014 Sudan Crisis Response: Situation Update 68 (August 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232214",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-01T14:21:21+00:00",
+                "created": "2026-10-01T13:34:13+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232214"
+    },
+    {
+        "id": "4232210",
+        "score": 1,
+        "fields": {
+            "title": "Tchad \u2014 Suivi des Urgences 230 (septembre 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232210",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-01T13:37:33+00:00",
+                "created": "2026-10-01T13:33:17+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232210"
+    },
+    {
+        "id": "4232197",
+        "score": 1,
+        "fields": {
+            "title": "MSF staff member tests positive for Ebola disease and is medically evacuated",
+            "body": "M\u00e9decins Sans Fronti\u00e8res (MSF) confirms that one of our staff members who had been working on the [Ebola response](https://www.msf.org/drc-ebola-outbreaks) in [Democratic Republic of the Congo (DRC)](https://www.msf.org/democratic-republic-congo-drc) has tested positive for Bundibugyo virus disease. This person is being safely evacuated under a strict medical protocol in close coordination with the relevant health authorities in the DRC and the Netherlands, where the patient will be received by a designated hospital.\n\nMSF cannot share specific details regarding individual medical evacuations in order to respect medical confidentiality and protect the privacy of our colleague.\n\nThe human cost of this crisis is unprecedented in the DRC, with communities facing the largest [Ebola disease](https://www.msf.org/ebola) outbreak ever recorded in the country. Since May, more than 8,000 confirmed cases and 4,000 deaths have been reported, with the true toll likely higher due to gaps in surveillance and case detection. Healthcare workers are among those at greatest risk. Despite providing its staff with training and the highest possible levels of protection, MSF recognises that the risk of exposure can never be completely eliminated.\n\nMSF stands in solidarity with all those working on the frontlines of the Ebola response. Their courage, commitment and determination are essential to protecting communities and saving lives.\n\nMSF is currently responding to the Ebola disease outbreak across Ituri, North Kivu, Tshopo, and Haut-U\u00e9l\u00e9 provinces. We remain committed to working alongside the Congolese health authorities and with affected communities to try and bring the outbreak under control.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2904",
+                    "id": 2904,
+                    "name": "M\u00e9decins Sans Fronti\u00e8res",
+                    "shortname": "MSF",
+                    "longname": "M\u00e9decins Sans Fronti\u00e8res",
+                    "spanish_name": "M\u00e9dicos Sin Fronteras",
+                    "homepage": "https://www.msf.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232197",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-01T12:51:02+00:00",
+                "created": "2026-10-01T12:51:02+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232197"
+    },
+    {
         "id": "4232187",
         "score": 1,
         "fields": {
@@ -35,7 +299,7 @@
             "url": "https://reliefweb.int/node/4232187",
             "date": {
                 "original": "2026-10-01T00:00:00+00:00",
-                "changed": "2026-10-01T12:18:03+00:00",
+                "changed": "2026-10-01T12:53:36+00:00",
                 "created": "2026-10-01T12:13:41+00:00"
             }
         },
@@ -45,7 +309,7 @@
         "id": "4232184",
         "score": 1,
         "fields": {
-            "title": "R\u00e9publique centrafricaine : Rapport de situation N\u00b0 87, au 29 septembre 2026",
+            "title": "R\u00e9publique centrafricaine : Rapport de situation N\u00b0 87 (au 29 septembre 2026)",
             "body": "**FAITS SAILLANTS**\n\n- Des contraintes logistiques et l\u2019ins\u00e9curit\u00e9 entravent l\u2019acheminement de m\u00e9dicaments \u00e0 Am-Dafock\n- Plus de 500 m\u00e9nages d\u00e9plac\u00e9s re\u00e7oivent une assistance multisectorielle dans l\u2019Ouham-Fafa\n- L\u2019ins\u00e9curit\u00e9 continue d\u2019entra\u00eener des d\u00e9placements de population dans l\u2019Ouham\n\n**CONTEXTE G\u00c9N\u00c9RAL**\n\nPr\u00e9fecture de l\u2019Ouham \u2013 Nord-Ouest\n\n- Le 26 septembre, des d\u00e9placements pr\u00e9ventifs de population ont \u00e9t\u00e9 signal\u00e9s vers la brousse et les villages environnants \u00e0 la suite d\u2019une incursion d\u2019hommes arm\u00e9s \u00e0 Bogano, sur l\u2019axe secondaire de Benzamb\u00e9, \u00e0 environ 75 km de Bossangoa. Deux femmes ont \u00e9t\u00e9 tu\u00e9es et plusieurs personnes bless\u00e9es. Les menaces de retour prof\u00e9r\u00e9es par les assaillants ont suscit\u00e9 la peur au sein des communaut\u00e9s affect\u00e9es et provoqu\u00e9 ces d\u00e9placements. Une partie des m\u00e9nages d\u00e9plac\u00e9s a ensuite rejoint le centre-ville de Bossangoa, o\u00f9 ils ont \u00e9t\u00e9 accueillis par les autorit\u00e9s locales. Ces personnes sont actuellement h\u00e9berg\u00e9es par des familles d\u2019accueil. La persistance de l\u2019ins\u00e9curit\u00e9 pourrait provoquer de nouveaux d\u00e9placements et accro\u00eetre les be-soins humanitaires, notamment en affectant l\u2019acc\u00e8s aux services essentiels et aux moyens de subsistance.\n\n**BESOINS ET R\u00c9PONSE HUMANITAIRE**\n\n**Multisectoriel**\n\nPr\u00e9fecture de la Vakaga \u2013 Nord-Est\n\n- Le 23 septembre, le Programme alimentaire mondial (PAM) a lanc\u00e9 \u00e0 Birao une op\u00e9ration de transferts mon\u00e9taires couvrant deux mois de ration alimentaire au profit de plus de 8 500 m\u00e9nages de r\u00e9fugi\u00e9s soudanais, soit 23 926 personnes.\n\n**Protection**\n\nPr\u00e9fecture du Mbomou \u2013 Sud-Est\n\n- Du 21 au 25 septembre, le Comit\u00e9 international pour l\u2019aide d\u2019urgence et le d\u00e9veloppement (CIAUD), partenaire de mise en \u0153uvre du Haut-Commissariat des Nations Unies pour les r\u00e9fugi\u00e9s (HCR), a document\u00e9 16 incidents de protection \u00e0 Bangassou et Rafa\u00ef. Parmi ces incidents figuraient six cas de violences bas\u00e9es sur le genre (VBG), cinq atteintes aux droits de propri\u00e9t\u00e9 et une atteinte \u00e0 la libert\u00e9 et \u00e0 la s\u00e9curit\u00e9 des personnes. Deux survivantes de VBG ont \u00e9t\u00e9 orient\u00e9es vers l\u2019h\u00f4pital de Rafa\u00ef pour une prise en charge m\u00e9dicale.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
@@ -76,8 +340,8 @@
             ],
             "url": "https://reliefweb.int/node/4232184",
             "date": {
-                "original": "2026-10-01T00:00:00+00:00",
-                "changed": "2026-10-01T12:11:39+00:00",
+                "original": "2026-09-29T00:00:00+00:00",
+                "changed": "2026-10-01T12:53:14+00:00",
                 "created": "2026-10-01T12:09:08+00:00"
             }
         },
@@ -1552,275 +1816,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4231677"
-    },
-    {
-        "id": "4231676",
-        "score": 1,
-        "fields": {
-            "title": "CORE Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (27 sep. 2026)",
-            "body": "Depuis avril 2023, le CNARR, le HCR et l'OIM surveillent et assistent un afflux de r\u00e9fugi\u00e9s soudanais et de  \n retourn\u00e9s tchadiens arrivant dans les provinces de Ouaddai, Sila, Wadi-Fira et Ennedi Est. Les agences  \n humanitaires soutiennent le gouvernement tchadien et les autorit\u00e9s locales pour fournir une assistance vitale et  \n des services de protection. Le gouvernement et le HCR ont aid\u00e9 69% des r\u00e9fugi\u00e9s \u00e0 quitter les sites d'arriv\u00e9e  \n spontan\u00e9e pour s'installer dans des camps nouvellement \u00e9tablis o\u00f9 les d\u00e9plac\u00e9s b\u00e9n\u00e9ficient des services fournis  \n par les \u00e9quipes humanitaires.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231676",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-29T06:08:28+00:00",
-                "created": "2026-09-28T13:04:22+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231676"
-    },
-    {
-        "id": "4231671",
-        "score": 1,
-        "fields": {
-            "title": "Democratic Republic of the Congo: Current and anticipated indirect humanitarian impacts of the Ebola outbreak (ACAPS Thematic Report 28 September 2026)",
-            "body": "CRISIS OVERVIEW\n\nSince its declaration in May 2026, the outbreak of Ebola \u2013 caused by Bundibugyo virus \u2013 in the Democratic Republic of Congo (DRC) has spread to seven provinces: Bas-Uele, Haut-Uele, Ituri, North Kivu, South Kivu, Sud-Ubangi, and Tshopo (INSP 26/09/2026; WHO 14/08/2026). By 25 September, the Government had recorded 7,989 confirmed cases and 3,852 deaths, corresponding to a reported crude case fatality ratio of 48.2%. This is the largest and fastest-growing Ebola outbreak ever recorded in the DRC, with transmission continuing to outpace control efforts (INSP 26/09/2026; WHO 24/08/2026). Beyond its direct toll, the outbreak is already reducing the use of essential health services in the worst-affected areas. Between April\u2013June 2026, use of routinely monitored primary healthcare services fell by 42% across Ituri\u2019s four main hotspots of Bunia, Mongbwalu, Nizi, and Rwampara, and by around 13% across the province as a whole, with no comparable seasonal decline recorded a year earlier (UNICEF 06/08/2026). Nutrition services followed the same trend, with preschool consultations declining by 20.4% and the number of severe acute malnutrition cases treated declining by 17.8% in June 2026 compared with June 2025. The latter decline may reflect reduced access to nutrition services and screening rather than an improvement in children\u2019s nutritional status (Nutrition Cluster 03/09/2026). Service availability has also declined locally. In the H\u00e9ritage health area of Limani, Djugu territory, nine of 12 health posts have suspended activities after becoming overwhelmed by the daily influx of patients, reducing surrounding communities\u2019 access to basic healthcare (Radio Okapi 15/07/2026). The indirect impact of the outbreak reflects both reduced health service availability \u2013 as a result of staffing and operational pressures \u2013 and reduced demand, as fear of infection and isolation discourages care-seeking. Current reporting identifies fear of infection, movement restrictions, stigma, the temporary reorganisation of health services, and the mobilisation of personnel for the response as factors affecting the use and continuity of routine health and nutrition services (UNICEF 06/08/2026; Nutrition Cluster 03/09/2026). The outbreak and its response also place additional demand on health workers, facilities, laboratories, referral systems, transport, protective equipment, and supplies needed to maintain routine care. Available evidence does not establish that these resources have been systematically withdrawn from non-Ebola programmes, but shortages and competing demands may disrupt consultations, referrals, and the continuity of care (WHO 20/08/2026; Mulenga-Cilundika et al. 12/10/2022). These pressures are affecting a health system in which facility closures, shortages of medical products, insecurity, and funding cuts had already left large numbers of people without access to healthcare and nutrition services (OCHA 28/01/2026).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9417",
-                    "id": 9417,
-                    "name": "ACAPS",
-                    "shortname": "ACAPS",
-                    "longname": "ACAPS",
-                    "spanish_name": "ACAPS",
-                    "homepage": "https://www.acaps.org/en/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231671",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-28T13:19:05+00:00",
-                "created": "2026-09-28T13:03:16+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231671"
-    },
-    {
-        "id": "4231658",
-        "score": 1,
-        "fields": {
-            "title": "Eastern Chad: Sudan Situation \u2013 Flash Updates #57",
-            "body": "**Context**  \n  \nThe security situation along Chad\u2019s borders remains a concern, while conditions inside the country remain generally stable. The eastern provinces of Sila, Ouadda\u00ef, Wadi Fira and Ennedi Est continue to be affected by the spillover of the conflict in neighbouring Sudan. In addition to the continued arrival of refugees fleeing violence in Sudan, several security incidents linked to the conflict have been reported in Chad since late August, including drone strikes in Wadi Fira and Ennedi Est. On 11 September, a Chadian national was reportedly killed near Kulbus in Wadi Fira by members of the Rapid Support Forces (RSF), and reports of kidnappings have also emerged from the border area.  \n  \nAt the same time, worsening climatic conditions and the impact of drought, described by the World Food Programme (WFP) as one of the most severe in the region since 1984, continue to undermine livelihoods, reduce agricultural production and drive additional population movements towards eastern Chad. In response, the Chadian Government recently conducted an assessment mission in the eastern provinces to evaluate the extent of the rainfall deficit and identify appropriate mitigation measures. Proposed actions include the exemption of customs duties on selected essential food commodities and the targeted distribution of cereals to the most affected households.  \n  \nThe drought situation was also discussed during meetings between provincial authorities in Ouadda\u00ef and the UNHCR Regional Director for East and Horn of Africa and the Great Lakes, who also serves as Regional Coordinator for the Sudan Refugee Situation, during his mission to Chad from 17 to 21 September 2026. Chadian authorities expressed concern over the humanitarian and socio-economic consequences of the climate crisis, which are compounding pressures arising from the continued influx of Sudanese refugees.  \n  \nWithin the country, incidents of criminality and petty crime, including armed robberies, assaults and explosions caused by explosive devices, continue to be reported in some refugee-hosting areas. Meanwhile, heavy seasonal rains and rising wadi water levels are restricting access to several locations in eastern Chad, creating additional challenges for humanitarian operations.  \n  \nTwo Safe and Secure Approaches in Field Environments (SSAFE) training sessions were conducted for 61 participants, and two additional sessions, organized in collaboration with WFP, are planned for October.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231658",
-            "date": {
-                "original": "2026-09-21T00:00:00+00:00",
-                "changed": "2026-09-28T12:49:05+00:00",
-                "created": "2026-09-28T12:03:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231658"
-    },
-    {
-        "id": "4231634",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo - Maniema : Pr\u00e9sence op\u00e9rationnelle - 3W (Qui fait quoi o\u00f9) (juin 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231634",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-28T08:47:50+00:00",
-                "created": "2026-09-28T08:45:37+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231634"
-    },
-    {
-        "id": "4231633",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo - Sud-Kivu : Pr\u00e9sence op\u00e9rationnelle - 3W (Qui fait quoi o\u00f9) (juin 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231633",
-            "date": {
-                "original": "2026-09-14T00:00:00+00:00",
-                "changed": "2026-09-28T08:45:38+00:00",
-                "created": "2026-09-28T08:40:47+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231633"
-    },
-    {
-        "id": "4231611",
-        "score": 1,
-        "fields": {
-            "title": "Activit\u00e9s d\u2019\u00e9radication de la poliomy\u00e9lite en R\u00e9publique d\u00e9mocratique du Congo (IEP)\u2013 S37 - 2026, Mise \u00e0 jour au 17 septembre 2026",
-            "body": "**Points saillants de la Semaine 37/2026**\n\nCas de PFA notifi\u00e9s et re\u00e7us au laboratoire \u00e0 la semaine 37: 134 cas de 2026\n\n\u2756 Isolats envoy\u00e9s vers NICD pour s\u00e9quen\u00e7age dans la semaine 06 isolats envoy\u00e9s en s\u00e9quen\u00e7age et 58 isolats en attente des r\u00e9sultats de s\u00e9quen\u00e7age (47 isolats PFA; 2 contacts et 2 communautaires, 7 isolats ENV)\n\nIsolats envoy\u00e9s vers CDC pour s\u00e9quen\u00e7age dans la semaine : N\u00e9ant\n\nExamens de suivi au 60\u00e8me jour r\u00e9alis\u00e9s au cours de la semaine : 17 cas (Kasai Central 1, Lualaba 1, Maniema 1, Nord Kivu 4 et Sud Kivu 2)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3748",
-                    "id": 3748,
-                    "name": "Global Polio Eradication Initiative",
-                    "shortname": "GPEI",
-                    "longname": "Global Polio Eradication Initiative",
-                    "spanish_name": "Iniciativa Mundial de Erradicaci\u00f3n de la Poliomielitis",
-                    "homepage": "https://polioeradication.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/732",
-                    "id": 732,
-                    "name": "Government of the Democratic Republic of the Congo",
-                    "shortname": "Govt. DR Congo",
-                    "longname": "Government of the Democratic Republic of the Congo",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231611",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-28T23:27:56+00:00",
-                "created": "2026-09-28T07:06:15+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231611"
     }
 ]
