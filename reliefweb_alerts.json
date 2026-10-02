@@ -1,9 +1,522 @@
 [
     {
+        "id": "4232319",
+        "score": 1,
+        "fields": {
+            "title": "Tchad \u2014 Pr\u00e9sence des Migrants \u2014 Sous-pr\u00e9fectures de Faya et Kalait (mars 2026)",
+            "body": "Ce rapport pr\u00e9sente les principaux r\u00e9sultats issus de la collecte de donn\u00e9es conduite en mars 2026, men\u00e9e en partenariat avec le Groupe d\u2019\u00c9tude sur l\u2019Organisation et le D\u00e9veloppement des Espaces Soudano-sah\u00e9liens (GEODES) du d\u00e9partement de g\u00e9ographie de l'Universit\u00e9 de N'Djamena, dans les sous-pr\u00e9fectures de Faya et de Kalait (province de Borkou et Ennedi-Ouest, respectivement) o\u00f9 l\u2019on constate \u00e0 travers les donn\u00e9es de la DTM, une pr\u00e9sence importante de migrants en transit, de retour ou bloqu\u00e9.\u200b\n\nL\u2019enqu\u00eate a \u00e9t\u00e9 men\u00e9e du 17 au 26 mars 2026 dans les sous-pr\u00e9fectures de Faya (province du Borkou) et de Kalait (province de l\u2019Ennedi-Ouest). Ces localit\u00e9s ont \u00e9t\u00e9 s\u00e9lectionn\u00e9es sur la base des donn\u00e9es de suivi des flux de la DTM, qui mettent en \u00e9vidence une forte pr\u00e9sence de migrants en transit, de retour ou bloqu\u00e9.\u200b L\u2019\u00e9tude s\u2019est concentr\u00e9e sur les principaux quartiers d\u2019attraction \u00e9conomique de migrants au Tchad notamment dans les secteurs de l\u2019orpaillage, de l\u2019agriculture, du commerce, ainsi que dans les m\u00e9tiers artisanaux tels que la couture, la ma\u00e7onnerie ou la menuiserie.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232319",
+            "date": {
+                "original": "2026-10-02T00:00:00+00:00",
+                "changed": "2026-10-02T03:28:21+00:00",
+                "created": "2026-10-02T01:33:47+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232319"
+    },
+    {
+        "id": "4232316",
+        "score": 1,
+        "fields": {
+            "title": "RDC \u2014 Tanganyika : Rapport d'Enregistrement et Enqu\u00eate d'Intention (septembre 2026)",
+            "body": "La province du Tanganyika, en particulier le territoire de Kalemie, demeure affect\u00e9e par une ins\u00e9curit\u00e9 persistante, principalement li\u00e9e aux conflits intercommunautaires et aux attaques de groupes arm\u00e9s, entra\u00eenant des d\u00e9placements de population. Dans ce contexte, la Matrice de Suivi des D\u00e9placements (DTM) de l\u2019Organisation Internationale pour les Migrations (OIM) a men\u00e9 des op\u00e9rations d\u2019enregistrement et de v\u00e9rification, ainsi qu\u2019une enqu\u00eate sur les intentions, dans les quatre sites spontan\u00e9s de Katumbi, Kinywema/Kyoko, Malenge/ Nyemba et Mangala.\n\nLa collecte des donn\u00e9es s\u2019est d\u00e9roul\u00e9e du 1er au 6 septembre 2026. Cette op\u00e9ration a permis d\u2019enregistrer 2 931 m\u00e9nages, soit 9 918 individus, dans les quatre sites cibl\u00e9s. Les r\u00e9sultats pr\u00e9sent\u00e9s refl\u00e8tent les personnes d\u00e9plac\u00e9es internes enregistr\u00e9es dans ces sites et ne repr\u00e9sentent donc pas l\u2019ensemble de la population d\u00e9plac\u00e9e du territoire de Kalemie.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232316",
+            "date": {
+                "original": "2026-10-02T00:00:00+00:00",
+                "changed": "2026-10-02T03:42:07+00:00",
+                "created": "2026-10-02T01:33:23+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232316"
+    },
+    {
+        "id": "4232314",
+        "score": 1,
+        "fields": {
+            "title": "Cluster Protection Tchad : Note de plaidoyer Situation de protection dans la Province du Lac - Une crise de protection sous-financ\u00e9e n\u00e9cessitant une r\u00e9ponse urgente et renforc\u00e9e (Ao\u00fbt 2026)",
+            "body": "**Message cl\u00e9**\n\nPour le Sous-cluster Protection du Lac, le principal d\u00e9fi aujourd'hui n'est pas l'absence de besoins ou d'\u00e9vidence, mais l'insuffisance de couverture op\u00e9rationnelle, de ressources d\u00e9di\u00e9es et d'acteurs sp\u00e9cialis\u00e9s en capacit\u00e9 d'assurer un monitoring r\u00e9gulier, une analyse continue des risques et une r\u00e9ponse \u00e0 l'\u00e9chelle des besoins.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232314",
+            "date": {
+                "original": "2026-08-31T00:00:00+00:00",
+                "changed": "2026-10-02T01:25:49+00:00",
+                "created": "2026-10-02T01:25:20+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232314"
+    },
+    {
+        "id": "4232313",
+        "score": 1,
+        "fields": {
+            "title": "Crise centrafricaine : nouvel \u00e9lan pour des solutions durables aux d\u00e9placements forc\u00e9s",
+            "body": "Bangui \u2013 R\u00e9unis \u00e0 Bangui, les ministres et chefs de d\u00e9l\u00e9gation de la R\u00e9publique centrafricaine, du Cameroun, de la R\u00e9publique du Congo, de la R\u00e9publique d\u00e9mocratique du Congo, du Tchad et du Soudan ont r\u00e9affirm\u00e9 leur engagement \u00e0 acc\u00e9l\u00e9rer la mise en \u0153uvre de la D\u00e9claration de Yaound\u00e9 et de la Plateforme d\u2019appui aux solutions pour les personnes d\u00e9plac\u00e9es de force par la crise centrafricaine.\n\n\u00c0 l\u2019occasion de la r\u00e9union minist\u00e9rielle extraordinaire du Comit\u00e9 de pilotage de la Plateforme d\u2019appui aux solutions pour la R\u00e9publique centrafricaine (CAR Platform), les participants ont salu\u00e9 les progr\u00e8s r\u00e9alis\u00e9s depuis son lancement en octobre 2023, notamment en mati\u00e8re de retours volontaires, d\u2019assistance aux retourn\u00e9s spontan\u00e9s, de r\u00e9int\u00e9gration durable, d\u2019identification des p\u00f4les de d\u00e9veloppement, des progr\u00e8s r\u00e9alis\u00e9s en faveur de l\u2019 inclusion et des solutions aux refugies dans les pays d\u2019asile et de coordination nationale et r\u00e9gionale.\n\n\u00ab Les solutions durables ne se r\u00e9sument pas au retour des populations. Rentrer chez soi doit aussi signifier pouvoir vivre en s\u00e9curit\u00e9, acc\u00e9der aux services essentiels, exercer ses droits et disposer des moyens de reconstruire sa vie et de contribuer au d\u00e9veloppement de son pays\u2026 Le retour volontaire, s\u00fbr et digne des r\u00e9fugi\u00e9s centrafricains, ainsi que leur r\u00e9int\u00e9gration durable, constituent en R\u00e9publique centrafricaine des piliers essentiels de la mise en \u0153uvre de la D\u00e9claration de Yaound\u00e9 \u00bb, a d\u00e9clar\u00e9 Felix Molua, Premier ministre de la R\u00e9publique centrafricaine.\n\nDepuis 2017, 75 031 r\u00e9fugi\u00e9s centrafricains ont \u00e9t\u00e9 assist\u00e9s pour un retour volontaire, dont 16 265 en 2024 et 21 455 en 2025. Plusieurs milliers d\u2019autres sont rentr\u00e9s spontan\u00e9ment, selon les autorit\u00e9s locales. Toutefois, au 31 mars 2026, plus de 1,16 million de personnes restaient d\u00e9plac\u00e9es de force par la crise centrafricaine, dont plus de 650 000 r\u00e9fugi\u00e9s dans les pays d\u2019asile et 427 479 personnes d\u00e9plac\u00e9es internes en R\u00e9publique centrafricaine.\n\n**Des priorit\u00e9s renouvel\u00e9es pour acc\u00e9l\u00e9rer les solutions**\n\nDans leur communiqu\u00e9 final, les ministres et chefs de d\u00e9l\u00e9gation ont recommand\u00e9 de renforcer les structures de gouvernance de la CAR Platform et de mobiliser davantage de ressources financi\u00e8res et techniques pour appuyer les plans d\u2019action nationaux.\n\nIls ont \u00e9galement appel\u00e9 \u00e0 mettre en \u0153uvre les recommandations des groupes de travail techniques, y compris la reprise du rapatriement volontaire en 2026 et la pr\u00e9paration d\u2019un calendrier pr\u00e9visionnel des convois de retour pour 2027, en tenant compte des capacit\u00e9s d\u2019accueil, des programmes de r\u00e9int\u00e9gration, des mesures sanitaires et des initiatives de d\u00e9veloppement dans les zones de retour.\n\nLa documentation civile, l\u2019acc\u00e8s \u00e0 l\u2019eau, \u00e0 la sant\u00e9, \u00e0 l\u2019\u00e9ducation et aux opportunit\u00e9s \u00e9conomiques figurent parmi les priorit\u00e9s d\u2019investissement retenues dans les p\u00f4les de d\u00e9veloppement pour soutenir la r\u00e9int\u00e9gration, renforcer la coh\u00e9sion sociale et favoriser des retours volontaires, s\u00fbrs et dignes. \u00ab La r\u00e9int\u00e9gration ne peut \u00eatre durable que si les populations trouvent, dans les zones de retour, les conditions n\u00e9cessaires pour reconstruire leur vie. Cela signifie investir dans les services essentiels, les infrastructures et les opportunit\u00e9s \u00e9conomiques, au b\u00e9n\u00e9fice des retourn\u00e9s comme des communaut\u00e9s qui les accueillent \u00bb, a d\u00e9clar\u00e9 William Chemaly, repr\u00e9sentant du HCR en R\u00e9publique centrafricaine.\n\nLes participants ont toutefois relev\u00e9 des d\u00e9fis persistants, notamment l\u2019ins\u00e9curit\u00e9 dans certaines zones de retour, les contraintes socio-\u00e9conomiques et infrastructurelles, l\u2019insuffisance des ressources, les besoins croissants de r\u00e9int\u00e9gration et les mesures sanitaires suppl\u00e9mentaires li\u00e9es au virus Ebola.\n\nIls ont invit\u00e9 les partenaires techniques et financiers, les institutions financi\u00e8res internationales, les agences des Nations Unies, les organisations r\u00e9gionales, le secteur priv\u00e9, la soci\u00e9t\u00e9 civile et de nouveaux partenaires \u00e0 renforcer leur soutien \u00e0 la D\u00e9claration de Yaound\u00e9 et \u00e0 la CAR Platform.\n\n\u00ab Les solutions durables n\u00e9cessitent des investissements structurants qui renforcent la r\u00e9silience des communaut\u00e9s, stimulent le d\u00e9veloppement \u00e9conomique local et cr\u00e9ent des opportunit\u00e9s pour les r\u00e9fugi\u00e9s, les retourn\u00e9s, les d\u00e9plac\u00e9s internes et les communaut\u00e9s d\u2019accueil. La Banque africaine de d\u00e9veloppement restera engag\u00e9e aux c\u00f4t\u00e9s des gouvernements, du HCR et des partenaires \u00bb, a d\u00e9clar\u00e9 Mamadou Coulibaly, repr\u00e9sentant r\u00e9sident de la Banque africaine de d\u00e9veloppement (BAD) en R\u00e9publique centrafricaine.\n\n**Contacts m\u00e9dias \u00e0 Bangui**:\n\n- Gloria Ramazani, ramazang@unhcr.org, +236 74147892\n- Fatime Stella, fatime@unhcr.org +236 74083734\n\n**\u00c0 propos de la CAR Platform**\n\nLa Plateforme d\u2019appui aux solutions pour la R\u00e9publique centrafricaine (CAR Platform) a \u00e9t\u00e9 officiellement lanc\u00e9e \u00e0 Bangui en octobre 2023, \u00e0 la suite de l\u2019adoption de la D\u00e9claration de Yaound\u00e9 en avril 2022. Elle constitue un m\u00e9canisme r\u00e9gional de dialogue, de coordination et de mobilisation des partenariats destin\u00e9 \u00e0 promouvoir des solutions durables pour les r\u00e9fugi\u00e9s centrafricains, les personnes d\u00e9plac\u00e9es internes, les retourn\u00e9s et les communaut\u00e9s d\u2019accueil affect\u00e9s par la crise centrafricaine.\n\nAu 31 mars 2026, plus de 1,16 million de personnes demeuraient d\u00e9plac\u00e9es de force en raison de la crise centrafricaine, dont plus de 650 000 r\u00e9fugi\u00e9s dans les pays d\u2019asile et 427 479 personnes d\u00e9plac\u00e9es internes en R\u00e9publique centrafricaine.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232313",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-02T01:22:20+00:00",
+                "created": "2026-10-02T01:22:20+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232313"
+    },
+    {
+        "id": "4232312",
+        "score": 1,
+        "fields": {
+            "title": "Central African crisis: renewed momentum for durable solutions to forced displacement",
+            "body": "Bangui \u2013 Meeting in Bangui, ministers and heads of delegation from the Central African Republic, Cameroon, the Republic of the Congo, the Democratic Republic of the Congo, Chad and Sudan reaffirmed their commitment to accelerate implementation of the Yaound\u00e9 Declaration and the Support Platform for Solutions for people forcibly displaced by the Central African crisis.\n\nAt the extraordinary ministerial meeting of the Steering Committee of the Support Platform for Solutions for the Central African Republic (CAR Platform), participants welcomed progress since its launch in October 2023, particularly on voluntary returns, assistance to spontaneous returnees, sustainable reintegration, the identification of development hubs, progress towards inclusion and solutions for refugees in countries of asylum, and national and regional coordination.\n\n\u201cDurable solutions are not limited to the return of populations. Returning home must also mean being able to live in safety, access essential services, exercise one\u2019s rights, and have the means to rebuild one\u2019s life and contribute to the development of one\u2019s country\u2026 The voluntary, safe and dignified return of Central African refugees, as well as their sustainable reintegration, are essential pillars of the implementation of the Yaound\u00e9 Declaration,\u201d said Felix Molua, Prime Minister of the Central African Republic.\n\nSince 2017, 75,031 Central African refugees have been assisted to voluntarily return, including 16,265 in 2024 and 21,455 in 2025. Several thousand others have returned spontaneously, according to local authorities. However, as of 31 March 2026, more than 1.16 million people remained forcibly displaced by the Central African crisis, including more than 650,000 refugees in countries of asylum and 427,479 internally displaced people in the Central African Republic.\n\n**Renewed priorities to accelerate solutions**\n\nIn their final communiqu\u00e9, ministers and heads of delegation recommended strengthening the CAR Platform\u2019s governance structures and mobilizing additional financial and technical resources to support national action plans.\n\nThey also called for the implementation of recommendations from the technical working groups, including the resumption of voluntary repatriation in 2026 and a provisional schedule for return convoys in 2027, aligned with reception capacities, reintegration programmes, health measures, and development initiatives in areas of return.\n\nCivil documentation, access to water, health care, education and economic opportunities were identified as investment priorities in development hubs to support reintegration, strengthen social cohesion and foster voluntary, safe and dignified returns.\n\n\u201cReintegration can only be sustainable if populations find, in areas of return, the conditions they need to rebuild their lives. This means investing in essential services, infrastructure and economic opportunities, for the benefit of returnees as well as the communities that host them,\u201d said William Chemaly, UNHCR Representative in the Central African Republic.\n\nParticipants nevertheless noted persistent challenges, including insecurity in some areas of return, socio-economic and infrastructure constraints, insufficient resources, growing reintegration needs and additional health measures linked to the Ebola virus.\n\nThey invited technical and financial partners, international financial institutions, United Nations agencies, regional organizations, the private sector, civil society and new partners to strengthen support for the Yaound\u00e9 Declaration and the CAR Platform.\n\n\u201cDurable solutions require structural investments that strengthen community resilience, stimulate local economic development and create opportunities for refugees, returnees, internally displaced people and host communities. The African Development Bank will remain engaged alongside Governments, UNHCR and partners,\u201d said Mamadou Coulibaly, Resident Representative of the African Development Bank (AfDB) in the Central African Republic.\n\n**Media contacts in Bangui:**\n\n- Gloria Ramazani, ramazang@unhcr.org, +236 74147892\n- Fatime Stella, fatime@unhcr.org, +236 74083734\n\n**About the CAR Platform**\n\nThe Support Platform for Solutions for the Central African Republic (CAR Platform) was officially launched in Bangui in October 2023, following the adoption of the Yaound\u00e9 Declaration in April 2022. It is a regional mechanism for dialogue, coordination and partnership mobilization aimed at promoting durable solutions for Central African refugees, internally displaced people, returnees and host communities affected by the Central African crisis.\n\nAs of 31 March 2026, more than 1.16 million people remained forcibly displaced as a result of the Central African crisis, including more than 650,000 refugees in countries of asylum and 427,479 internally displaced people in the Central African Republic.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232312",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-02T01:21:39+00:00",
+                "created": "2026-10-02T01:21:39+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232312"
+    },
+    {
+        "id": "4232311",
+        "score": 1,
+        "fields": {
+            "title": "Rapport d'analyse de protection : Risque d\u2019enl\u00e8vement de personnes civiles dans la Province du Lac, Tchad (Septembre 2026)",
+            "body": "**1. R\u00c9SUM\u00c9 EX\u00c9CUTIF**\n\nLe ph\u00e9nom\u00e8ne des enl\u00e8vements de personnes civiles dans la province du Lac constitue la premi\u00e8re menace de protection identifi\u00e9e depuis 2020, repr\u00e9sentant entre 17% et 48% des incidents de protection selon les p\u00e9riodes analys\u00e9es. Les donn\u00e9es crois\u00e9es du monitoring de protection INTERSOS (506 cas d'enl\u00e8vements document\u00e9s entre f\u00e9vrier 2024 et juillet 20261 ), du Cluster Protection, du P21 et de l'analyse contextuelle r\u00e9v\u00e8lent un risque croissant, port\u00e9 par des Groupes Arm\u00e9s Non \u00c9tatiques (GANE) responsables de 98% des cas. Le dispositif de monitoring interagences P21 (UNHCR, CRT, CIAUD, INTERSOS, CLEAP), consult\u00e9 le 31 ao\u00fbt 2026, recense pour sa part 2 764 incidents relevant de la cat\u00e9gorie \u00ab enl\u00e8vement \u00bb2 dans l'ensemble de la province du Lac sur la p\u00e9riode 2020-ao\u00fbt 2026 (dont 148 concernant sp\u00e9cifiquement des enfants), confirmant \u00e0 une \u00e9chelle g\u00e9ographique et temporelle plus large l'ampleur du ph\u00e9nom\u00e8ne d\u00e9j\u00e0 document\u00e9 par le monitoring INTERSOS.\n\nL'analyse selon l'\u00e9quation des risques (Risque = Menace \u00d7 Vuln\u00e9rabilit\u00e9 / Capacit\u00e9) met en \u00e9vidence un d\u00e9s\u00e9quilibre critique : une menace en constante intensification (GANE de plus en plus agressifs, \u00e9conomie du kidnapping structur\u00e9e, extension g\u00e9ographique des zones d'attaque), une vuln\u00e9rabilit\u00e9 profonde des populations (82% des victimes sont des personnes d\u00e9plac\u00e9es internes, 75% sont des hommes en \u00e2ge actif cibl\u00e9s pour leur capacit\u00e9 \u00e0 payer des ran\u00e7ons, enl\u00e8vements concentr\u00e9s sur les lieux de subsistance), et des capacit\u00e9s de protection communautaires et institutionnelles largement insuffisantes (78% des victimes n'acc\u00e8dent pas aux services, m\u00e9canismes de signalement/alerte paralys\u00e9s par la peur des repr\u00e9sailles).\n\nDes impacts sont multidimensionnels et d\u00e9vastateurs : effondrement \u00e9conomique des m\u00e9nages en raison du m\u00e9canisme de la ran\u00e7on, des traumatismes psychologiques profonds touchant 100% des sites enqu\u00eat\u00e9s, la d\u00e9scolarisation massive des enfants (89% des sites), les violences bas\u00e9es sur le genre syst\u00e9matiques (100% des sites confirment des risques VBG pour les femmes et filles enlev\u00e9es). La tendance \u00e0 la hausse observ\u00e9e en 2025-2026 (+47% d'incidents de protection par rapport \u00e0 2024, pour preuve, 57 cas d\u2019enl\u00e8vements ont \u00e9t\u00e9 enregistr\u00e9s pour le seul mois de janvier 2026) confirme l'urgence d'une r\u00e9ponse holistique articulant s\u00e9curit\u00e9, protection, appui psychosocial et rel\u00e8vement \u00e9conomique. Cette dynamique s'est prolong\u00e9e sur les huit premiers mois de 2026 : selon OCHA, 109 personnes ont \u00e9t\u00e9 enlev\u00e9es au premier trimestre 2026 dans la province, et une attaque majeure de Boko Haram contre la base militaire de Barka Tolorom (23 \u00e0 26 soldats tu\u00e9s, d\u00e9but mai 2026)3 a conduit les autorit\u00e9s tchadiennes \u00e0 d\u00e9cr\u00e9ter l'\u00e9tat d'urgence dans la province du Lac le 7 mai 2026, prorog\u00e9 pour trois mois suppl\u00e9mentaires par le Parlement.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1339",
+                    "id": 1339,
+                    "name": "INTERSOS",
+                    "shortname": "INTERSOS",
+                    "longname": "INTERSOS",
+                    "homepage": "https://www.intersos.org/en/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232311",
+            "date": {
+                "original": "2026-08-31T00:00:00+00:00",
+                "changed": "2026-10-02T01:21:23+00:00",
+                "created": "2026-10-02T01:18:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232311"
+    },
+    {
+        "id": "4232308",
+        "score": 1,
+        "fields": {
+            "title": "Tchad, Province du Lac - Fact Sheet Protection, Ao\u00fbt 2026",
+            "body": "**Contexte**\n\n\u25aa La province du Lac souffre d'une crise de protection grave sous-financ\u00e9e n\u00e9cessitant une r\u00e9ponse urgente et renforc\u00e9e.\n\n\u25aa Neuf personnes sont enlev\u00e9es par semaine en moyenne dans la province du Lac en 2026. Presque 500 incidents de Protection ont \u00e9t\u00e9 enregistr\u00e9s en 2026.\n\n\u25aa Une personne sur trois vivant dans la province du Lac est d\u00e9plac\u00e9e de force. La province du Lac au Tchad accueille 332 935 personnes d\u00e9plac\u00e9es de force, dont 294 805 sont des personnes d\u00e9plac\u00e9es internes, 22 051 sont des r\u00e9fugi\u00e9s et 16 079 sont des rapatri\u00e9s tchadiens.\n\n\u25aa La population d\u00e9plac\u00e9e pr\u00e9sente un profil fortement vuln\u00e9rable et d\u00e9pendant caract\u00e9ris\u00e9e par une proportion \u00e9lev\u00e9e de femmes et d\u2019enfants estim\u00e9e entre 70 et 80% (source rapport ERP juin 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232308",
+            "date": {
+                "original": "2026-08-31T00:00:00+00:00",
+                "changed": "2026-10-02T01:17:09+00:00",
+                "created": "2026-10-02T01:15:29+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232308"
+    },
+    {
+        "id": "4232300",
+        "score": 1,
+        "fields": {
+            "title": "\u00c0 Paoua, la MINUSCA \u00e9value l\u2019impact de sa reconfiguration et engage le dialogue sur les priorit\u00e9s de la consolidation",
+            "body": "En visite \u00e0 Paoua, dans la r\u00e9gion de la Yad\u00e9, la Repr\u00e9sentante sp\u00e9ciale du Secr\u00e9taire g\u00e9n\u00e9ral des Nations Unies et Cheffe de la MINUSCA a r\u00e9affirm\u00e9 que la reconfiguration du dispositif territorial de la Mission ne constitue pas un d\u00e9sengagement, mais une adaptation aux nouvelles r\u00e9alit\u00e9s du terrain afin de r\u00e9pondre plus efficacement aux d\u00e9fis \u00e9mergents.\n\nCette visite ouvre une tourn\u00e9e nationale consacr\u00e9e \u00e0 l\u2019\u00e9valuation des premiers effets de la r\u00e9organisation du dispositif territorial de la MINUSCA, engag\u00e9e depuis la fin de l\u2019ann\u00e9e 2025. Pour Valentine Rugwabiza, cette \u00e9volution est la cons\u00e9quence naturelle des progr\u00e8s et des nouveaux d\u00e9fis apparus dans le pays. \u00ab *La Centrafrique de 2026 n\u2019est pas la Centrafrique de 2014*\u00bb, a-t-elle soulign\u00e9. L\u2019objectif est d\u00e9sormais \u00ab *de mesurer l\u2019impact de cette reconfiguration sur le terrain, de recueillir les priorit\u00e9s des communaut\u00e9s et d\u2019accompagner la transformation des acquis s\u00e9curitaires en avanc\u00e9es concr\u00e8tes pour les populations* \u00bb.\n\nAlors que certaines r\u00e9gions se sont stabilis\u00e9es, d\u2019autres, notamment aux fronti\u00e8res et le long des couloirs de transhumance, requi\u00e8rent une attention accrue. La Mission a donc r\u00e9ajust\u00e9 son d\u00e9ploiement afin de concentrer ses ressources l\u00e0 o\u00f9 les besoins de protection et de pr\u00e9vention des conflits sont les plus pressants.\n\nCette visite de terrain avait \u00e9galement pour objectif d\u2019entendre directement les autorit\u00e9s locales, les repr\u00e9sentants de la soci\u00e9t\u00e9 civile et les communaut\u00e9s afin de mesurer l\u2019impact r\u00e9el des changements op\u00e9r\u00e9s ces derniers mois. \u00ab *Rien ne peut se substituer \u00e0 un engagement direct avec ceux qui ressentent imm\u00e9diatement l\u2019impact de notre action* \u00bb, a soulign\u00e9 la Cheffe de la MINUSCA.\n\nLa consolidation passe aussi par l\u2019ancrage durable de l\u2019\u00c9tat sur l\u2019ensemble du territoire. Les avanc\u00e9es enregistr\u00e9es en mati\u00e8re de s\u00e9curit\u00e9 ont permis de renforcer progressivement la pr\u00e9sence de l\u2019\u00c9tat dans plusieurs localit\u00e9s. L\u2019enjeu est d\u00e9sormais de consolider ces acquis en renfor\u00e7ant les capacit\u00e9s des autorit\u00e9s locales, l\u2019acc\u00e8s aux services publics et le fonctionnement des collectivit\u00e9s territoriales. Comme l\u2019a rappel\u00e9 Valentine Rugwabiza, \u00ab*consolider, c\u2019est avant tout renforcer les capacit\u00e9s existantes afin que l\u2019\u00c9tat soit effectivement pr\u00e9sent dans toutes les localit\u00e9s du pays* \u00bb.\n\nLes \u00e9changes ont permis de faire le point sur les progr\u00e8s enregistr\u00e9s, tout en recueillant les pr\u00e9occupations et les attentes des acteurs locaux pour la suite du processus. Parmi les priorit\u00e9s \u00e9voqu\u00e9es figuraient l\u2019am\u00e9lioration des infrastructures, la cr\u00e9ation d\u2019opportunit\u00e9s pour les jeunes, l\u2019autonomisation des femmes, la gestion apais\u00e9e de la transhumance, le retour des personnes d\u00e9plac\u00e9es, le renforcement des services publics de base ainsi que la consolidation des m\u00e9canismes locaux de pr\u00e9vention et de r\u00e9solution des conflits.\n\nLa visite s\u2019est d\u00e9roul\u00e9e en pr\u00e9sence du minist\u00e8re l'Administration du territoire, de la D\u00e9centralisation et du D\u00e9veloppement local, du Commandant de la Force de la MINUSCA, le G\u00e9n\u00e9ral de Corps d\u2019arm\u00e9e Humphrey Nyone, de la Commissaire de la Police des Nations Unies, Fang Li, ainsi que de repr\u00e9sentants du Programme alimentaire mondial (PAM) et de l\u2019UNICEF, illustrant l\u2019approche int\u00e9gr\u00e9e mise en \u0153uvre pour accompagner la consolidation des acquis.\n\nBureau r\u00e9gional de la MINUSCA pour la r\u00e9gion de la Yad\u00e9, Paoua occupe d\u00e9sormais une place strat\u00e9gique dans cette nouvelle organisation. Ce choix traduit la volont\u00e9 de la Mission de concentrer ses ressources l\u00e0 o\u00f9 elles peuvent produire le plus d\u2019impact, tout en accompagnant durablement le renforcement de la pr\u00e9sence de l\u2019\u00c9tat, des services publics et des capacit\u00e9s locales au b\u00e9n\u00e9fice des populations.\n\n**Mme Yaye N. S\u00e8ne**\n\nPorte-parole et Cheffe par int\u00e9rim\n\nService de la communication strat\u00e9gique et de l\u2019information publique\n\nMobile: +236 72 98 22 57\n\nE-mail: seney@un.org\n\nMINUSCA - Bangui, R\u00e9publique centrafricaine\n\n[www.minusca.unmissions.org](http://www.minusca.unmissions.org/)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/14612",
+                    "id": 14612,
+                    "name": "UN Multidimensional Integrated Stabilization Mission in the Central African Republic",
+                    "shortname": "MINUSCA",
+                    "longname": "United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic",
+                    "homepage": "https://minusca.unmissions.org/en",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232300",
+            "date": {
+                "original": "2026-09-30T00:00:00+00:00",
+                "changed": "2026-10-02T00:46:31+00:00",
+                "created": "2026-10-02T00:46:31+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232300"
+    },
+    {
+        "id": "4232299",
+        "score": 1,
+        "fields": {
+            "title": "In Paoua, MINUSCA evaluates the impact of its reconfiguration and engages in dialogue on peacebuilding priorities",
+            "body": "**During a visit conducted in Paoua in the Yad\u00e9 region, the** Special Representative of the Secretary-General **and Head of MINUSCA reaffirmed that the Mission\u2019s territorial reconfiguration does not signify a disengagement, but rather an adaptation to the evolving realities on the ground, aimed at responding more effectively to emerging challenges.**\n\nThis visit marks the start of a nationwide tour dedicated to evaluating the early effects of MINUSCA\u2019s territorial reconfiguration, launched at the end of 2025. For Valentine Rugwabiza, this adjustment reflects the progress made in the country as well as the emergence of new challenges. \u201c*The Central African Republic of 2026 is not the Central African Republic of 2014,\u201d she noted.* The goal now is *\u201cto evaluate the impact of this reconfiguration on the ground, to identify and document community priorities, and help translate security achievements into concrete peace and development dividends for the population.\u201d*\n\nAs some regions have become more stable, others, particularly border areas and transhumance corridors, require increased attention. MINUSCA has therefore adjusted its deployment to focus its resources where protection needs and conflict prevention efforts are most critical.\n\nThis field visit is also aimed at hearing directly from local authorities, civil society representatives, and community members to evaluate the actual impact of the changes implemented in recent months. *\u201cNothing can replace direct engagement with those who experience the immediate impact of our work,\u201d* the Head of MINUSCA emphasized.\n\nPeacebuilding also depends on the sustainable extension of State authority throughout the national territory. The security gains achieved in recent years have progressively enabled the restoration and strengthening of State presence in several localities. The challenge now is to consolidate these gains by enhancing the capacities of local authorities, improving access to public services, and strengthening the functioning of local governance structures. As Valentine Rugwabiza emphasized, *\u201cConsolidation is first and foremost about strengthening existing capacities so that the State can effectively be present in every locality across the country.*\n\nThe discussions provided an opportunity to take stock of the progress achieved while also gathering the concerns and expectations of local stakeholders regarding the next phase of the process. Among the key priorities highlighted were the improvement of infrastructure, the creation of opportunities for young people, the empowerment of women, the peaceful management of transhumance, the return of internally displaced persons, the strengthening of basic public services, and the consolidation of local mechanisms for conflict prevention and resolution.\n\nThe visit took place in the presence of representatives of the Ministry of Territorial Administration, Decentralization and Local Development, the MINUSCA Force Commander, Lieutenant General Humphrey Nyone, the United Nations Police Commissioner, Fang Li, as well as representatives of the World Food Programme (WFP) and UNICEF, reflecting the integrated approach being implemented to support the consolidation of peace and development gain.\n\nAs MINUSCA\u2019s Regional Office for the Yad\u00e9 region, Paoua now occupies a strategic position within this new configuration. This reflects the Mission\u2019s determination to concentrate its resources where they can have the greatest impact, while sustainably supporting the extension of State authority, the delivery of public services, and the strengthening of local capacities for the benefit of the population.\n\n**Ms. Yaye N. S\u00e8ne**\n\nPorte-parole et Cheffe par int\u00e9rim\n\nService de la communication strat\u00e9gique et de l\u2019information publique\n\nMobile: +236 72 98 22 57\n\nE-mail: seney@un.org\n\nMINUSCA - Bangui, R\u00e9publique centrafricaine\n\n[www.minusca.unmissions.org](http://www.minusca.unmissions.org/)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/14612",
+                    "id": 14612,
+                    "name": "UN Multidimensional Integrated Stabilization Mission in the Central African Republic",
+                    "shortname": "MINUSCA",
+                    "longname": "United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic",
+                    "homepage": "https://minusca.unmissions.org/en",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232299",
+            "date": {
+                "original": "2026-09-30T00:00:00+00:00",
+                "changed": "2026-10-02T00:45:52+00:00",
+                "created": "2026-10-02T00:45:43+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232299"
+    },
+    {
+        "id": "4232297",
+        "score": 1,
+        "fields": {
+            "title": "Tchad - Mise \u00e0 jour des messages cl\u00e9s : Persistance des conditions s\u00e9v\u00e8res de soudure dans les provinces \u00e0 forte ins\u00e9curit\u00e9 alimentaire de l\u2019Est et du Lac, Septembre 2026 - Janvier 2027",
+            "body": "**Messages cl\u00e9**\n\n- **Les r\u00e9sultats de Crise ! (Phase 3 ! de l\u2019IPC) et de Crise (Phase 3 de l\u2019IPC) en cours en septembre se maintiendront jusqu\u2019en janvier 2027** dans les provinces de Ouadda\u00ef, Sila, Wadi Fira et Ennedi-Est. Les [**r\u00e9fugi\u00e9s**](https://new.ajala.app/arrivees_tableau) continuent d'arriver, avec 16 172 nouvelles entr\u00e9es entre mi-ao\u00fbt et mi-septembre, portant le nombre total des r\u00e9fugi\u00e9s \u00e0[ **959 126**](https://data.unhcr.org/en/documents/details/124183) depuis avril 2023. Les conditions de soudure tr\u00e8s s\u00e9v\u00e8res, occasionnant d\u2019importants d\u00e9ficits de consommation alimentaire, persistent sans aucune am\u00e9lioration du salariat agricole et de la cueillette des aliments de soudure chez les populations h\u00f4tes. Les r\u00e9fugi\u00e9s continuent de d\u00e9pendre largement du march\u00e9 et de l\u2019assistance alimentaire. La pression exerc\u00e9e sur les moyens d\u2019existence de la population h\u00f4te augmente \u00e0 un moment o\u00f9 la pr\u00e9carit\u00e9 des sources de nourriture et de revenus est \u00e9lev\u00e9e suite \u00e0 une mauvaise progression de la saison.\n- **Des r\u00e9sultats de Crise (Phase 3 de l\u2019IPC) continueront jusqu\u2019en janvier 2027 dans la province du Lac.** Les d\u00e9ficits pluviom\u00e9triques ont persist\u00e9 jusqu\u2019en septembre pendant que les conditions s\u00e9curitaires continuent \u00e0 se d\u00e9grader, entra\u00eenant davantage de d\u00e9placements des populations. La d\u00e9gradation des moyens d\u2019existence, notamment de la p\u00eache et de l\u2019\u00e9levage, entra\u00eene une baisse des revenus. Des d\u00e9ficits de consommation alimentaire, associ\u00e9s \u00e0 des ventes intensives de biens productifs, sont observ\u00e9s chez les d\u00e9plac\u00e9s internes et les populations h\u00f4tes. Les am\u00e9liorations vers des r\u00e9sultats de Stress (Phase 2 de l\u2019IPC) sont toujours attendues entre octobre et janvier 2027 dans le d\u00e9partement de Wayi, mais risquent d\u2019intervenir \u00e0 partir de novembre plut\u00f4t qu\u2019en octobre par suite du retard des r\u00e9coltes.\n- **Des r\u00e9sultats de Crise (Phase 3 de l\u2019IPC) persistent en septembre 2026 dans le Kanem et le nord Barh-El-Gazel,** en raison de la forte d\u00e9gradation des conditions alimentaires. Dans cette zone pastorale, la restauration des p\u00e2turages n\u2019est pas encore effective au 20 septembre. Les m\u00e9nages, d\u00e9pendants des march\u00e9s, restent confront\u00e9s \u00e0 des co\u00fbts \u00e9lev\u00e9s d\u2019entretien du b\u00e9tail et \u00e0 la d\u00e9t\u00e9rioration de la plupart de leurs sources de revenus. Le faible pouvoir d\u2019achat les pousse \u00e0 effectuer des ventes atypiques de leur capital productif. Les r\u00e9coltes, qui devaient am\u00e9liorer la consommation alimentaire \u00e0 partir d\u2019octobre, seront retard\u00e9es jusqu\u2019en novembre.\n- **Les conditions de soudure plus s\u00e9v\u00e8res que d\u2019habitude pr\u00e9valent en septembre.** De longues p\u00e9riodes de s\u00e9cheresse dans les zones agricoles ont entra\u00een\u00e9 des ressemis, \u00e0 la suite des dess\u00e8chements ayant occasionn\u00e9 des abandons de champs par les producteurs. Dans la zone pastorale, la situation est tr\u00e8s pr\u00e9occupante, car, jusqu\u2019au 31 ao\u00fbt, les \u00e9leveurs transhumants n\u2019ont pas atteint leurs points d\u2019attache saisonniers par suite du manque d\u2019eau et de p\u00e2turages. L\u2019embonpoint des animaux de la zone n\u2019est pas enti\u00e8rement am\u00e9lior\u00e9. Les agropasteurs vendent plus de petits ruminants et de volaille que d'habitude sur le march\u00e9 pour couvrir leurs besoins en revenus.\n- **Les conflits, conjugu\u00e9s \u00e0 l\u2019afflux de r\u00e9fugi\u00e9s soudanais, constituent l\u2019un des principaux facteurs d\u00e9terminants de l\u2019ins\u00e9curit\u00e9 alimentaire au Tchad**. Les conflits ont continu\u00e9 dans plusieurs provinces du pays. Selon Armed Conflict Location & Event Data Project (ACLED), 24 \u00e9v\u00e9nements ont eu lieu dans tout le pays entre le 12 ao\u00fbt et le 11 septembre. Ils ont affect\u00e9 131 790 personnes, dont 20 morts. Les provinces de l\u2019Est, accueillant les r\u00e9fugi\u00e9s, et la province du Lac ont enregistr\u00e9 la moiti\u00e9 des \u00e9v\u00e9nements, avec respectivement 5 et 7 \u00e9v\u00e9nements conflictuels. Ces conflits provoquent des destructions de stocks alimentaires et des d\u00e9placements forc\u00e9s, perturbent les moyens d\u2019existence, entravent les flux transfrontaliers et d\u00e9sorganisent les march\u00e9s, avec des perturbations d\u2019approvisionnement et des hausses de prix atypiques.\n- **\u00c0 la veille des r\u00e9coltes, les prix des c\u00e9r\u00e9ales sont atypiquement en hausse sur les march\u00e9s.** Les prix des aliments sont en hausse moyenne de 13 pour cent pour le mil en fin ao\u00fbt comparativement \u00e0 fin juillet. Les hausses les plus marqu\u00e9es sont observ\u00e9es dans les provinces de l\u2019est du pays, qui connaissent l\u2019afflux de r\u00e9fugi\u00e9s et o\u00f9 le kilogramme de mil, principale c\u00e9r\u00e9ale de base, a enregistr\u00e9 des hausses de 41 pour cent, 46 pour cent et 39 pour cent respectivement sur les march\u00e9s d\u2019Ab\u00e9ch\u00e9 (Ouadda\u00ef), Goz Beida (Sila) et Guereda (Wadi Fira). Selon les informateurs cl\u00e9s, ces fortes hausses des prix des aliments sont caus\u00e9es par l'augmentation du prix du carburant et par la r\u00e9tention sp\u00e9culative des stocks par les commer\u00e7ants, qui anticipent d\u00e9j\u00e0 de mauvaises productions et des prix plus \u00e9lev\u00e9s \u00e0 venir.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/529",
+                    "id": 529,
+                    "name": "Famine Early Warning System Network",
+                    "shortname": "FEWS NET",
+                    "longname": "Famine Early Warning System Network",
+                    "spanish_name": "Red de Sistemas de Alerta Temprana contra la Hambruna",
+                    "homepage": "https://fews.net/",
+                    "type": {
+                        "id": 271,
+                        "name": "Government"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232297",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-02T00:35:50+00:00",
+                "created": "2026-10-02T00:35:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232297"
+    },
+    {
+        "id": "4232294",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique centrafricaine - Mise \u00e0 jour des messages cl\u00e9s : Les r\u00e9sultats de Crise (Phase 3 de l\u2019IPC) persistent dans les zones touch\u00e9es par les conflits malgr\u00e9 la fin progressive de la soudure, Septembre 2026 - Janvier 2027",
+            "body": "**Messages cl\u00e9**\n\n- **Les r\u00e9sultats de Crise (Phase 3 de l\u2019IPC) devraient persister jusqu\u2019en janvier 2027 dans les zones les plus affect\u00e9es par l\u2019ins\u00e9curit\u00e9 et l\u2019enclavement, notamment la Vakaga, la Haute-Kotto, le Haut-Mbomou ainsi que certaines parties du nord-ouest.** Malgr\u00e9 l\u2019am\u00e9lioration saisonni\u00e8re attendue d\u00e8s octobre dans le nord, les productions inf\u00e9rieures \u00e0 la moyenne et les moyens d\u2019existence limit\u00e9s par l\u2019ins\u00e9curit\u00e9, les prix \u00e9lev\u00e9s et le faible pouvoir d\u2019achat continueront de restreindre l\u2019acc\u00e8s \u00e0 la nourriture. Les affrontements, d\u00e9placements, restrictions de mobilit\u00e9 et tensions li\u00e9es \u00e0 la [**transhumance** ](https://www.journaldebangui.com/rca-pres-de-2-700-personnes-deplacees-apres-le-meurtre-dun-eleveur-a-batangafo/)continueront de perturber les activit\u00e9s agricoles, les moyens d\u2019existence et l\u2019acc\u00e8s aux march\u00e9s. Les m\u00e9nages pauvres recourront davantage \u00e0 la r\u00e9duction des repas, \u00e0 l\u2019endettement et \u00e0 la vente de biens pour couvrir leurs besoins alimentaires. En revanche, en Bamingui-Bangoran, la diminution des incidents li\u00e9s au conflit et l\u2019am\u00e9lioration de l\u2019acc\u00e8s aux champs et aux ressources foresti\u00e8res devraient favoriser une am\u00e9lioration vers le Stress (Phase 2 de l\u2019IPC) en octobre.\n- **De septembre jusqu\u2019en janvier 2027, les r\u00e9sultats de Stress (Phase 2 de l\u2019IPC) devraient continuer \u00e0 pr\u00e9dominer dans plusieurs pr\u00e9fectures du centre, du sud et du sud-ouest, notamment dans l\u2019Ouaka, la Basse-Kotto et la Nana-Mamb\u00e9r\u00e9.** Dans ces zones relativement plus stables, les r\u00e9coltes de ma\u00efs et d\u2019arachide en cours depuis ao\u00fbt am\u00e9liorent progressivement la disponibilit\u00e9 alimentaire et r\u00e9duisent la d\u00e9pendance des m\u00e9nages aux march\u00e9s. Le manioc, disponible tout au long de l\u2019ann\u00e9e, contribue \u00e9galement \u00e0 l\u2019acc\u00e8s alimentaire. De plus, les revenus issus des activit\u00e9s agricoles saisonni\u00e8res soutiennent les moyens d\u2019existence des m\u00e9nages pauvres. Ces derniers en majorit\u00e9 devraient \u00eatre en mesure de couvrir leurs besoins alimentaires essentiels bien que les d\u00e9penses non alimentaires demeureront difficiles \u00e0 satisfaire. Toutefois, dans le Haut-Mbomou, l\u2019ins\u00e9curit\u00e9 persistante continue de limiter l\u2019acc\u00e8s aux champs, \u00e0 la chasse, \u00e0 la p\u00eache et \u00e0 la cueillette, exposant les m\u00e9nages les plus touch\u00e9s \u00e0 des difficult\u00e9s plus marqu\u00e9es d\u2019acc\u00e8s \u00e0 la nourriture et aux revenus.\n- **Les conditions agro-climatiques observ\u00e9es en septembre demeurent favorables au d\u00e9veloppement des cultures dans la majeure partie du pays.** Les cumuls pluviom\u00e9triques observ\u00e9s depuis le d\u00e9but de la saison sont globalement moyens \u00e0 sup\u00e9rieurs \u00e0 la moyenne, avec des[ **d\u00e9ficits localis\u00e9s**](https://data.chc.ucsb.edu/products/Early_Estimates/v3/Recent_Rainfall/observed/moving_18pentad/africa_west/pngs/archive/POA_18PentAccum_2026_p50.png) dans le nord-est, le nord-ouest, et le sud-est. Dans le centre et le sud, o\u00f9 les r\u00e9coltes de ma\u00efs, d\u2019arachide, et de riz sont en cours ou en voie d\u2019ach\u00e8vement depuis ao\u00fbt et septembre avec des conditions de croissance globalement satisfaisantes. Dans le nord, les cultures de mil et de sorgho poursuivent leur maturation et les r\u00e9coltes principales sont attendues \u00e0 partir d\u2019octobre. Les perspectives de production demeurent globalement moyennes dans les zones relativement stables, conform\u00e9ment aux estimations de[ **l\u2019Organisation pour l\u2019alimentation et l\u2019agriculture (FAO)**](https://www.fao.org/giews/countrybrief/country/MLI/pdf/MLI.pdf). Toutefois, l\u2019acc\u00e8s limit\u00e9 aux intrants agricoles ainsi que les contraintes s\u00e9curitaires localis\u00e9es continueront de restreindre les niveaux de production dans certaines zones affect\u00e9es.\n- **Les prix des principales c\u00e9r\u00e9ales demeuraient \u00e9lev\u00e9s en ao\u00fbt, particuli\u00e8rement dans les zones enclav\u00e9es et affect\u00e9es par l\u2019ins\u00e9curit\u00e9 du nord-est.** En ao\u00fbt, le prix du ma\u00efs \u00e0 Birao (514 FCFA/kg) \u00e9tait environ deux fois plus \u00e9lev\u00e9 qu\u2019\u00e0 Bangui (257 FCFA/kg), refl\u00e9tant les contraintes [**persistantes d\u2019approvisionnement**](https://reliefweb.int/report/central-african-republic/republique-centrafricaine-initiative-conjointe-de-suivi-des-marches-icsm-aout-septembre-2026?utm_source=rw-subscriptions&utm_medium=email&utm_campaign=country_updates_54) et les co\u00fbts \u00e9lev\u00e9s de transport. La poursuite des [**p\u00e9nuries de carburant**](https://www.journaldebangui.com/rca-bangui-confrontee-a-une-nouvelle-penurie-de-carburant/) en septembre devrait continuer de perturber l\u2019approvisionnement des march\u00e9s et les flux commerciaux, contribuant au maintien de co\u00fbts de transport \u00e9lev\u00e9s et \u00e0 la hausse des prix des denr\u00e9es import\u00e9es Toutefois, les r\u00e9coltes de ma\u00efs, d\u2019arachide, et de riz en cours dans plusieurs zones du centre, de l\u2019ouest et du sud devraient progressivement am\u00e9liorer l\u2019approvisionnement des march\u00e9s et favoriser une baisse saisonni\u00e8re des prix dans les zones relativement stables du pays. En revanche, les difficult\u00e9s d\u2019acc\u00e8s aux march\u00e9s dans les zones affect\u00e9es par l\u2019ins\u00e9curit\u00e9 et l\u2019enclavement devraient maintenir des prix relativement \u00e9lev\u00e9s.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/529",
+                    "id": 529,
+                    "name": "Famine Early Warning System Network",
+                    "shortname": "FEWS NET",
+                    "longname": "Famine Early Warning System Network",
+                    "spanish_name": "Red de Sistemas de Alerta Temprana contra la Hambruna",
+                    "homepage": "https://fews.net/",
+                    "type": {
+                        "id": 271,
+                        "name": "Government"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232294",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-02T00:31:20+00:00",
+                "created": "2026-10-02T00:30:33+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232294"
+    },
+    {
+        "id": "4232288",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon - Key Message Update: Rainfall deficits compound conflict-driven production declines in the Far North, September 2026 - January 2027",
+            "body": "**Key Messages**\n\n- **In the Far North, Crisis (IPC Phase 3) outcomes are expected to continue through September in the conflict-affected divisions of Mayo-Sava, Mayo-Tsanaga, and Logone-et-Chari, with some very poor displaced households likely facing large food consumption gaps consistent with Emergency (IPC Phase 4)**, before improving to Stressed (IPC Phase 2) in October as main harvests replenish household food stocks and reduce market reliance. Frequent Islamist attacks continue to disrupt agricultural and pastoral livelihoods, averaging 25 incidents per week over the past month, and rainfall deficits are compounding these conflict-driven production declines: June-to-September rainfall was 20 to 50 percent below average in Logone-et-Chari, delaying planting and contributing to poor crop development, while higher fertilizer prices and reduced access to subsidized inputs have further constrained production. These combined pressures likely indicate a below-average harvest, which is expected to weaken the area's seasonal improvement to Stressed in October. Reduced labor demand, lower wages, and heightened competition have also kept seasonal earnings well below typical levels. Many households remain market-dependent in September despite localized early harvests: cereal prices were more than 18 percent above last month's levels, and low incomes have further constrained purchasing power. Very poor displaced households affected by repeated displacement, asset losses, and limited access to land and livelihood opportunities are unlikely to benefit from the harvest-driven improvement, however, and are expected to continue relying on severe coping strategies, including reducing essential health expenditures, even as area-level outcomes improve. These outcomes are expected despite ongoing humanitarian food assistance in the area, which has faced reduced rations and coverage amid funding shortfalls.\n- **In the Northwest and Southwest regions, Crisis (IPC Phase 3) outcomes will continue in Ndian, Lebialem, Menchum, Momo, and Bui divisions, where severe conflict-driven production declines and geographic isolation continue to limit household food access.** Elsewhere in the two regions, outcomes are expected to remain Stressed (IPC Phase 2) through October.A nearly two-week separatist-imposed lockdown in September disrupted harvesting, crop sales, and market access, and already above-average food prices rose further ahead of and during the lockdown, remaining elevated through the month and compounding the loss of income from disrupted markets, particularly for market-dependent urban displaced households. These pressures are expected to drive a deterioration to Crisis (IPC Phase 3) at the area level across the Stressed divisions starting in November, with outcomes persisting at that level through at least January 2027 amid continued high market dependence, elevated food prices, and limited income-earning opportunities. Many urban internally displaced persons (IDP) are expected to increase reliance on inadequate and irregular informal labor to meet their basic food needs, as well as increase use of debt to finance food purchases and reduce meal size and frequency.\n- **In Mbere (Adamawa), Kadey, and Lom-et-Djerem (East) \u2014 divisions hosting large populations of refugees from the Central African Republic \u2014 Stressed (IPC Phase 2) outcomes are expected to continue through January 2027**. The continued presence of refugee households is expected to sustain pressure on food prices, casual agricultural and off-farm labor opportunities, and the cost of essential non-food goods and services. Poor refugee households who are market dependent for food due to limited assets and restricted access to land will continue to face difficulties accessing sufficient food amid constrained income-earning opportunities and above-average prices, despite generally good market supply following the July-September harvests. Very poor refugee households are expected to remain in Crisis (IPC Phase 3) and to continue employing negative coping strategies, including borrowing money in order to meet basic food needs.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/529",
+                    "id": 529,
+                    "name": "Famine Early Warning System Network",
+                    "shortname": "FEWS NET",
+                    "longname": "Famine Early Warning System Network",
+                    "spanish_name": "Red de Sistemas de Alerta Temprana contra la Hambruna",
+                    "homepage": "https://fews.net/",
+                    "type": {
+                        "id": 271,
+                        "name": "Government"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232288",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-01T23:56:30+00:00",
+                "created": "2026-10-01T23:55:28+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232288"
+    },
+    {
         "id": "4232240",
         "score": 1,
         "fields": {
-            "title": "Note de plaidoyer: Renforcer d\u2019urgence la r\u00e9ponse nutritionnelle dans la province du Maniema: Aout 2026",
+            "title": "Note de plaidoyer : Renforcer d\u2019urgence la r\u00e9ponse nutritionnelle dans la province du Maniema, Aout 2026",
             "body": "## 1. CONTEXTE ET JUSTIFICATION\n\n**La province du Maniema fait de plus en plu**s face \u00e0 la probl\u00e9matique li\u00e9e **\u00e0 la malnutrition infantile** notifi\u00e9s dans plusieurs aires de sant\u00e9 accentu\u00e9 par une **\u00e9pid\u00e9mie de rougeole** qui touche actuellement plusieurs zones de sant\u00e9. Durant la p\u00e9riode allant de janvier \u00e0 juillet 2026, **4 668 cas de rougeoles sont confirm\u00e9s avec 105 d\u00e9c\u00e8s.** Cette situation \u00e9pid\u00e9miologique entraine une vuln\u00e9rabilit\u00e9 accrue \u00e0 la malnutrition chez les enfants de moins de cinq ans.\n\nLes donn\u00e9es **du Syst\u00e8me de Surveillance Nutritionnelle, S\u00e9curit\u00e9 Alimentaire et Alerte Pr\u00e9coce (SNSAP)** du premiers semestre 2026, 2 Zones de sant\u00e9 (Kindu et Samba) sont en alerte et 4 zones de sant\u00e9 (Alunguli, Kibombo, Kunda, Lubutu) \u00e0 suivre de pr\u00e8s.\n\nSelon les sources issues du SNSAP, la situation nutritionnelle au Maniema s\u2019est d\u00e9grad\u00e9e au premier trimestre 2026, sous l'effet conjugu\u00e9 de crises multisectorielles :\n\n- U**rgence Sanitaire :** une forte recrudescence de la rougeole avec un pic \u00e0 la 10\u00e8me semaine. Des foyers de chol\u00e9ra (Kampene et Punia) et de Mpox (Pangi et Kibombo) aggravent la morbidit\u00e9 infantile.\n- **Chocs Environnementaux :** des inondations majeures dans les zones riveraines (Punia, Kindu, Kailo, etc.) ont limit\u00e9 l\u2019acc\u00e8s \u00e0 l\u2019eau potable et d\u00e9truit les moyens d\u2019existence.\n- **Ins\u00e9curit\u00e9 Alimentaire & \u00c9conomique :** crise g\u00e9n\u00e9ralis\u00e9e dans les 18 zones de sant\u00e9 due \u00e0 l'inflation et au faible pouvoir d'achat. L'abandon de l'agriculture au profit des mines r\u00e9duit la disponibilit\u00e9 et la diversit\u00e9 alimentaire locale.\n- **Conflits & D\u00e9placements** Les affrontements arm\u00e9s survenus dans plusieurs localit\u00e9s, notamment \u00e0 Kampene et Kabambare, ont provoqu\u00e9 d\u2019importants mouvements de population, entra\u00eenant une perturbation des services sociaux de base.\n- **Faiblesses Structurelles :** un acc\u00e8s pr\u00e9caire \u00e0 l'eau et une r\u00e9ponse nutritionnelle paralys\u00e9e par la rupture des intrants (ATPE) et l'absence d'appui aux programmes de prise en charge (PCIMA) ; la synergie de ces facteurs cr\u00e9e un contexte de vuln\u00e9rabilit\u00e9 extr\u00eame n\u00e9cessitant une intervention urgente",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
@@ -45,7 +558,7 @@
             "url": "https://reliefweb.int/node/4232240",
             "date": {
                 "original": "2026-10-01T00:00:00+00:00",
-                "changed": "2026-10-01T14:41:53+00:00",
+                "changed": "2026-10-02T01:43:35+00:00",
                 "created": "2026-10-01T14:39:36+00:00"
             }
         },
@@ -55,7 +568,7 @@
         "id": "4232223",
         "score": 1,
         "fields": {
-            "title": "Cluster eau hygi\u00e8ne et assainissement - RDC: Bilan de la r\u00e9ponse humanitaire au 31 ao\u00fbt 2026",
+            "title": "Cluster eau hygi\u00e8ne et assainissement - RDC : Bilan de la r\u00e9ponse humanitaire Ao\u00fbt 2026",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -95,8 +608,8 @@
             ],
             "url": "https://reliefweb.int/node/4232223",
             "date": {
-                "original": "2026-10-01T00:00:00+00:00",
-                "changed": "2026-10-01T13:40:59+00:00",
+                "original": "2026-09-23T00:00:00+00:00",
+                "changed": "2026-10-02T01:36:03+00:00",
                 "created": "2026-10-01T13:40:48+00:00"
             }
         },
@@ -1236,585 +1749,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4231838"
-    },
-    {
-        "id": "4231784",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - \u00c9pid\u00e9mie de maladie \u00e0 virus Ebola - Aper\u00e7u de la situation, semaine 39 - \u00e0 la date du 28 septembre 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231784",
-            "date": {
-                "original": "2026-09-29T00:00:00+00:00",
-                "changed": "2026-09-29T09:22:57+00:00",
-                "created": "2026-09-29T08:47:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231784"
-    },
-    {
-        "id": "4231758",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo: Bulletin d\u2019information - Effets de l\u2019\u00e9pid\u00e9mie d\u2019Ebola et de la fermeture de la fronti\u00e8re avec l\u2019Ouganda sur les march\u00e9s de Beni et Bunia, Ao\u00fbt 2026",
-            "body": "**Messages cl\u00e9s**\n\n\u2022 L\u2019\u00e9volution des prix alimentaires diff\u00e9rait entre les deux villes. \u00c0 Beni, malgr\u00e9 les baisses observ\u00e9es depuis juin, le  \nco\u00fbt m\u00e9dian du panier alimentaire restait en ao\u00fbt 37% sup\u00e9rieur \u00e0 son niveau d\u2019avril. Par contre, \u00e0 Bunia, aucune  \nhausse g\u00e9n\u00e9ralis\u00e9e des prix alimentaires n\u2019a \u00e9t\u00e9 observ\u00e9e. La contraction simultan\u00e9e de la demande, dans un contexte  \nde contraintes \u00e9conomiques et de baisse de fr\u00e9quentation des march\u00e9s li\u00e9e \u00e0 l\u2019\u00e9pid\u00e9mie, pourrait avoir limit\u00e9 la  \ntransmission des perturbations de l\u2019approvisionnement aux prix.\n\n\u2022 Les tensions sur les produits sanitaires \u00e9taient plus importantes \u00e0 Bunia qu\u2019\u00e0 Beni. Le prix m\u00e9dian d\u00e9clar\u00e9 du gel  \nhydroalcoolique avait augment\u00e9 de 67% \u00e0 Bunia contre 20% \u00e0 Beni, tandis que celui des masques chirurgicaux avait  \ndoubl\u00e9 \u00e0 Bunia mais \u00e9tait rest\u00e9 stable \u00e0 Beni.\n\n\u2022 Les contraintes de liquidit\u00e9s (acc\u00e8s aux esp\u00e8ces et augmentation des frais de retraits) \u00e9taient particuli\u00e8rement  \nmarqu\u00e9es \u00e0 Bunia, tant pour les commer\u00e7ants que pour leurs clients : 15/27 commer\u00e7ants ont identifi\u00e9 le manque de  \nliquidit\u00e9s comme une difficult\u00e9 de r\u00e9approvisionnement, tandis que 17/27 ont rapport\u00e9 un recours accru au cr\u00e9dit de la  \npart de leurs clients depuis le d\u00e9but de l\u2019\u00e9pid\u00e9mie.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9965",
-                    "id": 9965,
-                    "name": "REACH Initiative",
-                    "shortname": "REACH",
-                    "longname": "REACH Initiative",
-                    "homepage": "http://www.reach-initiative.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231758",
-            "date": {
-                "original": "2026-09-24T00:00:00+00:00",
-                "changed": "2026-09-29T03:07:18+00:00",
-                "created": "2026-09-29T03:05:49+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231758"
-    },
-    {
-        "id": "4231749",
-        "score": 1,
-        "fields": {
-            "title": "Suivi des urgences - Mouvements de populations I Synth\u00e8se de d\u00e9placement dans la ville d\u2019Ounianga-K\u00e9bir - Tchad | Tableau de bord : 229 | Collecte des donn\u00e9es : 07 septembre 2026 | Date de publication : 23 septembre 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231749",
-            "date": {
-                "original": "2026-09-29T00:00:00+00:00",
-                "changed": "2026-09-29T05:16:25+00:00",
-                "created": "2026-09-29T01:33:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231749"
-    },
-    {
-        "id": "4231748",
-        "score": 1,
-        "fields": {
-            "title": "In Ituri, MONUSCO protects thousands of civilians fleeing armed violence",
-            "body": "More than 3,100 civilians have sought refuge in the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) temporary base in Rhoo, in Djugu Territory, Ituri, following violent clashes between armed groups.\n\nThe violence broke out on the evening of Sunday, September 27, in the localities of Nyampala and Rhoo, involving, among others, elements of the CODECO armed group and the Convention for the Popular Revolution (CRP). The rapidly deteriorating security situation triggered an exodus of civilians, including internally displaced people who were already living at the Rhoo site.\n\nFearing for their safety, thousands of people, including women, children and elderly people, headed toward MONUSCO\u2019s temporary operating base located near the displacement site. Some spent the night inside the base, while others sought refuge in its immediate vicinity, all benefiting from the protection of the Bangladeshi peacekeepers deployed there.\n\n\u201c*We want to save our lives, which is why we came to MONUSCO for protection,*\u201d said Vyanye Dirokpa, a displaced person from the Rhoo site, in an interview with Radio Okapi.\n\nAnother resident highlighted the importance of the peacekeepers\u2019 presence in the area: \u201c*If MONUSCO had not been here, things would have been worse. We might not even be alive today.*\u201d\n\n**Protection and emergency assistance**\n\nAccording to MONUSCO, approximately 3,100 civilians, including nearly 1,600 women and 900 children, benefited from protection measures implemented by MONUSCO as fighting intensified in the surrounding areas.\n\nThe Bangladeshi peacekeepers immediately secured the area, received displaced people, and provided temporary shelter and physical protection to vulnerable families. They also strengthened their presence around the displacement site and in neighboring localities, while maintaining close coordination with local authorities, community leaders, and the FARDC.\n\nThe UN mission also provided emergency medical assistance to civilians affected by the violence. Nine people received first aid at the Rhoo base, including two men with gunshot wounds, two young girls, a ten-month-old infant, and four women. MONUSCO medical teams continued to provide care to those requiring treatment, while peacekeepers continued to ensure the safety of displaced people.\n\n**A situation that remains volatile**\n\nOn the morning of Monday, September 28, exchanges of gunfire were still being reported in several localities in the area, including as far as Blukwa, located approximately four kilometers from Rhoo. The persistent insecurity prompted more civilians to move closer to MONUSCO positions to seek protection.\n\nAccording to security sources, suspected CODECO elements reportedly set fire to several homes in central Blukwa. MONUSCO peacekeepers, in coordination with the FARDC, intervened to repel the attackers and limit the damage caused.\n\n**Civilian protection also strengthened in Gina**\n\nEarlier on Monday, September 28, the locality of Gina, located approximately 30 kilometers south of Bunia, also experienced security incidents.\n\nFighting broke out between the FARDC and elements of the CRP, and many civilians also sought refuge in front of the MONUSCO base.\n\nThe Nepalese peacekeepers deployed in Gina immediately strengthened their protection measures. Patrols were conducted along the roads connecting Panga Panga, Risasi, Gina and Nyampala, as well as along National Road 27, in order to protect civilians, prevent further attacks and reassure affected communities.\n\nThanks to MONUSCO\u2019s reinforced presence, in support of the FARDC, the return of residents to their homes gradually resumed in some localities. Commercial activities, particularly in markets, also began to return to normal by midday.\n\nFollowing this new escalation of violence in Djugu Territory, local authorities and community actors are calling on armed groups to honor their commitments to ending hostilities and upholding the ceasefire.\n\n***- Jo\u00ebl Bofengo***",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/4316",
-                    "id": 4316,
-                    "name": "UN Organization Stabilization Mission in the Democratic Republic of the Congo",
-                    "shortname": "MONUSCO",
-                    "longname": "United Nations Organization Stabilization Mission in the Democratic Republic of the Congo",
-                    "homepage": "https://monusco.unmissions.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231748",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-29T01:04:00+00:00",
-                "created": "2026-09-29T01:04:00+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231748"
-    },
-    {
-        "id": "4231743",
-        "score": 1,
-        "fields": {
-            "title": "Activit\u00e9s d\u2019\u00e9radication de la poliomy\u00e9lite en R\u00e9publique d\u00e9mocratique du Congo (IEP)\u2013 S38 - 2026, Mise \u00e0 jour au 24 septembre 2026",
-            "body": "**Points saillants de la Semaine 38/2026**\n\nCas de PFA notifi\u00e9s et re\u00e7us au laboratoire \u00e0 la semaine 38: 215 cas de 2026\n\nIsolats envoy\u00e9s vers NICD pour s\u00e9quen\u00e7age dans la semaine: 04 isolats envoy\u00e9s en s\u00e9quen\u00e7age et 39 isolats en attente des r\u00e9sultats de s\u00e9quen\u00e7age (37 isolats PFA; 1 contact, 1 isolat ENV)\n\nIsolats envoy\u00e9s vers CDC pour s\u00e9quen\u00e7age dans la semaine : N\u00e9ant\n\nExamens de suivi au 60\u00e8me jour r\u00e9alis\u00e9s au cours de la semaine : 4 cas (Ituri 1, Sankuru 1 et Sud Kivu 2)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3748",
-                    "id": 3748,
-                    "name": "Global Polio Eradication Initiative",
-                    "shortname": "GPEI",
-                    "longname": "Global Polio Eradication Initiative",
-                    "spanish_name": "Iniciativa Mundial de Erradicaci\u00f3n de la Poliomielitis",
-                    "homepage": "https://polioeradication.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/732",
-                    "id": 732,
-                    "name": "Government of the Democratic Republic of the Congo",
-                    "shortname": "Govt. DR Congo",
-                    "longname": "Government of the Democratic Republic of the Congo",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231743",
-            "date": {
-                "original": "2026-09-24T00:00:00+00:00",
-                "changed": "2026-09-28T23:34:09+00:00",
-                "created": "2026-09-28T23:32:19+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231743"
-    },
-    {
-        "id": "4231742",
-        "score": 1,
-        "fields": {
-            "title": "RD Congo : Situation de la lutte contre la rougeole en RD Congo - Semaine \u00e9pid\u00e9miologique 37, 2026 (Mise \u00e0 jour du 21/09/2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/732",
-                    "id": 732,
-                    "name": "Government of the Democratic Republic of the Congo",
-                    "shortname": "Govt. DR Congo",
-                    "longname": "Government of the Democratic Republic of the Congo",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/15477",
-                    "id": 15477,
-                    "name": "Health Cluster",
-                    "shortname": "Health Cluster",
-                    "homepage": "https://healthcluster.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231742",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-28T23:30:07+00:00",
-                "created": "2026-09-28T23:29:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231742"
-    },
-    {
-        "id": "4231723",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 28th September 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231723",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-29T00:39:32+00:00",
-                "created": "2026-09-28T17:12:59+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231723"
-    },
-    {
-        "id": "4231710",
-        "score": 1,
-        "fields": {
-            "title": "WFP Cameroon Country Brief, September 2026",
-            "body": "30,479 people assisted in August 2026 (54% female)\n\n63 mt food distributed in August 2026\n\nUSD 176,361 cash transferred in August 2026\n\nUSD 35.2M required in the next six months (Sep 2026-Feb 2026)\n\n**KEY HIGHLIGHTS**\n\n\u2022 WFP is designing a new Country Strategic Plan, CSP, to run from 2028 to 2033. This CSP will align with government priorities, defining a transition pathway to a nationally-led implementation.\n\n\u2022 The Douala Logistics Corridor remains a critical food systems hub for the Lake Chad Basin countries. Between January and August 2026, WFP dispatched 28,726 mt of food through the Douala Corridor. Of this total, 24,576 mt supported operations in Chad and Sudan, accounting for 86 percent of all food dispatched.\n\n\u2022 WFP\u2019s post-distribution monitoring shows deteriorating food security: acceptable food consumption fell 11 percent from 2025, while more households resorted to extreme negative coping strategies",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231710",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-29T00:27:51+00:00",
-                "created": "2026-09-28T14:56:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231710"
-    },
-    {
-        "id": "4231709",
-        "score": 1,
-        "fields": {
-            "title": "Impact de la crise Ebola sur le secteur de l\u2019\u00e9ducation (Septembre 2026)",
-            "body": "- Ampleur de la crise Ebola sur l\u2019\u00e9ducation (Sep 2026): rentr\u00e9e scolaire en contexte d'Ebola\n- O\u00f9 sont les besoins ?\n- Appel au financement",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/12989",
-                    "id": 12989,
-                    "name": "Education Cluster",
-                    "shortname": "Education Cluster",
-                    "homepage": "https://www.educationcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2865",
-                    "id": 2865,
-                    "name": "Save the Children",
-                    "shortname": "Save the Children",
-                    "longname": "Save the Children Alliance",
-                    "spanish_name": "Save the Children",
-                    "homepage": "https://www.savethechildren.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231709",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-28T23:16:23+00:00",
-                "created": "2026-09-28T14:51:26+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231709"
-    },
-    {
-        "id": "4231707",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo Cluster \u00c9ducation : Situation des incidents contre l\u2019\u00e9ducation (au 31 ao\u00fbt 2026)",
-            "body": "Bulletin des incidents contre l'\u00e9ducation au 31 ao\u00fbt 2026:\n\nSituation des incidents contre l\u2019\u00e9ducation  \n\\- Incidents contre l'education et les zones affect\u00e9es\n\n\\- Ecoles et enfants directement affect\u00e9s par province\n\n\\- Ecoles ferm\u00e9es et enfants affect\u00e9s suite aux incidents contre les \u00e9coles",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/12989",
-                    "id": 12989,
-                    "name": "Education Cluster",
-                    "shortname": "Education Cluster",
-                    "homepage": "https://www.educationcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2865",
-                    "id": 2865,
-                    "name": "Save the Children",
-                    "shortname": "Save the Children",
-                    "longname": "Save the Children Alliance",
-                    "spanish_name": "Save the Children",
-                    "homepage": "https://www.savethechildren.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231707",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-28T23:13:58+00:00",
-                "created": "2026-09-28T14:39:35+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231707"
-    },
-    {
-        "id": "4231695",
-        "score": 1,
-        "fields": {
-            "title": "Situation d'urgence au Tchad I Mise \u00e0 jour des arriv\u00e9es du Soudan (27 sep 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231695",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-29T00:07:01+00:00",
-                "created": "2026-09-28T14:03:18+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231695"
-    },
-    {
-        "id": "4231677",
-        "score": 1,
-        "fields": {
-            "title": "CORE Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (27 Sep 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231677",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-09-29T06:15:04+00:00",
-                "created": "2026-09-28T13:04:30+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231677"
     }
 ]
