@@ -1,5 +1,247 @@
 [
     {
+        "id": "4232464",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Tableau de bord humanitaire (P\u00e9riode de rapportage : juillet 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232464",
+            "date": {
+                "original": "2026-10-02T00:00:00+00:00",
+                "changed": "2026-10-02T20:09:41+00:00",
+                "created": "2026-10-02T20:09:29+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232464"
+    },
+    {
+        "id": "4232463",
+        "score": 1,
+        "fields": {
+            "title": "Democratic Republic of the Congo: Humanitarian Dashboard (July 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232463",
+            "date": {
+                "original": "2026-10-02T00:00:00+00:00",
+                "changed": "2026-10-02T20:08:57+00:00",
+                "created": "2026-10-02T20:06:32+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232463"
+    },
+    {
+        "id": "4232406",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Tchad| Personnes d\u00e9plac\u00e9es de force (Sept. 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232406",
+            "date": {
+                "original": "2026-10-02T00:00:00+00:00",
+                "changed": "2026-10-02T13:22:07+00:00",
+                "created": "2026-10-02T13:03:40+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232406"
+    },
+    {
+        "id": "4232405",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Chad | Forcibly Displaced Persons (September 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232405",
+            "date": {
+                "original": "2026-10-02T00:00:00+00:00",
+                "changed": "2026-10-02T13:20:57+00:00",
+                "created": "2026-10-02T13:03:31+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232405"
+    },
+    {
+        "id": "4232404",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Chad | Forcibly Displaced Persons (September 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232404",
+            "date": {
+                "original": "2026-10-02T00:00:00+00:00",
+                "changed": "2026-10-02T13:19:26+00:00",
+                "created": "2026-10-02T13:03:19+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232404"
+    },
+    {
+        "id": "4232403",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Tchad | Population des personnes en d\u00e9placement forc\u00e9 au Tchad (Sept. 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232403",
+            "date": {
+                "original": "2026-10-02T00:00:00+00:00",
+                "changed": "2026-10-02T13:18:17+00:00",
+                "created": "2026-10-02T13:03:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232403"
+    },
+    {
         "id": "4232332",
         "score": 1,
         "fields": {
@@ -1477,275 +1719,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4231879"
-    },
-    {
-        "id": "4231878",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique centrafricaine - Situation du Soudan (Au 25 septembre 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231878",
-            "date": {
-                "original": "2026-09-29T00:00:00+00:00",
-                "changed": "2026-09-30T02:01:54+00:00",
-                "created": "2026-09-29T15:03:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231878"
-    },
-    {
-        "id": "4231867",
-        "score": 1,
-        "fields": {
-            "title": "D\u00e9claration du Coordonnateur humanitaire - Des attaques r\u00e9p\u00e9t\u00e9es contre le personnel et les op\u00e9rations humanitaires risquent de priver des milliers de personnes d'une assistance essentielle dans la pr\u00e9fecture du Haut-Mbomou, au sud-est de la RCA",
-            "body": "**D\u00e9claration de Mohamed Ag Ayoya, Coordonnateur humanitaire**\n\n  \nBangui, le 29 septembre 2026 \u2013 Je condamne fermement les r\u00e9centes attaques perp\u00e9tr\u00e9es contre le  \npersonnel humanitaire et les op\u00e9rations humanitaires sur l'axe Z\u00e9mio-Dj\u00e9ma les 17 et 21 septembre.  \nDe telles attaques sont inacceptables et constituent une violation du droit international humanitaire. Le  \npersonnel humanitaire doit \u00eatre prot\u00e9g\u00e9 en tout temps afin de pouvoir fournir en toute s\u00e9curit\u00e9 une  \nassistance vitale aux personnes dans le besoin.  \nJ'appelle toutes les parties au conflit \u00e0 respecter et prot\u00e9ger les civils ainsi que le personnel humanitaire,  \n\u00e0 faciliter un acc\u00e8s humanitaire s\u00fbr, rapide et sans entrave, et \u00e0 mettre imm\u00e9diatement fin \u00e0 toute forme  \nde taxation ill\u00e9gale et d'ing\u00e9rence dans les op\u00e9rations humanitaires.  \nL'assistance humanitaire ne peut \u00eatre fournie que lorsque les acteurs humanitaires disposent d'un acc\u00e8s  \nlibre et sans entrave aux populations affect\u00e9es. Si les contraintes d'acc\u00e8s actuelles persistent, environ 20  \n000 personnes, dont certaines des communaut\u00e9s les plus vuln\u00e9rables vivant le long des axes Z\u00e9mio-Dj\u00e9ma  \net Z\u00e9mio-Mboki, risquent d'\u00eatre priv\u00e9es d'une assistance humanitaire dont elles ont un besoin urgent.  \nJ'exhorte toutes les parties \u00e0 respecter les obligations qui leur incombent en vertu du droit international  \nhumanitaire et \u00e0 veiller \u00e0 ce que les organisations humanitaires puissent atteindre les personnes dans le  \nbesoin sans entrave.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231867",
-            "date": {
-                "original": "2026-09-29T00:00:00+00:00",
-                "changed": "2026-09-30T09:21:24+00:00",
-                "created": "2026-09-29T14:26:25+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231867"
-    },
-    {
-        "id": "4231866",
-        "score": 1,
-        "fields": {
-            "title": "Statement from the Humanitarian Coordinator - Repeated attacks against humanitarian personnel leave thousands at risk of being cut off from essential assistance in Haut-Mbomou Prefecture, South-Eastern Central African Republic",
-            "body": "Statement by Mohamed Ag Ayoya, Humanitarian Coordinator.  \nBangui, 29 September 2026 \u2013 I strongly condemn the recent attacks against humanitarian personnel and  \nhumanitarian operations along the Zemio-Djema axis on 17 and 21 September.  \nSuch attacks are unacceptable and violate international humanitarian law. Humanitarian personnel must  \nbe protected at all times so that they can safely deliver life-saving assistance to people in need.  \nI call on all parties to the conflict to respect and protect civilians and humanitarian personnel, facilitate  \nsafe, rapid and unhindered humanitarian access, and immediately cease all forms of illegal taxation and  \ninterference with humanitarian operations.  \nHumanitarian assistance can only be delivered when humanitarian workers have free and unimpeded  \naccess to affected populations. If current access constraints persist, around 20,000 people, including some  \nof the most vulnerable communities along the Zemio-Djema and Zemio-Mboki axes, risk being deprived  \nof urgently needed humanitarian assistance.  \nI urge all parties to uphold their obligations under international humanitarian law and to ensure that  \nhumanitarian organizations can reach people in need without obstruction.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231866",
-            "date": {
-                "original": "2026-09-29T00:00:00+00:00",
-                "changed": "2026-09-30T09:16:27+00:00",
-                "created": "2026-09-29T14:23:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231866"
-    },
-    {
-        "id": "4231862",
-        "score": 1,
-        "fields": {
-            "title": "DRC: Ebola BVD Outbreak Response: Global LTC (Telecoms) Teleconference #06 (Date: 24/09/2026 Time: 10:00 UTC)",
-            "body": "**1. Situation update**  \n  \n\u2022 As of 21 September, the Democratic Republic of the Congo (DRC) had reported more than 7,700 confirmed Bundibugyo virus disease (BVD) cases, including over 3,700 deaths, across 63 health zones in seven provinces. Transmission remained widespread, with daily case numbers continuing to fluctuate and geographic spread persisting despite recent declines in some affected areas.  \n  \n\u2022 The outbreak remains a public health emergency. The World Health Organization (WHO) and response partners continue to prioritize surveillance, contact tracing, clinical preparedness and treatment capacity, infection prevention and control measures, and community engagement activities.  \n  \n\u2022 Weekly cross-border coordination calls with Uganda continue to support the exchange of situation updates, lessons learned, and preparedness measures, helping to strengthen regional readiness and response efforts.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/13799",
-                    "id": 13799,
-                    "name": "Emergency Telecommunications Cluster",
-                    "shortname": "ETC",
-                    "longname": "Emergency Telecommunications Cluster",
-                    "homepage": "https://www.etcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3594",
-                    "id": 3594,
-                    "name": "Logistics Cluster",
-                    "shortname": "Logistics Cluster",
-                    "homepage": "https://www.logcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231862",
-            "date": {
-                "original": "2026-09-24T00:00:00+00:00",
-                "changed": "2026-09-29T14:05:51+00:00",
-                "created": "2026-09-29T14:05:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231862"
-    },
-    {
-        "id": "4231847",
-        "score": 1,
-        "fields": {
-            "title": "Cameroun \u2014 Suivi des urgences 146 (18\u201327 septembre 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231847",
-            "date": {
-                "original": "2026-09-29T00:00:00+00:00",
-                "changed": "2026-09-29T13:54:11+00:00",
-                "created": "2026-09-29T13:33:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231847"
-    },
-    {
-        "id": "4231842",
-        "score": 1,
-        "fields": {
-            "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (du 22 au 28 septembre 2026)",
-            "body": "**R\u00e9publique d\u00e9mocratique du Congo**  \n*La violence entra\u00eene des d\u00e9placements de population et aggrave les difficult\u00e9s humanitaires et sanitaires*\n\nLes combats dans le Sud-Kivu et le Nord-Kivu continuent de provoquer des d\u00e9placements de civils. Depuis juillet, plus de 40 000 personnes ont \u00e9t\u00e9 nouvellement d\u00e9plac\u00e9es dans le territoire de Fizi, tandis que le Sud-Kivu accueille pr\u00e8s de 1,2 million de personnes d\u00e9plac\u00e9es \u00e0 l\u2019int\u00e9rieur du pays. En Ituri, l\u2019ins\u00e9curit\u00e9 sur le site de d\u00e9plac\u00e9s de Kigonze, \u00e0 Bunia, qui accueille pr\u00e8s de 19 000 personnes, a accru les pr\u00e9occupations en mati\u00e8re de protection et fortement restreint l\u2019acc\u00e8s humanitaire depuis le 20 septembre. Par ailleurs, la riposte \u00e0 Ebola se heurte \u00e0 des difficult\u00e9s croissantes d\u2019acceptation par les communaut\u00e9s. Au 26 septembre, les autorit\u00e9s faisaient \u00e9tat de 8 116 cas confirm\u00e9s et de pr\u00e8s de 4 000 d\u00e9c\u00e8s. De r\u00e9centes attaques li\u00e9es aux activit\u00e9s de pr\u00e9vention d\u2019Ebola dans le Nord-Kivu ont encore compliqu\u00e9 les efforts de riposte, dans un contexte marqu\u00e9 par l\u2019ins\u00e9curit\u00e9, les contraintes d\u2019acc\u00e8s et la poursuite des mouvements de population.\n\n**Lib\u00e9ria**  \n*La malnutrition infantile s'aggrave alors que l'aide diminue*\n\nLa malnutrition infantile et l\u2019ins\u00e9curit\u00e9 alimentaire s\u2019aggravent dans un contexte de r\u00e9duction de l\u2019acc\u00e8s aux services de nutrition et de sant\u00e9, \u00e0 la suite de coupes dans l\u2019aide internationale. Selon les estimations r\u00e9centes, seuls 2,4 % des enfants \u00e2g\u00e9s de 6 \u00e0 23 mois b\u00e9n\u00e9ficient d\u2019une alimentation minimale acceptable, tandis que la malnutrition aigu\u00eb chez les enfants de moins de cinq ans a atteint 8,5 %. Les organisations humanitaires alertent sur les importantes lacunes dans les services essentiels engendr\u00e9es par l\u2019arr\u00eat de programmes auparavant financ\u00e9s, qui accroissent les risques pour les enfants et les familles vuln\u00e9rables.\n\n**Mauritanie**  \n*Des inondations mettent en \u00e9vidence une vuln\u00e9rabilit\u00e9 croissante face aux chocs climatiques*\n\nLes fortes pluies tomb\u00e9es depuis le 24 septembre ont provoqu\u00e9 des inondations g\u00e9n\u00e9ralis\u00e9es \u00e0 Nouakchott, perturbant les transports et les activit\u00e9s quotidiennes et ravivant les inqui\u00e9tudes concernant les infrastructures de drainage. Ces inondations surviennent dans un contexte de risques climatiques croissants \u00e0 travers le pays, en particulier dans les r\u00e9gions du sud et du sud-est expos\u00e9es aux s\u00e9cheresses, aux inondations et aux temp\u00eates de sable. Une r\u00e9cente \u00e9tude de l\u2019OIM a r\u00e9v\u00e9l\u00e9 que 75 % des personnes interrog\u00e9es se consid\u00e8rent vuln\u00e9rables aux chocs climatiques, tandis que beaucoup ne disposent pas des ressources suffisantes pour s\u2019y adapter. L\u2019OIM a appel\u00e9 \u00e0 un renforcement des investissements en faveur de la r\u00e9silience, de la s\u00e9curit\u00e9 alimentaire et de l\u2019adaptation au changement climatique.\n\n**Afrique de l'Ouest**  \n*Les risques climatiques soulignent les besoins de financement de la r\u00e9gion, estim\u00e9s \u00e0 294 milliards de dollars d'ici 2030*\n\nDepuis le 24 septembre, de fortes pluies ont provoqu\u00e9 d\u2019importantes inondations \u00e0 Nouakchott, perturbant les transports et les activit\u00e9s quotidiennes et suscitant de nouvelles pr\u00e9occupations concernant les infrastructures de drainage. Ces inondations surviennent dans un contexte de risques climatiques croissants \u00e0 travers le pays, notamment dans les r\u00e9gions du sud et du sud-est, expos\u00e9es aux s\u00e9cheresses, aux inondations et aux temp\u00eates de sable. Selon une r\u00e9cente \u00e9tude de l\u2019OIM, 75 % des personnes interrog\u00e9es se consid\u00e8rent vuln\u00e9rables aux chocs climatiques, tandis que beaucoup ne disposent pas de ressources suffisantes pour s\u2019y adapter. L\u2019OIM a appel\u00e9 \u00e0 davantage d\u2019investissements dans la r\u00e9silience, la s\u00e9curit\u00e9 alimentaire et l\u2019adaptation au changement climatique.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231842",
-            "date": {
-                "original": "2026-09-29T00:00:00+00:00",
-                "changed": "2026-09-29T13:33:31+00:00",
-                "created": "2026-09-29T13:12:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231842"
     }
 ]
