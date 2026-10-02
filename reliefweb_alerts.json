@@ -1,5 +1,46 @@
 [
     {
+        "id": "4232332",
+        "score": 1,
+        "fields": {
+            "title": "UNICEF Central African Republic Situation Report No. 1 (Mid-Year), 30 June 2026",
+            "body": "**Highlights**\n\n- UNICEF supported responses to multiple disease outbreaks, including polio, measles, meningitis, yellow fever and cholera. A nationwide polio campaign vaccinated 2.63 million children, while 46,765 children received measles vaccines in outbreak-affected areas.\n- Treatment was provided to 10,287 children with severe acute malnutrition, representing 39% of the 2026 HAC target, and 39,264 people benefited from IYCF-E and community engagement activities.\n- Education support reached 9,236 crisis-affected children, alongside teacher training and learning space construction.\n- WASH interventions enabled 83,344 people to access safe drinking water, 14,360 to improved sanitation services, and 91,716 to hygiene promotion activities.\n- Child protection and GBV services reached thousands, including 10,645 children with psychosocial support.\n- Humanitarian needs remained critical, with 2.3 million people requiring assistance and over 50,000 newly displaced by violence. However, UNICEF\u2019s 2026 HAC appeal remained 57% unfunded, leaving a US$17.1 million funding gap and constraining life-saving assistance.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232332",
+            "date": {
+                "original": "2026-10-02T00:00:00+00:00",
+                "changed": "2026-10-02T06:04:52+00:00",
+                "created": "2026-10-02T06:02:57+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232332"
+    },
+    {
         "id": "4232319",
         "score": 1,
         "fields": {
@@ -34,7 +75,7 @@
             "url": "https://reliefweb.int/node/4232319",
             "date": {
                 "original": "2026-10-02T00:00:00+00:00",
-                "changed": "2026-10-02T03:28:21+00:00",
+                "changed": "2026-10-02T06:54:31+00:00",
                 "created": "2026-10-02T01:33:47+00:00"
             }
         },
@@ -775,6 +816,47 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4232197"
+    },
+    {
+        "id": "4232192",
+        "score": 1,
+        "fields": {
+            "title": "DRC: Seven children a day on average have died of Ebola, with under-fives at greatest risk",
+            "body": "**KINSHASA, 01 October 2026 \u2013** About seven children on average have died every day of the Ebola virus since the outbreak was declared in the Democratic Republic of Congo (DRC) on 15 May, with 961 children now confirmed to have died from the disease, said Save the Children.\n\nAccording to a Save the Children analysis of data from the Ministry of Health, about two-thirds of child deaths from Ebola - or 623 fatalities - are among children under five.\n\nThe 61% case fatality rate (CFR) among children aged 0-4 years is also significantly higher than the overall 48% CFR for the current outbreak, highlighting the need to protect the youngest children as the outbreak continues to spread across eastern DRC.\n\nSince 15 May, at least 2,071 children aged under 18 have contracted Ebola, with 961 of these children \u2013 almost one in two of those infected - dying from the disease.\n\nThe outbreak has grown by nearly a quarter in just over three weeks, increasing from 6,604 confirmed adult and child cases and 3,175 deaths on 5 September to [8,116 cases and 3,924 deaths by 27 September](https://insp.cd/sitrep-n136-mve-bdbv-27-09-2026/). Additionally, 81.5% of Ebola deaths over the previous three weeks occurred in communities rather than treatment centres, highlighting the need for increased investment in community engagement, trust building and a community-led response.\n\nBeyond infection, Ebola is leaving many children bereaved, traumatised and in need of long-term support. Last month, Save the Children said that [at least 180 children have lost both parents or primary caregivers](https://www.savethechildren.net/news/nearly-two-children-day-orphaned-dr-congos-latest-ebola-outbreak-save-children) to the deadly outbreak, equivalent to nearly two children every day, since the deadly virus was declared.\n\n **Dr Babou Rukengeza, Save the Children\u2019s Ebola Response Lead in the DRC, said:**\n\n*\"Behind these numbers are children who should be in school, playing with friends and growing up safely with their families, not fighting for their lives against a deadly disease.*\n\n*\"The fact that one in four Ebola cases and deaths is a child means the outbreak is hitting children hardest and more needs to be done to protect them. Every day the outbreak continues, more children risk becoming infected, dying, losing loved ones or suffering the long-term consequences of this crisis.*\n\n*\u201cWe urgently need increased support to protect children, strengthen health services, help communities prevent the spread of the disease and ensure children who have lost parents or caregivers receive the support they need.\"*\n\nSave the Children is calling for increased investment in child-focused outbreak response measures, including infection prevention, treatment services, support for children without parental care community engagement and support for families affected by the disease.\n\nThe child rights organisation warned that progress in controlling the outbreak could be undermined if communities lack access to healthcare, information and essential services needed to prevent transmission and protect children.\n\nSave the Children is supporting infection prevention, community engagement, case detection and referral, and the continuity of essential services for children and families. The aid agency is also providing psychosocial support and child protection services, including support for children who have lost caregivers, while working to ensure children can continue learning and access healthcare, nutrition and protection services safely throughout the crisis.\n\nIn the DRC since 1994, Save the Children partners with 13 local organisations, as well as international agencies and government authorities, to deliver life-saving support in health, nutrition, education, child protection, food security, water, sanitation, and hygiene for children and their families.\n\n**ENDS.**",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232192",
+            "date": {
+                "original": "2026-10-01T00:00:00+00:00",
+                "changed": "2026-10-02T05:12:10+00:00",
+                "created": "2026-10-01T12:33:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232192"
     },
     {
         "id": "4232187",
@@ -1665,89 +1747,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4231842"
-    },
-    {
-        "id": "4231839",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: Latest Events at a glance (22\u201328 September 2026)",
-            "body": "**Democratic Republic of the Congo**  \n*Violence drives displacement and compounds humanitarian and health challenges*\n\nFighting across South Kivu and North Kivu continues to displace civilians, with more than 40,000 people newly displaced in Fizi territory since July and nearly 1.2 million internally displaced people hosted across South Kivu. In Ituri, insecurity at the Kigonze displacement site in Bunia, hosting nearly 19,000 people, has heightened protection concerns and severely restricted humanitarian access since 20 September. Meanwhile, the Ebola response faces growing community acceptance challenges. As of 26 September, authorities reported 8,116 confirmed cases and nearly 4,000 deaths. Recent attacks linked to Ebola prevention activities in North Kivu have further complicated response efforts, alongside insecurity, access constraints and continued population movements.\n\n**Liberia**  \n*Child malnutrition worsens amid reduced assistance*\n\nChild malnutrition and food insecurity are worsening amid reduced access to nutrition and health services following cuts in international assistance. Recent estimates indicate that only 2.4 per cent of children aged 6\u201323 months receive a minimum acceptable diet, while acute malnutrition among children under five has risen to 8.5 per cent. Humanitarian organizations warn that the closure of previously funded programmes has created significant gaps in essential services, increasing risks for vulnerable children and families.\n\n**Mauritania**  \n*Flooding highlights growing vulnerability to climate shocks*\n\nHeavy rains since 24 September have caused widespread flooding in Nouakchott, disrupting transport and daily activities and renewing concerns over drainage infrastructure. The flooding comes amid growing climate risks across the country, particularly in southern and southeastern regions exposed to droughts, floods and sandstorms. A recent IOM study found that 75 per cent of respondents consider themselves vulnerable to climate shocks, while many lack adequate resources to adapt. IOM called for increased investment in resilience, food security and climate adaptation.\n\n**West Africa**  \n*Climate risks underscore region\u2019s $294 billion financing needs by 2030*\n\nECOWAS estimates that approximately $294 billion will be required by 2030 to implement Member States\u2019 climate commitments and strengthen resilience, as climate-related risks intensify across the region. A new study warns that the current El Ni\u00f1o phenomenon could contribute to more than 450,000 additional heat-related deaths globally by early 2027, with the Sahel among the most affected regions. Researchers estimate nearly 67,000 additional deaths in the Sahel, including more than 31,000 in Nigeria, amid extreme heat, food insecurity and limited access to healthcare. At a regional parliamentary seminar in Accra, ECOWAS officials called for stronger climate governance and increased investment in adaptation and resilience, including through innovative financing mechanisms such as carbon markets.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231839",
-            "date": {
-                "original": "2026-09-29T00:00:00+00:00",
-                "changed": "2026-09-29T13:32:21+00:00",
-                "created": "2026-09-29T13:08:57+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231839"
-    },
-    {
-        "id": "4231838",
-        "score": 1,
-        "fields": {
-            "title": "DRC Humanitarian Fund Annual Report 2025",
-            "body": "**Donor Contribution**\n\nIn 2025, a year marked by historically low funding for the DRC Humanitarian Needs and Response Plan (HNRP) (below 24 per cent), the DRC Humanitarian Fund succeeded in slightly increasing donor support. The Fund secured $51.3 million, complemented by $49.7 million from Central Emergency Response Fund (CERF) allocations, a 5.6 per cent increase compared with the $48.6 million received in 2024. Despite the constrained funding environment, this upward trend reflects strong donor confidence in the Fund\u2019s management, accountability systems and its capacity to channel resources quickly and effectively to those most in need.  \n Throughout the year, the DRC HF received contributions from eight recurring donors (Belgium, Canada, Germany, Ireland, Luxembourg, the Netherlands, Norway and Sweden), whose continued engagement provided the Fund with operational stability. Belgium provided its largest contribution to date with $12.3 million, and Canada increased its support by 24 per cent compared to 2024. Norway\u2019s contribution nearly tripled to $2.4 million, reaching its highest level since 2017, while Luxembourg raised its support by 32 per cent, contributing $361,944. Ireland and the Netherlands maintained their 2024 levels, with $4.3 million and $11 million, respectively. Conversely, Germany, the DRC HF\u2019s top donor in 2024, significantly reduced its humanitarian contribution in 2025, providing $2.6 million, a 77 per cent decrease from the $11.2 million contributed the previous year. Sweden also reduced its support by 16 per cent, contributing $4 million.  \n Efforts to diversify the Fund\u2019s resource base also delivered positive outcomes. Denmark, which contributed for the first time in 2024, renewed and increased its support by 22 per cent, providing $5.5 million. France, which made its initial contribution in 2023 but did not fund the DRC HF in 2024, returned with $585,480 in 2025. New donors also joined the Fund for the first time: Switzerland contributed $4.2 million, and Portugal provided $346,821, thus broadening the Fund\u2019s donor base.  \n This strengthened and diversified funding base directly shaped implementation throughout the year. A quarter of the 2025 contributions ($12.9 million) arrived during the first quarter. Combined with unspent funds carried over from 2024, this enabled the DRC HF to launch a $20 million allocation responding to the humanitarian consequences of the expansion of territory under the control of the Alliance Fleuve Congo/Mouvement du 23 Mars (AFC/M23) in North and South Kivu, in early 2025. Later in the year, more than a third of the 2025 contributions, received during the last quarter, was critical in supporting a $20 million allocation targeting priority needs identified through the 2026 HNRP analysis.  \n Combined with the $13 million already anticipated for 2026 through multiyear pledges, these resources strengthen the Fund\u2019s predictability, planning and response capacity as 2026 began, enabling it to deliver life saving interventions in a highly volatile environment. This outlook is further strengthened by an exceptional pilot contribution of $150 million from the United States for 2026. This unprecedented level of support significantly reinforces the scale, predictability and strategic positioning of the DRC HF in a highly volatile operating environment, enabling the Fund to deliver life-saving interventions more effectively and at scale.  \n Despite an improved funding outlook as 2026 begins, humanitarian needs in the DRC remain unprecedented. Protracted conflict, large-scale displacement, climate shocks and recurring epidemics continue to affect 14.9 million people, according to the 2026 HNRP. In this context, the DRC HF will need to consolidate recent gains while intensifying engagement with core donors, further diversifying its funding base and securing predictable financial commitments. Continued donor support will be essential to ensure the Fund remains agile and able to deliver timely, life-saving assistance to the most vulnerable populations throughout 2026 and beyond.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231838",
-            "date": {
-                "original": "2026-09-29T00:00:00+00:00",
-                "changed": "2026-09-29T13:26:24+00:00",
-                "created": "2026-09-29T13:07:37+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231838"
     }
 ]
