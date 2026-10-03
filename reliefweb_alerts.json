@@ -1,5 +1,87 @@
 [
     {
+        "id": "4232474",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo _ Nord-Kivu : Pr\u00e9sence op\u00e9rationnelle - 3W (Qui fait quoi o\u00f9) (juin 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232474",
+            "date": {
+                "original": "2026-10-03T00:00:00+00:00",
+                "changed": "2026-10-03T10:56:31+00:00",
+                "created": "2026-10-03T10:56:18+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232474"
+    },
+    {
+        "id": "4232473",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo - Sud-Kivu et Maniema : Personnes d\u00e9plac\u00e9es internes et retourn\u00e9es au 30 juin 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232473",
+            "date": {
+                "original": "2026-10-03T00:00:00+00:00",
+                "changed": "2026-10-03T10:20:35+00:00",
+                "created": "2026-10-03T10:19:59+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232473"
+    },
+    {
         "id": "4232464",
         "score": 1,
         "fields": {
@@ -1639,85 +1721,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4231927"
-    },
-    {
-        "id": "4232175",
-        "score": 1,
-        "fields": {
-            "title": "Caritas Congo Asbl et la Norv\u00e8ge s\u2019engagent pour la paix et la r\u00e9silience communautaire en Ituri",
-            "body": "**Kinshasa , September 30, 2026 (caritasdev.cd)** : Caritas Congo Asbl and the Royal Norwegian Embassy in the Democratic Republic of Congo signed a partnership agreement on September 28, 2026 in Kinshasa for the implementation of a project dedicated to peacebuilding and strengthening community resilience in the Ituri province.\n\nL\u2019accord a \u00e9t\u00e9 sign\u00e9 par M. Bj\u00f8rn Klouman Bekken, Ambassadeur du Royaume de Norv\u00e8ge en RDC, et l\u2019Abb\u00e9 Edouard Makimba Milambo, Secr\u00e9taire Ex\u00e9cutif de Caritas Congo Asbl. D\u2019une dur\u00e9e de deux ans, le projet sera mis en \u0153uvre de septembre 2026 \u00e0 ao\u00fbt 2028 par Caritas Congo Asbl, \u00e0 travers son r\u00e9seau : Caritas D\u00e9veloppement Bunia et Wamba Intitul\u00e9**\u00ab Paix et r\u00e9silience communautaire en Ituri \u00bb**, le projet intervient dans une province confront\u00e9e deouis plusieurs ann\u00e9es aux cons\u00e9quences des conflits arm\u00e9s, aux tensions intercommunautaires, aux d\u00e9placements de populations et \u00e0 la fragilisation des moyens de substance.\n\n**Renforcer la paix et pr\u00e9venir les conflits**\n\nL\u2019objectif est de contribuer \u00e0 une paix durable, inclusive et r\u00e9siliente en renfor\u00e7ant la coh\u00e9sion, la pr\u00e9vention et la transformation des conflits communautaires et fonciers, tout en am\u00e9liorant les conditions de vie des populations affect\u00e9es par les violences et les d\u00e9placements forc\u00e9s.\n\nL\u2019approche retenue repose sur une combinaison d\u2019actions de consolidation de la paix, dialogue communautaire, m\u00e9diation, gouvernance locale et autonomisation socio-\u00e9conomique. Elle part du constat que la r\u00e9ponse aux conflits ne peut reposer uniquement sur les m\u00e9canisme s\u00e9curitaires et qu\u2019elle doit \u00e9galement s\u2019attaquer aux facteurs sociaux, \u00e9conomiques et communautaires qui alimentent les tensions.\n\nLes activit\u00e9s seront mises en \u0153uvre dans les territoires de **Djugu (une partie), et Mambasa**, o\u00f9 les populations sont confront\u00e9es \u00e0 diff\u00e9rents risques li\u00e9s aux conflits, aux d\u00e9placements et aux tensions autour de l\u2019acc\u00e8s aux ressources.\n\nUne attention particuli\u00e8re sera accord\u00e9e aux personnes d\u00e9plac\u00e9es internes, aux retourn\u00e9s, aux femmes, aux jeunes expos\u00e9s aux risques de recrutement par les groupes arm\u00e9s ainsi qu\u2019aux communaut\u00e9s autochtones pygm\u00e9es et autres groupes marginalis\u00e9s. Le projet cherchera notamment \u00e0 cr\u00e9er ou renforcer des espaces de dialogue entre les communaut\u00e9s, \u00e0 soutenir les m\u00e9canismes locaux de m\u00e9diation et \u00e0 favoriser une participation plus inclusive des populations aux processus de paix et \u00e0 la gouvernance locale.\n\n**Des r\u00e9sultats attendus pour renforcer la coh\u00e9sion sociale**\n\n\u00c0 travers ce projet, Caritas Congo Asbl ambitionne notamment :\n\n- de renforcer les m\u00e9canismes communautaires de m\u00e9diation et de pr\u00e9vention des conflits ;\n- d\u2019am\u00e9liorer la participation des femmes, des jeunes et des groupes marginalis\u00e9s aux processus de paix et aux instances de gouvernance locale ;\n- de favoriser l\u2019autonomisation \u00e9conomique des populations vuln\u00e9rables ;\n- de r\u00e9duire les tensions intercommunautaires et les facteurs favorisant l\u2019adh\u00e9sion des jeunes aux groupes arm\u00e9s ;\n- de d\u00e9velopper des syst\u00e8mes communautaires d\u2019alerte pr\u00e9coce et de pr\u00e9vention de la violence ;\n- de renforcer la confiance mutuelle et la coexistence pacifique entre les communaut\u00e9s.\n\nLe projet pr\u00e9voit de toucher directement plusieurs milliers de b\u00e9n\u00e9ficiaires et d\u2019avoir un impact indirect sur plus de 120 000 personnes gr\u00e2ce au renforcement des m\u00e9canismes locaux de paix et de r\u00e9silience.\n\nCaritas Congo Asbl\n\nPour toutes informations suppl\u00e9mentaires, veuillez contacter :\n\nPitchou Masinda, Coordonnateur National du Service de Promotion de D\u00e9veloppement/Caritas Congo Asbl, pmasinda@caritasdev.cd  \nParis Mona, Assistante Communication/ Caritas Congo Asbl, communication@caritasdev.cd, pmona@caritasdev.cd  \nPlus d\u2019infos sur notre site web : www.caritasdev.cd; Twitter : @CaritasCongo, Facebook :@CaritasRDCongo; Instagram : caritas\\_rdcongo",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1517",
-                    "id": 1517,
-                    "name": "Caritas",
-                    "shortname": "Caritas",
-                    "longname": "Caritas",
-                    "homepage": "https://www.caritas.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4232175",
-            "date": {
-                "original": "2026-09-30T00:00:00+00:00",
-                "changed": "2026-10-01T11:11:45+00:00",
-                "created": "2026-09-30T00:00:00+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4232175"
-    },
-    {
-        "id": "4231879",
-        "score": 1,
-        "fields": {
-            "title": "Central African Republic - Sudan Situation (As of September 25, 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231879",
-            "date": {
-                "original": "2026-09-29T00:00:00+00:00",
-                "changed": "2026-09-29T22:42:29+00:00",
-                "created": "2026-09-29T15:03:20+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231879"
     }
 ]
