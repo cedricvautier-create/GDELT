@@ -3,7 +3,7 @@
         "id": "4232474",
         "score": 1,
         "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo _ Nord-Kivu : Pr\u00e9sence op\u00e9rationnelle - 3W (Qui fait quoi o\u00f9) (juin 2026)",
+            "title": "R\u00e9publique d\u00e9mocratique du Congo - Nord Kivu : Pr\u00e9sence op\u00e9rationnelle - 3W (Qui fait quoi o\u00f9) (juin 2026)",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -33,8 +33,8 @@
             ],
             "url": "https://reliefweb.int/node/4232474",
             "date": {
-                "original": "2026-10-03T00:00:00+00:00",
-                "changed": "2026-10-03T10:56:31+00:00",
+                "original": "2026-08-25T00:00:00+00:00",
+                "changed": "2026-10-05T04:37:34+00:00",
                 "created": "2026-10-03T10:56:18+00:00"
             }
         },
@@ -44,7 +44,7 @@
         "id": "4232473",
         "score": 1,
         "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo - Sud-Kivu et Maniema : Personnes d\u00e9plac\u00e9es internes et retourn\u00e9es au 30 juin 2026",
+            "title": "R\u00e9publique d\u00e9mocratique du Congo - Sud-Kivu et Maniema : Personnes d\u00e9plac\u00e9es internes et retourn\u00e9es (au 30 juin 2026)",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -74,12 +74,53 @@
             ],
             "url": "https://reliefweb.int/node/4232473",
             "date": {
-                "original": "2026-10-03T00:00:00+00:00",
-                "changed": "2026-10-03T10:20:35+00:00",
+                "original": "2026-08-31T00:00:00+00:00",
+                "changed": "2026-10-05T04:35:11+00:00",
                 "created": "2026-10-03T10:19:59+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4232473"
+    },
+    {
+        "id": "4232471",
+        "score": 1,
+        "fields": {
+            "title": "IFRC mourns loss of Uganda Red Cross humanitarian in DRC Ebola response",
+            "body": "**Kampala/Nairobi/Geneva, 3 October 2026** - The International Federation of Red Cross and Red Crescent Societies (IFRC) is deeply saddened by the death of Ismael Mulindwa, an ambulance driver with the Uganda Red Cross Society (URCS).\n\nIsmael was deployed to support the Ebola response in Aru, Ituri Province, in the Democratic Republic of the Congo (DRC) when he was seriously injured in an attack while carrying out his humanitarian duties on 17 August 2026. Despite receiving specialised medical treatment and initially making good progress in his recovery, he sadly succumbed to his injuries and passed away on 1 October 2026.\n\nWe extend our deepest condolences to Ismael\u2019s family, loved ones and colleagues at the Uganda Red Cross Society and stand in solidarity with them at this difficult time.\n\nIsmael\u2019s death is a tragic reminder of the risks Red Cross and Red Crescent staff and volunteers face while assisting communities in difficult and dangerous environments.\n\nAttacks against humanitarian workers are unacceptable. We strongly condemn violence against Red Cross and Red Crescent staff and volunteers and call for their protection and respect as they serve communities in need.\n\n**For more information:**\n\n**Uganda Red Cross Society:**\n\nIrene Nakasiita, +256 774 382 583\n\n**IFRC Media:** [**\\[email protected\\]**](https://www.ifrc.org/cdn-cgi/l/email-protection#d3beb6b7bab293bab5a1b0fdbca1b4)\n\n**In Nairobi:**\n\nSusan Mbalu, +254 733 827 654\n\nTimothy Maina, +254 110 848 161\n\n**In Geneva:**\n\nPaolo Cravero: +41 79 894 8396",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1242",
+                    "id": 1242,
+                    "name": "International Federation of Red Cross and Red Crescent Societies",
+                    "shortname": "IFRC",
+                    "longname": "International Federation of Red Cross and Red Crescent Societies",
+                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                    "homepage": "https://www.ifrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232471",
+            "date": {
+                "original": "2026-10-03T00:00:00+00:00",
+                "changed": "2026-10-05T03:49:00+00:00",
+                "created": "2026-10-03T08:03:05+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232471"
     },
     {
         "id": "4232464",
@@ -115,8 +156,8 @@
             ],
             "url": "https://reliefweb.int/node/4232464",
             "date": {
-                "original": "2026-10-02T00:00:00+00:00",
-                "changed": "2026-10-02T20:09:41+00:00",
+                "original": "2026-09-28T00:00:00+00:00",
+                "changed": "2026-10-05T04:05:18+00:00",
                 "created": "2026-10-02T20:09:29+00:00"
             }
         },
@@ -156,12 +197,53 @@
             ],
             "url": "https://reliefweb.int/node/4232463",
             "date": {
-                "original": "2026-10-02T00:00:00+00:00",
-                "changed": "2026-10-02T20:08:57+00:00",
+                "original": "2026-09-28T00:00:00+00:00",
+                "changed": "2026-10-05T02:57:48+00:00",
                 "created": "2026-10-02T20:06:32+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4232463"
+    },
+    {
+        "id": "4232438",
+        "score": 1,
+        "fields": {
+            "title": "IOM: Multi-Country Bundibugyo Ebola Virus Disease Outbreak - Situation Report No. 20 (21 - 27 September 2026)",
+            "body": "**SITUATION OVERVIEW**\n\nAccording to the Ministry of Health of the Democratic Republic of the Congo (DRC), as of 27 September 2026, the country had reported 8,116 confirmed cases of Ebola disease caused by the Bundibugyo virus, including 3,924 deaths, resulting in a case fatality rate of 48.3 per cent. Since the beginning of the outbreak, 63 health zones across 7 provinces have reported at least 1 confirmed case. Transmission remains concentrated in Ituri and North Kivu Provinces, with Ituri accounting for 76.2 per cent of cumulative confirmed cases nationwide, underscoring its continued role as the epicentre of the outbreak.\n\nAlthough the daily number of new confirmed cases has declined from earlier peaks observed during the outbreak, transmission continues across multiple provinces, and the outbreak remains a significant public health threat. On 27 September, the Ministry of Health reported 49 new confirmed cases and 23 confirmed deaths, including 18 community deaths. Transmission remains concentrated in Ituri (27), North Kivu (18) and Haut-U\u00e9l\u00e9 (4).\n\nThe continued occurrence of community deaths and ongoing transmission across multiple provinces points to persistent challenges in early detection, referral, contact follow-up and timely access to care. As of 27 September, the national contact follow-up rate stood at 75.9 per cent, underscoring the need for sustained investment in disease surveillance, case investigation and response capacities.\n\nThe outbreak continues to evolve within a complex humanitarian and mobility context. Population movements associated with trade, livelihoods, displacement, health-seeking behaviour and family ties continue within outbreak-affected areas and across international borders. Continued transmission in eastern DRC reinforces the importance of preparedness measures in neighbouring countries connected through established mobility corridors, including disease surveillance, population mobility monitoring, referral systems, infection, prevention and control (IPC) and risk communication and community engagement (RCCE).\n\nPreparedness activities across affected and at-risk countries continue to be informed by findings from population mobility mapping (PMM), flow monitoring, preparedness assessments and cross-border risk analyses. These approaches support evidencebased prioritization of preparedness investments, including disease surveillance, referral systems, RCCE and operational readiness measures at points of entry (PoEs), border communities, displacement settings and other high-risk locations.\n\nIn line with the Inter-Agency Standing Committee (IASC) system-wide scale-up activation for infectious disease events, IOM continues to support outbreak response activities across affected and at-risk countries. Response and readiness activities remain ongoing in DRC, Uganda, Burundi, Rwanda and South Sudan, while preparedness efforts continue in Angola, the Central African Republic (CAR), Ethiopia, Kenya, the Republic of the Congo, the United Republic of Tanzania and Zambia to strengthen disease surveillance, operational readiness, community engagement and cross-border coordination capacities.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232438",
+            "date": {
+                "original": "2026-10-02T00:00:00+00:00",
+                "changed": "2026-10-05T03:53:00+00:00",
+                "created": "2026-10-02T15:03:17+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232438"
     },
     {
         "id": "4232406",
@@ -1628,98 +1710,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4232019"
-    },
-    {
-        "id": "4231929",
-        "score": 1,
-        "fields": {
-            "title": "Growing Food Insecurity Amid the Ebola Virus Disease (EVD) Outbreak in Ituri Province, Democratic Republic of the Congo",
-            "body": "**KEY MESSAGES**\n\n\u2022 Measures to respond to the EVD outbreak, particularly restrictions on movement, are affecting the availability of food at markets and households\u2019 ability to access food due to rising food prices, thereby eroding purchasing power.\n\n\u2022 Local response capacities and community mutual aid systems are helping to maintain some level of food access, but emergency assistance remains necessary for the most isolated and vulnerable.\n\n\u2022 By the end of September, food security is expected to deteriorate further with the onset of the lean season, unless community mutual aid is rapidly strengthened and emergency assistance is targeting the most isolated populations.\n\n**CONTEXT & RATIONALE**\n\nThe Democratic Republic of the Congo (DRC) is regularly affected by recurring epidemics (Ebola, COVID-19, cholera, measles, Mpox), which pose a threat to health and food security due to their impact on the livelihoods and economies of households in the affected areas. Since May 2026, the 17th Ebola virus disease (EVD) outbreak has affected 62 health zones (ZS) in the eastern region of the DRC, specifically in the provinces of Ituri, which remains the epicenter of the outbreak, North Kivu, South Kivu, and, more recently, Haut-Uele, Tshopo, Bas-Uele, and South Ubangi\u00b9 with more than 7,258 confirmed cases and 3,510 deaths as of September 13, 2026\u00b2. Against a backdrop of conflict and a fragile economy, food insecurity already affects a portion of the population and risks being exacerbated by this health crisis through the associated preventive measures. As of June 2026, 10% of Ituri\u2019s population was facing severe food insecurity (IPC AFI P4), and just under 300,000 children (n=291,302) under the age of five were malnourished (IPC AMN P3 and P4))\u00b3.\n\nBetween July 13 and 15, 2026, REACH conducted a rapid qualitative study to analyze the effects of the EVD epidemic on household food security and livelihoods, interviewing 30 key informants (26 men and 4 women) in Ituri Province, in the health zones most affected by the epidemic during the period: Bunia (n=6), Rwampara (n=6), Mongbwalu (n=6), Nizi (n=6), and Nyankunde (n=6). Information was collected from 6 farmers, 6 health workers, 5 merchants, 4 teachers, 2 civil servants, 1 humanitarian worker, and 6 community members, including 1 civil society representative, 1 motorcycle taxi driver, and 1 community leader.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9965",
-                    "id": 9965,
-                    "name": "REACH Initiative",
-                    "shortname": "REACH",
-                    "longname": "REACH Initiative",
-                    "homepage": "http://www.reach-initiative.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231929",
-            "date": {
-                "original": "2026-09-17T00:00:00+00:00",
-                "changed": "2026-09-30T02:36:13+00:00",
-                "created": "2026-09-30T02:35:52+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231929"
-    },
-    {
-        "id": "4231927",
-        "score": 1,
-        "fields": {
-            "title": "COD: Inondation - 09-2026 - Les inondations dans le territoire de Luiza, province du Kasa\u00ef Central (RDC) (2026-09-30)",
-            "body": "## **Sources des donn\u00e9es marqu\u00e9es comme Autres**\n\nLa Croix-Rouge de la RDC, province du Kasa\u00ef-Centrale\n\n## **Description**\n\nEn pleine saison des pluies dans la province du Kasa\u00ef-Central, le territoire de Luiza a \u00e9t\u00e9 frapp\u00e9 par une violente pluie diluvienne dans la nuit du samedi 26 au dimanche 27 septembre 2026. L'intemp\u00e9rie a provoqu\u00e9 de tr\u00e8s nombreuses victimes ainsi que des d\u00e9g\u00e2ts mat\u00e9riels et infrastructurels consid\u00e9rables.\n\nSur le plan humain, la situation demeure extr\u00eamement pr\u00e9occupante. Au total, **12 000 m\u00e9nages** se retrouvent sans abri, ayant tout perdu dans la catastrophe. Les intemp\u00e9ries ont caus\u00e9 la destruction totale de **1 500 habitations** et des dommages partiels sur **500 autres**.\n\nApr\u00e8s avoir pass\u00e9 les premi\u00e8res nuits \u00e0 la belle \u00e9toile, livr\u00e9es \u00e0 elles-m\u00eames, de nombreuses familles \u2014 hommes, femmes et enfants \u2014 trouvent aujourd'hui un refuge de fortune au sein de familles d'accueil improvis\u00e9es et satur\u00e9es. Les conditions de vie y sont marqu\u00e9es par une forte promiscuit\u00e9 et une hygi\u00e8ne d\u00e9plorable. Sans une intervention humanitaire d'urgence, les autorit\u00e9s locales et la soci\u00e9t\u00e9 civile redoutent l'\u00e9mergence de maladies d'origine hydrique et une hausse des victimes collat\u00e9rales.\n\nLe r\u00e9seau d'infrastructures du territoire a \u00e9t\u00e9 s\u00e9v\u00e8rement endommag\u00e9, ce qui paralyse l'organisation des secours et la vie communautaire :\n\n- **Infrastructures publiques :** Le b\u00e2timent administratif du territoire ainsi que le Bureau central ont subi d'importants d\u00e9g\u00e2ts, freinant la coordination des op\u00e9rations de secours locaux.\n- **Secteur \u00e9ducatif :** Le campus de l'Institut Sup\u00e9rieur P\u00e9dagogique (ISP) de Luiza a \u00e9t\u00e9 lourdement touch\u00e9. Les toitures ont \u00e9t\u00e9 emport\u00e9es et plusieurs murs se sont effondr\u00e9s, notamment au niveau des auditoires et du b\u00e2timent de la direction.\n- **Lieux de rassemblement :** Plusieurs espaces communautaires ont \u00e9t\u00e9 ravag\u00e9s, \u00e0 l'instar de l'\u00e9glise adventiste de Kaserwa.\n\n## **Demandes d'aide**\n\nDemandes d'assistance internationale des gouvernements\n\n**Oui**\n\nDemandes d'assistance internationale des Soci\u00e9t\u00e9s Nationales\n\n**Oui**\n\n## **Bulletin d'information publi\u00e9**\n\nNon\n\n## **Actions entreprises par Soci\u00e9t\u00e9 nationale**\n\n### **General**\n\n\u00c9valuation des dommages/besoins\n\nRecherche et sauvetage\n\nEau et assainissement\n\nAide alimentaire\n\nSant\u00e9\n\nServices de soutien psychosocial\n\nRLF\n\n\u00c9vacuation\n\nPremiers secours\n\nDistribution de secours/d\u2019approvisionnement\n\n**R\u00e9sum\u00e9**\n\n-\n\n## **Actions entreprises par RCRC**\n\n**R\u00e9sum\u00e9**\n\nLe premi\u00e8re secours, \u00e9vacuation des blesses et l'\u00e9valuation rapide en cours",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52293",
-                    "id": 52293,
-                    "name": "Croix-Rouge de la RDC",
-                    "shortname": "Croix-Rouge de la RDC",
-                    "longname": "Croix-Rouge de la R\u00e9publique D\u00e9mocratique du Congo",
-                    "homepage": "https://www.croixrouge-rdc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4231927",
-            "date": {
-                "original": "2026-09-30T00:00:00+00:00",
-                "changed": "2026-09-30T02:05:43+00:00",
-                "created": "2026-09-30T02:03:58+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4231927"
     }
 ]
