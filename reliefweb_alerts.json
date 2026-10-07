@@ -1,5 +1,97 @@
 [
     {
+        "id": "4233072",
+        "score": 1,
+        "fields": {
+            "title": "RDC \u2013 Nord-Kivu : Cartographie des capacit\u00e9s de prise en charge de la maladie \u00e0 virus Ebola( MVE BDB ) au 29 septembre 2026",
+            "body": "Au 29 septembre 2026, la cartographie des capacit\u00e9s de prise en charge de la maladie \u00e0 virus Ebola au Nord-Kivu recense 43 structures r\u00e9parties dans 19 zones de sant\u00e9. La capacit\u00e9 atteint 407 lits, dont 149 destin\u00e9s aux cas confirm\u00e9s et 258 aux cas suspects. Ces capacit\u00e9s incluent des structures finalis\u00e9es et un centre en phase finale.\n\nLes 12 centres de traitement Ebola concentrent 261 lits, soit 64 % du total, et 85 % des lits pour cas confirm\u00e9s. Beni, Butembo et Katwa regroupent 22 structures et 286 lits, repr\u00e9sentant 70 % des capacit\u00e9s. Cette concentration souligne la n\u00e9cessit\u00e9 de renforcer les circuits de r\u00e9f\u00e9rencement et d\u2019\u00e9valuer les besoins dans les 15 zones de sant\u00e9 d\u00e9pourvues de structures.\n\nLacunes persistantes : 17 structures, totalisant 59 lits, ne disposent pas de partenaire d\u2019appui. Le centre de Mabalako n\u00e9cessite une mise aux normes, tandis que celui de la MONUSCO \u00e0 Goma, dot\u00e9 de 19 lits, reste en phase finale.\n\nLes priorit\u00e9s comprennent la mobilisation de partenaires, le suivi de l\u2019ouverture des centres, la documentation de l\u2019occupation des lits et la compl\u00e9tude des donn\u00e9es manquantes. Le renforcement des espaces d\u2019accueil des enfants demeure n\u00e9cessaire pour am\u00e9liorer la qualit\u00e9 de la prise en charge.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4233072",
+            "date": {
+                "original": "2026-10-07T00:00:00+00:00",
+                "changed": "2026-10-07T15:22:31+00:00",
+                "created": "2026-10-07T15:19:34+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4233072"
+    },
+    {
+        "id": "4233070",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon Cholera Outbreak: Situation Report #7 (October 6, 2026)",
+            "body": "**FAST FACTS**\n\n- As of October 5, 459 cholera cases and four deaths had been reported in Minawao Refugee Camp, which currently is home to more than 81,000 refugees and operating at about 325% of intended capacity.\n- Multiple transmission chains are suspected within the camp, where heavy rainfall is increasing the risk of rapid spread among vulnerable populations.\n- Nationwide, according to the most recent government figures, there have been 2,903 confirmed cases and 84 deaths nationwide across 13 health districts.\n- The cholera outbreak in Cameroon has a case fatality rate of 2.89%, which is nearly three times higher than the internationally accepted target of less than 1%.\n\n**OUR RESPONSE**\n\n- International Medical Corps has been operating in Minawao Refugee Camp since 2013, providing Nigerian refugees with primary, community-based and referred secondary healthcare.\n- In response to the outbreak, our team has treated all 459 patients, expanded the cholera treatment unit to 65 beds, trained 105 health workers in case management and infection prevention, and reached a daily average of 6,478 people through community information sessions on hygiene, safe water and early care-seeking.\n- We are coordinating with national health authorities, United Nations agencies, camp management and humanitarian partners to support a coordinated response.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2019",
+                    "id": 2019,
+                    "name": "International Medical Corps",
+                    "shortname": "IMC",
+                    "longname": "International Medical Corps",
+                    "homepage": "https://internationalmedicalcorps.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4233070",
+            "date": {
+                "original": "2026-10-06T00:00:00+00:00",
+                "changed": "2026-10-07T15:07:19+00:00",
+                "created": "2026-10-07T15:05:48+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4233070"
+    },
+    {
         "id": "4232977",
         "score": 1,
         "fields": {
@@ -641,7 +733,7 @@
             "url": "https://reliefweb.int/node/4232805",
             "date": {
                 "original": "2026-10-06T00:00:00+00:00",
-                "changed": "2026-10-06T12:46:47+00:00",
+                "changed": "2026-10-07T15:25:47+00:00",
                 "created": "2026-10-06T09:03:06+00:00"
             }
         },
@@ -1601,87 +1693,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4232464"
-    },
-    {
-        "id": "4232463",
-        "score": 1,
-        "fields": {
-            "title": "Democratic Republic of the Congo: Humanitarian Dashboard (July 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4232463",
-            "date": {
-                "original": "2026-09-28T00:00:00+00:00",
-                "changed": "2026-10-05T02:57:48+00:00",
-                "created": "2026-10-02T20:06:32+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4232463"
-    },
-    {
-        "id": "4232447",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique Centrafricaine : Statistiques des R\u00e9fugi\u00e9s et Demandeurs d\u2019Asile (Au 31 aout 2026)",
-            "body": "**CONTEXTE**\n\nAu 31 ao\u00fbt 2026, la R\u00e9publique centrafricaine accueillait 62 406 r\u00e9fugi\u00e9s et demandeurs d\u2019asile, principalement originaires du Soudan, de la R\u00e9publique D\u00e9mocratique du Congo, du Tchad, du Soudan du Sud, et du Rwanda. Le pays a notamment accueilli depuis avril 2023, des milliers de r\u00e9fugi\u00e9s soudanais et tchadiens fuyant les conflits, principalement par les poste-fronti\u00e8res d\u2019Amdafok et des localit\u00e9s dans le nord de Paoua. Ces r\u00e9fugi\u00e9s sont repartis principalement dans les pr\u00e9fectures de la Vakaga, du Haut-Mbomou, de la Ouaka, du Mbomou et de Lim-Pend\u00e9. Le HCR, en coordination avec la Commission nationale pour les r\u00e9fugi\u00e9s (CNR), assure leur accueil, enregistrement et suivi, malgr\u00e9 des ressources limit\u00e9es.\n\nAu cours du mois d\u2019ao\u00fbt, 378 nouveaux r\u00e9fugi\u00e9s ont \u00e9t\u00e9 enregistr\u00e9s dans les pr\u00e9fectures de la Vakaga (Birao). Le soutien de la communaut\u00e9 humanitaire permet \u00e0 ces r\u00e9fugi\u00e9s d'acc\u00e9der \u00e0 des services essentiels, notamment la protection, l\u2019aide alimentaire, l\u2019h\u00e9bergement, les soins de sant\u00e9 et l\u2019\u00e9ducation, en particulier \u00e0 Korsi, dans la r\u00e9gion de la Vakaga.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4232447",
-            "date": {
-                "original": "2026-10-02T00:00:00+00:00",
-                "changed": "2026-10-05T15:13:14+00:00",
-                "created": "2026-10-02T16:03:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4232447"
     }
 ]
