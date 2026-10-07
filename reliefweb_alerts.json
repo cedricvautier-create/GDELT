@@ -33,11 +33,93 @@
             "url": "https://reliefweb.int/node/4232907",
             "date": {
                 "original": "2026-10-06T00:00:00+00:00",
-                "changed": "2026-10-06T16:17:09+00:00",
+                "changed": "2026-10-07T03:20:33+00:00",
                 "created": "2026-10-06T16:17:19+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4232907"
+    },
+    {
+        "id": "4232903",
+        "score": 1,
+        "fields": {
+            "title": "Bureau de Coordination \u00e0 l\u2019Est du Chad : Urgence du Soudan - Flash Info #59 (02 Octobre 2026)",
+            "body": "**Contexte \u2013 Une crise qui s\u2019acc\u00e9l\u00e8re \u00e0 la fronti\u00e8re est du Tchad**\n\nLa d\u00e9t\u00e9rioration continue de la situation s\u00e9curitaire au Darfour du Nord, combin\u00e9e \u00e0 l\u2019aggravation de l\u2019ins\u00e9curit\u00e9 alimentaire, \u00e0 la raret\u00e9 de l\u2019eau et \u00e0 la perte g\u00e9n\u00e9ralis\u00e9e des moyens d\u2019existence, provoque une nouvelle vague de d\u00e9placements forc\u00e9s vers le Tchad.\n\nDepuis la mi-septembre, le point d\u2019entr\u00e9e de Tin\u00e9, dans la province du Wadi Fira, enregistre une augmentation sans pr\u00e9c\u00e9dent des arriv\u00e9es de r\u00e9fugi\u00e9s soudanais. Alors que les flux quotidiens demeuraient inf\u00e9rieurs \u00e0 100 personnes jusqu\u2019au d\u00e9but du mois, ils ont connu une forte acc\u00e9l\u00e9ration \u00e0 partir du 10 septembre, atteignant un pic de 1 106 nouvelles arriv\u00e9es en une seule journ\u00e9e le 29 septembre 2026. Selon les informations recueillies lors des entretiens, les nouveaux arrivants proviennent principalement des localit\u00e9s d\u2019Umbru, Kutum, Mitch\u00e9, El-Fasher et Amarahik\n\nCette tendance confirme l\u2019aggravation de la crise humanitaire au Soudan et laisse pr\u00e9sager une poursuite des mouvements transfrontaliers dans les semaines \u00e0 venir. Les \u00e9valuations rapides, les entretiens avec les nouveaux arrivants et les alertes recueillies dans le cadre du monitoring de protection aux points d\u2019entr\u00e9e ont permis de mieux documenter l\u2019\u00e9volution des mouvements de population ainsi que les besoins humanitaires qui en d\u00e9coulent.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232903",
+            "date": {
+                "original": "2026-10-06T00:00:00+00:00",
+                "changed": "2026-10-07T03:13:13+00:00",
+                "created": "2026-10-06T16:03:39+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232903"
+    },
+    {
+        "id": "4232902",
+        "score": 1,
+        "fields": {
+            "title": "Eastern Chad - Sudanese Situation - Flash Updates #58 (28 September 2026)",
+            "body": "**UPDATE ON SITUATION IN SUDAN**\n\n**Context**\n\nThe security situation along Chad-Sudan borders remains a concern, although condition within the country is generally stable. The border provinces of Wadi Fira, Ennedi Est, and Ouadda\u00ef continue to be affected by the spillover effects of the conflict in neighbouring Sudan. The ongoing crisis continues to drive people to seek safety in Chad while also impacting border communities and humanitarian operations.\n\nRecent reports indicate continued insecurity and armed clashes in several parts of Sudan, including North Kordofan, North Darfur, and South Darfur. As hostilities persist and frontlines shift, civilian populations continue to face significant protection risks and new waves of displacement. In Nyala, South Darfur, residents reported renewed aerial strikes on 27 September following a period of relative calm.\n\nThe continued conflict exposes civilian populations to heightened protection risks, including injuries and loss of life caused by hostilities, forced displacement, disruption of livelihoods, and reduced access to essential services. Humanitarian actors remain concerned about the impact of the intensification of military operations on civilians, particularly in areas regularly affected by conflict and insecurity.\n\nIn addition to conflict-related challenges, several regions of Sudan are experiencing worsening climatic conditions. Below-average rainfall, degraded grazing land, and increasing water scarcity are undermining livelihoods, particularly for communities dependent on agriculture and livestock. The combined effects of conflict, drought, and declining access to natural resources are increasingly driving population movements towards safer areas, including eastern Chad. New arrivals interviewed at the border frequently cited insecurity, along with its consequences, including the loss of livelihoods, as key factors that prompted their departure. Insufficient rainfall and the drying up of water sources have further exacerbated the erosion of livelihoods, making already precarious living conditions even more difficult.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232902",
+            "date": {
+                "original": "2026-10-06T00:00:00+00:00",
+                "changed": "2026-10-07T03:10:31+00:00",
+                "created": "2026-10-06T16:03:28+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232902"
     },
     {
         "id": "4232890",
@@ -120,6 +202,46 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4232891"
+    },
+    {
+        "id": "4232889",
+        "score": 1,
+        "fields": {
+            "title": "Situation d'urgence au Tchad I Mise \u00e0 jour des arriv\u00e9es du Soudan (05 oct. 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4232889",
+            "date": {
+                "original": "2026-10-05T00:00:00+00:00",
+                "changed": "2026-10-07T03:05:11+00:00",
+                "created": "2026-10-06T15:03:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4232889"
     },
     {
         "id": "4232820",
@@ -1561,140 +1683,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4232332"
-    },
-    {
-        "id": "4232319",
-        "score": 1,
-        "fields": {
-            "title": "Tchad \u2014 Pr\u00e9sence des Migrants \u2014 Sous-pr\u00e9fectures de Faya et Kalait (mars 2026)",
-            "body": "Ce rapport pr\u00e9sente les principaux r\u00e9sultats issus de la collecte de donn\u00e9es conduite en mars 2026, men\u00e9e en partenariat avec le Groupe d\u2019\u00c9tude sur l\u2019Organisation et le D\u00e9veloppement des Espaces Soudano-sah\u00e9liens (GEODES) du d\u00e9partement de g\u00e9ographie de l'Universit\u00e9 de N'Djamena, dans les sous-pr\u00e9fectures de Faya et de Kalait (province de Borkou et Ennedi-Ouest, respectivement) o\u00f9 l\u2019on constate \u00e0 travers les donn\u00e9es de la DTM, une pr\u00e9sence importante de migrants en transit, de retour ou bloqu\u00e9.\u200b\n\nL\u2019enqu\u00eate a \u00e9t\u00e9 men\u00e9e du 17 au 26 mars 2026 dans les sous-pr\u00e9fectures de Faya (province du Borkou) et de Kalait (province de l\u2019Ennedi-Ouest). Ces localit\u00e9s ont \u00e9t\u00e9 s\u00e9lectionn\u00e9es sur la base des donn\u00e9es de suivi des flux de la DTM, qui mettent en \u00e9vidence une forte pr\u00e9sence de migrants en transit, de retour ou bloqu\u00e9.\u200b L\u2019\u00e9tude s\u2019est concentr\u00e9e sur les principaux quartiers d\u2019attraction \u00e9conomique de migrants au Tchad notamment dans les secteurs de l\u2019orpaillage, de l\u2019agriculture, du commerce, ainsi que dans les m\u00e9tiers artisanaux tels que la couture, la ma\u00e7onnerie ou la menuiserie.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4232319",
-            "date": {
-                "original": "2026-10-02T00:00:00+00:00",
-                "changed": "2026-10-02T06:54:31+00:00",
-                "created": "2026-10-02T01:33:47+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4232319"
-    },
-    {
-        "id": "4232316",
-        "score": 1,
-        "fields": {
-            "title": "RDC \u2014 Tanganyika : Rapport d'Enregistrement et Enqu\u00eate d'Intention (septembre 2026)",
-            "body": "La province du Tanganyika, en particulier le territoire de Kalemie, demeure affect\u00e9e par une ins\u00e9curit\u00e9 persistante, principalement li\u00e9e aux conflits intercommunautaires et aux attaques de groupes arm\u00e9s, entra\u00eenant des d\u00e9placements de population. Dans ce contexte, la Matrice de Suivi des D\u00e9placements (DTM) de l\u2019Organisation Internationale pour les Migrations (OIM) a men\u00e9 des op\u00e9rations d\u2019enregistrement et de v\u00e9rification, ainsi qu\u2019une enqu\u00eate sur les intentions, dans les quatre sites spontan\u00e9s de Katumbi, Kinywema/Kyoko, Malenge/ Nyemba et Mangala.\n\nLa collecte des donn\u00e9es s\u2019est d\u00e9roul\u00e9e du 1er au 6 septembre 2026. Cette op\u00e9ration a permis d\u2019enregistrer 2 931 m\u00e9nages, soit 9 918 individus, dans les quatre sites cibl\u00e9s. Les r\u00e9sultats pr\u00e9sent\u00e9s refl\u00e8tent les personnes d\u00e9plac\u00e9es internes enregistr\u00e9es dans ces sites et ne repr\u00e9sentent donc pas l\u2019ensemble de la population d\u00e9plac\u00e9e du territoire de Kalemie.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4232316",
-            "date": {
-                "original": "2026-10-02T00:00:00+00:00",
-                "changed": "2026-10-02T03:42:07+00:00",
-                "created": "2026-10-02T01:33:23+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4232316"
-    },
-    {
-        "id": "4232314",
-        "score": 1,
-        "fields": {
-            "title": "Cluster Protection Tchad : Note de plaidoyer Situation de protection dans la Province du Lac - Une crise de protection sous-financ\u00e9e n\u00e9cessitant une r\u00e9ponse urgente et renforc\u00e9e (Ao\u00fbt 2026)",
-            "body": "**Message cl\u00e9**\n\nPour le Sous-cluster Protection du Lac, le principal d\u00e9fi aujourd'hui n'est pas l'absence de besoins ou d'\u00e9vidence, mais l'insuffisance de couverture op\u00e9rationnelle, de ressources d\u00e9di\u00e9es et d'acteurs sp\u00e9cialis\u00e9s en capacit\u00e9 d'assurer un monitoring r\u00e9gulier, une analyse continue des risques et une r\u00e9ponse \u00e0 l'\u00e9chelle des besoins.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/8619",
-                    "id": 8619,
-                    "name": "Protection Cluster",
-                    "shortname": "Protection Cluster",
-                    "longname": "Protection Cluster",
-                    "homepage": "https://www.globalprotectioncluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4232314",
-            "date": {
-                "original": "2026-08-31T00:00:00+00:00",
-                "changed": "2026-10-02T01:25:49+00:00",
-                "created": "2026-10-02T01:25:20+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4232314"
     }
 ]
