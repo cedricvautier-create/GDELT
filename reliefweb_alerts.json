@@ -1,5 +1,46 @@
 [
     {
+        "id": "4233488",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon: 2026 - Humanitarian Needs and Response Plan (HNRP) Funding Overview (as of 30 September2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4233488",
+            "date": {
+                "original": "2026-09-30T00:00:00+00:00",
+                "changed": "2026-10-11T18:28:21+00:00",
+                "created": "2026-10-11T18:27:57+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4233488"
+    },
+    {
         "id": "4233374",
         "score": 1,
         "fields": {
@@ -1640,46 +1681,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4232903"
-    },
-    {
-        "id": "4232902",
-        "score": 1,
-        "fields": {
-            "title": "Eastern Chad - Sudanese Situation - Flash Updates #58 (28 September 2026)",
-            "body": "**UPDATE ON SITUATION IN SUDAN**\n\n**Context**\n\nThe security situation along Chad-Sudan borders remains a concern, although condition within the country is generally stable. The border provinces of Wadi Fira, Ennedi Est, and Ouadda\u00ef continue to be affected by the spillover effects of the conflict in neighbouring Sudan. The ongoing crisis continues to drive people to seek safety in Chad while also impacting border communities and humanitarian operations.\n\nRecent reports indicate continued insecurity and armed clashes in several parts of Sudan, including North Kordofan, North Darfur, and South Darfur. As hostilities persist and frontlines shift, civilian populations continue to face significant protection risks and new waves of displacement. In Nyala, South Darfur, residents reported renewed aerial strikes on 27 September following a period of relative calm.\n\nThe continued conflict exposes civilian populations to heightened protection risks, including injuries and loss of life caused by hostilities, forced displacement, disruption of livelihoods, and reduced access to essential services. Humanitarian actors remain concerned about the impact of the intensification of military operations on civilians, particularly in areas regularly affected by conflict and insecurity.\n\nIn addition to conflict-related challenges, several regions of Sudan are experiencing worsening climatic conditions. Below-average rainfall, degraded grazing land, and increasing water scarcity are undermining livelihoods, particularly for communities dependent on agriculture and livestock. The combined effects of conflict, drought, and declining access to natural resources are increasingly driving population movements towards safer areas, including eastern Chad. New arrivals interviewed at the border frequently cited insecurity, along with its consequences, including the loss of livelihoods, as key factors that prompted their departure. Insufficient rainfall and the drying up of water sources have further exacerbated the erosion of livelihoods, making already precarious living conditions even more difficult.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4232902",
-            "date": {
-                "original": "2026-10-06T00:00:00+00:00",
-                "changed": "2026-10-07T03:10:31+00:00",
-                "created": "2026-10-06T16:03:28+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4232902"
     }
 ]
