@@ -1,5 +1,125 @@
 [
     {
+        "id": "4233566",
+        "score": 1,
+        "fields": {
+            "title": "UNICEF Rapid Response in the Democratic Republic of Congo (UniRR) Provinces of Ituri, Nord-Kivu, Sud-Kivu, Tanganyika | One Page Bulletin of September 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4233566",
+            "date": {
+                "original": "2026-10-12T00:00:00+00:00",
+                "changed": "2026-10-12T10:53:32+00:00",
+                "created": "2026-10-12T07:34:27+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4233566"
+    },
+    {
+        "id": "4233565",
+        "score": 1,
+        "fields": {
+            "title": "UNICEF Rapid Response in the Democratic Republic of Congo (UniRR) Provinces of Ituri, Nord-Kivu, Sud-Kivu, Tanganyika | One Page Bulletin of August 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4233565",
+            "date": {
+                "original": "2026-10-12T00:00:00+00:00",
+                "changed": "2026-10-12T10:53:00+00:00",
+                "created": "2026-10-12T07:33:32+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4233565"
+    },
+    {
+        "id": "4233559",
+        "score": 1,
+        "fields": {
+            "title": "UNICEF Cholera Response in DRC - Case Area Targeted Interventions (CATI) program: Tanganyika, North Kivu, South Kivu and Haut-Lomami provinces | August 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4233559",
+            "date": {
+                "original": "2026-10-12T00:00:00+00:00",
+                "changed": "2026-10-12T10:08:46+00:00",
+                "created": "2026-10-12T07:14:30+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4233559"
+    },
+    {
         "id": "4233488",
         "score": 1,
         "fields": {
@@ -1559,127 +1679,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4232955"
-    },
-    {
-        "id": "4232953",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo - Mise \u00e0 jour des messages cl\u00e9s : La campagne agricole commence dans un contexte d'intensification des d\u00e9placements \u00e0 la suite des affrontements, Septembre 2026 - Janvier 2027",
-            "body": "**Messages cl\u00e9**\n\n- **Les principaux conflits en RDC se sont intensifi\u00e9s au cours des deux derniers mois** et ont maintenu des r\u00e9sultats de Crise (Phase 3 de l\u2019IPC) dans les zones touch\u00e9es en raison des d\u00e9placements des populations et de la d\u00e9gradation des moyens d\u2019existence. Les affrontements entre les rebelles du M23 et la coalition gouvernementale se sont focalis\u00e9s dans les territoires [**de Fizi, Mwenga,** ](https://actualite.cd/2026/08/31/rdc-des-jours-des-combats-entre-afcm23-et-fardc-senchainent-au-village-strategique-point)[**Masisi et Walikale**](https://actualite.cd/2026/09/07/walikale-de-nouveaux-deplaces-affluent-vers-kyumba-et-langira-apres-lintensification-des), provoquant de nouvelles vagues de d\u00e9placements, tandis que les attaques des Forces d\u00e9mocratiques alli\u00e9es (ADF) contre les populations locales ont continu\u00e9 dans le territoire de [**Mambasa** ](https://www.radiookapi.net/2026/09/02/actualite/securite/au-moins-43-morts-en-une-semaine-dans-des-attaques-attribuees-aux-adf)en Ituri ainsi que dans la province de [**Haut Uel\u00e9**](https://www.radiookapi.net/2026/08/31/actualite/securite/environ-10-000-deplaces-en-detresse-watsa-et-wamba). [**Selon l\u2019outil de suivi mensuel du Bureau de la coordination des affaires humanitaires (OCHA)**](https://app.powerbi.com/view?r=eyJrIjoiNWY5Yjg3NzAtMmQ1Ni00MzcyLWFhNDItNmY2NTViMGU0MmM2IiwidCI6IjBmOWUzNWRiLTU0NGYtNGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9), plus de 1,71 million de personnes se sont nouvellement d\u00e9plac\u00e9es entre janvier et juin 2026. Ces d\u00e9placements, en particulier les plus r\u00e9cents survenus pendant les semis, ont contraint les m\u00e9nages \u00e0 abandonner les activit\u00e9s agricoles et d\u2019autres actifs productifs.\n- **Le d\u00e9marrage de la saison 2 (S2) dans le centre et l\u2019est intervient dans un contexte de conditions pluviom\u00e9triques globalement favorables aux activit\u00e9s agricoles, malgr\u00e9 des d\u00e9ficits localis\u00e9s dans le nord-est.** Les conditions de v\u00e9g\u00e9tation sont actuellement [**satisfaisantes**](https://edcintl.cr.usgs.gov/downloads/sciweb1/shared/fews/web/africa/southern/pentadal/eviirs/ndvi/percentofmean/graphics/sa2650pct.png), ce qui devrait soutenir les semis et accro\u00eetre saisonni\u00e8rement les opportunit\u00e9s d'emploi agricole pour les m\u00e9nages pauvres. Des pr\u00e9cipitations sup\u00e9rieures \u00e0 la normale sont attendues dans la majeure partie du pays d\u2019octobre \u00e0 janvier, avec des pr\u00e9visions de pr\u00e9cipitations inf\u00e9rieures \u00e0 la moyenne dans l'extr\u00eame ouest. Ces pluies exc\u00e9dentaires et les d\u00e9bits fluviaux sup\u00e9rieurs \u00e0 la moyenne pr\u00e9vus \u00e0 partir de novembre favoriseront les inondations et les glissements des terres dans les bas-fonds et les lits des cours d\u2019eau.\n- Malgr\u00e9 une[ **inflation contenue et une stabilit\u00e9 sur le march\u00e9 d\u2019\u00e9change**](https://www.bcc.cd/publications/notes-de-conjoncture/ceb-du-07-au-14-aout-2026-ee6ee2331dce4de1bf4fb1af4bb5bbbc)**, la hausse continue des prix alimentaires limite le pouvoir d\u2019achat des m\u00e9nages pauvres**. Selon[ **REACH**](https://repository.impact-initiatives.org/document/impact/d8ba533f/REACH-RDC-ICSM-Factsheet-Aout-2026_v2.pdf), le co\u00fbt m\u00e9dian du panier alimentaire dans le Panier de D\u00e9penses Minimum (MEB) a diminu\u00e9 de 4 pour cent entre juillet et ao\u00fbt sur l\u2019ensemble des march\u00e9s \u00e9valu\u00e9s. Toutefois, \u00e0 Beni, le co\u00fbt m\u00e9dian du MEB reste nettement sup\u00e9rieur \u00e0 son niveau de mai, principalement en raison de la hausse de 37 pour cent du panier alimentaire, li\u00e9e principalement \u00e0 la hausse des prix de la farine de ma\u00efs et de la farine de manioc. \u00c0 Gbadolite, Nord-Ubangi, la forte hausse des prix alimentaires a entra\u00een\u00e9 une augmentation de 16 pour cent du co\u00fbt m\u00e9dian du MEB. Ces hausses de prix r\u00e9duisent l\u2019acc\u00e8s des m\u00e9nages pauvres aux aliments sur les march\u00e9s au moment m\u00eame o\u00f9 d\u00e9bute la p\u00e9riode de soudure et o\u00f9 la d\u00e9pendance aux march\u00e9s augmente.\n- **L\u2019\u00e9pid\u00e9mie d\u2019Ebola continue \u00e0 s\u2019\u00e9tendre dans des zones o\u00f9 les m\u00e9nages pauvres r\u00e9duisent d\u00e9j\u00e0 leurs d\u00e9penses essentielles pour satisfaire leurs besoins alimentaires, limitant ainsi leur capacit\u00e9 \u00e0 faire face aux d\u00e9penses de sant\u00e9 et aux chocs \u00e9conomiques engendr\u00e9s par la maladie.** En septembre, le nombre cumul\u00e9 de cas est pass\u00e9 de [**6 186**](https://insp.cd/sitrep-n109-mvebdb-31-08-2026/) \u00e0 [**8 224 cas** ](https://insp.cd/sitrep-n138-mve-bdbv-29-09-2026/)dans sept provinces. Cependant, selon l\u2019Institut national de sant\u00e9 publique (INSP), le pic \u00e9pid\u00e9mique semble avoir pass\u00e9, avec [**la courbe des cas et des d\u00e9c\u00e8s confirm\u00e9s amor\u00e7ant une baisse progressive**](https://gazetteducontinent.fr/sante/ebola-en-rdc-7-200-cas-confirmes-et-3-475-deces-le-pic-epidemique-semble-derriere-le-pays) depuis la troisi\u00e8me semaine d\u2019ao\u00fbt. De plus,[ **dix zones de sant\u00e9 n\u2019ont enregistr\u00e9 aucun nouveau**](https://congorassure.cd/sante/2026/09/13/ebola-en-ituri-dix-zones-de-sante-sans-nouveau-cas-depuis-21-jours) cas depuis au moins 21 jours, dur\u00e9e minimum d\u2019incubation du virus. Bien que l\u2019\u00e9pid\u00e9mie n\u2019ait pas d\u2019impact significatif sur les r\u00e9sultats de s\u00e9curit\u00e9 alimentaire, des effets localis\u00e9s persistent dans les zones frontali\u00e8res avec l\u2019Ouganda, o\u00f9 la fermeture des fronti\u00e8res r\u00e9duit les revenus tir\u00e9s du commerce transfrontalier et perturbe les flux commerciaux, entra\u00eenant une d\u00e9pendance accrue \u00e0 des circuits informels plus co\u00fbteux.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/529",
-                    "id": 529,
-                    "name": "Famine Early Warning System Network",
-                    "shortname": "FEWS NET",
-                    "longname": "Famine Early Warning System Network",
-                    "spanish_name": "Red de Sistemas de Alerta Temprana contra la Hambruna",
-                    "homepage": "https://fews.net/",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4232953",
-            "date": {
-                "original": "2026-10-06T00:00:00+00:00",
-                "changed": "2026-10-07T06:34:45+00:00",
-                "created": "2026-10-07T06:04:56+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4232953"
-    },
-    {
-        "id": "4232907",
-        "score": 1,
-        "fields": {
-            "title": "Democratic Republic of the Congo, Kenya, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 06/10/2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/620",
-                    "id": 620,
-                    "name": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
-                    "shortname": "ECHO",
-                    "longname": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
-                    "spanish_name": "Direcci\u00f3n General de Protecci\u00f3n Civil y Operaciones de Ayuda Humanitaria Europeas",
-                    "homepage": "https://civil-protection-humanitarian-aid.ec.europa.eu/index_en",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4232907",
-            "date": {
-                "original": "2026-10-06T00:00:00+00:00",
-                "changed": "2026-10-07T03:20:33+00:00",
-                "created": "2026-10-06T16:17:19+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4232907"
-    },
-    {
-        "id": "4232903",
-        "score": 1,
-        "fields": {
-            "title": "Bureau de Coordination \u00e0 l\u2019Est du Chad : Urgence du Soudan - Flash Info #59 (02 Octobre 2026)",
-            "body": "**Contexte \u2013 Une crise qui s\u2019acc\u00e9l\u00e8re \u00e0 la fronti\u00e8re est du Tchad**\n\nLa d\u00e9t\u00e9rioration continue de la situation s\u00e9curitaire au Darfour du Nord, combin\u00e9e \u00e0 l\u2019aggravation de l\u2019ins\u00e9curit\u00e9 alimentaire, \u00e0 la raret\u00e9 de l\u2019eau et \u00e0 la perte g\u00e9n\u00e9ralis\u00e9e des moyens d\u2019existence, provoque une nouvelle vague de d\u00e9placements forc\u00e9s vers le Tchad.\n\nDepuis la mi-septembre, le point d\u2019entr\u00e9e de Tin\u00e9, dans la province du Wadi Fira, enregistre une augmentation sans pr\u00e9c\u00e9dent des arriv\u00e9es de r\u00e9fugi\u00e9s soudanais. Alors que les flux quotidiens demeuraient inf\u00e9rieurs \u00e0 100 personnes jusqu\u2019au d\u00e9but du mois, ils ont connu une forte acc\u00e9l\u00e9ration \u00e0 partir du 10 septembre, atteignant un pic de 1 106 nouvelles arriv\u00e9es en une seule journ\u00e9e le 29 septembre 2026. Selon les informations recueillies lors des entretiens, les nouveaux arrivants proviennent principalement des localit\u00e9s d\u2019Umbru, Kutum, Mitch\u00e9, El-Fasher et Amarahik\n\nCette tendance confirme l\u2019aggravation de la crise humanitaire au Soudan et laisse pr\u00e9sager une poursuite des mouvements transfrontaliers dans les semaines \u00e0 venir. Les \u00e9valuations rapides, les entretiens avec les nouveaux arrivants et les alertes recueillies dans le cadre du monitoring de protection aux points d\u2019entr\u00e9e ont permis de mieux documenter l\u2019\u00e9volution des mouvements de population ainsi que les besoins humanitaires qui en d\u00e9coulent.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4232903",
-            "date": {
-                "original": "2026-10-06T00:00:00+00:00",
-                "changed": "2026-10-07T03:13:13+00:00",
-                "created": "2026-10-06T16:03:39+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4232903"
     }
 ]
