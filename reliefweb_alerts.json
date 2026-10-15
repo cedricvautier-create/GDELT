@@ -1,5 +1,663 @@
 [
     {
+        "id": "4234259",
+        "score": 1,
+        "fields": {
+            "title": "RD Congo : Situation humanitaire dans la province de l'Ituri \u2013 rapport de situation #10, (au 30 septembre 2026 )",
+            "body": "*Ce rapport est produit par OCHA RDC en collaboration avec les partenaires humanitaires. Il couvre la p\u00e9riode du 1er au 30 septembre 2026.*\n\n**FAITS MAJEURS**\n\n- Le regain des violences arm\u00e9es dans le territoire de Djugu entraine le d\u00e9placement de plus de 24 000 personnes et accentue les besoins humanitaires ;\n- Plus de 80 000 personnes dans le territoire de Mambasa font face \u00e0 des besoins multisectoriels, alors que la r\u00e9ponse humanitaire reste limit\u00e9e.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234259",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T16:34:37+00:00",
+                "created": "2026-10-15T13:38:38+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234259"
+    },
+    {
+        "id": "4234249",
+        "score": 1,
+        "fields": {
+            "title": "RD Congo : Situation humanitaire dans la province du Nord-Kivu- Rapport de Situation No.10 (septembre 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234249",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T13:04:30+00:00",
+                "created": "2026-10-15T13:04:15+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234249"
+    },
+    {
+        "id": "4234226",
+        "score": 1,
+        "fields": {
+            "title": "Fiche d\u2019information protection Janvier - Ao\u00fbt 2026",
+            "body": "La r\u00e9ponse de protection au Cameroun \u00e9volue, passant d\u2019une assistance humanitaire directe \u00e0 un renforcement\n\ndes syst\u00e8mes nationaux. Toutefois, l\u2019intensification de la violence et les importantes r\u00e9ductions de financement\n\nrisquent de compromettre les acquis\n\nobtenus en mati\u00e8re de documentation, d\u2019inclusion et de solutions durables.\n\nLe HCR accompagne les institutions nationales dans la prise en charge progressive des principales responsabilit\u00e9s\n\nen mati\u00e8re de protection, tout en maintenant les garanties essentielles de protection et son appui technique.\n\nParall\u00e8lement, l\u2019assistance aux\n\npersonnes d\u00e9plac\u00e9es de force \u00e9volue d\u2019une logique de d\u00e9pendance \u00e0 l\u2019aide vers\n\nune plus grande inclusion dans les syst\u00e8mes nationaux et la recherche de solutions durables.\n\nLa d\u00e9t\u00e9rioration de la situation s\u00e9curitaire dans les r\u00e9gions de l\u2019Extr\u00eame - Nord, du Nord - Ouest et du Sud - Ouest\n\nentra\u00eene de nouveaux d\u00e9placements internes et accro\u00eet les risques de protection, tandis que les r\u00e9ductions de\nfinancement limitent les capacit\u00e9s de r\u00e9ponse. Alors que la majorit\u00e9 des r\u00e9fugi\u00e9s au Cameroun vivent dans des situations de d\u00e9placement prolong\u00e9, investir dans la documentation, l\u2019inclusion et les solutions constitue d\u00e9sormais une priorit\u00e9 urgente et strat\u00e9gique, tout en offrant un bon rapp ort co\u00fbt - efficacit\u00e9.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234226",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T13:15:23+00:00",
+                "created": "2026-10-15T12:05:12+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234226"
+    },
+    {
+        "id": "4234224",
+        "score": 1,
+        "fields": {
+            "title": "Wash Factsheet January - August 2026",
+            "body": "UNHCR works with government authorities, UN agencies and operational partners to expand inclusive, equitable and sustainable water, sanitation and hygiene services for refugees, returnees and host communities in Cameroon. These services reduce disease, strengthen protection and dignity, support school attendance, reinforce social cohesion, and build resilience to climate shocks.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234224",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T13:11:32+00:00",
+                "created": "2026-10-15T12:04:51+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234224"
+    },
+    {
+        "id": "4234223",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR Vision 50 by 35: Self-Reliance & Lasting Solutions - September 2026",
+            "body": "For 75 years, UNHCR has protected people forced to flee. Yet nearly 70% of the world's refugees now live in protracted displacement. Cameroon hosts more than 414,000 refugees, mostly from the Central African Republic and Nigeria.More than 84% of refugees in Cameroon have been displaced for more than five years \u2013 nearly 8% have been displaced for more than 15 years.\n\nHumanitarian aid saves lives. But it was never intended to sustain people indefinitely.\n\nUNHCR\u2019s global vision, 50 by 35, is to help refugees move from dependency towards self-reliance, inclusion and lasting solutions. It seeks to halve the number of refugees in protracted situations who rely on humanitarian aid by 2035. In Cameroon, UNHCR is advancing this transition, working to expand solutions and opportunities for nearly 349,000 refugees by 2035. Progress relies on strong collaboration with Government authorities, development actors, the private sector, financial institutions, host communities and refugees, with UNHCR playing a catalytic role to support this effort through interconnected pathways.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234223",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T13:09:09+00:00",
+                "created": "2026-10-15T12:04:41+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234223"
+    },
+    {
+        "id": "4234222",
+        "score": 1,
+        "fields": {
+            "title": "Advancing Refugees Economic Self-Reliance through Automotive Trades in Cameroon - July 2026",
+            "body": "2023, UNHCR, in partnership with Toyota Tsusho Corporation (TTC) and with the support of CFAO Mobility Cameroon, has been implementing an automotive maintenance and repair training programme aimed at strengthening refugees\u2019 economic self-reliance, expanding their access to sustainable livelihood and employment opportunities, and promoting their socio-economic inclusion. Inspired by a successful pilot initiative in Uganda, the programme enables participants to acquire certified technical skills in a sector with strong employment potential.\n\nBetween 2023 and 2026, 50 refugees, including two female refugees from the Central African Republic, were trained through three successive cohorts. Beneficiaries included 47 refugees from the Central African Republic, with other refugees from Rwanda, Chad, and the Democratic Republic of the Congo.\n\nTo date, the programme has contributed to participants\u2019 access to employment, self-employment and entrepreneurship opportunities. It has strengthened refugees' self-reliance and resilience, enabling them to contribute to local economic development and become active participants in their host communities while reducing reliance on humanitarian assistance.  \nThe project demonstrates how strategic private sector partnerships can create pathways to economic inclusion, supporting refugees to realise their potential as contributors to local development and strengthen social cohesion.\n\nThe initiative contributes to UNHCR\u2019s strategic ambition over the next decade to reduce by half the number of refugees in protracted displacement who remain dependent on humanitarian aid, expanding opportunities for them to achieve self-reliance through access to skills development, livelihoods and economic inclusion.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234222",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T13:04:47+00:00",
+                "created": "2026-10-15T12:04:33+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234222"
+    },
+    {
+        "id": "4234221",
+        "score": 1,
+        "fields": {
+            "title": "Protection Factsheet January - August 2026",
+            "body": "Cameroon\u2019s protection response is shifting from direct humanitarian delivery to stronger national systems, but escalating violence and deep funding cuts risk undermining hard-won gains in documentation, inclusion and solutions.\n\nUNHCR is helping national institutions progressively assume core protection responsibilities, while maintaining essential safeguards and technical oversight. In parallel, support for forcibly displaced people is shifting from aid dependency towards greater inclusion in national systems and sustainable solutions.\n\nWorsening insecurity in the Far North and North-West/South-West is driving new internal displacement and serious protection risks, while funding cuts are shrinking response capacity. With most refugees in Cameroon living in protracted displacement, investment in documentation, inclusion and solutions is now urgent, strategic and cost-effective.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234221",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T13:00:35+00:00",
+                "created": "2026-10-15T12:04:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234221"
+    },
+    {
+        "id": "4234220",
+        "score": 1,
+        "fields": {
+            "title": "Livelihood and Economic Inclusion Factsheet September 2026",
+            "body": "During the first half of 2026, UNHCR strengthened the economic inclusion of refugees and host communities through integrated interventions focused on skills development, entrepreneurship, access to productive assets, financial services, and markets.\n\nThese investments enable beneficiaries to build sustainable livelihoods, increase their incomes, and enhance their resilience to economic shocks. By fostering partnerships with public institutions, the private sector, and development actors, UNHCR facilitates refugees\u2019 access to economic opportunities and national systems.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234220",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T12:56:20+00:00",
+                "created": "2026-10-15T12:04:13+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234220"
+    },
+    {
+        "id": "4234219",
+        "score": 1,
+        "fields": {
+            "title": "Inter-Agency coordination Factsheet Jan-June 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234219",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T12:54:28+00:00",
+                "created": "2026-10-15T12:04:01+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234219"
+    },
+    {
+        "id": "4234218",
+        "score": 1,
+        "fields": {
+            "title": "Health Factsheet January - August 2026",
+            "body": "UNHCR Cameroon is supporting a gradual shift from direct health service delivery towards sustainable refugee inclusion in national health systems. This approach strengthens Government ownership, expands refugees\u2019 access to public services and aligns with the Global Compact on Refugees, Cameroon\u2019s National Health Sector Strategy 2016\u20132027, and the UN Sustainable Development Cooperation Framework.\n\nAs national systems are increasingly taking the lead, targeted support remains critical to keep essential services for refugees with chronic and infectious diseases, pregnant women, malnourished children, referral patients and communities affected by public health emergencies.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234218",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T12:46:21+00:00",
+                "created": "2026-10-15T12:03:50+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234218"
+    },
+    {
+        "id": "4234217",
+        "score": 1,
+        "fields": {
+            "title": "Far North Factsheet January - August 2026",
+            "body": "UNHCR is strengthening protection, essential services and durable solutions in the Far North in the face of a cholera outbreak and rising protection incidents.\n\nThe Far North region of Cameroon continues to face a complex and protracted humanitarian crisis, linked to the Lake Chad Basin conflict, internal displacement, return movements and recurrent climate shocks (floods, drought). The region hosts 125,012 refugees (mostly Nigerian refugees), 453,661 internally displaced persons, 280 asylum seekers, 198,940 returnees and 30,581 spontaneous Cameroonian IDP returnees - a total population of more than 808,474 people (31 July 2026).  \nNearly two-thirds of Nigerian refugees live in Minawao camp, which is severely overcrowded, placing unsustainable pressure on basic services, natural resources and relations with host communities. New multi-year programmes have been launched to develop viable alternatives to the camp and to strengthen services, resilience, and livelihoods.  \n\nThe Minawao camp has been facing an active cholera epidemic since July 23, 2026. Protection incidents and kidnappings are on the rise (269 people abducted between January and July 2026, compared to 249 for the whole of 2025) and insecurity is hampering humanitarian access in several localities.  \n\nUNHCR continues to work closely with the Government of Cameroon to support a transition from direct humanitarian delivery towards stronger inclusion into national systems and sustainable solutions that promote self-reliance and social cohesion.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234217",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T12:43:30+00:00",
+                "created": "2026-10-15T12:03:40+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234217"
+    },
+    {
+        "id": "4234216",
+        "score": 1,
+        "fields": {
+            "title": "Education Factsheet January - August 2026",
+            "body": "Cameroon has strong policies for refugee inclusion in education, but funding gaps are keeping children out of class. Less than one in four refugee children are enrolled; more than 152,000 remain out of school; and secondary education is almost out of reach in key refugee-hosting areas.  \nPredictable donor financing is urgently needed to turn policy commitments into safe classrooms, trained teachers and real learning opportunities \u2014 especially for girls, children with disabilities and adolescents at risk of being left behind",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234216",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T12:40:03+00:00",
+                "created": "2026-10-15T12:03:28+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234216"
+    },
+    {
+        "id": "4234215",
+        "score": 1,
+        "fields": {
+            "title": "Eastern Facade Factsheet 08 October 2026",
+            "body": "Cameroon\u2019s Eastern Fa\u00e7ade, covering the East,  \nAdamawa and North regions, hosts most of the country\u2019s Central African Republic refugees, many displaced for more than a decade.\n\nMore than 80% live in host communities. Funding cuts and pressure on services are deepening vulnerabilities. At the same time, 87.3% of refugees say they wish to remain in Cameroon, making inclusion, access to national services and self-reliance urgent priorities.\n\nUNHCR is shifting from emergency assistance to durable solutions, prioritising refugee inclusion in national systems, local development and self-reliance.  \nPeaceful coexistence largely prevails despite mounting pressure on basic services and a decline in humanitarian funding",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234215",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T12:37:04+00:00",
+                "created": "2026-10-15T12:03:19+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234215"
+    },
+    {
+        "id": "4234213",
+        "score": 1,
+        "fields": {
+            "title": "Cholera outbreak update, Minawao Refugee Camp (October 2026)",
+            "body": "**Overview, current situation and key developments**\n\nThe cholera outbreak in Minawao Refugee Camp remains active, although the number of new cases has\ndeclined from the peak recorded at the end of August. As of 11 October, 459 cumulative cases had been\nreported, of which 454 patients had recovered and one patient remained under observation, and four deaths\nhad been recorded.\n\n\u2022 The response is showing encouraging signs of containment, with very few new cases reported. One\nnew case was recorded on 5 October. The decline follows intensified measures, including the camp-\nwide oral cholera vaccination campaign, closure of contaminated open wells, disinfection of households\nand public facilities, contact tracing and community sensitisation",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234213",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T12:33:51+00:00",
+                "created": "2026-10-15T12:03:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234213"
+    },
+    {
+        "id": "4234206",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique centrafricaine : Rapport de situation N\u00b0 89 (au 13 octobre 2026)",
+            "body": "**FAITS SAILLANTS**\n\n- 1 400 personnes affect\u00e9es par de fortes pluies et de vents violents dans les localit\u00e9s de Bakouma et Nzako, Mbomou.\n- Plus de 2 300 m\u00e9nages d\u00e9plac\u00e9s re\u00e7oivent une assistance alimentaire \u00e0 Am Dafock, Vakaga.\n- 69 latrines r\u00e9habilit\u00e9es et quatre forages finalis\u00e9s dans les localit\u00e9s de Ouadda, Mouka et Gbali, Haute-Kotto.\n\n**CONTEXTE G\u00c9N\u00c9RAL**  \nPr\u00e9fecture de la Vakaga \u2013 Nord-Est\n\n- Le 7 octobre, une \u00e9quipe humanitaire et ses partenaires se rendant \u00e0 Delemb\u00e9 pour la r\u00e9paration de forages ont \u00e9t\u00e9 victimes d\u2019un braquage \u00e0 35 km au sud de Birao. Les assaillants ont emport\u00e9 de l\u2019argent, du mat\u00e9riel de communication, des effets personnels et deux motos, et ont endommag\u00e9 le v\u00e9hicule. Malgr\u00e9 cet incident, les op\u00e9rations humanitaires se poursuivent dans la zone.\n\nPr\u00e9fecture du Mbomou \u2013 Sud-Est\n\n- Depuis le 7 octobre, de fortes pluies accompagn\u00e9es de vents violents ont caus\u00e9 d\u2019importants d\u00e9g\u00e2ts dans les localit\u00e9s de Bakouma et de Nzako. Selon des donn\u00e9es provisoires au 11 octobre, 280 abris ont \u00e9t\u00e9 touch\u00e9s, dont 160 d\u00e9truits et 120 endommag\u00e9s. Quelque 1 400 personnes sont affect\u00e9es. Les m\u00e9nages sinistr\u00e9s sont h\u00e9berg\u00e9s par des familles voisines.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234206",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T11:10:54+00:00",
+                "created": "2026-10-15T11:09:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234206"
+    },
+    {
+        "id": "4234205",
+        "score": 1,
+        "fields": {
+            "title": "Central African Republic: Situation Report No. 89, as of 13 October 2026",
+            "body": "**HIGHLIGHTS**\n\n- 1,400 people affected by heavy rains and strong winds in Bakouma and Nzako, Mbomou.\n- More than 2,300 displaced households receive food assistance in Am Dafock, Vakaga.\n- 69 latrines rehabilitated and four boreholes completed in Ouadda, Mouka and Gbali, Haute-Kotto.\n\n**GENERAL CONTEXT**\n\nVakaga Prefecture \u2013 North-East\n\n- On 7 October, a humanitarian team and its partners travelling to Delemb\u00e9 to repair boreholes were robbed 35 km south of Birao. The assailants took cash, communication equipment, personal belongings and two motorcycles, and damaged the vehicle. Despite the incident, humanitarian operations in the area are continuing.\n\nMbomou Prefecture \u2013 South-East\n\n- Since 7 October, heavy rains and strong winds have caused significant damage in Bakouma and Nzako. According to preliminary data as of 11 October, 280 shelters were affected, 160 of them destroyed and 120 damaged. Some 1,400 people are affected. Affected households are being hosted by neighbouring families.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234205",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-15T11:07:51+00:00",
+                "created": "2026-10-15T11:05:42+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234205"
+    },
+    {
         "id": "4234188",
         "score": 1,
         "fields": {
@@ -34,7 +692,7 @@
             "url": "https://reliefweb.int/node/4234188",
             "date": {
                 "original": "2026-10-15T00:00:00+00:00",
-                "changed": "2026-10-15T10:36:54+00:00",
+                "changed": "2026-10-15T15:18:17+00:00",
                 "created": "2026-10-15T10:36:54+00:00"
             }
         },
@@ -977,7 +1635,7 @@
         "id": "4233691",
         "score": 1,
         "fields": {
-            "title": "Analyse des alertes humanitaires en R\u00e9publique Centrafricaine, janvier-ao\u00fbt 2026",
+            "title": "Analyse des alertes humanitaires en R\u00e9publique centrafricaine, janvier-ao\u00fbt 2026",
             "body": "Entre janvier et ao\u00fbt 2026, le m\u00e9canisme de gestion des alertes humanitaires a enregistr\u00e9 62 alertes en R\u00e9publique centrafricaine. Sur ce total, 24 alertes ont fait l'objet d'\u00e9valuations, permettant d'identifier 110 besoins humanitaires affectant plusieurs secteurs essentiels. Les incidents signal\u00e9s ont touch\u00e9 environ 70 500 personnes, dont 36 600 ont \u00e9t\u00e9 identifi\u00e9es comme ayant besoin d'une assistance humanitaire. Par ailleurs, 38 200 personnes ont re\u00e7u une assistance, \u00e0 travers 60 interventions humanitaires. Parmi les personnes affect\u00e9es figurent environ 12 000 personnes d\u00e9plac\u00e9es internes vivant sur des sites, 2 000 d\u00e9plac\u00e9s h\u00e9berg\u00e9s dans des familles d\u2019accueil et 155 retourn\u00e9s. [Lien sur la plateforme des alertes](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiMzIwNzBiOGUtYzNhOC00MWYyLWI2NTEtOWEyZDk3NzIwNjVhIiwidCI6IjBmOWUzNWRiLTU0NGYtNGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9&data=05%7C02%7Cgondo1%40un.org%7C1ae7461ff965471b58cc08df05f8ed4f%7C0f9e35db544f4f60bdcc5ea416e6dc70%7C0%7C0%7C639236238836912333%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=4dwJmpp%2BwsJSGpbDbwRuYBms%2BkHVSEvju0lIfqZ4XKU%3D&reserved=0)",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
@@ -1009,674 +1667,10 @@
             "url": "https://reliefweb.int/node/4233691",
             "date": {
                 "original": "2026-10-12T00:00:00+00:00",
-                "changed": "2026-10-13T12:27:32+00:00",
+                "changed": "2026-10-15T11:14:22+00:00",
                 "created": "2026-10-12T15:54:22+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4233691"
-    },
-    {
-        "id": "4233566",
-        "score": 1,
-        "fields": {
-            "title": "UNICEF Rapid Response in the Democratic Republic of Congo (UniRR) Provinces of Ituri, Nord-Kivu, Sud-Kivu, Tanganyika | One Page Bulletin of September 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233566",
-            "date": {
-                "original": "2026-10-12T00:00:00+00:00",
-                "changed": "2026-10-12T10:53:32+00:00",
-                "created": "2026-10-12T07:34:27+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233566"
-    },
-    {
-        "id": "4233565",
-        "score": 1,
-        "fields": {
-            "title": "UNICEF Rapid Response in the Democratic Republic of Congo (UniRR) Provinces of Ituri, Nord-Kivu, Sud-Kivu, Tanganyika | One Page Bulletin of August 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233565",
-            "date": {
-                "original": "2026-10-12T00:00:00+00:00",
-                "changed": "2026-10-12T10:53:00+00:00",
-                "created": "2026-10-12T07:33:32+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233565"
-    },
-    {
-        "id": "4233559",
-        "score": 1,
-        "fields": {
-            "title": "UNICEF Cholera Response in DRC - Case Area Targeted Interventions (CATI) program: Tanganyika, North Kivu, South Kivu and Haut-Lomami provinces | August 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233559",
-            "date": {
-                "original": "2026-10-12T00:00:00+00:00",
-                "changed": "2026-10-12T10:08:46+00:00",
-                "created": "2026-10-12T07:14:30+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233559"
-    },
-    {
-        "id": "4233488",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon: 2026 - Humanitarian Needs and Response Plan (HNRP) Funding Overview (as of 30 September2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233488",
-            "date": {
-                "original": "2026-09-30T00:00:00+00:00",
-                "changed": "2026-10-12T02:11:53+00:00",
-                "created": "2026-10-11T18:27:57+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233488"
-    },
-    {
-        "id": "4233374",
-        "score": 1,
-        "fields": {
-            "title": "Safe and dignified burials help prevent the spread of Ebola",
-            "body": "**Bunia, Democratic Republic of the Congo**\u2014In Ituri Province, in eastern Democratic Republic of the Congo, safe and dignified burials play a critical role in the fight against Ebola. The disease spreads through direct contact with the bodily fluids of an infected person, and after death, certain burial practices can expose family members to the virus if appropriate protective measures are not in place. In a region where funeral rites are central to community life, protecting families while respecting traditions remains essential.\n\nWhen the current outbreak began in the province, health teams were met with considerable mistrust in some communities. \u201cIn the beginning, many people did not understand why health teams needed to intervene during burials,\u201d explains Pastor Richard Ndjaridjo. Some families hesitated to report deaths and continued to organize funerals on their own. In some cases, bodies that had already been buried were exhumed to allow relatives to carry out certain traditional rites. Teams responsible for safe and dignified burials also faced threats and attacks, complicating efforts to stop the spread of the virus. In this context, developing an approach that protected communities while respecting their beliefs and cultural practices became a priority.\n\nTo address these challenges, the Ministry of Health, with support from the World Health Organization (WHO) and partners, implemented a community engagement approach. Through the Standby Partners mechanism, Paul Benjamin Gbadia was deployed to WHO to support the Ebola response in Ituri. Faced with the difficulties encountered by safe and dignified burials teams during the early stages of the outbreak, he helped strengthen an approach that placed communities at the centre of the response. Working alongside health authorities and partners, he helped train and mentor local volunteers so they could participate directly in safe and dignified burial activities.\n\n\u201cWe found that communities were more willing to accept safe and dignified burials when they were directly involved in the response,\u201d he explains. \u201cBy engaging local volunteers, we were able to establish closer dialogue with families and better address their concerns.\u201d\n\nIn Jina, in Djugu Territory, 36 community members were trained and assigned to safe and dignified burial and decontamination teams. Comprised of people known and trusted by residents, these teams support families while applying the measures needed to prevent Ebola transmission. For Paul, the goal was to make communities active participants in the response rather than passive beneficiaries. \u201cLocal volunteers speak the language, understand the customs and know the concerns of their communities. This closeness makes dialogue easier and helps build acceptance of prevention measures,\u201d says Gbadia.\n\nOver time, this approach helped strengthen trust between communities and health teams. Recalling a recent death in Jina, Naema Mave, a member of a safe and dignified burial team, describes how the family immediately alerted health authorities and waited for the team to arrive before proceeding with the burial. \u201cWhen we arrived, no one had touched the body. A few months earlier, that might not have been the case,\u201d she explains.\n\nFor Mave, this progress reflects the value of the training and support provided to local volunteers, enabling them to respond safely and independently within their communities.\n\nNdjaridjo also attributes this change to sustained community awareness efforts. \u201cThere has been a lot of sensitization. People have come to understand that bodies can transmit the disease and they now accept the intervention of safe and dignified burial teams to protect families,\u201d he says.\n\nBeyond training community teams, WHO has provided technical, logistical and operational support to safe and dignified burial activities. This support includes personal protective equipment, essential operational supplies, transportation to reach remote areas and ongoing field mentoring for teams.\n\nSince the start of the response, and as of 27 September 2026, more than 11 573 alerts have been recorded, 10 357 safe and dignified burials conducted in Ituri and 9 433 laboratory samples collected and tested. Twenty safe and dignified burial teams, including 10 mobile teams and 10 community-based teams, have received operational, logistical and training support. These results highlight the importance of a trust-based approach.\n\n\u201cWhen communities participate directly in safe and dignified burial activities, they take greater ownership of prevention measures. This has helped reduce resistance and better protect families,\u201d says Gbadia.\n\nAccording to Dr Danny Byaruhanga, Medical Director of Jina, community involvement has strengthened the response. \u201cWe can say that safe and dignified burial teams have played a major role in interrupting transmission within the community. Once families accepted that burials could be carried out by trained and properly equipped personnel, it significantly reduced the risks associated with handling bodies,\u201d he explains.\n\nBeyond its immediate impact on preventing Ebola transmission, this approach is also helping communities build their capacity to respond to future public health emergencies. By encouraging participation and ownership of prevention activities, it promotes the adoption of protective practices and behaviours that can continue long after the current outbreak has ended.\n\nIn Ituri, experience has shown that safe and dignified burials rely as much on trust as on protective measures. When a family reports a death, accepts support from a trained team and takes part in prevention efforts, a high-risk situation can become an opportunity to protect an entire community.\n\n## **Media contacts**\n\n**Kadijah Diallo**\n\nCommunications Officer  \nWHO Regional Office for Africa  \nEmail: dialloka@who.int\n\n**Ren\u00e9 Koundou IFONO**\n\nCharg\u00e9 de communication\n\nOMS - R\u00e9publique Centrafricaine\n\nEmail : ifonor@who.int",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233374",
-            "date": {
-                "original": "2026-10-09T00:00:00+00:00",
-                "changed": "2026-10-09T13:25:20+00:00",
-                "created": "2026-10-09T13:25:20+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233374"
-    },
-    {
-        "id": "4233364",
-        "score": 1,
-        "fields": {
-            "title": "European Union supports Tearfund Netherlands in responding to impact of conflict in the Central African Republic",
-            "body": "Utrecht, 9th of October 2026 \u2013 Communities in the Lim-Pend\u00e9 prefecture in the North-West of the Central African Republic (CAR) continue to face the consequences of years of conflict, displacement and underinvestment in basic services. Many schools lack adequate classrooms, safe water and sanitation facilities, while vulnerable families struggle to access essential services. Through European Union humanitarian funding, Tearfund Netherlands is helping to improve access to clean water, sanitation and hygiene (WASH) services, while supporting safe and inclusive learning environments for children in conflict-affected communities.\n\n The response forms part of a wider humanitarian programme led by Plan International in Lim-Pend\u00e9 prefecture. Within this programme, Tearfund is responsible for delivering WASH activities in partnership with the local organisation RHIBES. The intervention will improve access to safe drinking water, sanitation facilities and hygiene promotion for approximately 12,000 people across some of the most vulnerable communities in the sub-prefecture of Ndim.\n\n \u2018The European Union remains committed to supporting people affected by humanitarian crises in the Central African Republic, where conflict and displacement continue to undermine access to essential services, including education, water and sanitation,\u2019 said Jean-Paul Jemmy Ghomsi, Head of the EU Humanitarian Aid office in Bangui. \u2018Through our humanitarian funding, we help ensure that vulnerable communities can access safe drinking water, hygiene services and quality education, while strengthening their resilience and protecting their dignity.\u2019\n\n Needs assessments conducted in the target area revealed severe gaps in basic WASH services. Many communities rely on unsafe water sources, a large number of boreholes are non-functional, and sanitation facilities are either absent or inadequate. Schools are particularly affected, with limited access to water points and hygienic latrines, creating additional barriers to education, especially for girls and children with disabilities.\n\n Under the project, Tearfund will construct and rehabilitate 17 water points, including solar-powered systems and hand-pump boreholes, improve sanitation facilities in schools and communities, establish water management committees, and promote sustainable hygiene practices through community-led awareness activities. The programme is designed to ensure long-term community ownership and maintenance of the infrastructure.\n\n \u2018Access to safe water, sanitation and hygiene is fundamental for health, protection and education,\u2019 said Martin Herlaar, Director International Programs of Tearfund Netherlands. \u2018With support from the European Union, Tearfund is working alongside communities and local partners to restore essential services and help create a safer and healthier environment for children and families affected by conflict.\u2019\n\n The EU-funded programme is expected to reach more than 22,000 people through integrated education, child protection and WASH interventions. By combining improvements in school infrastructure, access to education, child protection measures and safe water services, the action aims to strengthen the resilience of communities and improve opportunities for children living in one of the country's most vulnerable regions.\n\n **About Tearfund Netherlands**\n\n Tearfund Netherlands is part of the global Tearfund family. Together, we work with local partners to tackle poverty, respond to disasters and challenge injustice in more than 50 countries worldwide. Through locally led approaches, Tearfund supports communities affected by conflict, climate change and vulnerability to build resilient and sustainable futures.\n\n For more information, please contact info@tearfund.nl.\n\n **About EU Civil Protection and Humanitarian Aid**\n\n The European Union and its Member States are the world's leading donor of humanitarian aid.\n\n Relief assistance is an expression of European solidarity with people in need all around the world. It aims to save lives, prevent and alleviate human suffering, and safeguard the integrity and human dignity of populations affected by natural disasters and man-made crises.\n\n Through its Civil Protection and Humanitarian Aid Operations DG ECHO, the European Union helps millions of victims of conflict and disasters every year. With headquarters in Brussels and a global network of field offices, the EU provides assistance to the most vulnerable people on the basis of humanitarian needs.\n\n For more information, please contact Anouk.Delafortrie@echofield.eu.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1373",
-                    "id": 1373,
-                    "name": "Tearfund",
-                    "shortname": "Tearfund",
-                    "longname": "Tearfund",
-                    "homepage": "https://www.tearfund.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233364",
-            "date": {
-                "original": "2026-10-09T00:00:00+00:00",
-                "changed": "2026-10-09T12:28:19+00:00",
-                "created": "2026-10-09T12:28:19+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233364"
-    },
-    {
-        "id": "4233360",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo : Cash Working Group R\u00e9union de 1 octobre 2026 [Meeting minutes]",
-            "body": "Entre janvier et juillet 2026, selon les informations rapport\u00e9es au CWG, 777 319 personnes ont \u00e9t\u00e9 atteintes par une r\u00e9ponse cash en RDC pour un montant de 33.41 millions de dollars desquels 8.05 millions ont \u00e9t\u00e9 pour du cash sectoriel et 25.36 millions pour des transferts d\u2019esp\u00e8ces \u00e0 usages multiples (TEUM). Pour rappel, les informations sur le cash sectoriel sont tr\u00e8s partiels car sont les clusters concern\u00e9s les responsables de rapporter cette r\u00e9ponse.  \n Concernant la cible TEUM, 632 000 personnes du total de 2.2 millions cibl\u00e9s en 2026 ont \u00e9t\u00e9 atteintes par les TEUM, repr\u00e9sentant un 28 % de couverture.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233360",
-            "date": {
-                "original": "2026-10-09T00:00:00+00:00",
-                "changed": "2026-10-09T14:38:20+00:00",
-                "created": "2026-10-09T12:04:02+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233360"
-    },
-    {
-        "id": "4233355",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique centrafricaine : Rapport de situation N\u00b0 88 (au 6 octobre 2026)",
-            "body": "**FAITS SAILLANTS**\n\n- Vingt femmes atteintes de fistule obst\u00e9tricale ont \u00e9t\u00e9 prises en charge \u00e0 l\u2019H\u00f4pital r\u00e9gional de Bria, Haute-Kotto.\n- Une assistance en cash est fournie \u00e0 6 669 m\u00e9nages r\u00e9fugi\u00e9s soudanais \u00e0 Birao, Vakaga.\n- Les survivants d'enl\u00e8vements dans le Mbomou n\u00e9cessitent un soutien psychosocial et en protection.\n\n**CONTEXTE G\u00c9N\u00c9RAL**  \nPr\u00e9fecture du Haut-Mbomou \u2013 Sud-Est\n\n- Fin septembre, deux gar\u00e7ons de 14 et 15 ans ont \u00e9t\u00e9 enlev\u00e9s et plusieurs boutiques pill\u00e9es lors d'une incur-sion d'hommes arm\u00e9s dans le quartier Ourou, \u00e0 Dj\u00e9mah centre (\u00e0 environ 127 km de Z\u00e9mio). Ces enl\u00e8ve-ments s'inscrivent dans une tendance pr\u00e9occupante dans le Sud-Est. Entre le 10 et le 18 septembre, plus de 90 civils ont \u00e9t\u00e9 enlev\u00e9s lors d'embuscades tendues par des hommes arm\u00e9s. Par ailleurs, 18 personnes, dont six enfants, ayant r\u00e9cemment \u00e9chapp\u00e9 \u00e0 la captivit\u00e9 sont arriv\u00e9es \u00e0 Bangassou (Pr\u00e9fecture du Mbomou) depuis fin septembre.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233355",
-            "date": {
-                "original": "2026-10-09T00:00:00+00:00",
-                "changed": "2026-10-09T14:02:44+00:00",
-                "created": "2026-10-09T11:26:08+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233355"
-    },
-    {
-        "id": "4233354",
-        "score": 1,
-        "fields": {
-            "title": "Central African Republic: Situation Report No. 88, as of 6 October 2026",
-            "body": "**HIGHLIGHTS**\n\n- Twenty women with obstetric fistula received treatment at Bria Regional Hospital, Haute-Kotto.\n- Cash assistance is being provided to 6,669 Sudanese refugee households in Birao, Vakaga.\n- Abduction survivors in Mbomou need psychosocial support and protection services.\n\n**GENERAL CONTEXT**  \nHaut-Mbomou Prefecture \u2013 South-East\n\n- In late September, armed men raided the Ourou neighbourhood in central Dj\u00e9mah (about 127 km from Z\u00e9mio), abducting two boys aged 14 and 15 and looting several shops. These abductions are part of a worrying trend in the South-East: between 10 and 18 September, more than 90 civilians were abducted in ambushes by armed men. In addition, since late September, 18 people who",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233354",
-            "date": {
-                "original": "2026-10-09T00:00:00+00:00",
-                "changed": "2026-10-09T14:01:13+00:00",
-                "created": "2026-10-09T11:21:32+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233354"
-    },
-    {
-        "id": "4233306",
-        "score": 1,
-        "fields": {
-            "title": "Tchad : Evaluation territoriale et Plan de rel\u00e8vement local d\u2019Adr\u00e9 - Octobre 2026",
-            "body": "**RESUME EXECUTIF**\n\nFrontali\u00e8re du Darfour, la sous-pr\u00e9fecture d\u2019Adr\u00e9 est l\u2019une des zones de l\u2019est du Tchad les plus affect\u00e9es par la crise soudanaise, avec 214 943 r\u00e9fugi\u00e9s enregistr\u00e9s \u00e0 la date du 14 septembre 2026,1 et une place parmi les dix premi\u00e8res zones accueillant des retourn\u00e9s vuln\u00e9rables en juillet 2026.2 Les informations disponibles y restaient fragment\u00e9es et peu centr\u00e9es sur l\u2019ensemble des groupes de populations \u2013 d\u00e9plac\u00e9s et non-d\u00e9plac\u00e9s \u2013 pr\u00e9sents \u00e0 l\u2019\u00e9chelle territoriale. Pour y rem\u00e9dier, une \u00e9valuation territoriale (ABA) a \u00e9t\u00e9 conduite dans le cadre de l\u2019initiative AGORA, financ\u00e9e par l\u2019Agence Fran\u00e7aise pour le D\u00e9veloppement (AFD), avec l\u2019implication du Comit\u00e9 Mixte de Gouvernance Territoriale (CMGT) mis en place par la m\u00eame initiative, afin d\u2019appuyer la planification locale et l\u2019\u00e9laboration d\u2019une feuille de route op\u00e9rationnelle d\u00e9nomm\u00e9e Plan de Rel\u00e8vement Local (PRL).\n\nL\u2019\u00e9valuation couvre la Ville d\u2019Adr\u00e9, le site d\u2019accueil temporaire (SAT) et 42 villages situ\u00e9s dans un rayon d\u2019environ 20 km. Elle combine des donn\u00e9es quantitatives et qualitatives collect\u00e9es d\u2019avril \u00e0 ao\u00fbt 2026 avec une composante d\u2019analyse g\u00e9ospatiale transversale : cartographie des infrastructures et des cartographies participatives, analyses d\u2019accessibilit\u00e9 aux services, t\u00e9l\u00e9d\u00e9tection (occupation du sol, stress de la v\u00e9g\u00e9tation), mod\u00e9lisation des zones inondables et tendances climatiques sur 30 ans. Elle permet de spatialiser les r\u00e9sultats et d\u2019ancrer les priorit\u00e9s du PRL dans le territoire. Les r\u00e9sultats m\u00e9nages sont repr\u00e9sentatifs pour les non-d\u00e9plac\u00e9s et les retourn\u00e9s de la Ville et pour les r\u00e9fugi\u00e9s du SAT ; ils sont indicatifs pour les r\u00e9fugi\u00e9s en Ville, comme les donn\u00e9es rurales, qualitatives et issues des gestionnaires. L\u2019enqu\u00eate m\u00e9nages, men\u00e9e en saison s\u00e8che juste apr\u00e8s le Ramadan, ne couvre pas le milieu rural",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/823",
-                    "id": 823,
-                    "name": "Agency for Technical Cooperation and Development",
-                    "shortname": "ACTED",
-                    "longname": "Agency for Technical Cooperation and Development",
-                    "homepage": "https://www.acted.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/14643",
-                    "id": 14643,
-                    "name": "IMPACT Initiatives",
-                    "shortname": "IMPACT Initiatives",
-                    "longname": "IMPACT Initiatives",
-                    "homepage": "https://www.impact-initiatives.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233306",
-            "date": {
-                "original": "2026-10-08T00:00:00+00:00",
-                "changed": "2026-10-09T06:27:20+00:00",
-                "created": "2026-10-09T06:09:33+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233306"
-    },
-    {
-        "id": "4233298",
-        "score": 1,
-        "fields": {
-            "title": "Democratic Republic of the Congo Country Report: The State Of the Humanitarian System 2026",
-            "body": "**EXECUTIVE SUMMARY**\n\nThis country report for the Democratic Republic of the Congo (DRC) provides an evidence-based overview of the current international humanitarian system between 2022 and 2025 to supplement the global analysis in [The State of the Humanitarian System 2026 (SOHS)](https://alnap.org/sohs/). It describes the country\u2019s humanitarian context and responses to ongoing crises; outlines the size, shape and performance of the humanitarian system; and highlights key findings from primary research in North and South Kivu, supplemented with secondary data including scholarly and grey literature. The country report offers a comprehensive picture of how the international humanitarian system, alongside other actors, operates in DRC and it assesses the system\u2019s effectiveness in meeting the needs of people affected by conflict and crises.\n\nOur research indicates a mixed picture of the state of the humanitarian system in DRC, with several important challenges. Improvements include better delivery of aid in line with internationally recognised standards in more accessible areas, as well as greater preparedness and capacity among skilled staff to respond to the needs of populations affected by crisis. Humanitarian actors are also increasingly adapting their operational approaches to better support community needs. However, several structural challenges continue to hinder the effectiveness of the humanitarian system in DRC. The system remains heavily dominated by United Nations (UN) agencies and international organisations, who control funding, resources and agenda-setting processes, often to the detriment of local and national actors, as well as people affected by crisis. Other challenges include access, ensuring accountability to affected people, and widespread sexual abuse and exploitation.\n\nThe power imbalance between international and local actors \u2013 with international actors holding a near-monopoly over decision-making power \u2013 combined with limited government engagement, creates an environment in which humanitarian actors operate with excessive autonomy and a laissez-faire, hands-off approach. This situation is further reinforced by a lack of transparency, weak accountability mechanisms, political influence and insufficient action to address other forms of misconduct. There remains limited progress on localisation, and practices such as gatekeeping continue to negatively affect adherence to humanitarian principles. In this context, some aid workers exploit these systemic weaknesses to engage in corrupt practices, diversion of humanitarian assistance and other forms of misconduct, including sexual exploitation and abuse and other practices that undermine the dignity of aid recipients.\n\nCorruption and aid diversion take many forms and represent some of the most critical setbacks in the humanitarian system in eastern DRC. They are both structural and systemic, sometimes involving well-organised networks and actors who are supposed to prevent and combat these excesses. Together, these challenges undermine the effectiveness of humanitarian interventions and erode the sector\u2019s overall credibility and trustworthiness.\n\nOrganisations have adapted through local partnerships and by modifying modalities, but assistance has not met needs. Prioritisation has focused narrowly on survival, leaving critical sectors such as protection and psychosocial support underserved.\n\nAt the household level, aid has been inconsistent and poorly adapted to prolonged displacement, with uneven targeting and the exclusion of vulnerable groups. Consequently, trust has declined, resource competition has increased and social tensions have grown.\n\n**Recommendations**\n\nDecision-makers, humanitarian stakeholders and practitioners need to promote good practices of humanitarian assistance. This includes:\n\n- developing mechanisms that promote transparency and social accountability in all steps of assistance, including verification mechanisms that specifically target local chiefs and aid camps in coordination with aid frontline staff\n- promoting protection and dignity, including preventing and combating sexual exploitation and abuse\n- working to shift decision-making power to national and local humanitarian actors, as well as para-humanitarian stakeholders\n- proactive preparedness for epidemics and outbreaks\n- prioritising services in collaboration with local communities, where replacement funds cannot be secured.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/699",
-                    "id": 699,
-                    "name": "ALNAP",
-                    "shortname": "ALNAP",
-                    "longname": "Active Learning Network for Accountability and Performance in Humanitarian Action",
-                    "homepage": "https://alnap.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233298",
-            "date": {
-                "original": "2026-10-07T00:00:00+00:00",
-                "changed": "2026-10-09T05:02:56+00:00",
-                "created": "2026-10-09T04:45:49+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233298"
-    },
-    {
-        "id": "4233297",
-        "score": 1,
-        "fields": {
-            "title": "Central African Republic - Key Message Update: Crisis persists in conflict-affected areas despite the gradual end of the lean season, September 2026 - January 2027",
-            "body": "**Key Messages**\n\n- **Crisis (IPC Phase 3) outcomes are expected to persist through January 2027 in the areas most affected by insecurity and isolation, particularly Vakaga, Haute-Kotto, Haut-Mbomou, as well as parts of the northwest.** Despite the seasonal improvement expected from October onward in the north, below-average production and livelihoods constrained by insecurity, high prices, and low purchasing power will continue to limit food access. Clashes, displacement, mobility restrictions, and tensions related to [**transhumance**](https://www.journaldebangui.com/rca-pres-de-2-700-personnes-deplacees-apres-le-meurtre-dun-eleveur-a-batangafo/) will continue to disrupt agricultural activities, livelihoods, and access to markets. Households will increasingly resort to reducing the number of meals, taking on debt, and selling assets to meet their food needs. In contrast, in Bamingui-Bangoran, the decline in conflict-related incidents and improved access to fields and forest resources are expected to support an improvement to Stressed (IPC Phase 2) in October.\n- **From September through January 2027, Stressed (IPC Phase 2) outcomes are expected to continue to predominate in several prefectures in the central, southern, and southwestern parts of the country, particularly Ouaka, Basse-Kotto, and Nana-Mamb\u00e9r\u00e9.** In these relatively more stable areas, maize and groundnut harvests, which have been underway since August, are gradually improving food availability and reducing households\u2019 reliance on markets. Cassava, which is available year-round, also contributes to food access. In addition, income from seasonal agricultural activities supports the livelihoods of poor households. Most of these households are expected to be able to meet their essential food needs without heavy reliance on negative coping strategies. However, in Haut-Mbomou, persistent insecurity continues to limit access to fields, hunting, fishing, and gathering, exposing the most affected households to more severe difficulties in accessing food and income.\n- **Agroclimatic conditions observed during the first 10 days of September remain favorable for crop development across most of the country.** Cumulative rainfall observed since the beginning of the season has generally been average to above average, with [**localized deficits**](https://data.chc.ucsb.edu/products/Early_Estimates/v3/Recent_Rainfall/observed/moving_18pentad/africa_west/pngs/archive/POA_18PentAccum_2026_p50.png) in the northeast, northwest, and southeast. In the central and southern areas, maize, groundnut, and rice harvesting has already begun or is nearing completion following the August/September start and generally satisfactory growing conditions. In the north, millet and sorghum crops are continuing to mature, and the main harvests are expected from October onward. Production prospects remain generally average in relatively stable areas, in line with estimates from the [**Food and Agriculture Organization (FAO)**](https://www.fao.org/giews/countrybrief/country/CAF/pdf/CAF.pdf). However, limited access to agricultural inputs, as well as localized security constraints, will continue to restrict production levels in some affected areas.\n- **Prices of major cereals remained high in August, particularly in isolated areas and areas affected by insecurity in the northeast.** In August, the price of maize in Birao (514 FCFA/kilogram) was approximately twice as high as in Bangui (257 FCFA/kilogram), reflecting [**persistent supply constraints**](https://reliefweb.int/report/central-african-republic/republique-centrafricaine-initiative-conjointe-de-suivi-des-marches-icsm-aout-septembre-2026?utm_source=rw-subscriptions&utm_medium=email&utm_campaign=country_updates_54) and high transportation costs. Continued [**fuel shortages**](https://www.journaldebangui.com/rca-bangui-confrontee-a-une-nouvelle-penurie-de-carburant/) in September are expected to disrupt market supplies and trade flows, contributing to persistently high transportation costs and higher prices for imported food commodities. However, ongoing maize, groundnut, and rice harvests in several areas of the central, western, and southern parts of the country are expected to gradually improve market supplies and contribute to a seasonal decline in prices in relatively stable areas. In contrast, difficulties accessing markets in areas affected by insecurity and isolation are expected to keep prices relatively high.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/529",
-                    "id": 529,
-                    "name": "Famine Early Warning System Network",
-                    "shortname": "FEWS NET",
-                    "longname": "Famine Early Warning System Network",
-                    "spanish_name": "Red de Sistemas de Alerta Temprana contra la Hambruna",
-                    "homepage": "https://fews.net/",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233297",
-            "date": {
-                "original": "2026-10-08T00:00:00+00:00",
-                "changed": "2026-10-09T04:55:03+00:00",
-                "created": "2026-10-09T04:32:37+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233297"
-    },
-    {
-        "id": "4233287",
-        "score": 1,
-        "fields": {
-            "title": "UNICEF Cameroon Cholera Outbreak Flash Update No. 4, 23 July-23 September 2026",
-            "body": "**Highlights**\n\n- The outbreak continues to expand geographically. Laboratory-confirmed cholera cases are reported in twenty-one health districts across the Far North and North regions, while four additional districts in the Far North remain under investigation for suspected cases.\n- UNICEF is supporting the Government-led response through Health, WASH, Social and Behaviour Change, Accountability to Affected Populations, Child Protection, Nutrition, Youth Engagement and coordination.\n- The response is 48 per cent funded. A US$660,800 gap remains, with particularly significant needs in Health, Nutrition and Child Protection/MHPSS.\n\n**Overview**\n\nCholera transmission continues to expand across the Far North and North regions. Population movements and active transmission in neighbouring areas increase the risk of further spread. Immediate priorities include stronger surveillance, timely case management, targeted WASH interventions, risk communication and preparedness in affected and high-risk districts.\n\nAs of 23 September 2026, the Far North region has reported 2,753 cholera cases and 77 deaths (CFR: 2.8%), with active transmission persisting in several health districts, notably Mada, Kolofata, Mokolo, Mora and Makary. The implementation of two rounds of reactive Oral Cholera Vaccination (OCV) campaigns in seven high-risk districts (Fotokol, Kousseri, Mada, Makary, Mora, Kolofata and Mokolo) has likely contributed to reducing the spread and severity of the outbreak. However, the worsening humanitarian situation, including population displacement from Logone-et-Chari division due to insecurity, is placing additional pressure on host communities in Waza and the urban health districts of Maroua I, Maroua II and Maroua III. This influx of displaced populations is increasing vulnerability to cholera transmission through overcrowding and heightened pressure on already constrained health and WASH services.\n\nIn the North Region, 37 cases and 6 deaths have been reported (CFR: 16.22%). Guider reported the highest number of cases. Although the caseload remains low, the high case fatality rate may indicate delays in detection and referral or limited access to quality case management.\n\nContinued surveillance, WASH interventions, risk communication and community engagement and cross-border coordination remain critical to prevent further spread and reduce mortality",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233287",
-            "date": {
-                "original": "2026-10-07T00:00:00+00:00",
-                "changed": "2026-10-09T03:19:42+00:00",
-                "created": "2026-10-09T03:19:24+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233287"
-    },
-    {
-        "id": "4233246",
-        "score": 1,
-        "fields": {
-            "title": "Disease Outbreak News: Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo (8 October 2026)",
-            "body": "**Situation at a glance**\n\nOn 5 October 2026, WHO was informed about a laboratory-confirmed imported case of Bundibugyo virus disease (BVD) in Kenya with travel history from the Democratic Republic of the Congo. The patient travelled from the Democratic Republic of the Congo to Kenya through Uganda. The patient was hospitalized and treated in Kenya but subsequently died on 5 October. Public health response measures have been initiated in Kenya and Uganda, including contact tracing. Since the last Disease Outbreak News was published on 25 September 2026, the Bundibugyo virus outbreak in the Democratic Republic of the Congo has expanded to one additional health zone, Alimbongo health zone in North Kivu, adding to the geographic footprint of an outbreak that remains concentrated in the eastern part of the country. As of 6 October 2026, the country has recorded 8728 confirmed cases and 4205 confirmed deaths, corresponding to a crude case fatality ratio (CFR) of 48.2%. The cases have been reported from 64 health zones across seven provinces out of 26 provinces of the country: Bas-U\u00e9l\u00e9, Haut-U\u00e9l\u00e9, Ituri, North Kivu, South Kivu, Sud Ubangi and Tshopo. At the national level, transmission remains intense, although the burden is unevenly distributed. In some areas, there are clear signs that the epidemic is slowing down, although in others it continues to grow. Over the past three completed epidemiological weeks, new weekly cases nationwide have increased by 2.5% from 475 to 487, while new weekly deaths remain stable at 224 compared to 222. The persistently high mortality, together with the large number of deaths occurring outside treatment centres, continues to point to delays in identifying illness and reaching appropriate care. Since the last Disease Outbreak News, 264 of the 372 reported deaths occurred in communities and 108 in treatment centres. On 1 October, the Netherlands reported the medical evacuation of a healthcare worker who tested positive by PCR for Bundibugyo virus (BDBV) in the Democratic Republic of the Congo. At the time of reporting, the patient has been undergoing treatment in the Netherlands.\n\n**Description of the situation**\n\nSince the previous [Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON618) was published on 25 September 2026, an additional 775 confirmed cases, including 379 confirmed deaths, have been reported in the Democratic Republic of the Congo.\n\nIn the most recent 24-hour period, as of 6 October, 62 new confirmed cases were reported, with Ituri accounting for 33 cases and North Kivu for 30. No new cases were reported in Bas-U\u00e9l\u00e9, South Kivu or Sud-Ubangi during that period. Across the preceding seven days, the average number of new cases rose to 72 per day.\n\nAs of 6 October, cumulative confirmed cases have reached 8728, including 4205 deaths and 2269 recoveries. The overall crude CFR is 48.2%.\n\nConfirmed cases have now been identified in 64 health zones across seven provinces. Forty-eight of the 64 affected zones reported at least one new case during the preceding 21 days, while 16 reported no recent cases. Ituri remains the most extensively affected province, with 28 of 36 health zones reporting cases during this outbreak, followed by North Kivu (17/34), Haut-U\u00e9l\u00e9 (7/13), Tshopo (7/23), Bas-U\u00e9l\u00e9 (3/11), South Kivu (1/34) and Sud-Ubangi (1/16). Alimbongo in North Kivu is the most recently affected health zone and reported four confirmed cases, including two deaths.\n\nIturi remains the epicentre, with 6480 cumulative confirmed cases and 2989 deaths. North Kivu follows with 1755 confirmed cases and 1013 deaths, and continues to record the highest provincial CFR, at 57.7%. Haut-U\u00e9l\u00e9 has reported 364 cases and 153 deaths, while Tshopo has recorded 51 cases and 17 deaths. The less-affected provinces continue to report substantially fewer cases, but transmission persists in several of them. The most affected health zones were Beni and Katwa in North Kivu, and Rwampara, Bunia and Mandima in Ituri. The continued occurrence of cases across multiple provinces shows that the outbreak remains geographically active even as intensity varies between health zones.\n\nContact follow-up remains a major operational pressure and has fluctuated below the response target in recent weeks. Coverage was 87.6% on 16 September, briefly above the target of 85%, but fell to 74.7% by 25 September. Although coverage subsequently improved to 82.0% on 27 September, it remained below target and stood at 80.4% in the latest reporting period, with 23 741 of 29 535 contacts reached as of 4 October. The current level therefore reflects a persistent gap in the ability to monitor exposed people consistently throughout the 21-day follow-up period.\n\n**Kenya**\n\nOn 6 October 2026, the Ministry of Health of Kenya reported the first laboratory-confirmed imported case of BVD in Kenya.\n\nAccording to an official statement from the Ministry of Health, the individual is an adult who lived in the Democratic Republic of the Congo. The patient became ill approximately one month ago and was treated in several hospitals while in the Democratic Republic of the Congo. The patient travelled from the Democratic Republic of the Congo to Kampala, Uganda, by road before arriving in Nairobi, Kenya by air on 3 October. It is currently unclear if and when he was symptomatic during these travels, but upon arriving ill in Kenya, the patient was transported by a relative directly to Nairobi Hospital and isolated in the facility. A sample collected from the patient on 5 October was positive for BDBV at both the National Virology Reference Laboratory and the Kenya Medical Research Institute Laboratory on the same day. The patient was given supportive treatment but subsequently died.\n\nA safe and dignified burial has been conducted. Public health response actions were immediately initiated. Contact tracing is ongoing, including for the international flight.\n\nGiven the timelines of the illness, and the one month time from initial symptoms to death, it is presumed he was not initially sick with BVD, which does not usually have such a long progression from infection to symptoms and death, but became infected with BVD in a health facility or community while seeking care for another ailment.\n\n**The Netherlands**\n\nOn 1 October 2026, the Netherlands reported the medical evacuation of a healthcare worker who tested positive by PCR for BDBV in the Democratic Republic of the Congo where the patient was working on the Ebola disease outbreak response. Following confirmation of the diagnosis, the patient was safely repatriated to the Netherlands under strict medical and infection-prevention procedures, in close coordination with the relevant health authorities in the Democratic Republic of the Congo and the Netherlands. As with previous medically evacuated cases, this case will not be reported as a local case of BVD in the Netherlands.\n\n**Epidemiology**\n\nBundibugyo virus disease (BVD) is a severe Ebola disease caused by the Bundibugyo virus, one of the *Orthoebolavirus species*. It is a zoonotic disease, with fruit bats suspected to be the natural reservoir.\n\nHuman infection is thought to initially occur through close contact with the blood or secretions of infected wildlife, such as bats or non-human primates, and it subsequently spreads from person-to-person through direct contact with the blood, secretions, organs, or other bodily fluids of infected individuals or contaminated surfaces and materials. Transmission is particularly amplified in health-care settings when infection prevention and control (IPC) measures are inadequate, and during unsafe burial practices involving direct contact with deceased individuals.\n\nThe incubation period for BVD ranges from two to 21 days, and infected individuals are not infectious until symptom onset. Early symptoms such as fever, fatigue, muscle pain, headache, and sore throat are non-specific, which complicates clinical diagnosis and can delay detection. These symptoms then progress to gastrointestinal symptoms, organ dysfunction, and, in some cases, haemorrhagic manifestations.\n\nThe CFR from the previous two BVD outbreaks, reported in Uganda and in the Democratic Republic of the Congo in 2007 and 2012, were 30% and 50%, respectively.\n\nDifferentiating BVD from other endemic febrile illnesses such as malaria is challenging without laboratory confirmation. Outbreak control relies on rapid case identification and investigation, isolation and care, contact tracing, safe burials and strong community engagement, as no approved vaccines or specific treatments currently exist for BVD.\n\nSince first detected in May 2026, this BVD outbreak has rapidly evolved into a large and geographically expanding epidemic in the Democratic Republic of the Congo, with sustained transmission, high mortality and an increasing risk of further international spread. The current outbreak is the second documented Bundibugyo virus disease outbreak in the country, after the 2012 outbreak, and the largest Ebola disease outbreak ever recorded in the Democratic Republic of the Congo irrespective of virus species. The population at greatest risk of exposure is concentrated in communities living in and moving through the health areas with active transmission.\n\n**Public health response**\n\nFor detailed information about the ongoing public health response actions by the Ministry of Health, WHO and partners please refer to the latest situation reports published by the WHO Regional Office for Africa: [Ongoing outbreak in the Democratic Republic of the Congo | WHO | Regional Office for Africa](https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26)\n\nHealth authorities in the Democratic Republic of the Congo, in collaboration with WHO and partners, are continuing to implement and coordinate extensive public health measures, including disease surveillance, laboratory testing, infection prevention and control, clinical care, community engagement, research, logistics and support for response interventions and essential health services, engaging donors and mobilizing additional resources to address critical funding gaps and sustain response operations across affected and at-risk areas. A substantial scale-up is ongoing across all response pillars to get ahead of the outbreak.\n\n**WHO risk assessment**\n\nOn 14 August 2026, WHO reassessed the risk of the outbreak of BVD, incorporating newly available information on the evolving situation. The risk for countries sharing land borders with the Democratic Republic of the Congo was separated from the risk for other countries in the African Region.\n\nThe risk in the Democratic Republic of the Congo was assessed as very high, the risk for countries sharing land borders with the Democratic Republic of the Congo was assessed as high, and the risks for the rest of the African region and at the global level was again assessed as low.\n\nA detailed rapid risk assessment is currently ongoing to assess the risk in Kenya and will be reported once available.\n\n**WHO advice**\n\nBased on the currently available information, WHO advises against any restriction of travel to, or trade with, affected countries. WHO continues to closely monitor and, where necessary, verify travel and trade measures in relation to this event.\n\nThe updated [Temporary Recommendations](https://www.who.int/news/item/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations) issued to States Parties on 24 August 2026 underscore the importance of coordinated outbreak control, strengthened cross\u2011border collaboration, and sustained surveillance and preparedness to prevent further regional spread and ensure an effective public health response. Rapid recognition of cases, testing and optimized supportive care can reduce mortality, and improve community perceptions and acceptance of health care within the response.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233246",
-            "date": {
-                "original": "2026-10-08T00:00:00+00:00",
-                "changed": "2026-10-09T00:01:17+00:00",
-                "created": "2026-10-08T17:03:09+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233246"
-    },
-    {
-        "id": "4233219",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: 2026 Monitoring of the Flooding Situation - As of 30 September 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233219",
-            "date": {
-                "original": "2026-10-08T00:00:00+00:00",
-                "changed": "2026-10-09T08:00:29+00:00",
-                "created": "2026-10-08T14:20:38+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233219"
-    },
-    {
-        "id": "4233216",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon: vulnerability analysis/camp profile information - Timangolo Site (September 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4233216",
-            "date": {
-                "original": "2026-09-30T00:00:00+00:00",
-                "changed": "2026-10-08T14:16:07+00:00",
-                "created": "2026-10-08T14:04:19+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4233216"
     }
 ]
