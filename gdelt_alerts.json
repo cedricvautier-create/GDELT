@@ -1,5 +1,797 @@
 [
     {
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://pmnewsnigeria.com/2026/10/18/sowore-to-okonjo-iweala-who-stole-2-4bn-on-your-watch/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.51667,
+        "lat": 11.9964,
+        "location_name": "Kano, Kano, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/hunters-kill-two-suspected-bandits-recover-n10m-ransom-kano-forest",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.59462,
+        "lat": 5.86183,
+        "location_name": "Ogwashi, Delta, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/sowore-questions-okonjo-iwealas-24bn-oil-subsidy-fraud-claim-demands-evidence-linking-it",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.59462,
+        "lat": 5.86183,
+        "location_name": "Ogwashi, Delta, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/sowore-questions-okonjo-iwealas-24bn-oil-subsidy-fraud-claim-demands-evidence-linking-it",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://thesun.ng/fg-challenges-world-banks-debt-figures-says-nigerias-finances-improving/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 5.23902,
+        "lat": 13.0609,
+        "location_name": "Sokoto, Sokoto, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/abducted-sokoto-airport-air-traffic-controller-farmer-beg-nigerian-govt-rescue-after-52",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.66135,
+        "lat": 12.1628,
+        "location_name": "Gusau, Zamfara, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/abducted-sokoto-airport-air-traffic-controller-farmer-beg-nigerian-govt-rescue-after-52",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 5.23902,
+        "lat": 13.0609,
+        "location_name": "Sokoto, Sokoto, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/abducted-sokoto-airport-air-traffic-controller-farmer-beg-nigerian-govt-rescue-after-52",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.66135,
+        "lat": 12.1628,
+        "location_name": "Gusau, Zamfara, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/abducted-sokoto-airport-air-traffic-controller-farmer-beg-nigerian-govt-rescue-after-52",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 5.23902,
+        "lat": 13.0609,
+        "location_name": "Sokoto, Sokoto, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/abducted-sokoto-airport-air-traffic-controller-farmer-beg-nigerian-govt-rescue-after-52",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 5.25,
+        "lat": 13.0833,
+        "location_name": "Sokoto State, Sokoto, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/abducted-sokoto-airport-air-traffic-controller-farmer-beg-nigerian-govt-rescue-after-52",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.59462,
+        "lat": 5.86183,
+        "location_name": "Ogwashi, Delta, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/sowore-questions-okonjo-iwealas-24bn-oil-subsidy-fraud-claim-demands-evidence-linking-it",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.59462,
+        "lat": 5.86183,
+        "location_name": "Ogwashi, Delta, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/sowore-questions-okonjo-iwealas-24bn-oil-subsidy-fraud-claim-demands-evidence-linking-it",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 5.23902,
+        "lat": 13.0609,
+        "location_name": "Sokoto, Sokoto, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/abducted-sokoto-airport-air-traffic-controller-farmer-beg-nigerian-govt-rescue-after-52",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 5.25,
+        "lat": 13.0833,
+        "location_name": "Sokoto State, Sokoto, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://saharareporters.com/2026/10/18/abducted-sokoto-airport-air-traffic-controller-farmer-beg-nigerian-govt-rescue-after-52",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.0,
+        "lat": 8.0,
+        "location_name": "Oyo State, Oyo, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://dailypost.ng/2026/10/18/presidency-fires-back-at-makinde-over-nlng-dividends-claim/",
+        "sources": 8,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.0,
+        "lat": 8.0,
+        "location_name": "Oyo State, Oyo, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://zalebs.com/business/oyo-apc-demands-probe-into-killing-of-party-member-in-ibadan/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.58333,
+        "lat": 7.0,
+        "location_name": "Ogun State, Ogun, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://dailytrust.com/four-police-officers-arrested-for-allegedly-assaulting-ogun-youth/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.12888,
+        "lat": 6.59839,
+        "location_name": "Ijagba, Ogun, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://dailytrust.com/four-police-officers-arrested-for-allegedly-assaulting-ogun-youth/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.12888,
+        "lat": 6.59839,
+        "location_name": "Ijagba, Ogun, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://dailytrust.com/four-police-officers-arrested-for-allegedly-assaulting-ogun-youth/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.89639,
+        "lat": 7.38778,
+        "location_name": "Ibadan, Oyo, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://zalebs.com/business/oyo-apc-demands-probe-into-killing-of-party-member-in-ibadan/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 12.0,
+        "lat": 6.0,
+        "location_name": "Cameroon",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://dailytrust.com/soldiers-killed-as-military-van-runs-into-iswap-landmine-in-borno/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 13.1603,
+        "lat": 11.8464,
+        "location_name": "Maiduguri, Borno, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://dailytrust.com/soldiers-killed-as-military-van-runs-into-iswap-landmine-in-borno/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 13.1603,
+        "lat": 11.8464,
+        "location_name": "Maiduguri, Borno, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://dailytrust.com/soldiers-killed-as-military-van-runs-into-iswap-landmine-in-borno/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 9.75,
+        "lat": 9.16667,
+        "location_name": "Plateau State, Plateau, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://dailytrust.com/gunmen-shoot-macban-leader-in-plateau/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.44028,
+        "lat": 10.5231,
+        "location_name": "Kaduna, Kaduna, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://blueprint.ng/hunters-kill-suspected-kidnappers-recover-%E2%82%A610-million-ransom-in-kano/",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.44028,
+        "lat": 10.5231,
+        "location_name": "Kaduna, Kaduna, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://blueprint.ng/hunters-kill-suspected-kidnappers-recover-%E2%82%A610-million-ransom-in-kano/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.51667,
+        "lat": 11.9964,
+        "location_name": "Kano, Kano, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://blueprint.ng/hunters-kill-suspected-kidnappers-recover-%E2%82%A610-million-ransom-in-kano/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.44028,
+        "lat": 10.5231,
+        "location_name": "Kaduna, Kaduna, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://blueprint.ng/hunters-kill-suspected-kidnappers-recover-%E2%82%A610-million-ransom-in-kano/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.51667,
+        "lat": 11.9964,
+        "location_name": "Kano, Kano, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://blueprint.ng/hunters-kill-suspected-kidnappers-recover-%E2%82%A610-million-ransom-in-kano/",
+        "sources": 8,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.51667,
+        "lat": 11.9964,
+        "location_name": "Kano, Kano, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://blueprint.ng/hunters-kill-suspected-kidnappers-recover-%E2%82%A610-million-ransom-in-kano/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 29.6983,
+        "lat": -1.35389,
+        "location_name": "Kisoro, Kisoro, Uganda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.independent.co.ug/top-kisoro-businessman-wife-shot-dead/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 29.6983,
+        "lat": -1.35389,
+        "location_name": "Kisoro, Kisoro, Uganda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.independent.co.ug/top-kisoro-businessman-wife-shot-dead/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 29.6983,
+        "lat": -1.35389,
+        "location_name": "Kisoro, Kisoro, Uganda",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.independent.co.ug/top-kisoro-businessman-wife-shot-dead/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 29.6983,
+        "lat": -1.35389,
+        "location_name": "Kisoro, Kisoro, Uganda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.independent.co.ug/top-kisoro-businessman-wife-shot-dead/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 29.6983,
+        "lat": -1.35389,
+        "location_name": "Kisoro, Kisoro, Uganda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.independent.co.ug/top-kisoro-businessman-wife-shot-dead/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.5,
+        "lat": 11.5,
+        "location_name": "Kano State, Kano, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://leadership.ng/we-wont-step-down-for-atiku-kwankwaso-fires-back-at-adc/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.5,
+        "lat": 11.5,
+        "location_name": "Kano State, Kano, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://leadership.ng/we-wont-step-down-for-atiku-kwankwaso-fires-back-at-adc/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.5,
+        "lat": 11.5,
+        "location_name": "Kano State, Kano, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://leadership.ng/we-wont-step-down-for-atiku-kwankwaso-fires-back-at-adc/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.5,
+        "lat": 11.5,
+        "location_name": "Kano State, Kano, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://leadership.ng/we-wont-step-down-for-atiku-kwankwaso-fires-back-at-adc/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 29.6983,
+        "lat": -1.35389,
+        "location_name": "Kisoro, Kisoro, Uganda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.independent.co.ug/top-kisoro-businessman-wife-shot-dead/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 29.6983,
+        "lat": -1.35389,
+        "location_name": "Kisoro, Kisoro, Uganda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.independent.co.ug/top-kisoro-businessman-wife-shot-dead/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 29.6983,
+        "lat": -1.35389,
+        "location_name": "Kisoro, Kisoro, Uganda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.independent.co.ug/top-kisoro-businessman-wife-shot-dead/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.nigerianeye.com/2026/10/four-killed-as-bandits-attack-plateau.html",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
         "lon": 13.0,
         "lat": 11.5,
         "location_name": "Borno State, Borno, Nigeria",
@@ -104,888 +896,6 @@
         "radius": 100000,
         "url": "https://dailypost.ng/2026/10/18/police-arrest-11-suspects-in-nationwide-operations-rescue-six-abducted-persons/",
         "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://thesun.ng/appeal-court-faults-judgment-striking-out-national-assembly-from-suit-against-cama-2020-act/",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 11.2071,
-        "lat": 10.2536,
-        "location_name": "Galadima, Gombe, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/farmers-herders-clashes-military-seeks-dialogue-forgiveness-in-kaduna/",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/8-soldiers-killed-as-army-vehicle-hits-landmine-near-cameroon-border/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/8-soldiers-killed-as-army-vehicle-hits-landmine-near-cameroon-border/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/8-soldiers-killed-as-army-vehicle-hits-landmine-near-cameroon-border/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.44028,
-        "lat": 10.5231,
-        "location_name": "Kaduna, Kaduna, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/farmers-herders-clashes-military-seeks-dialogue-forgiveness-in-kaduna/",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/8-soldiers-killed-as-army-vehicle-hits-landmine-near-cameroon-border/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/8-soldiers-killed-as-army-vehicle-hits-landmine-near-cameroon-border/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.51667,
-        "lat": 11.9964,
-        "location_name": "Kano, Kano, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/ndlea-intercepts-saudi-bound-cannabis-seizes-n7bn-tramadol-at-lagos-port/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.39583,
-        "lat": 6.45306,
-        "location_name": "Lagos, Lagos, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/ndlea-intercepts-saudi-bound-cannabis-seizes-n7bn-tramadol-at-lagos-port/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.08333,
-        "lat": 7.16667,
-        "location_name": "Ondo State, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/ndlea-intercepts-saudi-bound-cannabis-seizes-n7bn-tramadol-at-lagos-port/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.0,
-        "lat": 6.5,
-        "location_name": "Edo State, Edo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/ndlea-intercepts-saudi-bound-cannabis-seizes-n7bn-tramadol-at-lagos-port/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.08333,
-        "lat": 7.16667,
-        "location_name": "Ondo State, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/ndlea-intercepts-saudi-bound-cannabis-seizes-n7bn-tramadol-at-lagos-port/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.0,
-        "lat": 6.5,
-        "location_name": "Edo State, Edo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/ndlea-intercepts-saudi-bound-cannabis-seizes-n7bn-tramadol-at-lagos-port/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/8-soldiers-killed-as-army-vehicle-hits-landmine-near-cameroon-border/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/8-soldiers-killed-as-army-vehicle-hits-landmine-near-cameroon-border/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/8-soldiers-killed-as-army-vehicle-hits-landmine-near-cameroon-border/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 21.0,
-        "lat": 7.0,
-        "location_name": "Central African Republic",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://news.az/news/sudanese-army-strikes-inflict-heavy-losses-on-rsf-in-nyala",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.184,
-        "lat": 12.944,
-        "location_name": "Gudumbali, Borno, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.184,
-        "lat": 12.944,
-        "location_name": "Gudumbali, Borno, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 2,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.184,
-        "lat": 12.944,
-        "location_name": "Gudumbali, Borno, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 2,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.6079,
-        "lat": 12.6786,
-        "location_name": "Monguno, Borno, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.184,
-        "lat": 12.944,
-        "location_name": "Gudumbali, Borno, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.184,
-        "lat": 12.944,
-        "location_name": "Gudumbali, Borno, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 2,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 11.9019,
-        "lat": 11.1057,
-        "location_name": "Kukawa, Yobe, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 5,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 11.9019,
-        "lat": 11.1057,
-        "location_name": "Kukawa, Yobe, Nigeria",
-        "category": "Mod\u00e9r\u00e9 : Mouvement Social",
-        "criticite_score": 4,
-        "color": [
-            255,
-            152,
-            0,
-            160
-        ],
-        "radius": 80000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.6079,
-        "lat": 12.6786,
-        "location_name": "Monguno, Borno, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 14.1217,
-        "lat": 13.3285,
-        "location_name": "Lake Chad, Nigeria (general), Nigeria",
-        "category": "Mod\u00e9r\u00e9 : Mouvement Social",
-        "criticite_score": 4,
-        "color": [
-            255,
-            152,
-            0,
-            160
-        ],
-        "radius": 80000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 2,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 11.9019,
-        "lat": 11.1057,
-        "location_name": "Kukawa, Yobe, Nigeria",
-        "category": "Mod\u00e9r\u00e9 : Mouvement Social",
-        "criticite_score": 4,
-        "color": [
-            255,
-            152,
-            0,
-            160
-        ],
-        "radius": 80000,
-        "url": "https://www.africanews.com/2026/10/18/nigerias-army-chief-of-staff-visits-troops-in-borno-after-deaths-of-15-soliders/",
-        "sources": 1,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 4.05,
-        "lat": 7.53333,
-        "location_name": "Osun, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://promptnewsonline.com/arewa-and-2027-sucker-theory-by-lanre-adewole/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.80472,
-        "lat": 7.53333,
-        "location_name": "Arewa, Oyo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://promptnewsonline.com/arewa-and-2027-sucker-theory-by-lanre-adewole/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/eight-nigerian-soldiers-killed-as-army-vehicle-hits-landmine/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.3175,
-        "lat": 10.4634,
-        "location_name": "Um Dafuq, Janub Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://aa.com.tr/en/middle-east/sudanese-army-strikes-inflict-heavy-losses-on-rsf-in-darfur-s-nyala-regional-government/4092539",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://aa.com.tr/en/middle-east/sudanese-army-strikes-inflict-heavy-losses-on-rsf-in-darfur-s-nyala-regional-government/4092539",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.0,
-        "lat": 5.5,
-        "location_name": "Delta State, Delta, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://thesun.ng/my-mother-was-kidnapped-after-i-exposed-2-4bn-subsidy-fraud-okonjo-iweala/",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/eight-nigerian-soldiers-killed-as-army-vehicle-hits-landmine/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/eight-nigerian-soldiers-killed-as-army-vehicle-hits-landmine/",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.1603,
-        "lat": 11.8464,
-        "location_name": "Maiduguri, Borno, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.vanguardngr.com/2026/10/eight-nigerian-soldiers-killed-as-army-vehicle-hits-landmine/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/eight-nigerian-soldiers-killed-as-army-vehicle-hits-landmine/",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 12.0,
-        "lat": 6.0,
-        "location_name": "Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/eight-nigerian-soldiers-killed-as-army-vehicle-hits-landmine/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.39583,
-        "lat": 6.45306,
-        "location_name": "Lagos, Lagos, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.inquirer.com/entertainment/movies/philadelphia-film-festival-naza-clarissa-benimana-20261018.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 30.0,
-        "lat": -2.0,
-        "location_name": "Rwanda",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.inquirer.com/entertainment/movies/philadelphia-film-festival-naza-clarissa-benimana-20261018.html",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 11.5,
-        "lat": 12.0,
-        "location_name": "Yobe, Yobe, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/health/health-news/917949-bangladesh-battles-deadly-measles-outbreak-as-investigation-highlights-vaccination-gaps.html",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.4943,
-        "lat": 6.4402,
-        "location_name": "Enugu, Enugu, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/dele-cole-life-and-times-of-eminent-journalist-ambassador/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.75,
-        "lat": 10.3333,
-        "location_name": "Kaduna State, Kaduna, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.premiumtimesng.com/news/top-news/917914-troops-kill-two-suspected-kidnappers-rescue-victim-recover-ransom-in-kano-official.html",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.75,
-        "lat": 10.3333,
-        "location_name": "Kaduna State, Kaduna, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.premiumtimesng.com/news/top-news/917914-troops-kill-two-suspected-kidnappers-rescue-victim-recover-ransom-in-kano-official.html",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.75,
-        "lat": 10.3333,
-        "location_name": "Kaduna State, Kaduna, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.premiumtimesng.com/news/top-news/917914-troops-kill-two-suspected-kidnappers-rescue-victim-recover-ransom-in-kano-official.html",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/news/top-news/917914-troops-kill-two-suspected-kidnappers-rescue-victim-recover-ransom-in-kano-official.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/news/top-news/917914-troops-kill-two-suspected-kidnappers-rescue-victim-recover-ransom-in-kano-official.html",
-        "sources": 6,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     }
