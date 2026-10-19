@@ -1,5 +1,46 @@
 [
     {
+        "id": "4234720",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 19th October 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234720",
+            "date": {
+                "original": "2026-10-19T00:00:00+00:00",
+                "changed": "2026-10-19T15:39:18+00:00",
+                "created": "2026-10-19T15:38:40+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234720"
+    },
+    {
         "id": "4234659",
         "score": 1,
         "fields": {
@@ -1685,47 +1726,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4234213"
-    },
-    {
-        "id": "4234206",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique centrafricaine : Rapport de situation N\u00b0 89 (au 13 octobre 2026)",
-            "body": "**FAITS SAILLANTS**\n\n- 1 400 personnes affect\u00e9es par de fortes pluies et de vents violents dans les localit\u00e9s de Bakouma et Nzako, Mbomou.\n- Plus de 2 300 m\u00e9nages d\u00e9plac\u00e9s re\u00e7oivent une assistance alimentaire \u00e0 Am Dafock, Vakaga.\n- 69 latrines r\u00e9habilit\u00e9es et quatre forages finalis\u00e9s dans les localit\u00e9s de Ouadda, Mouka et Gbali, Haute-Kotto.\n\n**CONTEXTE G\u00c9N\u00c9RAL**  \n Pr\u00e9fecture de la Vakaga \u2013 Nord-Est\n\n- Le 7 octobre, une \u00e9quipe humanitaire et ses partenaires se rendant \u00e0 Delemb\u00e9 pour la r\u00e9paration de forages ont \u00e9t\u00e9 victimes d\u2019un braquage \u00e0 35 km au sud de Birao. Les assaillants ont emport\u00e9 de l\u2019argent, du mat\u00e9riel de communication, des effets personnels et deux motos, et ont endommag\u00e9 le v\u00e9hicule. Malgr\u00e9 cet incident, les op\u00e9rations humanitaires se poursuivent dans la zone.\n\nPr\u00e9fecture du Mbomou \u2013 Sud-Est\n\n- Depuis le 7 octobre, de fortes pluies accompagn\u00e9es de vents violents ont caus\u00e9 d\u2019importants d\u00e9g\u00e2ts dans les localit\u00e9s de Bakouma et de Nzako. Selon des donn\u00e9es provisoires au 11 octobre, 280 abris ont \u00e9t\u00e9 touch\u00e9s, dont 160 d\u00e9truits et 120 endommag\u00e9s. Quelque 1 400 personnes sont affect\u00e9es. Les m\u00e9nages sinistr\u00e9s sont h\u00e9berg\u00e9s par des familles voisines.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234206",
-            "date": {
-                "original": "2026-10-15T00:00:00+00:00",
-                "changed": "2026-10-16T00:41:47+00:00",
-                "created": "2026-10-15T11:09:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234206"
     }
 ]
