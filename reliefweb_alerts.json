@@ -1,5 +1,127 @@
 [
     {
+        "id": "4234893",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: Latest Events at a glance (13\u201319 October 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234893",
+            "date": {
+                "original": "2026-10-20T00:00:00+00:00",
+                "changed": "2026-10-20T15:33:32+00:00",
+                "created": "2026-10-20T15:32:53+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234893"
+    },
+    {
+        "id": "4234891",
+        "score": 1,
+        "fields": {
+            "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (du 13 au 19 octobre 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234891",
+            "date": {
+                "original": "2026-10-20T00:00:00+00:00",
+                "changed": "2026-10-20T15:32:31+00:00",
+                "created": "2026-10-20T15:31:47+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234891"
+    },
+    {
+        "id": "4234887",
+        "score": 1,
+        "fields": {
+            "title": "Democratic Republic of the Congo, Kenya, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 20/10/2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/620",
+                    "id": 620,
+                    "name": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
+                    "shortname": "ECHO",
+                    "longname": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
+                    "spanish_name": "Direcci\u00f3n General de Protecci\u00f3n Civil y Operaciones de Ayuda Humanitaria Europeas",
+                    "homepage": "https://civil-protection-humanitarian-aid.ec.europa.eu/index_en",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234887",
+            "date": {
+                "original": "2026-10-20T00:00:00+00:00",
+                "changed": "2026-10-20T15:17:06+00:00",
+                "created": "2026-10-20T15:17:16+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234887"
+    },
+    {
         "id": "4234786",
         "score": 1,
         "fields": {
@@ -1626,128 +1748,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4234219"
-    },
-    {
-        "id": "4234218",
-        "score": 1,
-        "fields": {
-            "title": "Health Factsheet January - August 2026",
-            "body": "UNHCR Cameroon is supporting a gradual shift from direct health service delivery towards sustainable refugee inclusion in national health systems. This approach strengthens Government ownership, expands refugees\u2019 access to public services and aligns with the Global Compact on Refugees, Cameroon\u2019s National Health Sector Strategy 2016\u20132027, and the UN Sustainable Development Cooperation Framework.\n\nAs national systems are increasingly taking the lead, targeted support remains critical to keep essential services for refugees with chronic and infectious diseases, pregnant women, malnourished children, referral patients and communities affected by public health emergencies.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234218",
-            "date": {
-                "original": "2026-10-15T00:00:00+00:00",
-                "changed": "2026-10-15T17:35:37+00:00",
-                "created": "2026-10-15T12:03:50+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234218"
-    },
-    {
-        "id": "4234217",
-        "score": 1,
-        "fields": {
-            "title": "Far North Factsheet January - August 2026",
-            "body": "UNHCR is strengthening protection, essential services and durable solutions in the Far North in the face of a cholera outbreak and rising protection incidents.\n\nThe Far North region of Cameroon continues to face a complex and protracted humanitarian crisis, linked to the Lake Chad Basin conflict, internal displacement, return movements and recurrent climate shocks (floods, drought). The region hosts 125,012 refugees (mostly Nigerian refugees), 453,661 internally displaced persons, 280 asylum seekers, 198,940 returnees and 30,581 spontaneous Cameroonian IDP returnees - a total population of more than 808,474 people (31 July 2026).  \nNearly two-thirds of Nigerian refugees live in Minawao camp, which is severely overcrowded, placing unsustainable pressure on basic services, natural resources and relations with host communities. New multi-year programmes have been launched to develop viable alternatives to the camp and to strengthen services, resilience, and livelihoods.  \n\nThe Minawao camp has been facing an active cholera epidemic since July 23, 2026. Protection incidents and kidnappings are on the rise (269 people abducted between January and July 2026, compared to 249 for the whole of 2025) and insecurity is hampering humanitarian access in several localities.  \n\nUNHCR continues to work closely with the Government of Cameroon to support a transition from direct humanitarian delivery towards stronger inclusion into national systems and sustainable solutions that promote self-reliance and social cohesion.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234217",
-            "date": {
-                "original": "2026-10-15T00:00:00+00:00",
-                "changed": "2026-10-15T17:36:06+00:00",
-                "created": "2026-10-15T12:03:40+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234217"
-    },
-    {
-        "id": "4234216",
-        "score": 1,
-        "fields": {
-            "title": "Education Factsheet January - August 2026",
-            "body": "Cameroon has strong policies for refugee inclusion in education, but funding gaps are keeping children out of class. Less than one in four refugee children are enrolled; more than 152,000 remain out of school; and secondary education is almost out of reach in key refugee-hosting areas.  \nPredictable donor financing is urgently needed to turn policy commitments into safe classrooms, trained teachers and real learning opportunities \u2014 especially for girls, children with disabilities and adolescents at risk of being left behind",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234216",
-            "date": {
-                "original": "2026-10-15T00:00:00+00:00",
-                "changed": "2026-10-15T17:36:20+00:00",
-                "created": "2026-10-15T12:03:28+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234216"
     }
 ]
