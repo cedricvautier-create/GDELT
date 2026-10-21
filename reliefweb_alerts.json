@@ -1,18 +1,153 @@
 [
     {
+        "id": "4234974",
+        "score": 1,
+        "fields": {
+            "title": "Note d\u2019alerte sur la situation agropastorale 2026-2027 en Afrique de l\u2019Ouest et au Sahel (octobre 2026)",
+            "body": "**Messages cl\u00e9s :**\n\n1. Pr\u00e8s de 57 millions de personnes \u00e9taient d\u00e9j\u00e0 projet\u00e9es en ins\u00e9curit\u00e9 alimentaire et nutritionnelle aigu\u00eb pendant la soudure 2026 (Cadre Harmonis\u00e9, mars 2026). Lors de la concertation r\u00e9gionale du PREGEC en septembre 2026, les expert\u00b7es nationaux et r\u00e9gionaux ont soulign\u00e9 que le bilan \u00e0 mi-parcours de la campagne agropastorale 2026-2027 r\u00e9v\u00e8le des risques importants de d\u00e9ficits de production.\n2. La campagne reste marqu\u00e9e par des s\u00e9quences s\u00e8ches prolong\u00e9es et une forte variabilit\u00e9 des pr\u00e9cipitations. Des d\u00e9ficits de rendement sont probables au Tchad, en Mauritanie, au Niger et au Cap Vert.\n3. Apr\u00e8s deux ann\u00e9es exceptionnelles, les ressources fourrag\u00e8res se d\u00e9gradent, notamment dans l\u2019est du Niger (Diffa, Zinder, Agadez) et dans le bassin du Lac Tchad, en passant par le Kanem, le Batha, le Wadi Fira, le Lac et l\u2019Ennedi au Tchad. En Mauritanie, des d\u00e9ficits de v\u00e9g\u00e9tation persistent dans les deux Hodh.\n4. Pour les familles pastorales, la perte d\u2019un animal d\u00e9passe la seule perte \u00e9conomique : elle r\u00e9duit l\u2019acc\u00e8s au lait, fragilise les revenus et compromet la capacit\u00e9 \u00e0 se relever. Les transhumances pr\u00e9coces et massives accentuent la pression sur les ressources pastorales et les risques de tensions entre communaut\u00e9s pastorales et agropastorales.\n5. En 2026, les plans de r\u00e9ponse restent fortement sous-financ\u00e9s : seuls 15 % des besoins sont financ\u00e9s au Niger, 23 % au Mali et 20 % au Burkina Faso. Action contre la Faim appelle les \u00c9tats, les institutions r\u00e9gionales et les bailleurs \u00e0 mobiliser d\u00e8s maintenant les ressources n\u00e9cessaires : l\u2019alerte doit d\u00e9clencher l\u2019action avant l\u2019\u00e9puisement des p\u00e2turages, la vente contrainte du cheptel et la d\u00e9gradation de l\u2019\u00e9tat nutritionnel des populations.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1970",
+                    "id": 1970,
+                    "name": "Action Against Hunger",
+                    "shortname": "Action Against Hunger",
+                    "longname": "Action Against Hunger",
+                    "spanish_name": "Acci\u00f3n contra el Hambre (Estados Unidos)",
+                    "homepage": "https://www.actionagainsthunger.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234974",
+            "date": {
+                "original": "2026-10-21T00:00:00+00:00",
+                "changed": "2026-10-21T07:53:46+00:00",
+                "created": "2026-10-21T07:53:32+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234974"
+    },
+    {
+        "id": "4234973",
+        "score": 1,
+        "fields": {
+            "title": "Alert note on the 2026-2027 agropastoral situation in West Africa and the Sahel (October 2026)",
+            "body": "**Key messages:**\n\n1. Nearly 57 million people were already projected to face acute food and nutrition insecurity during the 2026 lean season (Cadre Harmonis\u00e9, March 2026). At the regional consultation of the PREGEC in September 2026, national and regional experts highlighted that the mid-season review of the 2026-2027 agropastoral campaign points to significant risks of production shortfalls.\n2. The season has been marked by prolonged dry spells and significant rainfall variability. Yield deficits are likely in Chad, Mauritania, Niger and Cabo Verde.\n3. Following two exceptional years, forage resources are deteriorating, notably in eastern Niger (Diffa, Zinder, Agadez) and the Lake Chad Basin, extending through Kanem, Batha, Wadi Fira, Lac and Ennedi in Chad. In Mauritania, vegetation deficits persist in the two Hodh regions.\n4. For pastoralist families, the loss of an animal is more than an economic loss: it reduces access to milk, undermines household income and weakens their ability to recover from shocks. Early and large-scale transhumance is increasing pressure on pastoral resources and the risk of tensions between pastoralist and agropastoral communities.\n5. In 2026, response plans remain severely underfunded, with only 15% of needs funded in Niger, 23% in Mali and 20% in Burkina Faso. Action Against Hunger calls on governments, regional institutions and donors to mobilise now the resources needed: early warning must trigger early action before pastures are depleted, livestock are sold in distress, and the nutritional status of vulnerable populations deteriorates.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1970",
+                    "id": 1970,
+                    "name": "Action Against Hunger",
+                    "shortname": "Action Against Hunger",
+                    "longname": "Action Against Hunger",
+                    "spanish_name": "Acci\u00f3n contra el Hambre (Estados Unidos)",
+                    "homepage": "https://www.actionagainsthunger.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234973",
+            "date": {
+                "original": "2026-10-21T00:00:00+00:00",
+                "changed": "2026-10-21T07:51:50+00:00",
+                "created": "2026-10-21T07:48:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234973"
+    },
+    {
+        "id": "4234978",
+        "score": 1,
+        "fields": {
+            "title": "Cluster Protection RDC : Monitoring de protection commun- Aper\u00e7u des violations et abus des droits humains dans la province du Nord-Kivu, septembre 2026",
+            "body": "En septembre 2026, la situation de protection au Nord-Kivu est rest\u00e9e critique, marqu\u00e9e par des affrontements arm\u00e9s, de graves violations des droits humains, des d\u00e9placements forc\u00e9s de population et des pertes en vies humaines, dont des enfants.\n\n**Principaux faits saillants de la p\u00e9riode** :\n\n**Accidents li\u00e9s aux restes explosifs de guerre (REG)** : explosion \u00e0 Nyarubande/Gikoro (Rutshuru), causant de nombreux morts et bless\u00e9s, dont plusieurs gar\u00e7ons gardant du b\u00e9tail.\n\n**D\u00e9placements forc\u00e9s et destruction d\u2019infrastructures** : nouveaux d\u00e9placements \u00e0 Masisi et \u00e0 Walikale, et destruction d\u2019un centre de sant\u00e9 \u00e0 Malemo par un engin explosif.\n\n**Violations graves des droits humains** : enl\u00e8vements contre ran\u00e7on, travaux forc\u00e9s, repr\u00e9sailles contre des civils soup\u00e7onn\u00e9s de collaboration avec des groupes arm\u00e9s rivaux et viols collectifs, notamment de femmes d\u00e9plac\u00e9es \u00e0 Kalole (Masisi).\n\n**Tensions li\u00e9es \u00e0 la riposte contre Ebola** : violences lors de la dispersion d\u2019un enterrement s\u00e9curis\u00e9 \u00e0 Rwangoma (Beni), faisant plusieurs femmes tu\u00e9es et des blesses.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4234978",
+            "date": {
+                "original": "2026-10-21T00:00:00+00:00",
+                "changed": "2026-10-21T08:47:36+00:00",
+                "created": "2026-10-21T07:41:46+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4234978"
+    },
+    {
         "id": "4234893",
         "score": 1,
         "fields": {
             "title": "West and Central Africa: Latest Events at a glance (13\u201319 October 2026)",
             "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
                 "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
+                    "lat": -4.03833,
+                    "lon": 21.7587
                 }
             },
             "source": [
@@ -34,7 +169,7 @@
             "url": "https://reliefweb.int/node/4234893",
             "date": {
                 "original": "2026-10-20T00:00:00+00:00",
-                "changed": "2026-10-20T15:33:32+00:00",
+                "changed": "2026-10-21T05:00:56+00:00",
                 "created": "2026-10-20T15:32:53+00:00"
             }
         },
@@ -46,14 +181,14 @@
         "fields": {
             "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (du 13 au 19 octobre 2026)",
             "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
                 "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
+                    "lat": -4.03833,
+                    "lon": 21.7587
                 }
             },
             "source": [
@@ -75,7 +210,7 @@
             "url": "https://reliefweb.int/node/4234891",
             "date": {
                 "original": "2026-10-20T00:00:00+00:00",
-                "changed": "2026-10-20T15:32:31+00:00",
+                "changed": "2026-10-21T05:02:55+00:00",
                 "created": "2026-10-20T15:31:47+00:00"
             }
         },
@@ -1626,127 +1761,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4234222"
-    },
-    {
-        "id": "4234221",
-        "score": 1,
-        "fields": {
-            "title": "Protection Factsheet January - August 2026",
-            "body": "Cameroon\u2019s protection response is shifting from direct humanitarian delivery to stronger national systems, but escalating violence and deep funding cuts risk undermining hard-won gains in documentation, inclusion and solutions.\n\nUNHCR is helping national institutions progressively assume core protection responsibilities, while maintaining essential safeguards and technical oversight. In parallel, support for forcibly displaced people is shifting from aid dependency towards greater inclusion in national systems and sustainable solutions.\n\nWorsening insecurity in the Far North and North-West/South-West is driving new internal displacement and serious protection risks, while funding cuts are shrinking response capacity. With most refugees in Cameroon living in protracted displacement, investment in documentation, inclusion and solutions is now urgent, strategic and cost-effective.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234221",
-            "date": {
-                "original": "2026-10-15T00:00:00+00:00",
-                "changed": "2026-10-15T13:00:35+00:00",
-                "created": "2026-10-15T12:04:22+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234221"
-    },
-    {
-        "id": "4234220",
-        "score": 1,
-        "fields": {
-            "title": "Livelihood and Economic Inclusion Factsheet September 2026",
-            "body": "During the first half of 2026, UNHCR strengthened the economic inclusion of refugees and host communities through integrated interventions focused on skills development, entrepreneurship, access to productive assets, financial services, and markets.\n\nThese investments enable beneficiaries to build sustainable livelihoods, increase their incomes, and enhance their resilience to economic shocks. By fostering partnerships with public institutions, the private sector, and development actors, UNHCR facilitates refugees\u2019 access to economic opportunities and national systems.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234220",
-            "date": {
-                "original": "2026-10-15T00:00:00+00:00",
-                "changed": "2026-10-15T12:56:20+00:00",
-                "created": "2026-10-15T12:04:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234220"
-    },
-    {
-        "id": "4234219",
-        "score": 1,
-        "fields": {
-            "title": "Inter-Agency coordination Factsheet Jan-June 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234219",
-            "date": {
-                "original": "2026-10-15T00:00:00+00:00",
-                "changed": "2026-10-15T12:54:28+00:00",
-                "created": "2026-10-15T12:04:01+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234219"
     }
 ]
