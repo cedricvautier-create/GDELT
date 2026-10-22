@@ -1,5 +1,87 @@
 [
     {
+        "id": "4235268",
+        "score": 1,
+        "fields": {
+            "title": "WFP Central African Republic Country Brief, October 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235268",
+            "date": {
+                "original": "2026-10-22T00:00:00+00:00",
+                "changed": "2026-10-22T18:25:25+00:00",
+                "created": "2026-10-22T18:25:21+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235268"
+    },
+    {
+        "id": "4235266",
+        "score": 1,
+        "fields": {
+            "title": "RD Congo : Situation humanitaire dans la province de Sud-Kivu \u2013 rapport de situation #10, 30 septembre 2026",
+            "body": "**Faits saillants**\n\n- Une s\u00e9rie d\u2019incendies \u00e0 Bukavu a fait 29 morts, dont 27 \u00e9coliers, et laiss\u00e9 plus de 12 000 personnes sans abris. Ces sinistres ont \u00e9galement perturb\u00e9 la scolarit\u00e9 d\u2019environ 1 500 \u00e9l\u00e8ves.\n- Les affrontements arm\u00e9s se sont poursuivis dans les Hauts-Plateaux de Fizi, Mwenga et Uvira, accentuant les risques de protection pour les civils et aggravant les besoins humanitaires.\n- L\u2019\u00e9pid\u00e9mie de chol\u00e9ra reste pr\u00e9occupante dans la province, avec un cumul de 14 115 cas et 245 d\u00e9c\u00e8s (de la 1e \u00e0 la 39e semaine \u00e9pid\u00e9miologique), et la tendance demeure \u00e0 la hausse dans plusieurs zones de sant\u00e9.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235266",
+            "date": {
+                "original": "2026-10-22T00:00:00+00:00",
+                "changed": "2026-10-22T18:15:49+00:00",
+                "created": "2026-10-22T18:15:30+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235266"
+    },
+    {
         "id": "4235259",
         "score": 1,
         "fields": {
@@ -1723,87 +1805,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4234652"
-    },
-    {
-        "id": "4234629",
-        "score": 1,
-        "fields": {
-            "title": "Multi-country Bundibugyo Ebola Virus Disease Outbreak Situation Report No. 22 (5 - 11 October 2026)",
-            "body": "**SITUATION OVERVIEW** \n\nAccording to the Ministry of Health of the Democratic Republic of the Congo (DRC), as of 10 October 2026, the country had reported 8,978 confirmed cases of Ebola disease caused by the Bundibugyo virus, including 4,336 confirmed deaths, resulting in a case fatality rate of 48.3 per cent. Since the start of the outbreak, 65 health zones across 7 provinces have reported at least 1 confirmed case. Ituri Province remains the epicentre, accounting for approximately 74 per cent of cumulative confirmed cases, while Ituri and North Kivu continue to account for most newly reported infections. \n\nEncouraging improvements were observed in several epidemiological indicators during the reporting period. As of 10 October, the Ministry of Health reported only 64 new confirmed cases and 21 deaths, compared with 102 cases and 34 deaths reported one week earlier. Community deaths also declined to 13, while the national contact follow-up rate increased to 81 per cent.  \n\nLaboratory positivity declined from 25.9 per cent on 3 October to 14.4 per cent on 10 October, alongside declines in reported cases and deaths. However, only 143 of 232 validated suspected cases (61.6%) were transferred to treatment facilities, highlighting persistent challenges related to referral, treatment capacity and timely access to care. Community transmission remains active in Ituri, North Kivu and Haut-U\u00e9l\u00e9 Provinces.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234629",
-            "date": {
-                "original": "2026-10-19T00:00:00+00:00",
-                "changed": "2026-10-19T11:19:27+00:00",
-                "created": "2026-10-19T07:36:01+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234629"
-    },
-    {
-        "id": "4234623",
-        "score": 1,
-        "fields": {
-            "title": "Multi-country Bundibugyo Ebola Virus Disease Outbreak Situation Report No. 21 (28 September - 04 October 2026)",
-            "body": "According to the Ministry of Health of the Democratic Republic of the Congo (DRC), as of 4 October 2026, the country has reported 8,603 confirmed cases of Ebola disease caused by the Bundibugyo virus, including 4,148 confirmed deaths, resulting in a case fatality rate of 48.2 per cent. Since the beginning of the outbreak, 64 health zones across 7 provinces have reported at least 1 confirmed case. Ituri remains the epicentre, accounting for 75.0 per cent of cumulative confirmed cases nationwide. \n\nAlthough transmission remains concentrated in Ituri and North Kivu, no new cases were reported in South Kivu, Bas- U\u00e9l\u00e9 or South Ubangi during the reporting period, suggesting progress in limiting geographic expansion of the outbreak. \n\nDuring the reporting period, the Ministry of Health reported 59 new confirmed cases and 34 confirmed deaths, including 23 community deaths. New cases were reported in North Kivu (33), Ituri (23), Haut-U\u00e9l\u00e9 (2) and Tshopo (1). North Kivu accounted for 55.9 per cent of newly reported cases and continues to record a higher case fatality rate (58.1%) than the national average. Five patients recovered and were discharged during the reporting period",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234623",
-            "date": {
-                "original": "2026-10-19T00:00:00+00:00",
-                "changed": "2026-10-19T10:05:36+00:00",
-                "created": "2026-10-19T07:34:52+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234623"
     }
 ]
