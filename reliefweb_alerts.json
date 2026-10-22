@@ -1,10 +1,148 @@
 [
     {
+        "id": "4235259",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: 2026 Humanitarian Needs & Requirements (as of 22 October 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235259",
+            "date": {
+                "original": "2026-10-22T00:00:00+00:00",
+                "changed": "2026-10-22T16:53:26+00:00",
+                "created": "2026-10-22T16:53:02+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235259"
+    },
+    {
+        "id": "4235231",
+        "score": 1,
+        "fields": {
+            "title": "Tchad - R\u00e9union Cash Travail Group Compte Rendu - septembre 2026",
+            "body": "Lieu : Salle de r\u00e9union Bureau conjoint des Nations Unies (OCHA)  \nHeure : 14h40min \u00e0 15h45  \nDate : 15 septembre 2026  \nLieu : Bureau OCHA, N'Djamena  \nParticipants  \nEn pr\u00e9sentiel : PF MASSAH, APSELPA, INTERSOS, HCR, DRC, CWG.  \nEn ligne : HIAS, IMC, PUI, OXFAM, CRS Liwa, WVI, ONG ESEDD Moundou, CRS & CARE,  \nAFDI, Ambassade des \u00c9tats-Unis, CRT/CWG, PAM/CBT, IRC Ab\u00e9ch\u00e9, Tearfund, PAM/RAM,  \nSous-Cluster Secal Lac, HULO, CRS, CONCERN, FAO, FAO/Cash, AcF, CRT, Job BOOSTER,  \nCARITAS Gor\u00e9, IRC EST.  \n1\\. Suivi des recommandations :  \n\u2022 Le processus de finalisation du MEB (Minimum Expenditure Basket) conna\u00eet des retards  \nen raison de contraintes techniques et organisationnelles, notamment l'indisponibilit\u00e9  \ntemporaire du responsable concern\u00e9 \u00e0 la suite d\u2019une indisponibilit\u00e9.  \n\u2022 Une r\u00e9union de la Task Force MEB est pr\u00e9vue le 22 septembre 2026 \u00e0 10h00 afin  \nd'examiner les documents et avancer sur la validation de la m\u00e9thodologie et des  \ncalculs des valeurs du MEB.  \n\u2022 FLM : Partage de la pr\u00e9sentation avec les membres du groupe (r\u00e9alis\u00e9).  \n2\\. Rapportage 3W du 2\u00e8me trimestre 2026  \n\u2022 Finaliser la consolidation des donn\u00e9es collect\u00e9es (r\u00e9alis\u00e9e).  \n\u2022 Diffuser la version actualis\u00e9e de la matrice 3W \u00e0 l'ensemble des partenaires ainsi  \nqu'au Bureau r\u00e9gional d'OCHA \u00e0 Dakar (partager avec le bureau r\u00e9gional de OCHA  \nDakar).  \n\u2022 Disponibilit\u00e9 des comptes rendus 2026 (f\u00e9vrier \u00e0 juillet) sont disponibles via reliefweb.  \n3\\. Mandat des membres du CWG  \n\u2022 Poursuivre les contacts avec les membres afin de finaliser la mise \u00e0 jour du mandat  \net de la composition du groupe (Apr\u00e8s la CRT, OXFAM a aussi confirm\u00e9 son int\u00e9r\u00eat  \npour le second mandat).  \n4\\. Task Force MEB  \n\u2022 Les membres ont convenu de poursuivre les relances afin d'acc\u00e9l\u00e9rer la finalisation  \ndu processus de r\u00e9vision du Minimum Expenditure Basket (MEB).  \n\u2022 Une s\u00e9ance de travail est pr\u00e9vue le 22 septembre 2026 \u00e0 10h00.  \n5\\. Fond USA  \n\u2022 Les interventions mises en oeuvre via la modalit\u00e9 CVA ont atteint un taux d'ach\u00e8vement  \nde 100 %, tandis que les interventions \u00e0 usage multiple (MPCA) ont d\u00e9pass\u00e9  \n70 % de leur mise en oeuvre. Les autres membres comptent faire une mise \u00e0 jour de  \nla fiche de suivi. De plus, l'harmonisation de l'outil PDM est en cours de finalisation  \navec le soutien de CaLP au niveau r\u00e9gional. Enfin, la FAO a pr\u00e9sent\u00e9 son premier  \nrapport PDM, et deux autres membres m\u00e8neront le m\u00eame exercice lundi prochain.  \n\u2022 Une r\u00e9flexion a \u00e9t\u00e9 engag\u00e9e pour une analyse en concertation avec CALP. Par ailleurs,  \nil est recommand\u00e9 de revoir l'appellation entre impact ou effet).",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235231",
+            "date": {
+                "original": "2026-09-20T00:00:00+00:00",
+                "changed": "2026-10-22T14:08:39+00:00",
+                "created": "2026-10-22T14:06:00+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235231"
+    },
+    {
+        "id": "4235222",
+        "score": 1,
+        "fields": {
+            "title": "Tchad - R\u00e9union Cash Travail Group Compte Rendu - Aout 2026",
+            "body": "Lieu : Salle de r\u00e9union Bureau conjoint des Nations Unies (OCHA)  \nHeure : 10h10min \u00e0 12h00  \nDate : 25 ao\u00fbt 2026  \nLieu : Bureau OCHA, N'Djamena  \nParticipants  \nEn pr\u00e9sentiel : FLM, ACTED, PAM, Caritas Suisse, INTERSOS, CRT/CWG, PFSAP, ADSET, APSELPA,  \nCWG.  \nEn ligne : AFDI, Ambassade des \u00c9tats-Unis, ASHDR, BAOBAB, CALP, Caritas Gor\u00e9, CICR, CONCERN,  \nCRS, CWG, DRC, FLM, FAO (Lac), HULO, IRC, JRS, NRC, OCHA/IM, OXFAM, PAM, RECAP/  \nDeD, WVI.  \n1\\. Suivi des recommandations  \nRevue et validation du compte rendu pr\u00e9c\u00e9dent  \nLe compte rendu de la r\u00e9union pr\u00e9c\u00e9dente a \u00e9t\u00e9 examin\u00e9 par les membres et valid\u00e9, sous r\u00e9serve  \ndes \u00e9ventuelles observations formul\u00e9es en s\u00e9ance.  \nSuivi des points d'action  \nLes participants ont pass\u00e9 en revue l'\u00e9tat d'avancement des actions convenues lors de la pr\u00e9c\u00e9dente  \nr\u00e9union. Les responsables concern\u00e9s ont partag\u00e9 les progr\u00e8s r\u00e9alis\u00e9s ainsi que les activit\u00e9s  \ntoujours en cours.  \n2\\. D\u00e9briefing de la mission conjointe CSA-CWG-MASSAH  \nUne restitution de la mission conjointe men\u00e9e du 10 au 14 ao\u00fbt 2026 dans la province du Lac  \npar le Cluster S\u00e9curit\u00e9 Alimentaire (CSA), le Cash Working Group (CWG) et le Minist\u00e8re de l'Action  \nSociale, de la Solidarit\u00e9 et des Affaires Humanitaires (MASSAH) a \u00e9t\u00e9 pr\u00e9sent\u00e9e.  \nPrincipaux \u00e9l\u00e9ments discut\u00e9s  \n\u2022 Situation humanitaire observ\u00e9e dans les localit\u00e9s visit\u00e9es.  \n\u2022 Principaux besoins identifi\u00e9s parmi les populations affect\u00e9es.  \n\u2022 Faisabilit\u00e9 des interventions mon\u00e9taires et des distributions en nature.  \n\u2022 D\u00e9fis op\u00e9rationnels rencontr\u00e9s par les acteurs humanitaires.  \n\u2022 Recommandations pour les interventions futures.  \nRecommandations  \n\u2022 Poursuivre l'analyse des march\u00e9s dans les zones concern\u00e9es.  \n\u2022 Renforcer la coordination entre les acteurs intervenant en assistance mon\u00e9taire et en  \ns\u00e9curit\u00e9 alimentaire.  \n\u2022 Partager le rapport final de mission avec l'ensemble des partenaires.  \n3\\. Rapportage 3W du deuxi\u00e8me trimestre 2026  \nPr\u00e9sentation de la matrice 3W  \nL\u2019\u00e9volution du rapportage de la matrice 3W du deuxi\u00e8me trimestre 2026 a \u00e9t\u00e9 pr\u00e9sent\u00e9e aux  \nparticipants. Il a \u00e9t\u00e9 recommand\u00e9 \u00e0 compl\u00e9ter les informations manquantes, soumettre leurs  \ndonn\u00e9es actualis\u00e9es d'ici la fin du mois d'ao\u00fbt et aussi veiller \u00e0 la qualit\u00e9 et \u00e0 l'exhaustivit\u00e9 des  \ndonn\u00e9es rapport\u00e9es.  \nActions convenues  \n\u2022 Finaliser la consolidation des donn\u00e9es.  \n\u2022 Diffuser la version actualis\u00e9e de la matrice aupr\u00e8s de l'ensemble des partenaires ainsi  \nqu\u2019au bureau r\u00e9gional de OCHA \u00e0 Dakar",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235222",
+            "date": {
+                "original": "2026-08-30T00:00:00+00:00",
+                "changed": "2026-10-22T14:01:34+00:00",
+                "created": "2026-10-22T14:00:27+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235222"
+    },
+    {
         "id": "4235184",
         "score": 1,
         "fields": {
             "title": "Central African Republic: Situation Report No. 90, as of 20 October 2026",
-            "body": "**HIGHLIGHTS**\n\n- Insecurity triggers population displacement in Ouham-Fafa\n- HIV prevention: more than 500 people screened in Mbomou\n\n**GENERAL CONTEXT**\n\nMbomou Prefecture \u2013 South-East\n\n- On 16 October, a multisectoral needs assessment mission was unable to reach the locality of Nzako due to access constraints related to the poor condition of road infrastructure. Heavy rainfall recorded in recent weeks has significantly deteriorated the Bakouma\u2013Nzako road, hampering the mobility of humanitarian actors. Approximately 20 km from Nzako, several vehicles in the mission convoy became stuck in the mud, immobilizing the convoy for nearly 24 hours. In the absence of conditions allowing traffic to resume under acceptable safety conditions, the team was forced to turn back. As a result, the planned multisectoral assessment in Nzako could not be carried out as scheduled, limiting the ability of humanitarian actors to comprehensively assess and respond to needs and to obtain an updated analysis of the situation in the locality.\n\nOuham-Fafa Prefecture \u2013 North-West\n\n- On 14 October, preventive population movements were reported from the villages of Bondili (located 114 km north-west of Batangafo) and Bode, where more than 900 people left their communities to move towards the Kambakota axis or seek refuge in the bush. These movements followed fears of reprisals after the killing of a civilian by armed elements. Access constraints and limitations on independent verification do not, at this stage, allow confirmation of the exact scale of the reported displacement. The situation remains of concern due to the persistent risk of reprisals, threats to civilian protection and the potential for further population displacement.\n\n**HUMANITARIAN NEEDS AND RESPONSE**\n\n **Health**\n\nMbomou Prefecture \u2013 South-East\n\n- From 12 to 16 October, the French Red Cross, in collaboration with the Bangassou Health District, conducted an HIV and viral hepatitis screening campaign in the health centres of Maliko and Bangui-Ville, as well as Bangond\u00e9 Hospital. A total of 586 people were screened. Among them, nine tested positive for HIV and 116 tested positive for hepatitis B and were referred to appropriate care and treatment services. The activity aimed to strengthen early diagnosis and improve access to health services for populations in the intervention area.\n\n**Protection**\n\nBamingui-Bangoran Prefecture \u2013 North-East\n\n- From 12 to 15 October 2026, the Comit\u00e9 international pour l'aide d'urgence et le d\u00e9veloppement (CIAUD), through its mobile team, conducted protection monitoring activities in Bamingui-Bangoran Prefecture. A total of 11 protection incidents were identified and documented. All reported incidents involved cases of GBV. Girls were the most affected, accounting for eight of the 11 documented cases. In addition, a community awareness-raising session on the risks and consequences of early and/or forced marriage was organized in the Sultan1 neighbourhood. The activity reached more than 66 people with prevention and protection messages.",
+            "body": "**HIGHLIGHTS**\n\n- Insecurity triggers population displacement in Ouham-Fafa\n- HIV prevention: more than 500 people screened in Mbomou\n\n**GENERAL CONTEXT**\n\nMbomou Prefecture \u2013 South-East\n\n- On 16 October, a multisectoral needs assessment mission was unable to reach the locality of Nzako due to access constraints related to the poor condition of road infrastructure. Heavy rainfall recorded in recent weeks has significantly deteriorated the Bakouma\u2013Nzako road, hampering the mobility of humanitarian actors. Approximately 20 km from Nzako, several vehicles in the mission convoy became stuck in the mud, immobilizing the convoy for nearly 24 hours. In the absence of conditions allowing traffic to resume under acceptable safety conditions, the team was forced to turn back. As a result, the planned multisectoral assessment in Nzako could not be carried out as scheduled, limiting the ability of humanitarian actors to comprehensively assess and respond to needs and to obtain an updated analysis of the situation in the locality.\n\nOuham-Fafa Prefecture \u2013 North-West\n\n- On 14 October, preventive population movements were reported from the villages of Bondili (located 114 km north-west of Batangafo) and Bode, where more than 900 people left their communities to move towards the Kambakota axis or seek refuge in the bush. These movements followed fears of reprisals after the killing of a civilian by armed elements. Access constraints and limitations on independent verification do not, at this stage, allow confirmation of the exact scale of the reported displacement. The situation remains of concern due to the persistent risk of reprisals, threats to civilian protection and the potential for further population displacement.\n\n**HUMANITARIAN NEEDS AND RESPONSE**\n\n**Health**\n\nMbomou Prefecture \u2013 South-East\n\n- From 12 to 16 October, the French Red Cross, in collaboration with the Bangassou Health District, conducted an HIV and viral hepatitis screening campaign in the health centres of Maliko and Bangui-Ville, as well as Bangond\u00e9 Hospital. A total of 586 people were screened. Among them, nine tested positive for HIV and 116 tested positive for hepatitis B and were referred to appropriate care and treatment services. The activity aimed to strengthen early diagnosis and improve access to health services for populations in the intervention area.\n\n**Protection**\n\nBamingui-Bangoran Prefecture \u2013 North-East\n\n- From 12 to 15 October 2026, the Comit\u00e9 international pour l'aide d'urgence et le d\u00e9veloppement (CIAUD), through its mobile team, conducted protection monitoring activities in Bamingui-Bangoran Prefecture. A total of 11 protection incidents were identified and documented. All reported incidents involved cases of GBV. Girls were the most affected, accounting for eight of the 11 documented cases. In addition, a community awareness-raising session on the risks and consequences of early and/or forced marriage was organized in the Sultan1 neighbourhood. The activity reached more than 66 people with prevention and protection messages.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
                 "id": 54,
@@ -35,7 +173,7 @@
             "url": "https://reliefweb.int/node/4235184",
             "date": {
                 "original": "2026-10-22T00:00:00+00:00",
-                "changed": "2026-10-22T11:01:43+00:00",
+                "changed": "2026-10-22T13:38:51+00:00",
                 "created": "2026-10-22T10:56:52+00:00"
             }
         },
@@ -45,7 +183,7 @@
         "id": "4235180",
         "score": 1,
         "fields": {
-            "title": "R\u00e9publique centrafricaine : Rapport de situation N\u00b0 90 au 20 octobre 2026",
+            "title": "R\u00e9publique centrafricaine : Rapport de situation N\u00b0 90 (au 20 octobre 2026)",
             "body": "**FAITS SAILLANTS**\n\n- L\u2019ins\u00e9curit\u00e9 entraine des d\u00e9placements de population dans l\u2019Ouham-Fafa\n- Pr\u00e9vention contre le VIH : plus de 500 personnes d\u00e9pist\u00e9es dans le Mbomou\n\n**CONTEXTE G\u00c9N\u00c9RAL**\n\nPr\u00e9fecture du Mbomou \u2013 Sud-Est\n\n- Le 16 octobre, une mission d\u2019\u00e9valuation multisectorielle des besoins n\u2019a pas pu atteindre la localit\u00e9 de Nzako en raison de contraintes d\u2019acc\u00e8s li\u00e9es \u00e0 l\u2019\u00e9tat des infrastructures routi\u00e8res. Les fortes pluies enregistr\u00e9es ces derni\u00e8res semaines ont consid\u00e9rablement d\u00e9grad\u00e9 l\u2019axe Bakouma-Nzako, entravant la mobilit\u00e9 des acteurs humanitaires. \u00c0 environ 20 km de Nzako, plusieurs v\u00e9hicules de la mission se sont embourb\u00e9s, immobilisant le convoi pendant pr\u00e8s de 24 heures. En l\u2019absence de conditions permettant de r\u00e9tablir la circulation dans des conditions de s\u00e9curit\u00e9 acceptables, l\u2019\u00e9quipe a \u00e9t\u00e9 contrainte de faire demi-tour. L\u2019\u00e9valuation multisectorielle pr\u00e9vue \u00e0 Nzako n\u2019a, par cons\u00e9quent, pas pu \u00eatre r\u00e9alis\u00e9e, limitant la capacit\u00e9 des acteurs humanitaires \u00e0 \u00e9valuer et \u00e0 r\u00e9pondre aux besoins de fa\u00e7on exhaustive et \u00e0 disposer d\u2019une analyse actualis\u00e9e de la situation dans cette localit\u00e9.\n\nPr\u00e9fecture de l\u2019Ouham-Fafa \u2013 Nord-Ouest\n\n- Le 14 octobre, des mouvements pr\u00e9ventifs de population ont \u00e9t\u00e9 signal\u00e9s depuis les villages de Bondili (si-tu\u00e9 \u00e0 114 km au nord-ouest de Batangafo) et de Bode, o\u00f9 plus de 900 personnes ont quitt\u00e9 leurs localit\u00e9s pour rejoindre l\u2019axe Kambakota ou se r\u00e9fugier dans la brousse. Ces d\u00e9placements font suite \u00e0 des craintes de repr\u00e9sailles apr\u00e8s le meurtre d\u2019un civil par des \u00e9l\u00e9ments arm\u00e9s. Les contraintes d\u2019acc\u00e8s et les limitations en mati\u00e8re de v\u00e9rification ind\u00e9pendante ne permettent pas, \u00e0 ce stade, de confirmer l\u2019ampleur exacte des d\u00e9placements rapport\u00e9s. La situation demeure pr\u00e9occupante en raison des risques persistants de repr\u00e9sailles, des menaces pesant sur la protection des civils et de la possibilit\u00e9 de nouveaux d\u00e9placements de population.\n\n**BESOINS ET R\u00c9PONSE HUMANITAIRE**\n\n**Sant\u00e9**\n\nPr\u00e9fecture du Mbomou \u2013 Sud-Est\n\n- Du 12 au 16 octobre, la Croix-Rouge fran\u00e7aise, en collaboration avec le district sanitaire de Bangassou, a men\u00e9 une campagne de d\u00e9pistage du VIH et des h\u00e9patites virales dans les centres de sant\u00e9 de Maliko, de Bangui-Ville et l\u2019h\u00f4pital de Bangond\u00e9. 586 personnes ont b\u00e9n\u00e9fici\u00e9 de ce d\u00e9pistage. Parmi elles, neuf ont test\u00e9 positives au VIH et 116 positives \u00e0 l\u2019h\u00e9patite B et ont \u00e9t\u00e9 orient\u00e9es vers les services de prise en charge appropri\u00e9s. Cette activit\u00e9 visait \u00e0 renforcer le diagnostic pr\u00e9coce et l\u2019acc\u00e8s aux services de sant\u00e9 pour les populations de la zone d\u2019intervention.\n\n**Protection**\n\nPr\u00e9fecture de la Bamingui-Bangoran \u2013 Nord-Est\n\n- Du 12 au 15 octobre 2026, le Comit\u00e9 international pour l'aide d'urgence et le d\u00e9veloppement (CIAUD), \u00e0 travers son \u00e9quipe mobile, a men\u00e9 des activit\u00e9s de monitoring de protection dans la pr\u00e9fecture de Bamin-gui-Bangoran. Au total, 11 incidents de protection ont \u00e9t\u00e9 identifi\u00e9s et document\u00e9s. L\u2019ensemble des incidents rapport\u00e9s concernaient des cas de VBG. Les filles ont \u00e9t\u00e9 les plus affect\u00e9es, repr\u00e9sentant huit des 11 cas document\u00e9s. Par ailleurs, une s\u00e9ance de sensibilisation communautaire sur les risques et les cons\u00e9quences du mariage pr\u00e9coce et/ou forc\u00e9 a \u00e9t\u00e9 organis\u00e9e dans le quartier Sultan 1. Cette activit\u00e9 a permis d\u2019atteindre plus de 66 personnes avec des messages de pr\u00e9vention et de protection.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
@@ -77,7 +215,7 @@
             "url": "https://reliefweb.int/node/4235180",
             "date": {
                 "original": "2026-10-22T00:00:00+00:00",
-                "changed": "2026-10-22T10:54:51+00:00",
+                "changed": "2026-10-22T13:28:01+00:00",
                 "created": "2026-10-22T10:52:00+00:00"
             }
         },
@@ -1667,126 +1805,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4234623"
-    },
-    {
-        "id": "4234605",
-        "score": 1,
-        "fields": {
-            "title": "Au Beach Ngobila de Kinshasa, la technologie renforce le bouclier sanitaire entre Kinshasa et Brazzaville",
-            "body": "Chaque jour, des milliers de voyageurs traversent le fleuve Congo entre Kinshasa et Brazzaville, reliant les deux capitales les plus proches du monde. Au Beach Ngobila, principal point de passage fluvial entre les deux villes, une nouvelle ligne de d\u00e9fense se renforce discr\u00e8tement contre les menaces sanitaires.\n\nLors de sa visite sur le site dimanche 18 octobre 2026, le Directeur r\u00e9gional de l\u2019OMS pour l\u2019Afrique, le Professeur Mohamed Yakub Janabi, a observ\u00e9 les op\u00e9rations de d\u00e9pistage des passagers et l'utilisation d'outils num\u00e9riques destin\u00e9s \u00e0 am\u00e9liorer la surveillance sanitaire aux fronti\u00e8res.\n\n\u00ab Aujourd\u2019hui, j\u2019ai visit\u00e9 les op\u00e9rations de d\u00e9pistage des passagers au Beach Ngobila, un point de travers\u00e9e fluviale essentiel reliant Kinshasa \u00e0 Brazzaville. J\u2019ai \u00e9t\u00e9 encourag\u00e9 de constater comment l\u2019innovation num\u00e9rique renforce notre capacit\u00e9 \u00e0 d\u00e9tecter pr\u00e9cocement les cas d\u2019Ebola, \u00e0 am\u00e9liorer le tra\u00e7age des contacts et \u00e0 pr\u00e9venir la propagation de la maladie au-del\u00e0 des fronti\u00e8res \u00bb, a-t-il d\u00e9clar\u00e9.\n\nAu c\u0153ur de ce dispositif se trouve la plateforme Preparedness Data Exchange (PDX), soutenue par l\u2019OMS pour renforcer la pr\u00e9paration et la surveillance des urgences de sant\u00e9 publique. Gr\u00e2ce \u00e0 ce syst\u00e8me num\u00e9rique, les donn\u00e9es sont collect\u00e9es plus rapidement, partag\u00e9es en temps r\u00e9el et exploit\u00e9es plus efficacement pour d\u00e9tecter les risques potentiels avant qu'ils ne se transforment en flamb\u00e9es \u00e9pid\u00e9miques.\n\nPour le Professeur Janabi, ces avanc\u00e9es illustrent l\u2019importance d\u2019investir dans des syst\u00e8mes modernes de surveillance sanitaire.\n\n\u00ab Gr\u00e2ce \u00e0 son plaidoyer en faveur du renforcement des syst\u00e8mes de pr\u00e9paration et de surveillance, l\u2019OMS soutient le d\u00e9ploiement de la plateforme Preparedness Data Exchange (PDX), qui permet de collecter des donn\u00e9es plus rapidement et de mani\u00e8re plus fiable, tout en facilitant le partage d\u2019informations en temps r\u00e9el. \u00bb\n\nCette innovation rev\u00eat une importance particuli\u00e8re dans un contexte o\u00f9 les populations des deux rives entretiennent des liens \u00e9troits et traversent quotidiennement le fleuve pour le travail, le commerce ou les \u00e9changes familiaux.\n\n\u00ab Kinshasa et Brazzaville, les deux capitales les plus proches au monde, sont unies par des liens sociaux, \u00e9conomiques et culturels \u00e9troits. Prot\u00e9ger les communaut\u00e9s des deux c\u00f4t\u00e9s n\u00e9cessite une action coordonn\u00e9e, une responsabilit\u00e9 partag\u00e9e et des investissements durables dans la pr\u00e9paration aux urgences sanitaires \u00bb, a soulign\u00e9 le Directeur r\u00e9gional.\n\nLa coop\u00e9ration transfrontali\u00e8re franchira d\u2019ailleurs une nouvelle \u00e9tape avec la mise en service prochaine d\u2019un syst\u00e8me \u00e9lectronique similaire \u00e0 Brazzaville.\n\n\u00ab Je me r\u00e9jouis qu\u2019un syst\u00e8me \u00e9lectronique de d\u00e9pistage similaire soit mis en service \u00e0 Brazzaville la semaine prochaine, renfor\u00e7ant davantage la collaboration transfrontali\u00e8re et la s\u00e9curit\u00e9 sanitaire des populations des deux pays et au-del\u00e0 \u00bb, a-t-il ajout\u00e9.\n\nAu Beach Ngobila, cette initiative d\u00e9montre comment l\u2019innovation num\u00e9rique, les partenariats et le leadership en sant\u00e9 publique peuvent transformer la pr\u00e9paration aux \u00e9pid\u00e9mies en une v\u00e9ritable premi\u00e8re ligne de d\u00e9fense au service des populations.\n\nComme l\u2019a rappel\u00e9 le Professeur Janabi : \u00ab C\u2019est un exemple concret de la mani\u00e8re dont le plaidoyer de l\u2019OMS, l\u2019innovation et les partenariats aident les pays \u00e0 mieux se prot\u00e9ger contre les menaces pour la sant\u00e9 publique, en faisant de la pr\u00e9paration notre premi\u00e8re ligne de d\u00e9fense. \u00bb\n\n**Contacts m\u00e9dias**\n\n**Eugene Kabambi**\n\nCommunications Officer\n\nWHO DRC\n\nTel : +243 81 715 1697  \nOffice : +47 241 39 027  \nEmail: kabambie@who.int",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234605",
-            "date": {
-                "original": "2026-10-18T00:00:00+00:00",
-                "changed": "2026-10-19T06:45:55+00:00",
-                "created": "2026-10-19T06:44:42+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234605"
-    },
-    {
-        "id": "4234575",
-        "score": 1,
-        "fields": {
-            "title": "Fiche d\u2019information MSNA 2026 - \u00c9valuation multisectorielle des besoins Zone \u00e0 accessibilit\u00e9 limit\u00e9e, Province du Nord-Kivu, R\u00e9publique D\u00e9mocratique du Congo (RDC)",
-            "body": "**Zones de sant\u00e9 d\u2019Alimbongo, Bambo, Biena, Birambizo, Itebero, Kamango, Kibirizi, Kibua, Mabalako, Manguredjipa, Masisi et Pinga**\n\n**CONTEXTE**\n\nL\u2019est de la RDC reste marqu\u00e9 par une crise humanitaire prolong\u00e9e et complexe, caract\u00e9ris\u00e9e par des d\u00e9placements croissants et des besoins humanitaires importants. En 2026, plus de 3,2 millions de personnes sont confront\u00e9es \u00e0 une ins\u00e9curit\u00e9 alimentaire aigu\u00eb de niveau urgence (phase 4 de l\u2019IPC), tandis que les capacit\u00e9s de r\u00e9ponse demeurent insuffisantes. Les d\u00e9placements, la perte des moyens d\u2019existence, les difficult\u00e9s d\u2019acc\u00e8s aux services essentiels et les contraintes s\u00e9curitaires et logistiques aggravent les vuln\u00e9rabilit\u00e9s et limitent l\u2019acc\u00e8s humanitaire ainsi que la disponibilit\u00e9 de donn\u00e9es fiables. Afin de contribuer \u00e0 combler ces lacunes informationnelles, REACH met en oeuvre en 2026 une \u00c9valuation multisectorielle des besoins (MSNA) dans les cinq provinces de l\u2019est de la RDC dont Ituri, Nord-Kivu, Sud-Kivu, Maniema et Tanganyika. Cette \u00e9valuation vise \u00e0 fournir des donn\u00e9es r\u00e9centes, fiables, robustes et comparables sur la nature et la s\u00e9v\u00e9rit\u00e9 des besoins humanitaires, au niveau des zones de sant\u00e9, afin d\u2019alimenter l\u2019Aper\u00e7u des besoins humanitaires (HNO) et le cycle de programmation humanitaire (HPC) 2027. Sa m\u00e9thodologie est d\u00e9taill\u00e9e dans les [Termes de r\u00e9f\u00e9rences](https://repository.impact-initiatives.org/document/impact/34e8a812/DRC2603_MSNA_TDR_2026_version-finale.pdf) et les produits d\u2019information li\u00e9s \u00e0 ce projet sont disponibles sur le [Centre de Ressources](https://www.impact-initiatives.org/resource-centre/).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9965",
-                    "id": 9965,
-                    "name": "REACH Initiative",
-                    "shortname": "REACH",
-                    "longname": "REACH Initiative",
-                    "homepage": "http://www.reach-initiative.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234575",
-            "date": {
-                "original": "2026-10-16T00:00:00+00:00",
-                "changed": "2026-10-19T02:46:57+00:00",
-                "created": "2026-10-19T02:26:54+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234575"
-    },
-    {
-        "id": "4234565",
-        "score": 1,
-        "fields": {
-            "title": "Suivi des urgences - Mouvements de populations I Synth\u00e8se de d\u00e9placement \u00c0 Faya et Ounianga-K\u00e9bir - Tchad | Tableau de bord : 232 | Collecte des donn\u00e9es : 13-14 octobre 2026 | Date de publication : 16 octobre 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4234565",
-            "date": {
-                "original": "2026-10-16T00:00:00+00:00",
-                "changed": "2026-10-19T02:53:14+00:00",
-                "created": "2026-10-19T02:05:41+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4234565"
     }
 ]
