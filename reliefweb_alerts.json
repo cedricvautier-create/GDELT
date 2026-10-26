@@ -1,5 +1,494 @@
 [
     {
+        "id": "4235541",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR RBWCA - Democratic Republic of the Congo refugees situation - September 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235541",
+            "date": {
+                "original": "2026-10-20T00:00:00+00:00",
+                "changed": "2026-10-26T12:26:03+00:00",
+                "created": "2026-10-26T12:03:35+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235541"
+    },
+    {
+        "id": "4235540",
+        "score": 1,
+        "fields": {
+            "title": "UNHCR RBWCA - Principal Refugees, IDPs and Stateless Persons - September 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235540",
+            "date": {
+                "original": "2026-10-20T00:00:00+00:00",
+                "changed": "2026-10-26T12:21:42+00:00",
+                "created": "2026-10-26T12:03:25+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235540"
+    },
+    {
+        "id": "4235528",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Tableau de bord de l'Education au 30 juin 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235528",
+            "date": {
+                "original": "2026-10-15T00:00:00+00:00",
+                "changed": "2026-10-26T12:19:11+00:00",
+                "created": "2026-10-26T11:03:31+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235528"
+    },
+    {
+        "id": "4235519",
+        "score": 1,
+        "fields": {
+            "title": "RDC Cluster Education_ Contacts des Coordonnateurs",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235519",
+            "date": {
+                "original": "2026-10-26T00:00:00+00:00",
+                "changed": "2026-10-26T10:16:00+00:00",
+                "created": "2026-10-26T10:15:50+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235519"
+    },
+    {
+        "id": "4235515",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - D\u00e9termination du Statut de R\u00e9fugi\u00e9 (DSR) au 30 septembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235515",
+            "date": {
+                "original": "2026-10-22T00:00:00+00:00",
+                "changed": "2026-10-26T11:39:52+00:00",
+                "created": "2026-10-26T10:04:21+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235515"
+    },
+    {
+        "id": "4235513",
+        "score": 1,
+        "fields": {
+            "title": "Democratic Republic of the Congo - Voluntary Repatriation from/to DRC (30 September 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235513",
+            "date": {
+                "original": "2026-10-23T00:00:00+00:00",
+                "changed": "2026-10-26T11:39:24+00:00",
+                "created": "2026-10-26T10:04:05+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235513"
+    },
+    {
+        "id": "4235512",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Tableau de bord national du rapatriement volontaire au 30 septembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235512",
+            "date": {
+                "original": "2026-10-23T00:00:00+00:00",
+                "changed": "2026-10-26T11:39:15+00:00",
+                "created": "2026-10-26T10:03:54+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235512"
+    },
+    {
+        "id": "4235511",
+        "score": 1,
+        "fields": {
+            "title": "Democratic Republic of the Congo - DRC At A Glance - 30 September 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235511",
+            "date": {
+                "original": "2026-10-25T00:00:00+00:00",
+                "changed": "2026-10-26T11:38:52+00:00",
+                "created": "2026-10-26T10:03:44+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235511"
+    },
+    {
+        "id": "4235510",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - La RDC en bref - 30 septembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235510",
+            "date": {
+                "original": "2026-10-25T00:00:00+00:00",
+                "changed": "2026-10-26T11:38:17+00:00",
+                "created": "2026-10-26T10:03:32+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235510"
+    },
+    {
+        "id": "4235509",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Statistiques mensuelles des r\u00e9fugi\u00e9s et des demandeurs d'asile - 30 septembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235509",
+            "date": {
+                "original": "2026-10-26T00:00:00+00:00",
+                "changed": "2026-10-26T11:37:09+00:00",
+                "created": "2026-10-26T10:03:21+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235509"
+    },
+    {
+        "id": "4235517",
+        "score": 1,
+        "fields": {
+            "title": "Rapport circonstanci\u00e9 sur la situation \u00e9pid\u00e9miologique de la MVE en milieu scolaire au Grand Nord Kivu",
+            "body": "Ce rapport sur la situation \u00e9pid\u00e9miologique de la Maladie de Virus Ebola (MVE) en milieu scolaire est la situation officielle communiqu\u00e9e par la Province Educationnelle de Nord- Kivu 2 \u00e0 la date du 23 octobre 2026. Il fait \u00e9tat de 40 personnes infect\u00e9es a l'ecole (37 cas d'\u00e9l\u00e8ves et 3 cas d'enseignants confirmes positifs \u00e0 la maladie a Virus Ebola dans 35 \u00e9coles de 6 sous divisions \u00e9ducationnelles. Sur ces 40 personnes infect\u00e9es, il a \u00e9t\u00e9 rapport\u00e9 7 cas de gu\u00e9ris, 9 cas sous traitement et 24 cas de d\u00e9c\u00e8s.\n\nLe grand d\u00e9fi reste l'accompagnement des \u00e9tablissements scolaires \u00e0 mettre en place les m\u00e9canismes pour la protection des enfants et du personnel \u00e9ducatif. Le besoin exprim\u00e9 pour cette province \u00e9ducationnelle est la couverture de 2800 \u00e9coles affect\u00e9es par la MVE avec un impact sur l'\u00e9ducation de 806968 \u00e9l\u00e8ves (433241 filles) pour un montant de USD 3,860,192 \u00e0 raison de USD 1,378.64 par \u00e9cole (cf Paquet minimum harmonis\u00e9 de PCI/ WASH 2026)..",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235517",
+            "date": {
+                "original": "2026-10-26T00:00:00+00:00",
+                "changed": "2026-10-26T10:09:05+00:00",
+                "created": "2026-10-26T08:48:54+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235517"
+    },
+    {
         "id": "4235477",
         "score": 1,
         "fields": {
@@ -100,13 +589,14 @@
             },
             "source": [
                 {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
                     "type": {
                         "id": 272,
                         "name": "International Organization"
@@ -116,18 +606,59 @@
             "url": "https://reliefweb.int/node/4235469",
             "date": {
                 "original": "2026-10-25T00:00:00+00:00",
-                "changed": "2026-10-26T00:52:32+00:00",
+                "changed": "2026-10-26T05:56:23+00:00",
                 "created": "2026-10-26T00:52:32+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4235469"
     },
     {
+        "id": "4235427",
+        "score": 1,
+        "fields": {
+            "title": "Disease Outbreak News: Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo, Kenya and Nigeria (23 October 2026)",
+            "body": "Since the publication of the previous Disease Outbreak News on 8 October 2026, the Bundibugyo virus disease (BVD) outbreak has expanded geographically in the Democratic Republic of the Congo, as well as in the African Region, with Kenya and Nigeria reporting imported cases. Sustained, high-level transmission continues in the Democratic Republic of the Congo. As of 20 October 2026, a total of 9704 confirmed cases, including 4687 deaths (crude case fatality ratio: 48.3%), have been reported across 66 health zones in eight provinces. The high proportion of deaths occurring in communities continues to highlight challenges in early case detection and timely access to appropriate care. Of the 482 deaths reported since the previous update, 307 occurred in communities and 175 in treatment centres. On 6 October 2026, the Ministry of Health of Kenya reported the first laboratory-confirmed imported case of BVD in Kenya in an individual who had travelled from the Democratic Republic of the Congo to Kenya via Uganda. As of 20 October 2026, a total of nine cases of BVD including one death, has been reported in Kenya. The eight additional cases are all known contacts of the first imported case. There is currently no evidence of wider community transmission. On 20 October 2026, Nigeria confirmed an imported case in the Federal Capital Territory Abuja in a patient who had travelled from Uganda to the country. The patient is currently in isolation and receiving medical care. Further investigations are ongoing to better understand the complete travel history and the possible source of exposure. These developments underscore the need for sustained readiness in the region, including cross-border surveillance, points of entry monitoring, timely case detection and coordinated preparedness and response measures. WHO advises against any restriction of travel to, or trade with, affected countries.\n\nSince the previous [Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619) was published on 8 October 2026, additional confirmed cases and deaths have been reported in the Democratic Republic of the Congo.\n\nCases have been reported in five countries since the declaration of the outbreak on 15 May 2026: the Democratic Republic of the Congo, Uganda, France, and more recently, Kenya and Nigeria. Nigeria is the fifth country affected by the ongoing outbreak, highlighting the continued risk of cross-border transmission.\n\n**Democratic Republic of the Congo**\n\nAn additional 976 confirmed cases, including 482 confirmed deaths, have been reported in the Democratic Republic of the Congo since the previous [Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON619) was published.\n\nIn the most recent 24-hour period, as of 20 October, 67 new confirmed cases were reported, with Ituri accounting for 37 cases, Nord Kivu for 29, and Tshopo for one case. No new cases were reported in Bas-U\u00e9l\u00e9, Haut-U\u00e9l\u00e9, Nord Ubangi, Sud Kivu or Sud-Ubangi during that period.\n\nAs of 20 October, cumulative confirmed cases have reached 9704, including 4687 deaths and 2595 recoveries. The overall crude CFR is 48.3%.\n\nConfirmed cases have now been identified in 66 health zones across eight provinces. Fifty of the 66 affected zones reported at least one new case during the preceding 21 days, while 16 reported no recent cases. Mandima, Beni and Bunia have reported the highest number of cases and deaths in the preceding 21 days. Ituri remains the most extensively affected province, with 28 of 36 health zones reporting cases during this outbreak, followed by Nord Kivu (17/34), Haut-U\u00e9l\u00e9 (7/13), Tshopo (7/23), Bas-U\u00e9l\u00e9 (4/11), Sud Kivu (1/34), Sud-Ubangi (1/16) and Nord-Ubangi (1/11). Nord-Ubangi is the most recently affected province reporting three confirmed cases including one death and Dakwa in Haut-U\u00e9l\u00e9 is the most recently affected health zone.\n\n**Figure 1. Distribution of cumulative confirmed cases of Bundibugyo virus disease in the Democratic Republic of the Congo, as of 20 October 2026**\n\nIturi remains the epicentre, with 7040 cumulative confirmed cases and 3271 deaths. Nord Kivu follows with 2146 confirmed cases and 1199 deaths, and continues to record the highest provincial CFR, at 55.9%. Haut-U\u00e9l\u00e9 has reported 421 cases and 183 deaths, while Tshopo has recorded 76 cases and 27 deaths. The less-affected provinces continue to report substantially fewer cases, but transmission persists in several of them. The continued occurrence of cases across multiple provinces shows that the outbreak remains geographically active even as intensity varies between health zones.\n\nOut of 30 130 contacts under follow-up across six provinces, 24 017 were seen in the last 24 hours corresponding to a follow-up rate of 79.7%, up from 77.8% the previous day, but remaining below the required threshold of 95.0%. Two provinces were at or above the 95.0% threshold: Bas-U\u00e9l\u00e9 (98.9%; 740/748) and Sud-Ubangi (97.3%; 109/112). Four provinces were below the threshold: Haut-U\u00e9l\u00e9 (89.9%; 1286/1430), Ituri (92.8% (6382/6879), with 7 contacts becoming suspected cases, Tshopo (83.7%; 1077/12 086) and Nord-Kivu (73.3%; 14 423/19 675), with performance in Nord-Kivu remaining insufficient. Strengthened contact follow-up is required, particularly in provinces below the target, to achieve the minimum threshold of 95%.\n\n**Figure 2: Number of confirmed Bundibugyo virus disease cases in the Democratic Republic of the Congo, by date of notification, as of 20 October 2026**\n\n**Figure 3: Number of deaths among confirmed Bundibugyo virus disease cases in the Democratic Republic of the Congo by date of notification, as of 20 October 2026.**\n\n**Kenya**\n\nOn 6 October 2026, the Ministry of Health of Kenya reported its first laboratory-confirmed imported case of BVD in an adult male who had travelled from the Democratic Republic of the Congo via Uganda by road and arrived in Nairobi on 3 October by air. The case had been ill with other comorbidities for approximately one month and received care at several hospitals in the Democratic Republic of the Congo. He was isolated upon arrival at a hospital in Nairobi. Samples collected on 5 October tested positive for Bundibugyo virus at two national laboratories. Despite supportive care, the patient died on 5 October and was given a safe and dignified burial on 6 October.\n\nAs of 20 October 2026, a total of nine cases, including one death, has been reported in Kenya. All eight secondary cases are epidemiologically linked to the imported index case and associated with one cluster. They include four family members and four health and care workers. All new cases were under quarantine at the time of symptom onset and are currently in isolation and receiving appropriate supportive care and treatment at two designated facilities.\n\nThere is currently no evidence of transmission outside this cluster.\n\nAs of 20 October, all of the 135 contacts have been traced and quarantined.\n\n**Figure 4: Number of confirmed Bundibugyo virus disease cases in Kenya, by date of notification, as of 21 October 2026**\n\n**Nigeria**\n\nOn 20 October 2026, Nigeria reported one laboratory-confirmed imported case of BVD in the Federal Capital Territory Abuja, becoming the fifth country to detect the virus since the outbreak was declared in the Democratic Republic of the Congo on 15 May 2026. The case developed symptoms on 7 October, four days after arriving in Nigeria, sought care in Abuja on 11 October and tested positive for Bundibugyo virus on 20 October 2026. The case is currently in isolation and receiving medical care.\n\nAs of 20 October, 44 contacts had been identified and are being monitored. National authorities, with support from WHO and partners, have intensified contact tracing, case investigation and infection prevention and control measures, including the provision of essential supplies and personal protective equipment for health workers. Investigations are ongoing to establish the likely source of infection and reconstruct the travel and exposure history. WHO has urged countries across the region to strengthen surveillance, laboratory diagnostic capacity, rapid response readiness and cross-border preparedness to mitigate the risk of further transmission.\n\nBundibugyo virus disease (BVD) is a severe Ebola disease caused by the Bundibugyo virus, one of the *Orthoebolavirus* species. It is a zoonotic disease, with fruit bats suspected to be the natural reservoir.\n\nHuman infection is thought to initially occur through close contact with the blood or secretions of infected wildlife, such as bats or non-human primates, and it subsequently spreads from person-to-person through direct contact with the blood, secretions, organs, or other bodily fluids of infected individuals or contaminated surfaces and materials. Transmission is particularly amplified in health-care settings when infection prevention and control (IPC) measures are inadequate, and during unsafe burial practices involving direct contact with deceased individuals.\n\nThe incubation period for BVD ranges from two to 21 days, and infected individuals are not infectious until symptom onset. Early symptoms such as fever, fatigue, muscle pain, headache, and sore throat are non-specific, which complicates clinical diagnosis and can delay detection. These symptoms then progress to gastrointestinal symptoms, organ dysfunction, and, in some cases, haemorrhagic manifestations.\n\nThe CFR from the previous two BVD outbreaks, reported in Uganda and in the Democratic Republic of the Congo in 2007 and 2012, were 30% and 50%, respectively.\n\nDifferentiating BVD from other endemic febrile illnesses such as malaria is challenging without laboratory confirmation. Outbreak control relies on rapid case identification and investigation, isolation and care, contact tracing, safe burials and strong community engagement, as no approved vaccines or specific treatments currently exist for BVD.\n\nSince first detected in May 2026, this BVD outbreak has rapidly evolved into a large and geographically expanding epidemic in the Democratic Republic of the Congo, with sustained transmission, high mortality and an increasing risk of further international spread. The current outbreak is the second documented Bundibugyo virus disease outbreak in the country, after the 2012 outbreak, and the largest Ebola disease outbreak ever recorded in the Democratic Republic of the Congo irrespective of virus species. The population at greatest risk of exposure is concentrated in communities living in and moving through the health areas with active transmission.\n\nFor detailed information about the ongoing public health response actions by the Ministry of Health, WHO and partners please refer to the latest situation reports published by the WHO Regional Office for Africa: [Ongoing outbreak in the Democratic Republic of the Congo \\| WHO \\| Regional Office for Africa](https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26).\n\n**Democratic Republic of the Congo**\n\nHealth authorities in the Democratic Republic of the Congo, in collaboration with WHO and partners, are continuing to implement and coordinate extensive public health measures. These include disease surveillance; laboratory testing; IPC; clinical care; community engagement; research; logistics; and support for response interventions and essential health services, including for the ongoing concurrent humanitarian crisis; engaging donors and mobilizing additional resources to address critical funding gaps and sustain response operations across affected and at-risk areas. A substantial scale-up is ongoing across all response pillars to get ahead of the outbreak.\n\nOn 23 October, the [TUMAINI](https://cepi.net/first-participant-vaccinated-pivotal-phase-23-bundibugyo-vaccine-trial-drc) vaccine trial was launched, with first participants enrolled in Bunia. TUMAINI is a pivotal Phase 2/3 clinical trial of vaccine candidates against Bundibugyo virus (BDBV). The trial is an important step towards generating the evidence needed to better protect people against BVD and prevent future outbreaks. WHO is actively supporting the trial, along with partners, with technical, scientific and operational expertise.\n\n**Kenya**\n\nHealth authorities in Kenya have implemented safe and dignified burial measures following the BVD-related death in Nairobi, while 135 contacts are currently under quarantine. Kenya has maintained a high level of Ebola preparedness since the outbreak began in the Democratic Republic of the Congo in May 2026; as of 22 October, 709 093 travellers have been screened, 461 samples tested across five laboratories. Kenyan authorities are also coordinating with counterparts in Uganda and the Democratic Republic of the Congo to establish the individual\u2019s movements in Uganda and implement any necessary public health measures.\n\n**Nigeria**\n\nThe National and State incident management system has been activated by the Nigeria Centre for Disease Control and Prevention to coordinate response. WHO and partners are working closely with health authorities to strengthen control measures, including case investigation, contact tracing, infection prevention and control, and provision of essential supplies including personal protective equipment for health workers. Nigeria has maintained a high level of alert for BVD since the outbreak began in the Democratic Republic of the Congo in May 2026.\n\nOn 14 August 2026, WHO reassessed the risk of the outbreak of BVD. The risk for countries sharing land borders with the Democratic Republic of the Congo was separated from the risk for other countries in the African Region.\n\nThe risk in the Democratic Republic of the Congo was assessed as very high, the risk for countries sharing land borders with the Democratic Republic of the Congo was assessed as high, and the risks for the rest of the African region and at the global level was again assessed as low. For further information, please see [WHO Rapid Risk Assessment-Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo v4](https://www.who.int/publications/m/item/who-rapid-risk-assessment-ebola-disease-caused-by-bundibugyo-virus--democratic-republic-of-the-congo-v4).\n\nIn light of the evolving situation and newly available information, the rapid risk assessment is currently being revised to reassess the risk in affected countries, the African region and globally.\n\nBased on the currently available information, WHO advises against any restriction of travel to, or trade with, affected countries.\n\nThe updated [Temporary Recommendations](https://www.who.int/news/item/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations) issued to States Parties on 24 August 2026 underscore the importance of coordinated outbreak control, strengthened cross\u2011border collaboration, and sustained surveillance and preparedness to prevent further regional spread and ensure an effective public health response. Rapid recognition of cases, testing and optimized supportive care can reduce mortality, and improve community perceptions and acceptance of health care within the response.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235427",
+            "date": {
+                "original": "2026-10-23T00:00:00+00:00",
+                "changed": "2026-10-26T04:31:38+00:00",
+                "created": "2026-10-23T19:03:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235427"
+    },
+    {
         "id": "4235399",
         "score": 1,
         "fields": {
             "title": "Central African Republic: Overview of incidents affecting humanitarian workers (September 2026)",
-            "body": "Since January 2026, 84 incidents have affected humanitarian workers in Central African Republic.  \nIn September, 14 incidents were reported, compared to six in August, an increase of 133 per cent.  \nThis increase may be related to the expansion of humanitarian activities in areas with the presence  \nof armed groups, as well as administrative restrictions. Despite mitigations measures, humanitarian  \npersonnel continue to be exposed to security incidents in high-risk areas. .  \nOut of 14 incidents recorded in September, the majority (nine) were criminals in nature, including six  \ncases of theft and three robberies. Four incidents involved harassment and interference affecting  \nhumanitarian movements, while one incident involved violence during road travel.  \nInternational NGOS were most affected organizations, with six incidents recorded, followed by  \nUnited Nations agencies with five incidents and national NGO with three incidents.  \nSince January 2026, the Vakaga prefecture has remained the most affected with 20 incidents  \nrecorded, followed by Bangui with 17 incidents and Haut-Mbomou with 16 incidents.",
+            "body": "Since January 2026, 84 incidents have affected humanitarian workers in Central African Republic.  \n In September, 14 incidents were reported, compared to six in August, an increase of 133 per cent.  \n This increase may be related to the expansion of humanitarian activities in areas with the presence  \n of armed groups, as well as administrative restrictions. Despite mitigations measures, humanitarian  \n personnel continue to be exposed to security incidents in high-risk areas. .  \n Out of 14 incidents recorded in September, the majority (nine) were criminals in nature, including six  \n cases of theft and three robberies. Four incidents involved harassment and interference affecting  \n humanitarian movements, while one incident involved violence during road travel.  \n International NGOS were most affected organizations, with six incidents recorded, followed by  \n United Nations agencies with five incidents and national NGO with three incidents.  \n Since January 2026, the Vakaga prefecture has remained the most affected with 20 incidents  \n recorded, followed by Bangui with 17 incidents and Haut-Mbomou with 16 incidents.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
                 "id": 54,
@@ -158,7 +689,7 @@
             "url": "https://reliefweb.int/node/4235399",
             "date": {
                 "original": "2026-10-23T00:00:00+00:00",
-                "changed": "2026-10-23T15:16:27+00:00",
+                "changed": "2026-10-26T12:15:47+00:00",
                 "created": "2026-10-23T15:13:47+00:00"
             }
         },
@@ -168,8 +699,8 @@
         "id": "4235398",
         "score": 1,
         "fields": {
-            "title": "R\u00e9publique centrafricaine : Aper\u00e7u des incidents ayant affect\u00e9 les travailleurs humanitaires (septembre2026)",
-            "body": "Depuis janvier 2026, 84 incidents ont affect\u00e9 les travailleurs humanitaires en R\u00e9publique  \ncentrafricaine. En septembre, 14 incidents ont \u00e9t\u00e9 signal\u00e9s, contre six en ao\u00fbt, soit une  \naugmentation de 133 %. Cette hausse pourrait \u00eatre li\u00e9e \u00e0 l\u2019augmentation des activit\u00e9s  \nhumanitaires dans des zones touch\u00e9es par la pr\u00e9sence de groupes arm\u00e9s, ainsi qu\u2019aux  \nrestrictions administratives. Malgr\u00e9 les mesures d\u2019att\u00e9nuation mises en place, personnel  \nhumanitaire demeure expos\u00e9 \u00e0 des incidents de s\u00e9curit\u00e9 dans les zones \u00e0 haut risque.  \nParmi les 14 incidents enregistr\u00e9s en septembre, la majorit\u00e9 (neuf incidents) \u00e9tait de  \nnature criminelle, dont six cas de vol et trois braquages. Quatre incidents concernaient  \ndes actes de harc\u00e8lement et d\u2019entrave aux mouvements humanitaires, tandis qu\u2019un  \nincident impliquait des violences lors d\u2019un d\u00e9placement par voie routi\u00e8re.  \nLes ONG internationales ont \u00e9t\u00e9 les plus touch\u00e9es, avec six incidents enregistr\u00e9s, suivies  \ndes agences des Nations Unies (cinq incidents) et des ONG nationales (trois incidents).  \nDepuis janvier 2026, la pr\u00e9fecture de la Vakaga demeure la plus affect\u00e9e avec 20  \nincidents recens\u00e9s, suivie de Bangui (17 incidents) et du Haut-Mbomou (16 incidents).",
+            "title": "R\u00e9publique centrafricaine : Aper\u00e7u des incidents ayant affect\u00e9 les travailleurs humanitaires (septembre 2026)",
+            "body": "Depuis janvier 2026, 84 incidents ont affect\u00e9 les travailleurs humanitaires en R\u00e9publique centrafricaine. En septembre, 14 incidents ont \u00e9t\u00e9 signal\u00e9s, contre six en ao\u00fbt, soit une augmentation de 133 %. Cette hausse pourrait \u00eatre li\u00e9e \u00e0 l\u2019augmentation des activit\u00e9s humanitaires dans des zones touch\u00e9es par la pr\u00e9sence de groupes arm\u00e9s, ainsi qu\u2019aux restrictions administratives. Malgr\u00e9 les mesures d\u2019att\u00e9nuation mises en place, personnel humanitaire demeure expos\u00e9 \u00e0 des incidents de s\u00e9curit\u00e9 dans les zones \u00e0 haut risque.  \n\nParmi les 14 incidents enregistr\u00e9s en septembre, la majorit\u00e9 (neuf incidents) \u00e9tait de nature criminelle, dont six cas de vol et trois braquages. Quatre incidents concernaient des actes de harc\u00e8lement et d\u2019entrave aux mouvements humanitaires, tandis qu\u2019un incident impliquait des violences lors d\u2019un d\u00e9placement par voie routi\u00e8re.\n\nLes ONG internationales ont \u00e9t\u00e9 les plus touch\u00e9es, avec six incidents enregistr\u00e9s, suivies des agences des Nations Unies (cinq incidents) et des ONG nationales (trois incidents).  \nDepuis janvier 2026, la pr\u00e9fecture de la Vakaga demeure la plus affect\u00e9e avec 20 incidents recens\u00e9s, suivie de Bangui (17 incidents) et du Haut-Mbomou (16 incidents).",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
                 "id": 54,
@@ -200,11 +731,51 @@
             "url": "https://reliefweb.int/node/4235398",
             "date": {
                 "original": "2026-10-23T00:00:00+00:00",
-                "changed": "2026-10-23T15:07:21+00:00",
+                "changed": "2026-10-26T11:48:06+00:00",
                 "created": "2026-10-23T15:04:43+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4235398"
+    },
+    {
+        "id": "4235393",
+        "score": 1,
+        "fields": {
+            "title": "Ebola reaches Nigeria and Kenya as DRC cases continue to soar - CARE",
+            "body": "## CARE warns of growing risks for women, girls and communities\n\n**October 23, 2026** \u2013 As Ebola crosses two international borders in just two weeks, CARE is warning that the outbreak threatens more than public health. From disrupted economies and strained health systems to interrupted education and lost livelihoods, the virus is putting additional pressure on communities already grappling with hunger, displacement, conflict and severe humanitarian funding cuts across the region. Women and girls will bear a disproportionate share of these impacts.\n\n\u201cThe true cost of an Ebola outbreak extends far beyond the number of infections,\u201d said **Michael Alandu, CARE\u2019s West and Central Africa Regional Director**. \u201cIt is measured in the mother forced to choose between caring for a sick relative and earning an income, the girl whose education is interrupted, the woman entrepreneur whose business grinds to a halt, and the pregnant woman unable to access the healthcare she needs. Ebola is not only a health crisis. It is a social and economic crisis that can deepen existing inequalities and set back progress for women and girls for years to come.\u201d\n\nWomen and girls face heightened risks during Ebola outbreaks. In many households, they are the primary caregivers for children, older relatives and sick family members, increasing their risk of exposure. In some communities, women also play a central role in burial practices, while pregnant women may face increased exposure through regular contact with health services. As health systems come under strain, women and girls often face reduced access to maternal healthcare and services that help prevent and respond to violence. Displacement and economic hardship can further increase the risk of violence, exploitation and exclusion from essential services.\n\nNigeria\u2019s first Ebola case, confirmed on Tuesday, and the nine cases reported in Kenya over the past two weeks mark a significant escalation of an outbreak that has now spread beyond the Democratic Republic of Congo (DRC). As transmission crosses borders, so too do the risks, threatening not only lives but economic activity, access to essential services and the capacity for survival in communities already struggling to withstand multiple overlapping crises.\n\n\u201cWe are deeply concerned by the confirmed Ebola case in Abuja and the risk of further spread,\u201d said **Hussaini Abdu, CARE Nigeria\u2019s Country Director**. \u201cRight now, the focus must be on rigorous contact tracing, daily monitoring, and rapid testing and compassionate care for anyone showing symptoms, alongside accurate, verified information so that fear and rumors do not take hold. In 2014, Nigeria demonstrated that Ebola can be contained through strong community engagement and coordinated action. We need that same speed, trust and global support and funding now.\u201d\n\n\u201cNairobi is a regional gateway, and the risk will persist as long as transmission continues in eastern DRC, where response efforts are struggling to keep pace with growing needs,\u201d said **Getrude Misango, CARE Kenya\u2019s Country Director**. \u201cClose coordination with neighboring countries is essential. We must act together now to contain this virus before it places even greater strain on overstretched health services and deepens hardship for families already struggling to put food on the table.\u201d\n\nCARE Kenya and CARE Nigeria stand ready to support government-led preparedness and response efforts alongside best-placed local organizations, communities and health authorities.\n\nIn the Democratic Republic of the Congo, where the virus has spread since May 2026, [confirmed cases have reached at least 9,704, with more than 4,680 related deaths](https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html?searchResultPosition=2). The virus has reached eight of the country\u2019s 26 provinces by affecting 66 health zones out of 178, including Sud-Ubangi, more than 1,000 kilometers from where the outbreak began in Ituri, and is moving through communities already pushed to the brink by hunger, displacement, disease and conflict.\n\n\u201cSince May, we have been mobilizing to ensure communities already facing years of hunger, displacement and conflict are not left alone to face this deadly outbreak on top of those existing needs,\u201d said **Cl\u00e9ment Nkubizi, CARE DRC Country Director**. \u201cThe world has contained Ebola before, including in the DRC, through rapid public health action, contact tracing and community engagement. But resources are far scarcer today, and understandably people feel abandoned. CARE is working with health authorities, local partners, and community leaders to strengthen awareness, surveillance, and infection prevention. Without urgent funding and a stronger response, the virus could spread further and place even greater strain on fragile health systems.\u201d\n\nIn response to the outbreak\u2019s spread, CARE has deployed emergency response teams to newly affected areas, including Bafwasende in Tshopo Province and South-Ubangi. Earlier this year, [the head of the WHO warned that at its current pace, the outbreak was on track to surpass the 2014-2016 West Africa Ebola epidemic, the deadliest in history, which killed more than 11,000 people out of more than 28,000 cases](https://www.bbc.com/news/articles/cgk4pex4mn8o).\n\nA successful response must therefore go beyond containing the virus to ensuring women and girls can safely access health care and protection services. This must include support for survivors of violence, livelihood support, and funding for local women\u2019s organizations and community networks that are often at the forefront of response efforts.\n\nCARE is calling for urgent investment in women-led and community-led response efforts, frontline health workers, surveillance and early warning systems, safe water and sanitation, and essential services that protect the health, livelihoods and dignity of women and girls. Local women\u2019s organizations and community networks play a critical role in preventing disease transmission, building trust and ensuring life-saving information reaches those most at risk. CARE also urges strengthened regional cooperation, including cross-border surveillance, information-sharing and coordinated preparedness measures, to help prevent further spread and ensure a timely, effective response.\n\n**For media inquiries**, email usa.media@care.org",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1457",
+                    "id": 1457,
+                    "name": "CARE",
+                    "shortname": "CARE",
+                    "longname": "CARE International",
+                    "homepage": "https://www.care-international.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235393",
+            "date": {
+                "original": "2026-10-23T00:00:00+00:00",
+                "changed": "2026-10-26T06:10:47+00:00",
+                "created": "2026-10-23T14:33:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235393"
     },
     {
         "id": "4235385",
@@ -1170,551 +1741,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4235112"
-    },
-    {
-        "id": "4235106",
-        "score": 1,
-        "fields": {
-            "title": "Intervention de la Repr\u00e9sentante sp\u00e9ciale Valentine Rugwabiza devant le Conseil de s\u00e9curit\u00e9 \u00e0 l\u2019occasion de la pr\u00e9sentation du rapport du Secr\u00e9taire g\u00e9n\u00e9ral sur la situation en R\u00e9publique centrafricaine",
-            "body": "- **S.E. Mme Aglaia Balta, Repr\u00e9sentante permanente de la Gr\u00e8ce aupr\u00e8s des Nations Unies, Pr\u00e9sidente du Conseil de s\u00e9curit\u00e9,**\n- **Mesdames et Messieurs les membres du Conseil,**\n- **S.E. M. Marius Nzessioue, Repr\u00e9sentant permanent de la R\u00e9publique centrafricaine aupr\u00e8s des Nations Unies,**\n\n**Madame la Pr\u00e9sidente,**\n\n**1.** Je voudrais f\u00e9liciter la Gr\u00e8ce pour son accession \u00e0 la pr\u00e9sidence du Conseil de s\u00e9curit\u00e9 pour le mois d'octobre.\n\n**2.** J'ai une fois de plus l'honneur de pr\u00e9senter le dernier rapport du Secr\u00e9taire g\u00e9n\u00e9ral sur la situation en R\u00e9publique centrafricaine. Pour commencer, j'ai le plaisir d'informer le Conseil que les otages d\u00e9tenus par l'AAKG depuis l'attaque du 28 d\u00e9cembre 2025 \u00e0 Bambouti, y compris le Sous-pr\u00e9fet de Bambouti, ont \u00e9t\u00e9 lib\u00e9r\u00e9s avec succ\u00e8s hier, lundi 19 octobre, \u00e0 la faveur d'une op\u00e9ration conduite et ex\u00e9cut\u00e9e par la MINUSCA afin de s\u00e9curiser la zone de lib\u00e9ration, \u00e0 l'issue de plusieurs mois de m\u00e9diation intensive men\u00e9e par les dirigeants locaux et la MINUSCA.\n\n**Madame la Pr\u00e9sidente, Mesdames et Messieurs les membres du Conseil,**\n\n**3.** Depuis mon dernier expos\u00e9, le pays a continu\u00e9 \u00e0 progresser dans la consolidation des acquis en mati\u00e8re de politique, de paix et de s\u00e9curit\u00e9, m\u00eame si la situation s\u00e9curitaire dans les r\u00e9gions du nord-est et du sud-est, ainsi que dans certaines localit\u00e9s du nord-ouest, demeure pr\u00e9occupante, principalement dans les zones frontali\u00e8res, autour des sites miniers et le long des couloirs de transhumance.\n\n**4.** Aujourd'hui, mon expos\u00e9 s'articulera autour de trois questions : premi\u00e8rement, la consolidation des acquis en mati\u00e8re de politique, de paix et de s\u00e9curit\u00e9 ainsi que les progr\u00e8s r\u00e9alis\u00e9s en vue de la mise en \u0153uvre int\u00e9grale de l'Accord politique ; deuxi\u00e8mement, la situation s\u00e9curitaire, notamment dans le nord-est et le sud-est ; et troisi\u00e8mement, le renouvellement du mandat de la MINUSCA et les conditions n\u00e9cessaires \u00e0 une transition progressive et durable.\n\n**Madame la Pr\u00e9sidente, Mesdames et Messieurs les membres du Conseil,**\n\n**5.** L'accord de paix continue de produire des r\u00e9sultats tangibles. Depuis juillet 2025, plus de 1 900 combattants ont \u00e9t\u00e9 d\u00e9sarm\u00e9s et d\u00e9mobilis\u00e9s gr\u00e2ce au soutien logistique, s\u00e9curitaire et technique de la MINUSCA. Il est d\u00e9sormais essentiel que le Gouvernement consolide ces acquis, avec l'appui de la MINUSCA, afin d'acc\u00e9l\u00e9rer l'ach\u00e8vement du processus de d\u00e9sarmement et de d\u00e9mobilisation ainsi que l'auto-dissolution des groupes arm\u00e9s. La p\u00e9rennit\u00e9 de ces efforts passera par l'acc\u00e9l\u00e9ration du processus de r\u00e9int\u00e9gration socio-\u00e9conomique avec l'appui coordonn\u00e9 des partenaires de la R\u00e9publique centrafricaine.\n\n**6.** Le cycle \u00e9lectoral 2025-2026 approche de son terme, les institutions nationales \u00e9tant en place et les autorit\u00e9s locales \u00e9lues assumant progressivement leurs fonctions \u00e0 travers le pays. Au 1er octobre, 127 des 177 communes avaient achev\u00e9 l'installation de leurs \u00e9lus. Cela constitue une \u00e9tape importante vers la gouvernance d\u00e9centralis\u00e9e et une administration locale, bien que les autorit\u00e9s locales nouvellement \u00e9lues aient un besoin urgent de renforcement des capacit\u00e9s de la part des partenaires au d\u00e9veloppement, y compris le Fonds pour la consolidation de la paix. Cela leur permettra d'exercer efficacement leurs nouveaux mandats, la plupart d'entre elles ne disposant d'aucune exp\u00e9rience pr\u00e9alable en administration locale. J'encourage les autorit\u00e9s nationales, le Gouvernement et l'Autorit\u00e9 nationale des \u00e9lections \u00e0 rem\u00e9dier de toute urgence aux contraintes financi\u00e8res emp\u00eachant la tenue des \u00e9lections restantes afin de mener \u00e0 bien le cycle \u00e9lectoral 2025-2026.\n\n**Madame la Pr\u00e9sidente, Mesdames et Messieurs les membres du Conseil,**\n\n**7.** Malgr\u00e9 ces \u00e9volutions positives, la situation s\u00e9curitaire dans le nord-est demeure une source de vive pr\u00e9occupation. Le 30 juin, des \u00e9l\u00e9ments de diff\u00e9rents groupes arm\u00e9s ont attaqu\u00e9 la localit\u00e9 d'Am-Dafock, situ\u00e9e \u00e0 la fronti\u00e8re avec le Soudan, tuant des civils ainsi que des membres des forces nationales de d\u00e9fense et de s\u00e9curit\u00e9, et provoquant le d\u00e9placement de plus de 17 000 civils qui ont trouv\u00e9 refuge dans la petite base op\u00e9rationnelle temporaire de la MINUSCA. L'attaque a \u00e9galement vis\u00e9 les Casques bleus de la MINUSCA, blessant six (6) d'entre eux.\n\n**8.** En outre, la situation s\u00e9curitaire dans la zone de la triple fronti\u00e8re entre la R\u00e9publique centrafricaine, le Tchad et le Soudan reste tendue dans un contexte d'op\u00e9rations militaires men\u00e9es par les forces nationales de d\u00e9fense en r\u00e9ponse aux menaces persistantes d'attaques transfrontali\u00e8res imminentes de groupes arm\u00e9s contre plusieurs localit\u00e9s de la pr\u00e9fecture de la Vakaga. Bien que les r\u00e9centes attaques et les affrontements arm\u00e9s dans certaines zones du nord-est n'aient pas r\u00e9ussi \u00e0 saper l'autorit\u00e9 de l'\u00c9tat centrafricain, ils ont mis en \u00e9vidence trois r\u00e9alit\u00e9s : i) premi\u00e8rement, que les progr\u00e8s r\u00e9cents en mati\u00e8re d'extension de la pr\u00e9sence de l'\u00c9tat restent fragiles et n\u00e9cessitent d'\u00eatre consolid\u00e9s ; ii) deuxi\u00e8mement, sans les interventios rapides et multidimensionnelles de la MINUSCA visant \u00e0 prot\u00e9ger la population et les autorit\u00e9s locales \u00e0 Am-Dafock, \u00e0 soutenir le d\u00e9ploiement rapide des forces nationales de d\u00e9fense et \u00e0 faciliter l'acheminement de l'aide humanitaire \u00e0 l'ensemble de la population, les attaques auraient caus\u00e9 un nombre de victimes beaucoup plus \u00e9lev\u00e9 et l'autorit\u00e9 de l'\u00c9tat n'aurait certainement pas pu \u00eatre r\u00e9tablie apr\u00e8s seulement cinq jours de contr\u00f4le de la localit\u00e9 par le groupe arm\u00e9, lequel s'est ensuite repli\u00e9 au-del\u00e0 de la fronti\u00e8re centrafricaine vers le Soudan ; iii) troisi\u00e8mement, cette attaque a d\u00e9montr\u00e9 que, bien que la R\u00e9publique centrafricaine \u00e9volue sur une trajectoire positive, la situation s\u00e9curitaire volatile dans l'ensemble de la sous-r\u00e9gion continue de repr\u00e9senter une menace s\u00e9rieuse pour sa stabilit\u00e9.\n\n**9.** Ces attaques \u00e9tant survenues pendant la saison des pluies, les capacit\u00e9s a\u00e9riennes de la MINUSCA constituaient le seul moyen d'acc\u00e9der \u00e0 Am-Dafock. Le Commandant de la Force et moi-m\u00eame avons d\u00fb prendre la d\u00e9cision difficile de red\u00e9ployer des troupes et des moyens a\u00e9riens depuis d'autres localit\u00e9s prioritaires de la r\u00e9gion nord-est afin de r\u00e9pondre aux pressions dans la Vakaga et permettre \u00e0 la MINUSCA de poursuivre la mise en \u0153uvre son mandat dans un environnement s\u00e9curitaire difficile. Cela a permis \u00e0 la MINUSCA de renforcer sa pr\u00e9sence et de maintenir une posture proactive et robuste pour prot\u00e9ger les civils, ainsi que d'activer notre plan d'urgence visant \u00e0 prot\u00e9ger les acteurs humanitaires et le personnel des Nations Unies dans la r\u00e9gion du Fertit. \u00c0 cet \u00e9gard, j'exhorte le Conseil, alors qu'il s'appr\u00eate \u00e0 renouveler le mandat de la MINUSCA, \u00e0 maintenir celle-ci avec des effectifs et des capacit\u00e9s ad\u00e9quats durant cette phase critique de consolidation.\n\n**10.** Dans le sud-est, les violences impliquant la milice AAKG ainsi que la r\u00e9apparition d'attaques et d'enl\u00e8vements attribu\u00e9s \u00e0 des \u00e9l\u00e9ments pr\u00e9sum\u00e9s de l'Arm\u00e9e de r\u00e9sistance du Seigneur (LRA) ont continu\u00e9 \u00e0 menacer les civils. Les enl\u00e8vements d'enfants par des \u00e9l\u00e9ments pr\u00e9sum\u00e9s de la LRA sont particuli\u00e8rement pr\u00e9occupants. En r\u00e9ponse, les autorit\u00e9s locales et les dirigeants communautaires, en collaboration avec la Mission, ont renforc\u00e9 leur engagement aupr\u00e8s des communaut\u00e9s locales, ce qui a contribu\u00e9 \u00e0 am\u00e9liorer les m\u00e9canisms d'alerte pr\u00e9coce pour la protection des civils.\n\n**Madame la Pr\u00e9sidente,**\n\n**11.** La MINUSCA a poursuivi la mise en \u0153uvre de sa reconfiguration en vue d'adopter une posture plus robuste et plus agile, concentrant ses ressources dans les zones \u00e0 plus haut risque tout en favorisant une plus grande appropriation nationale dans les zones plus stables. Au d\u00e9but de ce mois, le Commandant de la Force, la Commissaire de police et moi-m\u00eame avons effectu\u00e9 des visites de terrain dans la r\u00e9gion de Yad\u00e9, au nord-ouest du pays, et dans la r\u00e9gion du Haut-Oubangui, au sud-est, afin d'\u00e9valuer l'impact initial de la reconfiguration du dispositif op\u00e9rationnel de la MINUSCA.\n\n**12.** Notre \u00e9valuation tr\u00e8s pr\u00e9liminaire indique que les acquis en mati\u00e8re de paix et de s\u00e9curit\u00e9 n'ont pas \u00e9t\u00e9 remis en cause et qu'aucune d\u00e9t\u00e9rioration s\u00e9curitaire significative n'a \u00e9t\u00e9 observ\u00e9e dans les localit\u00e9s o\u00f9 les bases de la MINUSCA ont \u00e9t\u00e9 ferm\u00e9es. Cela semble confirmer notre \u00e9valuation de planification concernant les zones relativement stables du pays ainsi que l'efficacit\u00e9 de nos mesures d'att\u00e9nuation. Ces mesures comprennent notamment des patrouilles de longue port\u00e9e plus fr\u00e9quentes en soutien aux forces arm\u00e9es et de s\u00e9curit\u00e9 nationales dans les zones o\u00f9 les responsabilit\u00e9s relatives \u00e0 la protection des civils et aux t\u00e2ches de s\u00e9curit\u00e9 ont \u00e9t\u00e9 transf\u00e9r\u00e9es \u00e0 nos homologues nationaux.\n\n**13.** La p\u00e9rennit\u00e9 des progr\u00e8s r\u00e9alis\u00e9s en mati\u00e8re de s\u00e9curit\u00e9 d\u00e9pend de la poursuite des investissements dans les institutions nationales de s\u00e9curit\u00e9, en particulier les forces arm\u00e9es nationales. \u00c0 mesure que la MINUSCA transf\u00e8re progressivement ses responsabilit\u00e9s en mati\u00e8re de s\u00e9curit\u00e9, des forces de d\u00e9fense et des institutions de s\u00e9curit\u00e9 nationales professionnelles, efficaces et responsables seront essentielles pour pr\u00e9server ces acquis. J'encourage donc le Gouvernement et ses partenaires \u00e0 continuer d'accorder la priorit\u00e9 aux capacit\u00e9s op\u00e9rationnelles, logistiques et institutionnelles n\u00e9cessaires pour maintenir des forces nationales de d\u00e9fense efficaces sur l'ensemble du territoire.\n\n**Madame la Pr\u00e9sidente, Mesdames et Messieurs les membres du Conseil,**\n\n**14.** Le 10 ao\u00fbt, le Premier ministre et Chef du Gouvernement, M. F\u00e9lix Moloua, et moi-m\u00eame avons copr\u00e9sid\u00e9 une r\u00e9union de haut niveau consacr\u00e9e \u00e0 la planification conjointe de la transition. Cette r\u00e9union a mis en lumi\u00e8re les progr\u00e8s d\u00e9j\u00e0 accomplis par la MINUSCA dans le transfert de certaines t\u00e2ches aux autorit\u00e9s nationales ainsi que les capacit\u00e9s n\u00e9cessaires au transfert de t\u00e2ches suppl\u00e9mentaires. Notre approche commune est claire : la transition doit \u00eatre conduite sous l'appropriation nationale, de mani\u00e8re responsable et en tenant compte des r\u00e9alit\u00e9s du terrain afin de pr\u00e9server les acquis, encore fragiles, en mati\u00e8re de paix, de s\u00e9curit\u00e9 et de stabilit\u00e9.\n\n**15.** Le prochain mandat devrait par cons\u00e9quent \u00eatre consacr\u00e9e \u00e0 la consolidation des progr\u00e8s r\u00e9alis\u00e9s en mati\u00e8re de s\u00e9curit\u00e9 et de stabilisation afin de cr\u00e9er les conditions n\u00e9cessaires \u00e0 une transition progressive et responsable, alors que le Gouvernement centrafricain et la MINUSCA s'emploient conjointement \u00e0 planifier cette transition.\n\n**Madame la Pr\u00e9sidente, Mesdames et Messieurs les membres du Conseil,**\n\n**16.** Je souhaite conclure en exprimant ma profonde gratitude au Conseil pour son soutien ind\u00e9fectible \u00e0 la MINUSCA et \u00e0 ma personne depuis que j'ai pris mes fonctions de Repr\u00e9sentante sp\u00e9ciale du Secr\u00e9taire g\u00e9n\u00e9ral et Chef de Mission il y a quatre ans et demi. Ce fut un honneur et un privil\u00e8ge de servir la R\u00e9publique centrafricaine et le Conseil. J'adresse \u00e9galement ma profonde reconnaissance aux pays contributeurs de troupes et de forces de police, ainsi qu'au personnel civil de la MINUSCA, pour leur d\u00e9vouement et leur r\u00e9silience. Il ne peut y avoir d'op\u00e9rations de maintien de la paix efficaces sans des Casques bleus robustes. Je remercie \u00e9galement l'\u00e9quipe de pays des Nations Unies ainsi que les partenaires r\u00e9gionaux, bilat\u00e9raux et multilat\u00e9raux pour leur soutien continu \u00e0 la paix, \u00e0 la s\u00e9curit\u00e9 et \u00e0 la stabilit\u00e9 en R\u00e9publique centrafricaine.\n\n**Je vous remercie de votre attention.**\n\n## **Documents connexes**\n\n- [Intervention de la Repr\u00e9sentante sp\u00e9ciale Valentine Rugwabiza devant le Conseil de s\u00e9curit\u00e9 \u00e0 l\u2019occasion de la pr\u00e9sentation du rapport du Secr\u00e9taire g\u00e9n\u00e9ral sur la situation en R\u00e9publique centrafricaine](https://minusca.unmissions.org/sites/default/files/2026-10/intervention_de_la_representante_speciale_valentine_rugwabiza_devant_le_conseil_de_securite_a_loccasion_de_la_presentation_du_rapport_du_secretaire_general_sur_la_situation_en_republique_centrafricaine_.pdf)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/14612",
-                    "id": 14612,
-                    "name": "UN Multidimensional Integrated Stabilization Mission in the Central African Republic",
-                    "shortname": "MINUSCA",
-                    "longname": "United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic",
-                    "homepage": "https://minusca.unmissions.org/en",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235106",
-            "date": {
-                "original": "2026-10-20T00:00:00+00:00",
-                "changed": "2026-10-22T01:41:12+00:00",
-                "created": "2026-10-22T00:49:51+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235106"
-    },
-    {
-        "id": "4235105",
-        "score": 1,
-        "fields": {
-            "title": "Statement by Special Representative Valentine Rugwabiza to the Security Council on the Presentation of the Secretary-General\u2019s Report on the Situation in the Central African Republic",
-            "body": "- **H.E Ms. Aglaia Balta, Permanent Representative of Greece to the United Nations, President of the Security Council,**\n- **Distinguished Members of the Council,**\n- **H.E. Mr. Marius Nzessioue, Permanent Representative of the Central African Republic to the United Nations,**\n\n**Madam President,**\n\n1. I would like to congratulate Greece on assuming the presidency of the Security Council for the month of October.\n2. I am once more honoured to present the Secretary-General\u2019s latest report on the situation in the Central African Republic. At the outset, I am pleased to share with this Council that the hostages that were held captive by the AAKG since the 28 December 2025 attack in Bambouti, including the Sub-Prefect of Bambouti, were successfully released yesterday -Monday, 19 October- in an operation led and executed by MINUSCA to secure the area of release, following several months of intense mediation by local leaders and MINUSCA.\n    \n    **Madam President, Distinguished Members of the Council,**\n3. Since my last briefing, the country has continued to make progress in consolidating political, peace and security gains, even though the security situation in the northeast and southeast regions and specific localities of the northwest remains a source of concern, mostly in border areas, around mining sites and along transhumance corridors.\n4. Today, I will focus my briefing on three issues: first, the consolidation of political, peace and security gains, and progress made towards the full implementation of the political agreement; second, the security situation, particularly in the northeast and southeast; and third, MINUSCA\u2019s mandate renewal and the conditions required for a gradual and sustainable transition. **Madam President,**\n    \n    **Distinguished Members of the Council,**\n5. The peace accord has continued to deliver tangible results. Since July 2025, more than 1,900 combatants have been disarmed and demobilized with MINUSCA\u2019s logistical, security and technical support. It is now essential that the Government consolidate these gains, with MINUSCA support to expedite the completion of the disarmament and demobilization process as well as the selfdissolution of armed groups. The sustainability of these efforts will require the acceleration of the socio-economic reintegration process with the coordinated support of Central African Republic partners.\n6. The 2025 \u2013 2026 electoral cycle is nearing completion, with national institutions in place and elected local authorities progressively assuming their functions across the country. By 1 October, 127 out of 177 municipalities had completed the installation of their elected officials. This represents an important step towards decentralized governance and local administration, although the newly elected local authorities urgently need capacity building form development partners including the Peacebuilding Fund. This to enable them to deliver on their new mandates since most do not have any prior experience in local administration. I encourage national authorities, the Government and the National Electoral Authority to urgently address the financial constraints preventing the holding of the residual elections to successfully complete the 2025/2026 electoral cycle.\n    \n    **Madam President, Distinguished Members of the Council,**\n7. Notwithstanding these positive developments, the security situation in the northeast remains a cause of serious concern. On 30 June, elements from different armed groups attacked the locality of Am-Dafock, located at the border with Sudan, killing civilians and members of the national defence and security forces, displacing more than 17,000 civilians, who sought refuge at the small MINUSCA temporary operating base. The attack also targeted MINUSCA\u2019s peacekeepers, injuring six (6) of our peacekeepers.\n8. Moreover, the security situation along the CAR-Chad-Sudan triborder area remains tense amidst ongoing military operations conducted by national defense forces, in response to persistent threats of imminent cross-border attacks by armed groups against several localities in Vakaga prefecture. While the recent attacks and armed confrontations in specific areas in the northeast have not succeeded in undermining the Central African State authority, they have exposed three realities: i) first, that recent gains in the extension of State presence are fragile and require consolidation; ii) second, without MINUSCA\u2019s rapid and multifaceted responses to protect the population and local authorities in Am-Dafock, to support the rapid deployment of national defence forces and to facilitate the delivery of humanitarian assistance to the entire population, the attacks would have resulted in significantly more fatalities and State authority could certainly not have been reestablished after only 5 days of control by the armed group who retreated across Central African border into\n    \n    Sudan; iii) third, this attack illustrated that \u2013 while Central African Republic is on a positive trajectory \u2013 the volatile security situation in the broader subregion continue to pose serious threats to the stability of the Central African Republic.\n9. As these attacks occurred during the rainy season, MINUSCA\u2019s aviation capability was the only means of access to Am-Dafok. The Force Commander and I had to make the difficult decision to move troops and air assets from other priority locations in the northeast region to respond to the pressures in the Vakaga and enable MINUSCA to continue implementing its mandate in a challenging security environment. This allowed MINUSCA to strengthen its presence and maintain a proactive and robust posture to protect civilians and activate our contingency plan to protect humanitarian actors and United Nations personnel in the Fertit region. In this regard, I plead with the Council, as it prepares to renew MINUSCA\u2019s mandate, to maintain MINUSCA with adequate Force levels and capabilities during the coming critical consolidation phase.\n10. In the southeast, violence involving the AAKG militia and reemergence of attacks and abductions attributed to suspected Lord\u2019s Resistance Army (LRA) continued to threaten civilians. Particularly concerning are the abductions of children by suspected LRA elements. In response, local authorities and community leaders, in collaboration with the Mission, have enhanced engagements with local communities which contributed to improving alerts and early warning mechanisms for protection of civilians.\n    \n    **Madam President,**\n11. MINUSCA has continued to implement its reconfiguration towards a more robust and agile posture, concentrating resources in higher-risk areas, while fostering greater national ownership in more stable areas. Earlier this month, the Force Commander Police Commissioner and myself conducted field visits in CAR\u2019s northwest region of Yade, and southeast region of Haut-Oubangui to assess the initial impact of MINUSCA\u2019s reconfiguration of its operational footprint.\n12. Our very preliminary assessment is that peace and security gains have not reversed, and no significant security deterioration had been observed in localities where MINUSCA bases were closed. This seems to validate our planning assessment of areas of the country that are relatively stable and the effectiveness of our mitigating measures. These mitigating measures include more frequent longrange patrols in support of national armed and security forces in areas where responsibility for protection of civilians and security tasks have been handed over to our national counterparts.\n13. The sustainability of security gains depends on continued investment in national security institutions, particularly the national armed forces. As MINUSCA progressively transfers its security responsibilities, professional, effective and accountable national defence forces and security institutions will be essential to ensure that security gains are sustained. I therefore encourage the Government and its partners to continue prioritizing the operational, logistical, and institutional capacities needed to sustain effective national defense forces throughout the country.\n    \n    **Madam President, Distinguished Members of the Council,**\n14. On August 10, the Prime Minister and Head of Government, Mr. F\u00e9lix Moloua, and myself jointly chaired a high-level meeting on the joint transition planning which highlighted the progress already made by MINUSCA regarding the transfer of selected tasks to national authorities as well as the capacities required for the transfer of additional tasks. Our joint approach is clear: the transition should be nationally owned, responsible and informed by the realities on the ground to preserve the still fragile peace, security and stability gains.\n15. The next mandate period should therefore focus on consolidating progress in security and stabilization to create necessary conditions for a gradual and responsible transition, as the Central African Government and MINUSCA are jointly pursuing transition planning.\n    \n    **Madam President, Distinguished Members of the Council,**\n    \n    **16.** I wish to conclude by expressing my profound gratitude to the Council for its unwavering support to MINUSCA and myself since I assumed the responsibilities of SRSG and Head of Mission four and half years ago. It has been an honour and privilege to serve the Central African Republic and the Council. My profound gratitude extends to the troop- and police-contributing countries, as well as the civilian personnel of MINUSCA for their dedication and resilience. There can\u2019t be effective peacekeeping operations without solid peacekeepers. I also thank the United Nations country team and the regional, bilateral and multilateral partners for their continued support to peace, security and stability in the Central African Republic.\n\n**I thank you for your attention.**\n\n## **Related Document(s)**\n\n- [Statement by Special Representative Valentine Rugwabiza to the Security Council on the Presentation of the Secretary-General\u2019s Report on the Situation in the Central African Republic](https://minusca.unmissions.org/sites/default/files/2026-10/statement_by_special_representative_valentine_rugwabiza_to_the_security_council_on_the_presentation_of_the_secretary-generals_report_on_the_situation_in_the_central_african_republic.pdf)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/14612",
-                    "id": 14612,
-                    "name": "UN Multidimensional Integrated Stabilization Mission in the Central African Republic",
-                    "shortname": "MINUSCA",
-                    "longname": "United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic",
-                    "homepage": "https://minusca.unmissions.org/en",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235105",
-            "date": {
-                "original": "2026-10-20T00:00:00+00:00",
-                "changed": "2026-10-22T01:36:14+00:00",
-                "created": "2026-10-22T00:47:03+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235105"
-    },
-    {
-        "id": "4235055",
-        "score": 1,
-        "fields": {
-            "title": "Situation en R\u00e9publique centrafricaine, DTM Tableau de bord mensuel #32 (juin 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235055",
-            "date": {
-                "original": "2026-10-07T00:00:00+00:00",
-                "changed": "2026-10-22T01:07:28+00:00",
-                "created": "2026-10-21T14:33:55+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235055"
-    },
-    {
-        "id": "4235051",
-        "score": 1,
-        "fields": {
-            "title": "Situation in Central African Republic, DTM Monthly Dashboard #32 (June 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235051",
-            "date": {
-                "original": "2026-10-07T00:00:00+00:00",
-                "changed": "2026-10-22T01:09:11+00:00",
-                "created": "2026-10-21T14:33:17+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235051"
-    },
-    {
-        "id": "4235049",
-        "score": 1,
-        "fields": {
-            "title": "Termes de R\u00e9f\u00e9rence (TdR): Comit\u00e9 Provincial de Coordination de la R\u00e9ponse \u00c9ducative en Contexte de Maladie \u00e0 Virus Ebola (MVE 17) - Ituri, Oct 2026",
-            "body": "## 1. Contexte\n\nLa province de l\u2019Ituri fait face \u00e0 une \u00e9pid\u00e9mie de maladie \u00e0 virus Ebola qui exige une coordination \u00e9troite entre les autorit\u00e9s sanitaires, \u00e9ducatives, administratives et les partenaires. Les \u00e9tablissements scolaires doivent r\u00e9duire les risques d\u2019exposition et de transmission, tout en prot\u00e9geant le droit \u00e0 l\u2019\u00e9ducation, la s\u00e9curit\u00e9, la dignit\u00e9 et le bien-\u00eatre des apprenants et du personnel \u00e9ducatif.\n\nLa r\u00e9ponse \u00e9ducative doit permettre le fonctionnement s\u00e9curis\u00e9 des \u00e9coles lorsque le risque peut \u00eatre ma\u00eetris\u00e9, assurer une continuit\u00e9 p\u00e9dagogique adapt\u00e9e lorsqu\u2019une perturbation est n\u00e9cessaire, pr\u00e9venir le d\u00e9crochage et la stigmatisation, et garantir l\u2019acc\u00e8s aux services de protection et de soutien psychosocial. Elle doit couvrir les \u00e9coles des zones affect\u00e9es ainsi que celles des zones actuellement silencieuses mais expos\u00e9es au risque.\n\nLe plan op\u00e9rationnel de r\u00e9ponse \u00e9ducative en contexte de maladie \u00e0 virus Ebola1 du minist\u00e8re de L\u2019\u00e9ducation Nationale Et Nouvelle Citoyennet\u00e9 (EDU-NC) pr\u00e9voit une r\u00e9ponse structur\u00e9e autour de sept axes strat\u00e9giques2 pour les 90 premiers jours de la rentr\u00e9e scolaire :\n\n1\\. S\u00e9curit\u00e9 sanitaire, PCI/WASH et fonctionnement s\u00e9curis\u00e9 des \u00e9coles  \n2\\. Continuit\u00e9 p\u00e9dagogique, maintien des acquis, EAD l\u00e9ger et retour aux apprentissages  \n3\\. Communication des risques, engagement communautaire et lutte contre la d\u00e9sinformation  \n4\\. Alerte pr\u00e9coce, r\u00e9f\u00e9rencement et surveillance scolaire  \n5\\. Protection de l\u2019enfant, soutien psychosocial, inclusion et sauvegarde  \n6\\. Pr\u00e9paration op\u00e9rationnelle, logistique et pr\u00e9positionnement  \n7\\. Coordination, financement, information, suivi et redevabilit\u00e9\n\nAfin de garantir une gouvernance coh\u00e9rente et une prise de d\u00e9cision rapide, il est institu\u00e9 un Comit\u00e9 Provincial de Coordination de la R\u00e9ponse \u00c9ducative en Contexte de MVE. Ce Comit\u00e9 sera r\u00e9pliqu\u00e9 au niveau de chaque province en fonction de la situation de maladie \u00e0 virus Ebola.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/12989",
-                    "id": 12989,
-                    "name": "Education Cluster",
-                    "shortname": "Education Cluster",
-                    "homepage": "https://www.educationcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2865",
-                    "id": 2865,
-                    "name": "Save the Children",
-                    "shortname": "Save the Children",
-                    "longname": "Save the Children Alliance",
-                    "spanish_name": "Save the Children",
-                    "homepage": "https://www.savethechildren.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235049",
-            "date": {
-                "original": "2026-10-21T00:00:00+00:00",
-                "changed": "2026-10-22T00:39:28+00:00",
-                "created": "2026-10-21T14:26:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235049"
-    },
-    {
-        "id": "4235048",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: Site d\u2019accueil de Dougui: Villages de Dougui Baouda, Doumbour, Malabat, Galgas, Achoura 1, Achoura 2 (Juillet 2026)",
-            "body": "**Redevabilit\u00e9 \u00e0 double sens**\n\nActed a mis en \u0153uvre un m\u00e9canisme de retours d\u2019informations et d\u2019alertes multi-acteurs et multi-secteurs (MRA) en appui aux activit\u00e9s de gestion du Site d\u2019Accueil de Dougui (SA) de la CNARR et dans 6 villages environnants dans le cadre du projet de r\u00e9silience (Dougui Baouda, Doumbour, Malabat, Galgas, Achoura 1, Achoura 2) dans le but de (i) donner les moyens \u00e0 la communaut\u00e9b\u00e9n\u00e9ficiaire de remonter les informations \u00e0 la communaut\u00e9 humanitaire sur les services d\u2019assistance d\u2019urgence qui leur sont propos\u00e9s et de (ii) renforcer la redevabilit\u00e9 de l\u2019ensemble des parties prenantes impliqu\u00e9es dans la r\u00e9ponse par l\u2019harmonisation du m\u00e9canisme et des canaux de remont\u00e9e des plaintes. 5 canaux MRA sont actuellement disponibles : les 10 Points Focaux Redevabilit\u00e9 et Protection (PFRP); les bo\u00eetes \u00e0 plaintes; la ligne verte, Compte WhatsApp et les \u00e9quipes Acted.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/823",
-                    "id": 823,
-                    "name": "Agency for Technical Cooperation and Development",
-                    "shortname": "ACTED",
-                    "longname": "Agency for Technical Cooperation and Development",
-                    "homepage": "https://www.acted.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235048",
-            "date": {
-                "original": "2026-10-21T00:00:00+00:00",
-                "changed": "2026-10-21T14:27:18+00:00",
-                "created": "2026-10-21T14:19:58+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235048"
-    },
-    {
-        "id": "4235047",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: Site d\u2019accueil de Dougui: Villages de DouguiBaouda, Doumbour, Malabat, Galgas, Achoura 1, Achoura 2 (Mai 2026)",
-            "body": "**Redevabilit\u00e9 \u00e0 double sens**\n\nActed a mis en \u0153uvre un m\u00e9canismede retours d\u2019informations et d\u2019alertes multi-acteurs et multi-secteurs (MRA) en appui aux activit\u00e9s de gestion du Site d\u2019Accueil de Dougui (SA) de la CNARR et dans 6 villages environnants dans le cadre du projet de r\u00e9silience (Dougui Baouda, Doumbour , Malabat, Galgas, Achoura 1, Achoura 2) dans le but de (i) donner les moyens \u00e0 la communaut\u00e9 b\u00e9n\u00e9ficiaire de remonter les informations \u00e0 la communaut\u00e9 humanitaire sur les services d\u2019assistance d\u2019urgence qui leur sont propos\u00e9s et de (ii) renforcer la redevabiit\u00e9 de l\u2019ensemble des parties prenantes impliqu\u00e9es dans la r\u00e9ponse par l\u2019harmonisation du m\u00e9canisme et des canaux de remont\u00e9e des plaintes. 5 canauxMRA sontactuellement disponibles: les 36 Points FocauxRedevabiit\u00e9 et Protection (PFRP); les bo\u00eetes \u00e0 plaintes; la ligne verte, le num\u00e9ro WhatsApp et les \u00e9quipes Acted.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/823",
-                    "id": 823,
-                    "name": "Agency for Technical Cooperation and Development",
-                    "shortname": "ACTED",
-                    "longname": "Agency for Technical Cooperation and Development",
-                    "homepage": "https://www.acted.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235047",
-            "date": {
-                "original": "2026-10-21T00:00:00+00:00",
-                "changed": "2026-10-21T14:28:04+00:00",
-                "created": "2026-10-21T14:14:53+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235047"
-    },
-    {
-        "id": "4235045",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: Site d\u2019accueil de Dougui: Villages de DouguiBaouda, Doumbour, Malabat, Galgas, Achoura 1, Achoura 2 (Juin 2026)",
-            "body": "Redevabilit\u00e9 \u00e0 double sens\n\nActed a mis en \u0153uvre un m\u00e9canisme de retours d\u2019informations et d\u2019alertes multi-acteurs et multi-secteurs (MRA) en appui aux activit\u00e9s de gestion du Site d\u2019Accueil de Dougui (SA) de la CNARRet dans 6 villages environnants dans le cadre du projet de r\u00e9silience (Dougui Baouda, Doumbour, Malabat, Galgas, Achoura 1, Achoura 2) dans le but de (i) donner les moyens \u00e0 la communaut\u00e9 b\u00e9n\u00e9ficiaire de remonter les informations \u00e0 la communaut\u00e9 humanitaire sur les services d\u2019assistance d\u2019urgence qui leur sont propos\u00e9s et de (ii) renforcer la redevabiit\u00e9 de l\u2019ensemble des parties prenantes impliqu\u00e9es dans la r\u00e9ponse par l\u2019harmonisation du m\u00e9canisme et des canaux de remont\u00e9e des plaintes. 5 canaux MRA sont actuellement disponibles: les 10 Points FocauxRedevabiit\u00e9 et Protection (PFRP); les bo\u00eetes \u00e0 plaintes; la ligne verte, le num\u00e9ro WhatsApp et les \u00e9quipes Acted.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/823",
-                    "id": 823,
-                    "name": "Agency for Technical Cooperation and Development",
-                    "shortname": "ACTED",
-                    "longname": "Agency for Technical Cooperation and Development",
-                    "homepage": "https://www.acted.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235045",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-10-21T14:28:23+00:00",
-                "created": "2026-10-21T14:03:40+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235045"
-    },
-    {
-        "id": "4235044",
-        "score": 1,
-        "fields": {
-            "title": "Ebola Bundibugyo virus disease outbreak: Democratic Republic of the Congo | Kenya | Nigeria Weekly External Situation Report 23, Data as of 19 October 2026",
-            "body": "**Event description**\n\nThe Bundibugyo virus disease (BVD) outbreak is becoming increasingly challenging, marked by an expanding cluster of cases linked to the imported index case in Kenya, further geographic expansion into a new province of the Democratic Republic of the Congo, and the confirmation of a case in Nigeria. These developments highlight the widening international dimension and the growing complexity of the outbreak, particularly in the Democratic Republic of the Congo, where escalating insecurity, population displacement and restricted humanitarian access threaten to further undermine surveillance and response operations.\n\n**Democratic Republic of the Congo**\n\nAs of 19 October 2026, the BVD outbreak in the Democratic Republic of the Congo has affected 66 health zones across eight provinces, following the recent expansion into Wapinda Health Zone in Nord-Ubangi Province. Since External Situation Report #22, an additional 572 confirmed cases and 265 confirmed deaths have been reported, bringing the cumulative total to 9637 confirmed cases, including 4646 confirmed deaths \\[crude case fatality ratio (CFR) 48.2%\\]. Transmission remains highly heterogeneous across affected areas. Ituri continues to account for the largest proportion of cumulative confirmed cases (72.7%), although its relative contribution is declining, while substantial transmission persists in Nord-Kivu and Haut-U\u00e9l\u00e9.\n\nNational daily incidence increased steadily from May, reaching its highest levels in late July and mid-August, before fluctuating at persistently high levels through September. Following a decline in late September, incidence rebounded in early October. The most recent seven-day moving average indicates a modest upward trend, suggesting renewed intensification of transmission. Provincial trends remain heterogeneous. Ituri shows a slight recent rebound despite an overall decline from its August peak, while Nord-Kivu continues to experience elevated but fluctuating transmission. Haut-U\u00e9l\u00e9 remains relatively stable with a slight increase, and Tshopo shows renewed upward activity. Transmission remains sporadic in Bas-U\u00e9l\u00e9, with newly reported cases in Nord-Ubangi, while Sud-Kivu and Sud-Ubangi report no recent transmission in the last 21 days (Figures 1 and 2).\n\nTransmission remained active in more than three-quarters of all health zones affected since the start of the outbreak. Of the 66 health zones affected to date, 50 (75.8%) reported at least one new confirmed case during the most recent 21 days (29 September \u2013 19 October 2026). Case incidence increased in 31 health zones while 21 health zones reported a decreased in cases comparing the two periods. The largest absolute increase occurred in Mandima, Ituri (87 to 216 cases; +148.3%), while substantial increases were also observed in Mambasa (12 to 45; +275.0%) and several health zones in Nord-Kivu, particularly Mabalako (22 to 47; +113.6%), Oicha (17 to 28; +64.7%) and Beni (158 to 194; +22.8%) (Figure 4).\n\nThere were also 16 health zones without a new case in the last 21 days. These include Adja, Ariwara, Aungba, Boga, Drodro, Kambala and Mahagi in Ituri; Goma in Nord-Kivu; Dungu and Gombari in Haut-U\u00e9l\u00e9; Lubunga and Wanie-Rukula in Tshopo; Miti-Murhesa in Sud-Kivu; Buta and Viadana in Bas-U\u00e9l\u00e9; and Bulu in Sud-Ubangi.\n\nWeekly confirmed deaths (Figure 6) declined by 5.2%, from 233 during 5\u201311 October to 221 during 12\u201318 October 2026, reversing the upward trend observed over the preceding two weeks. Community deaths decreased from 157 to 135 (\u221214.0%), while deaths in treatment facilities increased from 76 to 86 (+13.2%). Consequently, the proportion of deaths occurring in the community declined from 67.4% to 61.1%. Despite the overall reduction, more than six in ten confirmed deaths continued to occur in the community, highlighting persistent challenges in early case detection, timely referral and access to treatment.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235044",
-            "date": {
-                "original": "2026-10-21T00:00:00+00:00",
-                "changed": "2026-10-22T00:18:25+00:00",
-                "created": "2026-10-21T14:03:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235044"
-    },
-    {
-        "id": "4235042",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: Site d\u2019accueil de Dougui: Villages de DouguiBaouda, Doumbour, Malabat, Galgas, Achoura 1, Achoura 2 (Avril 2026)",
-            "body": "**Redevabilit\u00e9 \u00e0 double sens**\n\nActed a mis en \u0153uvre un m\u00e9canismede retours d\u2019informations et d\u2019alertes multi-acteurs et multi-secteurs (MRA) en appui aux activit\u00e9s de gestion du Site d\u2019Accueil de Dougui (SA) de la CNARRet dans 6 villages environnants dans le cadre du projet de r\u00e9silience (Dougui Baouda, Doumbour , Malabat, Galgas, Achoura 1, Achoura 2) dans le but de (i) donner les moyens \u00e0 la communaut\u00e9 b\u00e9n\u00e9ficiaire de remonter les informations \u00e0 la communaut\u00e9 humanitaire sur les services d\u2019assistance d\u2019urgence qui leur sont propos\u00e9s et de (ii) renforcer la redevabiit\u00e9 de l\u2019ensemble des parties prenantes impliqu\u00e9es dans la r\u00e9ponse par l\u2019harmonisation du m\u00e9canisme et des canaux de remont\u00e9e des plaintes. 5 canauxMRA sontactuellement disponibles: les 10 Points FocauxRedevabiit\u00e9 et Protection (PFRP); les bo\u00eetes \u00e0 plaintes; la ligne verte, Compte WhatsApp et les \u00e9quipes Acted.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/823",
-                    "id": 823,
-                    "name": "Agency for Technical Cooperation and Development",
-                    "shortname": "ACTED",
-                    "longname": "Agency for Technical Cooperation and Development",
-                    "homepage": "https://www.acted.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235042",
-            "date": {
-                "original": "2026-04-30T00:00:00+00:00",
-                "changed": "2026-10-21T14:28:44+00:00",
-                "created": "2026-10-21T13:56:45+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235042"
-    },
-    {
-        "id": "4235041",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: Site d\u2019accueil temporaire d\u2019Adr\u00e9\u2013 M\u00e9canisme de Retours et d\u2019Alertes multi-sectoriels et multi-acteurs (Mai 2026)",
-            "body": "**Redevabilit\u00e9 \u00e0 double sens**\n\nEn appui aux activit\u00e9s de gestion du Site d\u2019Accueil Temporaire d\u2019Adr\u00e9 (SAT) de la CNARR, Acted a mis en \u0153uvre un m\u00e9canisme de retours d\u2019informations et d\u2019alertes multi-acteurs et multi-secteurs dans le but de (i) donner les moyens \u00e0 la communaut\u00e9 b\u00e9n\u00e9ficiaire de remonter les informations \u00e0 la communaut\u00e9 humanitaire sur les services d\u2019assistance d\u2019urgence qui leur sont propos\u00e9s et de (ii) renforcer la redevabilit\u00e9 de l\u2019ensemble des parties prenantes impliqu\u00e9es dans la r\u00e9ponse par l\u2019harmonisation du m\u00e9canisme et des canaux de remont\u00e9e des plaintes. En plus du site, le m\u00e9canisme est pr\u00e9sent dans 10 quartiers prioritaires de la ville d\u2019Adr\u00e9 : Hayal Chati, Hayal Nassim, Adr\u00e9 Nord, Mabourka, Zouhour, Claire, Chigal Fakhra, Baba noussa, Koukaye, Teiba. 5 canaux MRA sont actuellement disponibles : les 48 Points Focaux Redevabilit\u00e9 et Protection (PFRP) form\u00e9s et d\u00e9ploy\u00e9s; les bo\u00eetes \u00e0 plaintes; la ligne verte, le num\u00e9ro WhatsApp et les \u00e9quipes Acted",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/823",
-                    "id": 823,
-                    "name": "Agency for Technical Cooperation and Development",
-                    "shortname": "ACTED",
-                    "longname": "Agency for Technical Cooperation and Development",
-                    "homepage": "https://www.acted.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235041",
-            "date": {
-                "original": "2026-05-31T00:00:00+00:00",
-                "changed": "2026-10-21T14:29:01+00:00",
-                "created": "2026-10-21T13:50:25+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235041"
-    },
-    {
-        "id": "4235040",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: Site d\u2019accueil temporaire d\u2019Adr\u00e9\u2013 M\u00e9canisme de Retours et d\u2019Alertes multi-sectoriels et multi-acteurs (Juin 2026)",
-            "body": "**Redevabilit\u00e9 \u00e0 double sens**\n\nEn appui aux activit\u00e9s de gestion du Site d\u2019Accueil Temporaire d\u2019Adr\u00e9 (SAT) de la CNARR, Acted a mis en \u0153uvre un m\u00e9canisme de retours d\u2019informations et d\u2019alertes multi-acteurs et multi-secteurs dans le but de (i) donner les moyens \u00e0 la communaut\u00e9 b\u00e9n\u00e9ficiaire de remonter les informations \u00e0 la communaut\u00e9 humanitaire sur les services d\u2019assistance d\u2019urgence qui leur sont propos\u00e9s et de (ii) renforcer la redevabilit\u00e9 de l\u2019ensemble des parties prenantes impliqu\u00e9es dans la r\u00e9ponse par l\u2019harmonisation du m\u00e9canisme et des canaux de remont\u00e9e des plaintes. 5 canaux MRA sont actuellement disponibles : les 48 Points Focaux Redevabilit\u00e9 et Protection (PFRP) form\u00e9s et d\u00e9ploy\u00e9s; les bo\u00eetes \u00e0 plaintes; la ligne verte, le num\u00e9ro WhatsApp et les \u00e9quipes GSAT Acted",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/823",
-                    "id": 823,
-                    "name": "Agency for Technical Cooperation and Development",
-                    "shortname": "ACTED",
-                    "longname": "Agency for Technical Cooperation and Development",
-                    "homepage": "https://www.acted.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235040",
-            "date": {
-                "original": "2026-06-30T00:00:00+00:00",
-                "changed": "2026-10-21T14:29:20+00:00",
-                "created": "2026-10-21T13:46:40+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235040"
-    },
-    {
-        "id": "4235038",
-        "score": 1,
-        "fields": {
-            "title": "Tchad: Site d\u2019accueil temporaire d\u2019Adr\u00e9\u2013 M\u00e9canisme de Retours et d\u2019Alertes multi-sectoriels et multi-acteurs (Juillet 2026)",
-            "body": "**Redevabilit\u00e9 \u00e0 double sens**\n\nEn appui aux activit\u00e9s de gestion du Site d\u2019Accueil Temporaire d\u2019Adr\u00e9 (SAT) de la CNARR, Acted a mis en \u0153uvre un m\u00e9canisme de retours d\u2019informations et d\u2019alertes multi-acteurs et multi-secteurs dans le but de (i) donner les moyens \u00e0 la communaut\u00e9 b\u00e9n\u00e9ficiaire de remonter les informations \u00e0 la communaut\u00e9 humanitaire sur les services d\u2019assistance d\u2019urgence qui leur sont propos\u00e9s et de (ii) renforcer la redevabilit\u00e9 de l\u2019ensemble des parties prenantes impliqu\u00e9es dans la r\u00e9ponse par l\u2019harmonisation du m\u00e9canisme et des canaux de remont\u00e9e des plaintes.\n\n5 canaux MRA sont actuellement disponibles : les 48 Points Focaux Redevabilit\u00e9 et Protection (PFRP) form\u00e9s et d\u00e9ploy\u00e9s; les bo\u00eetes \u00e0 plaintes; la ligne verte, Compte WhatsApp et les \u00e9quipes GSAT Acted",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/823",
-                    "id": 823,
-                    "name": "Agency for Technical Cooperation and Development",
-                    "shortname": "ACTED",
-                    "longname": "Agency for Technical Cooperation and Development",
-                    "homepage": "https://www.acted.org/en",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235038",
-            "date": {
-                "original": "2026-07-31T00:00:00+00:00",
-                "changed": "2026-10-21T14:29:36+00:00",
-                "created": "2026-10-21T13:42:49+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235038"
     }
 ]
