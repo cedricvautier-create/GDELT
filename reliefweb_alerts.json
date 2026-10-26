@@ -1,5 +1,87 @@
 [
     {
+        "id": "4235624",
+        "score": 1,
+        "fields": {
+            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 26 th Oct 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235624",
+            "date": {
+                "original": "2026-10-26T00:00:00+00:00",
+                "changed": "2026-10-26T18:14:21+00:00",
+                "created": "2026-10-26T18:14:04+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235624"
+    },
+    {
+        "id": "4235559",
+        "score": 1,
+        "fields": {
+            "title": "Multi-Country Strategy Evaluation Cameroon (EvO/2026/10)",
+            "body": "UNHCR\u2019s Evaluation Office commissioned the evaluation of the multi-year strategy (2022\u20132026) of the Cameroon Multi-Country Office (MCO-CMR) for the period 2023\u20132025 to assess its relevance, coherence, effectiveness, sustainability and efficiency, and to inform the preparation of the next multi-year strategy, which will begin in 2027. The evaluation takes place in a context marked by rapid transformation of the humanitarian architecture, reduced funding and a progressive repositioning towards integration and durable solutions.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235559",
+            "date": {
+                "original": "2026-10-26T00:00:00+00:00",
+                "changed": "2026-10-26T12:50:48+00:00",
+                "created": "2026-10-26T12:48:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235559"
+    },
+    {
         "id": "4235541",
         "score": 1,
         "fields": {
@@ -123,7 +205,7 @@
         "id": "4235519",
         "score": 1,
         "fields": {
-            "title": "RDC Cluster Education_ Contacts des Coordonnateurs",
+            "title": "RDC Cluster Education Contacts des Coordonnateurs",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -177,7 +259,7 @@
             "url": "https://reliefweb.int/node/4235519",
             "date": {
                 "original": "2026-10-26T00:00:00+00:00",
-                "changed": "2026-10-26T10:16:00+00:00",
+                "changed": "2026-10-26T13:23:23+00:00",
                 "created": "2026-10-26T10:15:50+00:00"
             }
         },
@@ -482,7 +564,7 @@
             "url": "https://reliefweb.int/node/4235517",
             "date": {
                 "original": "2026-10-26T00:00:00+00:00",
-                "changed": "2026-10-26T10:09:05+00:00",
+                "changed": "2026-10-26T13:06:15+00:00",
                 "created": "2026-10-26T08:48:54+00:00"
             }
         },
@@ -1659,87 +1741,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4235114"
-    },
-    {
-        "id": "4235113",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique centrafricaine : Rapport du Secr\u00e9taire g\u00e9n\u00e9ral (S/2026/494)",
-            "body": "**I. Introduction**\n\n1\\. Par sa r\u00e9solution 2800 (2025), le Conseil de s\u00e9curit\u00e9 a prorog\u00e9 le mandat de la Mission multidimensionnelle int\u00e9gr\u00e9e des Nations Unies pour la stabilisation en R\u00e9publique centrafricaine (MINUSCA) jusqu\u2019au 15 novembre 2026 et pri\u00e9 le Secr\u00e9taire g\u00e9n\u00e9ral de faire rapport sur son application tous les quatre mois. On trouvera dans le pr\u00e9sent rapport des informations actualis\u00e9es sur les principaux faits survenus en R\u00e9publique centrafricaine depuis le rapport en date du 13 f\u00e9vrier 2026 (S/2026/71).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1430",
-                    "id": 1430,
-                    "name": "UN Security Council",
-                    "shortname": "UN SC",
-                    "longname": "United Nations Security Council",
-                    "spanish_name": "El Consejo de Seguridad",
-                    "homepage": "https://main.un.org/securitycouncil/en",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235113",
-            "date": {
-                "original": "2026-06-15T00:00:00+00:00",
-                "changed": "2026-10-22T03:25:43+00:00",
-                "created": "2026-10-22T01:57:39+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235113"
-    },
-    {
-        "id": "4235112",
-        "score": 1,
-        "fields": {
-            "title": "Central African Republic: Report of the Secretary-General (S/2026/494) [EN/AR/RU/ZH]",
-            "body": "**I. Introduction**\n\n1\\. By its resolution 2800 (2025), the Security Council extended the mandate of the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) until 15 November 2026 and requested the Secretary - General to report on its implementation every four months. The present report provides an update on significant developments in the Central African Republic since the report of 13 February 2026 (S/2026/71).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1430",
-                    "id": 1430,
-                    "name": "UN Security Council",
-                    "shortname": "UN SC",
-                    "longname": "United Nations Security Council",
-                    "spanish_name": "El Consejo de Seguridad",
-                    "homepage": "https://main.un.org/securitycouncil/en",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235112",
-            "date": {
-                "original": "2026-06-15T00:00:00+00:00",
-                "changed": "2026-10-22T03:25:18+00:00",
-                "created": "2026-10-22T01:47:55+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235112"
     }
 ]
