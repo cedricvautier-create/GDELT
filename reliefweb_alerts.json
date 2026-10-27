@@ -1,5 +1,128 @@
 [
     {
+        "id": "4235840",
+        "score": 1,
+        "fields": {
+            "title": "TCHAD _ Aper\u00e7u de la r\u00e9ponse humanitaire envers la communaut\u00e9 h\u00f4te \u00e0 l'Est (Janvier - Juin 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235840",
+            "date": {
+                "original": "2026-10-27T00:00:00+00:00",
+                "changed": "2026-10-27T14:24:10+00:00",
+                "created": "2026-10-27T14:22:54+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235840"
+    },
+    {
+        "id": "4235822",
+        "score": 1,
+        "fields": {
+            "title": "UNICEF Democratic Republic of the Congo Humanitarian Situation Report No. 4 \u2013 Ebola Outbreak (Bundibugyo Virus), 30 September",
+            "body": "**HIGHLIGHTS**\n\n- Children continued to bear a disproportionate share of the outbreak. As of 30 September, children accounted for approximately 27 per cent of confirmed cases but nearly 38 per cent of deaths, with children under five representing almost two-thirds of child deaths.\n- In response to the outbreak\u2019s geographic expansion, UNICEF scaled up its multisectoral operations from 60 to 63 health zones, maintaining a presence in all 16 hotspots.\n- Community-based surveillance was strengthened through the deployment of 3,469 additional community mobilizers. Risk Communication and Community Engagement (RCCE) activities expanded to 55 affected health zones, mobilizing 11,513 frontline and community actors, extending collaboration from 108 to 114 radio stations, and launching intensified digital engagement and rumour management.\n- Infection Prevention and Control (IPC) and Water, Sanitation and Hygiene (WASH) interventions transitioned from initial deployment to implementation at scale. UNICEF delivered more than 590,000 litres of safe water, expanded support to health facilities and schools, strengthened decontamination capacity, and deployed assistance to newly affected areas.\n- With the start of the school year, 167,343 children and adolescents accessed safe and adapted learning opportunities, while 158,188 unique children received school or IPC/WASH kits.\n- UNICEF requires US$ 113.5 million for its revised six-month response plan. As of 30 September, US$ 41 million had been mobilized, leaving a US$ 72.5 million funding gap. Timely, flexible funding is urgently required to sustain outbreak control, protect children and maintain essential health including mental health and psychosocial support, nutrition, education, IPC/WASH and protection services in communities already affected by conflict, displacement and cholera.\n\n**EPIDEMIOLOGICAL SITUATION UPDATE**\n\nBetween 1 and 30 September 2026, the Democratic Republic of the Congo (DRC) reported 2,050 additional confirmed Bundibugyo virus disease (BVD) cases and 979 deaths. As of 30 September, cumulative confirmed cases had reached 8,300, including 4,018 deaths, corresponding to a case fatality ratio (CFR) of 48.4 per cent. The outbreak continued to expand geographically, with confirmed cases reported for the first time in Sud-Ubangi Province, bringing the number of affected provinces to seven (Ituri, North Kivu, South Kivu, Haut-U\u00e9l\u00e9, Tshopo, Bas-U\u00e9l\u00e9 and South-Ubangi).\n\nDuring September, an additional three health zones reported confirmed cases, increasing the total to 63 affected health zones, representing 37.7 per cent of the country's 167 health zones. 16 health zones across North Kivu, Ituri and Haut-U\u00e9l\u00e9 provinces were identified as Ebola hotspots, highlighting the scale of transmission and the need for increased prevention, surveillance and response measures. UNICEF maintained an operational presence across all 16 hotspot health zones, delivering services in support of the Ebola response.\n\nThe outbreak is now the largest Ebola outbreak ever recorded in the DRC and the second largest globally. Ituri province remains the epicentre, accounting for 75.8 per cent of all confirmed cases 6,293 cases and 2,902 deaths, followed by North Kivu 1,601 cases and 950 deaths and Haut-U\u00e9l\u00e9 346 cases and 144 deaths. Transmission also continued in Tshopo, Bas-U\u00e9l\u00e9, South Kivu and South-Ubangi. Women and girls represent approximately 53.4 per cent of reported confirmed cases.\n\nChildren aged 17 years and below account for approximately 27.4 per cent of confirmed cases and 37.6 per cent of reported deaths, indicating a disproportionate mortality burden among children. Children under five bear the greatest burden, representing approximately 63.8 per cent of deaths among children aged 17 years and below.\n\nDuring September, 16 health workers were identified among confirmed cases reported during the month, underscoring ongoing risks to frontline responders.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235822",
+            "date": {
+                "original": "2026-10-27T00:00:00+00:00",
+                "changed": "2026-10-27T13:36:29+00:00",
+                "created": "2026-10-27T13:33:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235822"
+    },
+    {
+        "id": "4235816",
+        "score": 1,
+        "fields": {
+            "title": "WFP Cameroon Country Brief, October 2026",
+            "body": "- 108,215 people assisted in September 2026 (51% female)\n- 236 mt food distributed in September 2026\n- USD 354,372 cash transferred in September 2026 (excluding payment to cooperatives supplying schools)\n- USD 29.5M required in the next six months (Oct 2026-Mar 2027)  \n      \n    **KEY HIGHLIGHTS**\n- WFP is designing a new Country Strategic Plan, CSP, to run from 2028 to 2033. This CSP will define a transition pathway to a nationally-led implementation.\n- The Douala Logistics Corridor remains a critical food systems hub for the Lake Chad Basin countries. Between January and August 2026, WFP dispatched 28,726 mt of food through the Douala Corridor. Of this total, 24,576 mt supported operations in Chad and Sudan, accounting for 86 percent of all food dispatched.\n- WFP\u2019s post-distribution monitoring shows deteriorating food security: acceptable food consumption fell 11 percent from 2025, while more households resorted to extreme negative coping strategies.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235816",
+            "date": {
+                "original": "2026-10-27T00:00:00+00:00",
+                "changed": "2026-10-27T13:25:16+00:00",
+                "created": "2026-10-27T13:14:50+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235816"
+    },
+    {
         "id": "4235759",
         "score": 1,
         "fields": {
@@ -1558,151 +1681,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4235296"
-    },
-    {
-        "id": "4235295",
-        "score": 1,
-        "fields": {
-            "title": "\u00c9valuation multisectorielle des besoins MSNA (2026) : Ce que r\u00e9v\u00e8lent les donn\u00e9es sur les besoins humanitaires \u2013 Province de l\u2019Ituri, R\u00e9publique D\u00e9mocratique du Congo (RDC)",
-            "body": "**Objectifs de l\u2019\u00e9valuation**\n\n**Objectif g\u00e9n\u00e9ral**\n\nMettre \u00e0 disposition de la communaut\u00e9 humanitaire des donn\u00e9es permettant l\u2019identification de la nature et de la s\u00e9v\u00e9rit\u00e9 des besoins multi-sectoriels humanitaires des populations dans les provinces de l\u2019Ituri, du Nord-Kivu, du Sud-Kivu, Tanganyika et Maniema en RDC, par zone g\u00e9ographique afin d\u2019informer le cycle de programmation humanitaire (HPC) 2027.\n\n**Objectifs sp\u00e9cifiques**\n\n1. Mieux comprendre les conditions de vie des populations affect\u00e9es par la crise humanitaire prolong\u00e9e ;\n2. Mettre \u00e0 disposition de la communaut\u00e9 humanitaire des donn\u00e9es repr\u00e9sentatives permettant d\u2019informer la s\u00e9v\u00e9rit\u00e9 sectorielle et intersectorielle des besoins, ainsi que le niveau de vuln\u00e9rabilit\u00e9 des populations ;\n3. Emettre des hypoth\u00e8ses quant aux potentiels facteurs qui pourraient expliquer la s\u00e9v\u00e9rit\u00e9 des besoins entre les diff\u00e9rentes zones \u00e9valu\u00e9es.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9965",
-                    "id": 9965,
-                    "name": "REACH Initiative",
-                    "shortname": "REACH",
-                    "longname": "REACH Initiative",
-                    "homepage": "http://www.reach-initiative.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235295",
-            "date": {
-                "original": "2026-10-22T00:00:00+00:00",
-                "changed": "2026-10-23T03:19:45+00:00",
-                "created": "2026-10-23T02:56:57+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235295"
-    },
-    {
-        "id": "4235281",
-        "score": 1,
-        "fields": {
-            "title": "Activit\u00e9s d\u2019\u00e9radication de la poliomy\u00e9lite en R\u00e9publique d\u00e9mocratique du Congo (IEP)\u2013 S41 - 2026, Mise \u00e0 jour au 15 octobre 2026",
-            "body": "**Points saillants de la Semaine 41/2026**\n\n- Cas de PFA notifi\u00e9s et re\u00e7us au laboratoire \u00e0 la semaine 41: 63 cas de 2026\n- Isolats envoy\u00e9s vers NICD pour s\u00e9quen\u00e7age dans la semaine: 26 isolats envoy\u00e9s au s\u00e9quen\u00e7age. Et un total de 70 isolats en attente des r\u00e9sultats de s\u00e9quen\u00e7age, tous issus de PFA\n- Isolats envoy\u00e9s vers CDC pour s\u00e9quen\u00e7age dans la semaine : N\u00e9ant\n- Examens de suivi au 60\u00e8me jour r\u00e9alis\u00e9s au cours de la semaine : 11 cas (Haut Katanga 1, Kasai Central 1, Kinshasa 1, Lomami 1, Maniema 2, Sud Ubangi 3, Tanganyika 1, Tshuapa 1)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3748",
-                    "id": 3748,
-                    "name": "Global Polio Eradication Initiative",
-                    "shortname": "GPEI",
-                    "longname": "Global Polio Eradication Initiative",
-                    "spanish_name": "Iniciativa Mundial de Erradicaci\u00f3n de la Poliomielitis",
-                    "homepage": "https://polioeradication.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/732",
-                    "id": 732,
-                    "name": "Government of the Democratic Republic of the Congo",
-                    "shortname": "Govt. DR Congo",
-                    "longname": "Government of the Democratic Republic of the Congo",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235281",
-            "date": {
-                "original": "2026-10-23T00:00:00+00:00",
-                "changed": "2026-10-23T00:43:18+00:00",
-                "created": "2026-10-23T00:42:44+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235281"
-    },
-    {
-        "id": "4235268",
-        "score": 1,
-        "fields": {
-            "title": "WFP Central African Republic Country Brief, October 2026",
-            "body": "**KEY HIGHLIGHTS**\n\n\u2022 More than 2 million people continued to face acute food insecurity, while insecurity, displacement and refugee inflows linked to the Sudan crisis continued to drive humanitarian needs, particularly in northeastern CAR.\n\n\u2022 WFP provided food, cash-based assistance, school feeding and resilience support to approximately 117,400 people during September 2026, including refugees, internally displaced persons, returnees and vulnerable host communities.\n\n\u2022 WFP advanced preparations for a new round of assistance in Am-Dafock, completing beneficiary verification and registration of 2,311 households (9,634 beneficiaries) and strengthening operational preparedness despite continued access constraints.\n\n**SITUATION OVERVIEW**\n\n\u2022 The Central African Republic continues to face high levels of food insecurity and humanitarian need. More than 2 million people are projected to face acute food insecurity, including 262,000 people in IPC Phase 4 (Emergency).\n\n\u2022 The country remains affected by a fragile regional environment. Spillover from the conflict in Sudan continues to drive refugee movements, displacement pressures and humanitarian needs, particularly in Vakaga Prefecture and other northeastern border areas.\n\n\u2022 Security concerns persist in several areas, including northeastern CAR, where population movements, access constraints and insecurity continue to affect humanitarian operations.\n\n\u2022 Humanitarian operations continue to face significant challenges during the rainy season, including deteriorated roads, limited access and logistical delays affecting the movement of relief supplies.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235268",
-            "date": {
-                "original": "2026-10-22T00:00:00+00:00",
-                "changed": "2026-10-23T07:37:53+00:00",
-                "created": "2026-10-22T18:25:21+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235268"
     }
 ]
