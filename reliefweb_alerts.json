@@ -1,5 +1,46 @@
 [
     {
+        "id": "4235932",
+        "score": 1,
+        "fields": {
+            "title": "Democratic Republic of the Congo: DIEM-Impact qualitative study of Ebola, conflict and agricultural livelihoods in Ituri, North Kivu and South Kivu (September 2026)",
+            "body": "Filippo Fossi and Patrick Minyangu\n\n**Synopsis (short abstract)** The Food and Agriculture Organization of the United Nations (FAO), through Data in Emergencies (DIEM), conducted a qualitative study of the impact of Ebola disease and conflict on agricultural livelihoods in Ituri, North Kivu and South Kivu provinces in the Democratic Republic of the Congo. This rapid assessment used a cross-sectional, mixed-methods design based on semi-structured key informant interviews conducted in August 2026 across the three provinces. The assessment is the first stage in a larger study that will integrate quantitative household survey data in the coming months.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2836",
+                    "id": 2836,
+                    "name": "Food and Agriculture Organization of the United Nations",
+                    "shortname": "FAO",
+                    "longname": "Food and Agriculture Organization of the United Nations",
+                    "spanish_name": "Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n",
+                    "homepage": "https://www.fao.org/home/en/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235932",
+            "date": {
+                "original": "2026-10-22T00:00:00+00:00",
+                "changed": "2026-10-28T03:41:35+00:00",
+                "created": "2026-10-28T03:40:53+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235932"
+    },
+    {
         "id": "4235881",
         "score": 1,
         "fields": {
@@ -82,6 +123,46 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4235880"
+    },
+    {
+        "id": "4235869",
+        "score": 1,
+        "fields": {
+            "title": "COI Query Response - DRC: Situation of women without a support network in Kinshasa and South Kivu",
+            "body": "**1. Background information**\n\nThroughout 2025, the security, humanitarian and human rights situation in eastern Democratic Republic of the Congo continued to deteriorate. Escalating violence involving the Allied Democratic Forces (ADF), an armed group linked to the Islamic State, and renewed confrontations between the Rwandan-backed M23 movement and government forces had a severe impact on the civilian population. 1 The provinces of North Kivu, South Kivu and Ituri were particularly affected, with the conflict resulting in increasing civilian casualties and largescale displacement. Human Rights Watch (HRW) also reported numerous abuses by armed groups, including conflict-related sexual violence.2 According to UN women, women and girls were \u2018disproportionately\u2019 affected.3 In June 2026, M\u00e9decins Sans Fronti\u00e8res (MSF) reported Ebola cases in South Kivu and noted challenges related to surveillance and testing. According to MSF, communities in the province have long faced \u2018chronic gaps in healthcare and a limited humanitarian response\u2019, which have hindered efforts to control the outbreak.4 This query is an update of two previously published EUAA queries: Situation of women without a support network in South Kivu, published on 2 September 2024, and Situation of women without a support network in Kinshasa, published on 25 August 2023. Additionally, information on gender-based violence against women in the DRC can be found in the EUAA query, Sexual and gender-based violence (SGBV) against women, published in June 2025. Information on the situation of women who have children out of wedlock can be found in the EUAA query, Situation of women who have children out of wedlock, including legal framework, treatment by society, and access to support services, published in February 2024.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/50873",
+                    "id": 50873,
+                    "name": "European Union Agency for Asylum",
+                    "shortname": "EUAA",
+                    "longname": "European Union Agency for Asylum",
+                    "homepage": "https://euaa.europa.eu/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4235869",
+            "date": {
+                "original": "2026-10-27T00:00:00+00:00",
+                "changed": "2026-10-28T01:37:26+00:00",
+                "created": "2026-10-27T17:03:29+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4235869"
     },
     {
         "id": "4235840",
@@ -1606,85 +1687,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4235314"
-    },
-    {
-        "id": "4235307",
-        "score": 1,
-        "fields": {
-            "title": "WFP DRC Country Brief September 2026",
-            "body": "In August, WFP assisted 1.55 million people in the Democratic Republic of the Congo, distributing 12,179 mt of food and USD 10 million in cash assistance. Beyond sustaining large-scale emergency operations in conflict-affected eastern provinces, WFP played a central role in the Ebola response, providing food assistance to affected households and supporting outbreak logistics. WFP also expanded nutrition services for vulnerable women and children and strengthened community resilience through livelihoods, agricultural production and market access initiatives.\n\n**SITUATION OVERVIEW**\n\n\u2022 The humanitarian situation in eastern DRC remains worrying, with North Kivu, South Kivu, Tanganyika, Haut-U\u00e9l\u00e9 and Ituri facing persistent insecurity and ongoing violence.\n\n\u2022 Clashes involving armed groups in North and South Kivu triggered significant population movements towards safer areas. In North Kivu, fighting involving the M23 and other armed groups in Walikale, Masisi and Kibabi caused new displacement and further constrained humanitarian access. In South Kivu, clashes along the Kaziba\u2013Ciburhi axis and in Uvira and Fizi territories forced many families to flee to neighbouring communities.\n\n\u2022 The displacements have significantly increased humanitarian needs, particularly for food assistance, shelter, healthcare, water, and protection services, while placing additional pressure on host communities and already overstretched basic services.\n\n\u2022 The 17th Ebola outbreak in the DRC declared in May continues to spread, worsening an already fragile humanitarian situation. As of 29 September, there were 8,224 confirmed cases, 3,982 deaths, and 2,121 recoveries across 63 health zones in seven provinces.\n\n\u2022 In DRC, Ebola-affected areas overlap with regions where nearly 2.6 million people are classified in IPC Phase 3 or above. Movement restrictions and loss of livelihoods could disrupt markets, reduce household income and limit access to food, further worsening acute food insecurity.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235307",
-            "date": {
-                "original": "2026-10-23T00:00:00+00:00",
-                "changed": "2026-10-23T08:01:32+00:00",
-                "created": "2026-10-23T06:38:35+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235307"
-    },
-    {
-        "id": "4235298",
-        "score": 1,
-        "fields": {
-            "title": "North DRC - Bordering areas | Regional overview: mobility patterns - October 2026 (Update 5, 21 October 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9965",
-                    "id": 9965,
-                    "name": "REACH Initiative",
-                    "shortname": "REACH",
-                    "longname": "REACH Initiative",
-                    "homepage": "http://www.reach-initiative.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235298",
-            "date": {
-                "original": "2026-10-21T00:00:00+00:00",
-                "changed": "2026-10-23T03:50:57+00:00",
-                "created": "2026-10-23T03:39:53+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235298"
     }
 ]
