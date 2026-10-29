@@ -1,8 +1,26 @@
 [
     {
-        "lon": 15.0,
-        "lat": -1.0,
-        "location_name": "Congo",
+        "lon": 29.7809,
+        "lat": -2.4928,
+        "location_name": "Gacaca, Sud, Rwanda",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.cleveland19.com/2026/10/29/federal-jury-convicts-uniontown-man-lying-about-alleged-role-rwandan-genocide/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 24.8833,
+        "lat": 12.05,
+        "location_name": "Nyala, Janub Darfur, Sudan",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -12,15 +30,105 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.hindustantimes.com/world-news/us-news/rwanda-cannot-be-blamed-for-what-happens-in-dr-congo-fm-says-101793217869726.html",
+        "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says",
+        "sources": 7,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 23.5,
+        "lat": 13.5,
+        "location_name": "Darfur, Gharb Darfur, Sudan",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says",
+        "sources": 3,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 23.5,
+        "lat": 13.5,
+        "location_name": "Darfur, Gharb Darfur, Sudan",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says",
+        "sources": 3,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 24.8833,
+        "lat": 12.05,
+        "location_name": "Nyala, Janub Darfur, Sudan",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says",
+        "sources": 3,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.51667,
+        "lat": 8.31667,
+        "location_name": "Benue, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/states-hold-n264bn-ubec-funds-as-schools-struggle/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.73385,
+        "lat": 6.20064,
+        "location_name": "Asaba, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/asaba-massacre-colonel-taiwos-son-calls-for-forgiveness/",
         "sources": 8,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 30.0,
-        "lat": -2.0,
-        "location_name": "Rwanda",
+        "lon": 3.33748,
+        "lat": 6.59422,
+        "location_name": "Ikeja, Lagos, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -30,15 +138,15 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.hindustantimes.com/world-news/us-news/rwanda-cannot-be-blamed-for-what-happens-in-dr-congo-fm-says-101793217869726.html",
+        "url": "https://punchng.com/court-acquits-businessman-of-alleged-n99m-fraud/",
         "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 15.0,
-        "lat": -1.0,
-        "location_name": "Congo",
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -48,25 +156,7 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.hindustantimes.com/world-news/us-news/rwanda-cannot-be-blamed-for-what-happens-in-dr-congo-fm-says-101793217869726.html",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 30.0,
-        "lat": -2.0,
-        "location_name": "Rwanda",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.hindustantimes.com/world-news/us-news/rwanda-cannot-be-blamed-for-what-happens-in-dr-congo-fm-says-101793217869726.html",
+        "url": "https://punchng.com/court-acquits-businessman-of-alleged-n99m-fraud/",
         "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
@@ -84,357 +174,15 @@
             220
         ],
         "radius": 100000,
-        "url": "https://thesun.ng/asaba-massacre-why-i-apologised-for-my-fathers-role-ahmed-taiwo/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.73385,
-        "lat": 6.20064,
-        "location_name": "Asaba, Delta, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://thesun.ng/asaba-massacre-why-i-apologised-for-my-fathers-role-ahmed-taiwo/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 30.0,
-        "lat": -2.0,
-        "location_name": "Rwanda",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.justiceinfo.net/en/167929-ohio-man-convicted-of-lying-about-participation-in-rwandan-genocide.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.0,
-        "lat": 10.0,
-        "location_name": "Nigeria",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://www.dw.com/en/africalink-news-october-28/audio-79789165",
-        "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.0,
-        "lat": 10.0,
-        "location_name": "Nigeria",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://www.dw.com/en/africalink-news-october-28/audio-79789165",
-        "sources": 6,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.dabangasudan.org/en/all-news/article/tasees-places-south-darfur-market-strike-toll-at-188-msf-receives-36-bodies-in-nyala",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.dabangasudan.org/en/all-news/article/tasees-places-south-darfur-market-strike-toll-at-188-msf-receives-36-bodies-in-nyala",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.1603,
-        "lat": 11.8464,
-        "location_name": "Maiduguri, Borno, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://news.crossmap.com/2026/10/28/egyptian-christians-leave-jail-still-accused-of-islam-offense/",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.1603,
-        "lat": 11.8464,
-        "location_name": "Maiduguri, Borno, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://news.crossmap.com/2026/10/28/egyptian-christians-leave-jail-still-accused-of-islam-offense/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 13.1603,
-        "lat": 11.8464,
-        "location_name": "Maiduguri, Borno, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://news.crossmap.com/2026/10/28/egyptian-christians-leave-jail-still-accused-of-islam-offense/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 24.8833,
-        "lat": 12.05,
-        "location_name": "Nyala, Janub Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.riotimesonline.com/sudan-nyala-market-strike-toll-102-activists/",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 24.8833,
-        "lat": 12.05,
-        "location_name": "Nyala, Janub Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.riotimesonline.com/sudan-nyala-market-strike-toll-102-activists/",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 24.8833,
-        "lat": 12.05,
-        "location_name": "Nyala, Janub Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.riotimesonline.com/sudan-nyala-market-strike-toll-102-activists/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.44028,
-        "lat": 10.5231,
-        "location_name": "Kaduna, Kaduna, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.christianitydaily.com:443/news/nigerian-catholic-priest-and-7-other-hostages-freed.html",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.44028,
-        "lat": 10.5231,
-        "location_name": "Kaduna, Kaduna, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.christianitydaily.com:443/news/nigerian-catholic-priest-and-7-other-hostages-freed.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.44028,
-        "lat": 10.5231,
-        "location_name": "Kaduna, Kaduna, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.christianitydaily.com:443/news/nigerian-catholic-priest-and-7-other-hostages-freed.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 5,
-        "color": [
-            244,
-            67,
-            54,
-            235
-        ],
-        "radius": 100000,
-        "url": "https://www.christianitydaily.com:443/news/nigerian-catholic-priest-and-7-other-hostages-freed.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.51667,
-        "lat": 11.9964,
-        "location_name": "Kano, Kano, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://thesun.ng/kano-police-arrest-two-for-threatening-to-abduct-village/",
-        "sources": 7,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.22749,
-        "lat": 5.54191,
-        "location_name": "Usoro, Delta, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/usoro-warns-against-fake-news-deepfakes-ahead-of-2027-elections/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://medafricatimes.com/47354-sudan-drone-strike-on-market-kills-more-than-100-rights-group-says.html",
+        "url": "https://punchng.com/asaba-massacre-colonel-taiwos-son-calls-for-forgiveness/",
         "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 12.4,
-        "lat": -6.06667,
-        "location_name": "Congo River, Congo (general), Congo",
+        "lon": 28.4349,
+        "lat": 9.59525,
+        "location_name": "Abyei, Janub Kurdufan, Sudan",
         "category": "Critique : Incident S\u00e9curitaire",
         "criticite_score": 4,
         "color": [
@@ -444,15 +192,15 @@
             200
         ],
         "radius": 80000,
-        "url": "https://www.winnipegfreepress.com/world/2026/10/28/us-imposes-sanctions-on-rwandan-defense-ministry-over-involvement-in-eastern-congo-conflict",
-        "sources": 8,
+        "url": "https://www.radiotamazuj.org/en/news/article/sudan-fact-finding-mission-warns-of-drone-attacks-repression-in-el-obeid",
+        "sources": 1,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 29.5048,
-        "lat": -2.631,
-        "location_name": "Kivu, Sud, Rwanda",
+        "lon": 28.4349,
+        "lat": 9.59525,
+        "location_name": "Abyei, Janub Kurdufan, Sudan",
         "category": "Critique : Incident S\u00e9curitaire",
         "criticite_score": 4,
         "color": [
@@ -462,8 +210,26 @@
             200
         ],
         "radius": 80000,
-        "url": "https://www.winnipegfreepress.com/world/2026/10/28/us-imposes-sanctions-on-rwandan-defense-ministry-over-involvement-in-eastern-congo-conflict",
-        "sources": 4,
+        "url": "https://www.radiotamazuj.org/en/news/article/sudan-fact-finding-mission-warns-of-drone-attacks-repression-in-el-obeid",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 28.4349,
+        "lat": 9.59525,
+        "location_name": "Abyei, Janub Kurdufan, Sudan",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.radiotamazuj.org/en/news/article/sudan-fact-finding-mission-warns-of-drone-attacks-repression-in-el-obeid",
+        "sources": 1,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
@@ -471,24 +237,6 @@
         "lon": 15.0,
         "lat": -1.0,
         "location_name": "Congo",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "http://www.wdtimes.com/news/world/us-imposes-sanctions-on-rwandan-defense-ministry-over-involvement-in-eastern-congo-conflict/article_fd8f9c60-5d37-54f7-8505-9b3d65a32252.html",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 29.5048,
-        "lat": -2.631,
-        "location_name": "Kivu, Sud, Rwanda",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -498,908 +246,8 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.winnipegfreepress.com/world/2026/10/28/us-imposes-sanctions-on-rwandan-defense-ministry-over-involvement-in-eastern-congo-conflict",
+        "url": "https://www.breitbart.com/national-security/2026/10/28/ebola-workers-in-congo-attacked-by-machete-mob-as-cases-pass-10000/",
         "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 29.5048,
-        "lat": -2.631,
-        "location_name": "Kivu, Sud, Rwanda",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "http://www.wdtimes.com/news/world/us-imposes-sanctions-on-rwandan-defense-ministry-over-involvement-in-eastern-congo-conflict/article_fd8f9c60-5d37-54f7-8505-9b3d65a32252.html",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 29.5048,
-        "lat": -2.631,
-        "location_name": "Kivu, Sud, Rwanda",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.winnipegfreepress.com/world/2026/10/28/us-imposes-sanctions-on-rwandan-defense-ministry-over-involvement-in-eastern-congo-conflict",
-        "sources": 12,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.44028,
-        "lat": 10.5231,
-        "location_name": "Kaduna, Kaduna, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://theeagleonline.com.ng/detention-i-wont-publicise-things-i-have-done-for-el-rufai-uba-sani/",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 19.0,
-        "lat": 15.0,
-        "location_name": "Chad",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.rte.ie/news/regional/2026/1028/1597101-courts-hasan-ali-gori/",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": -2.0,
-        "lat": 13.0,
-        "location_name": "Burkina Faso",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://en.apa.az/foreign-policy/baku-hosts-meeting-of-heads-of-anti-corruption-agencies-of-oic-member-states-updated-1-photo-532630",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.0,
-        "lat": 10.0,
-        "location_name": "Nigeria",
-        "category": "Majeur : Crise Humanitaire",
-        "criticite_score": 5,
-        "color": [
-            123,
-            31,
-            162,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://twitchy.com/gordon-k/2026/10/28/bbc-massacre-n2433789",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.0,
-        "lat": 10.0,
-        "location_name": "Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://twitchy.com/gordon-k/2026/10/28/bbc-massacre-n2433789",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.0,
-        "lat": 10.0,
-        "location_name": "Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://twitchy.com/gordon-k/2026/10/28/bbc-massacre-n2433789",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 9.75,
-        "lat": 9.16667,
-        "location_name": "Plateau State, Plateau, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.nigerianeye.com/2026/10/senate-calls-for-urgent-security-action.html",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 9.84327,
-        "lat": 10.3134,
-        "location_name": "Bauchi, Bauchi, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.nigerianeye.com/2026/10/senate-calls-for-urgent-security-action.html",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.19312,
-        "lat": 7.25256,
-        "location_name": "Akure, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/921101-police-youth-clash-in-ondo-community-over-farmers-murder.html",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.08333,
-        "lat": 7.16667,
-        "location_name": "Ondo State, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/921101-police-youth-clash-in-ondo-community-over-farmers-murder.html",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.19312,
-        "lat": 7.25256,
-        "location_name": "Akure, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/921101-police-youth-clash-in-ondo-community-over-farmers-murder.html",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.08333,
-        "lat": 7.16667,
-        "location_name": "Ondo State, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/921101-police-youth-clash-in-ondo-community-over-farmers-murder.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.19312,
-        "lat": 7.25256,
-        "location_name": "Akure, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/921101-police-youth-clash-in-ondo-community-over-farmers-murder.html",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.hrw.org/news/2026/10/28/uae-un-secretary-general-candidate-whitewashed-abuses",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.19312,
-        "lat": 7.25256,
-        "location_name": "Akure, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/921101-police-youth-clash-in-ondo-community-over-farmers-murder.html",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.08333,
-        "lat": 7.16667,
-        "location_name": "Ondo State, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/921101-police-youth-clash-in-ondo-community-over-farmers-murder.html",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.19312,
-        "lat": 7.25256,
-        "location_name": "Akure, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/921101-police-youth-clash-in-ondo-community-over-farmers-murder.html",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.44028,
-        "lat": 10.5231,
-        "location_name": "Kaduna, Kaduna, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.premiumtimesng.com/regional/nwest/921060-fear-grips-kadunas-millennium-city-as-kidnappers-strike-again.html",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.19312,
-        "lat": 7.25256,
-        "location_name": "Akure, Ondo, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/921101-police-youth-clash-in-ondo-community-over-farmers-murder.html",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.0,
-        "lat": 6.33333,
-        "location_name": "Anambra State, Anambra, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.opinionnigeria.com/onuorah-vs-nwankwo-a-nullified-election-a-fresh-poll-and-a-court-judgment-under-pressure-history-is-bearing-witness-will-anambra-uphold-judicial-authority-or-allow-it-to-be-undermined-by-daniel/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.023,
-        "lat": 6.0852,
-        "location_name": "Neni, Anambra, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.opinionnigeria.com/onuorah-vs-nwankwo-a-nullified-election-a-fresh-poll-and-a-court-judgment-under-pressure-history-is-bearing-witness-will-anambra-uphold-judicial-authority-or-allow-it-to-be-undermined-by-daniel/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 25.35,
-        "lat": 13.6333,
-        "location_name": "El Fasher, Shamal Darfur, Sudan",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.hrw.org/news/2026/10/28/uae-un-secretary-general-candidate-whitewashed-abuses",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.hrw.org/news/2026/10/28/uae-un-secretary-general-candidate-whitewashed-abuses",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 25.35,
-        "lat": 13.6333,
-        "location_name": "El Fasher, Shamal Darfur, Sudan",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.hrw.org/news/2026/10/28/uae-un-secretary-general-candidate-whitewashed-abuses",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.hrw.org/news/2026/10/28/uae-un-secretary-general-candidate-whitewashed-abuses",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.48959,
-        "lat": 5.52627,
-        "location_name": "Umuahia, Abia, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.opinionnigeria.com/some-nigerians-are-buried-alive-due-to-lack-of-life-saving-equipment-doctor-warns/",
-        "sources": 7,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 25.35,
-        "lat": 13.6333,
-        "location_name": "El Fasher, Shamal Darfur, Sudan",
-        "category": "Majeur : Crise Humanitaire",
-        "criticite_score": 5,
-        "color": [
-            123,
-            31,
-            162,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.hrw.org/news/2026/10/28/uae-un-secretary-general-candidate-whitewashed-abuses",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 25.35,
-        "lat": 13.6333,
-        "location_name": "El Fasher, Shamal Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.hrw.org/news/2026/10/28/uae-un-secretary-general-candidate-whitewashed-abuses",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.hrw.org/news/2026/10/28/uae-un-secretary-general-candidate-whitewashed-abuses",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 25.35,
-        "lat": 13.6333,
-        "location_name": "El Fasher, Shamal Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.hrw.org/news/2026/10/28/uae-un-secretary-general-candidate-whitewashed-abuses",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Crise Humanitaire",
-        "criticite_score": 5,
-        "color": [
-            123,
-            31,
-            162,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.hrw.org/news/2026/10/28/uae-un-secretary-general-candidate-whitewashed-abuses",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/police-arrest-nscdc-officer-over-shooting-at-kubwa-market/",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.68068,
-        "lat": 12.1184,
-        "location_name": "Bangare, Kano, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.vanguardngr.com/2026/10/police-arrest-two-over-alleged-kidnap-plot-in-kano/",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 5,
-        "color": [
-            244,
-            67,
-            54,
-            235
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/atiku-to-tinubu-n70000-allowance-wont-end-hardship/",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.38333,
-        "lat": 8.91667,
-        "location_name": "Akwanga, Nigeria (general), Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://blueprint.ng/nasarawa-church-raises-alarm-over-pastors-abduction-demands-urgent-action/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.96828,
-        "lat": 12.2744,
-        "location_name": "Keffi, Jigawa, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://blueprint.ng/nasarawa-church-raises-alarm-over-pastors-abduction-demands-urgent-action/",
-        "sources": 7,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.38333,
-        "lat": 8.91667,
-        "location_name": "Akwanga, Nigeria (general), Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://blueprint.ng/nasarawa-church-raises-alarm-over-pastors-abduction-demands-urgent-action/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.55,
-        "lat": 8.4,
-        "location_name": "Agyaragu, Nigeria (general), Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://blueprint.ng/nasarawa-church-raises-alarm-over-pastors-abduction-demands-urgent-action/",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.51667,
-        "lat": 8.48333,
-        "location_name": "Lafia, Nassarawa, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://blueprint.ng/nasarawa-church-raises-alarm-over-pastors-abduction-demands-urgent-action/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.38333,
-        "lat": 8.91667,
-        "location_name": "Akwanga, Nigeria (general), Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://blueprint.ng/nasarawa-church-raises-alarm-over-pastors-abduction-demands-urgent-action/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.38333,
-        "lat": 8.91667,
-        "location_name": "Akwanga, Nigeria (general), Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://blueprint.ng/nasarawa-church-raises-alarm-over-pastors-abduction-demands-urgent-action/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.38333,
-        "lat": 8.91667,
-        "location_name": "Akwanga, Nigeria (general), Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://blueprint.ng/nasarawa-church-raises-alarm-over-pastors-abduction-demands-urgent-action/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.5,
-        "lat": 12.25,
-        "location_name": "Katsina State, Katsina, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://blueprint.ng/northern-christians-condemn-killing-of-islamic-cleric-want-probe-stronger-security/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 5.25,
-        "lat": 7.66667,
-        "location_name": "Ekiti State, Ekiti, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://punchng.com/reps-threaten-arrest-of-telecom-ceos-over-poor-network/",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://punchng.com/police-arrest-nscdc-officer-for-firing-gun-at-abuja-market/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://punchng.com/police-arrest-nscdc-officer-for-firing-gun-at-abuja-market/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 5,
-        "color": [
-            244,
-            67,
-            54,
-            235
-        ],
-        "radius": 100000,
-        "url": "https://dailypost.ng/2026/10/28/police-arrest-nscdc-officer-after-firing-gunshots-in-abuja-market-over-assault-on-wife/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.16667,
-        "lat": 8.83333,
-        "location_name": "Federal Capital Territory, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://dailypost.ng/2026/10/28/police-arrest-nscdc-officer-after-firing-gunshots-in-abuja-market-over-assault-on-wife/",
-        "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
@@ -1416,441 +264,459 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.mirror.co.uk/news/world-news/ebola-outbreak-congo-bundibugyo-strain-37819622",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/nwuche-to-traditional-rulers-be-consistent-non-selective-in-condemning-insecurity/",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.60063,
-        "lat": 12.9894,
-        "location_name": "Katsina, Katsina, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/nwuche-to-traditional-rulers-be-consistent-non-selective-in-condemning-insecurity/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://thenationonlineng.net/sahco-secures-handling-deals-for-airlines-lagos-abuja-operations/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/nwuche-to-traditional-rulers-be-consistent-non-selective-in-condemning-insecurity/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.44028,
-        "lat": 10.5231,
-        "location_name": "Kaduna, Kaduna, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/nwuche-to-traditional-rulers-be-consistent-non-selective-in-condemning-insecurity/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.60063,
-        "lat": 12.9894,
-        "location_name": "Katsina, Katsina, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/10/nwuche-to-traditional-rulers-be-consistent-non-selective-in-condemning-insecurity/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 24.8833,
-        "lat": 12.05,
-        "location_name": "Nyala, Janub Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.wsbradio.com/news/world/strike-darfur-market/ZDC5TVE2KM67DADWAYA76YW5YI/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 24.8833,
-        "lat": 12.05,
-        "location_name": "Nyala, Janub Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.wsbradio.com/news/world/strike-darfur-market/ZDC5TVE2KM67DADWAYA76YW5YI/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 24.8833,
-        "lat": 12.05,
-        "location_name": "Nyala, Janub Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/10/28/strike-on-darfur-market-killed-civilians-selling-food-to-fighters-witnesses-say",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/10/28/strike-on-darfur-market-killed-civilians-selling-food-to-fighters-witnesses-say",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 22.45,
-        "lat": 13.45,
-        "location_name": "Geneina, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.radiotamazuj.org/en/news/article/five-killed-in-airstrike-near-el-geneina-airport-west-darfur",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://nigerianobservernews.com/2026/10/igp-disu-exposes-new-front-in-financial-crime/",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 24.8833,
-        "lat": 12.05,
-        "location_name": "Nyala, Janub Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/10/28/strike-on-darfur-market-killed-civilians-selling-food-to-fighters-witnesses-say",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.radiotamazuj.org/en/news/article/five-killed-in-airstrike-near-el-geneina-airport-west-darfur",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 22.45,
-        "lat": 13.45,
-        "location_name": "Geneina, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.radiotamazuj.org/en/news/article/five-killed-in-airstrike-near-el-geneina-airport-west-darfur",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/10/28/strike-on-darfur-market-killed-civilians-selling-food-to-fighters-witnesses-say",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.radiotamazuj.org/en/news/article/five-killed-in-airstrike-near-el-geneina-airport-west-darfur",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.radiotamazuj.org/en/news/article/five-killed-in-airstrike-near-el-geneina-airport-west-darfur",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 24.8833,
-        "lat": 12.05,
-        "location_name": "Nyala, Janub Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/10/28/strike-on-darfur-market-killed-civilians-selling-food-to-fighters-witnesses-say",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 29.7897,
-        "lat": -0.9575,
-        "location_name": "Kanungu, Kanungu, Uganda",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202610280306.html",
-        "sources": 2,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            255
-        ],
-        "radius": 100000,
-        "url": "https://thesun.ng/fct-police-arrest-nscdc-officer-after-kubwa-market-shooting-recover-pistol/",
+        "url": "https://www.breitbart.com/national-security/2026/10/28/ebola-workers-in-congo-attacked-by-machete-mob-as-cases-pass-10000/",
         "sources": 10,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 29.7897,
-        "lat": -0.9575,
-        "location_name": "Kanungu, Kanungu, Uganda",
-        "category": "Faible : Tension Politique",
+        "lon": 7.16667,
+        "lat": 8.83333,
+        "location_name": "Federal Capital Territory, Abuja Federal Capital Territory, Nigeria",
+        "category": "Mod\u00e9r\u00e9 : Mouvement Social",
         "criticite_score": 3,
         "color": [
-            251,
-            192,
-            45,
-            140
+            255,
+            152,
+            0,
+            195
         ],
         "radius": 60000,
-        "url": "https://allafrica.com/stories/202610280306.html",
-        "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "url": "https://thesun.ng/residents-seek-support-to-fix-abuja-collapsed-bridge-roads-writes-amac-chair/",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 6.0,
-        "lat": 10.0,
-        "location_name": "Niger State, Niger, Nigeria",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
+        "lon": 7.33447,
+        "lat": 11.0559,
+        "location_name": "Galadimawa, Kaduna, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
         "color": [
-            251,
-            192,
-            45,
-            140
+            211,
+            47,
+            47,
+            220
         ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202610280600.html",
+        "radius": 100000,
+        "url": "https://thesun.ng/residents-seek-support-to-fix-abuja-collapsed-bridge-roads-writes-amac-chair/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.33447,
+        "lat": 11.0559,
+        "location_name": "Galadimawa, Kaduna, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://thesun.ng/residents-seek-support-to-fix-abuja-collapsed-bridge-roads-writes-amac-chair/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/lagos-court-denies-wheelchair-bound-suspect-bail-over-murder/",
         "sources": 2,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 9.75,
-        "lat": 12.0,
-        "location_name": "Jigawa State, Jigawa, Nigeria",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
+        "lon": 3.75,
+        "lat": 6.58333,
+        "location_name": "Lagos State, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
         "color": [
-            251,
-            192,
-            45,
-            140
+            211,
+            47,
+            47,
+            220
         ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202610280622.html",
+        "radius": 100000,
+        "url": "https://punchng.com/lagos-court-denies-wheelchair-bound-suspect-bail-over-murder/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.43333,
+        "lat": 6.43333,
+        "location_name": "Igbosere, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/lagos-court-denies-wheelchair-bound-suspect-bail-over-murder/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.43333,
+        "lat": 6.43333,
+        "location_name": "Igbosere, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/lagos-court-denies-wheelchair-bound-suspect-bail-over-murder/",
         "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 13.1603,
+        "lat": 11.8464,
+        "location_name": "Maiduguri, Borno, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://news.crossmap.com/2026/10/28/romanian-christians-honor-legacy-of-harvey-starling/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 13.1603,
+        "lat": 11.8464,
+        "location_name": "Maiduguri, Borno, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://news.crossmap.com/2026/10/28/romanian-christians-honor-legacy-of-harvey-starling/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            255
+        ],
+        "radius": 100000,
+        "url": "https://promptnewsonline.com/nscdc-officer-arrested-for-shooting-at-traders/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 5,
+        "color": [
+            244,
+            67,
+            54,
+            235
+        ],
+        "radius": 100000,
+        "url": "https://promptnewsonline.com/nscdc-officer-arrested-for-shooting-at-traders/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 13.1603,
+        "lat": 11.8464,
+        "location_name": "Maiduguri, Borno, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://news.crossmap.com/2026/10/28/romanian-christians-honor-legacy-of-harvey-starling/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 5,
+        "color": [
+            244,
+            67,
+            54,
+            235
+        ],
+        "radius": 100000,
+        "url": "https://promptnewsonline.com/nscdc-officer-arrested-for-shooting-at-traders/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 13.1603,
+        "lat": 11.8464,
+        "location_name": "Maiduguri, Borno, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://news.crossmap.com/2026/10/28/romanian-christians-honor-legacy-of-harvey-starling/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            255
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/police-nab-nscdc-officer-for-shooting-in-abuja-market/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 12.4,
+        "lat": -6.06667,
+        "location_name": "Congo River, Congo (general), Congo",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.newindianexpress.com/world/2026/Oct/28/us-sanctions-on-rwandan-defense-ministry-over-involvement-in-eastern-congo-conflict",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 12.4,
+        "lat": -6.06667,
+        "location_name": "Congo River, Congo (general), Congo",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.newindianexpress.com/world/2026/Oct/28/us-sanctions-on-rwandan-defense-ministry-over-involvement-in-eastern-congo-conflict",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.58333,
+        "lat": 10.0167,
+        "location_name": "Chawai, Nigeria (general), Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.christiandaily.com/news/government-help-sought-to-recover-pastors-wife-daughter-in-nigeria",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.73385,
+        "lat": 6.20064,
+        "location_name": "Asaba, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://thesun.ng/asaba-massacre-my-mother-was-the-only-woman-killed-that-day-nduka-eze/",
+        "sources": 12,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.73385,
+        "lat": 6.20064,
+        "location_name": "Asaba, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://thesun.ng/asaba-massacre-my-mother-was-the-only-woman-killed-that-day-nduka-eze/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 30.0,
+        "lat": -2.0,
+        "location_name": "Rwanda",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://defimedia.info/blog-nobel-peace-laureate-2026-navi-pillay-mauritius-fails-hail-distinguished-african-daughter-and",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.58333,
+        "lat": 10.0167,
+        "location_name": "Chawai, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.christiandaily.com/news/government-help-sought-to-recover-pastors-wife-daughter-in-nigeria",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.58333,
+        "lat": 10.0167,
+        "location_name": "Chawai, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.christiandaily.com/news/government-help-sought-to-recover-pastors-wife-daughter-in-nigeria",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.58333,
+        "lat": 10.0167,
+        "location_name": "Chawai, Nigeria (general), Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.christiandaily.com/news/government-help-sought-to-recover-pastors-wife-daughter-in-nigeria",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://techcabal.com/2026/10/28/flutterwave-ceo-on-fintechs-and-banking/",
+        "sources": 8,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     }
 ]
