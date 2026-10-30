@@ -1,5 +1,86 @@
 [
     {
+        "id": "4236339",
+        "score": 1,
+        "fields": {
+            "title": "RCA Dashboard Monitoring des Incidents de protection : Avril - Juin 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4236339",
+            "date": {
+                "original": "2026-10-30T00:00:00+00:00",
+                "changed": "2026-10-30T10:56:56+00:00",
+                "created": "2026-10-30T10:03:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4236339"
+    },
+    {
+        "id": "4236338",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique centrafricaine: Monitoring de protection - Rapport Trimestre 2 | Avril - Juin 2026",
+            "body": "**R\u00e9sum\u00e9** \n\nCe rapport trimestriel de monitoring de protecti on a couvert 16 des 20 pr\u00e9fectures de la RCA en priorisant les principales zones de concentrati on de populati ons, y compris les sites de personnes d\u00e9plac\u00e9es internes, les zones de retour, les zones accueillant les r\u00e9fugi\u00e9s et les zones \u00e0 haute potenti alit\u00e9 de risques de protecti on. Les acti vit\u00e9s de monitoring de protecti on ont ainsi cibl\u00e9 les pr\u00e9fectures suivantes : Bangui, Mamb\u00e9r\u00e9-Kad\u00e9\u00ef, Nana-Mamb\u00e9r\u00e9, Mamb\u00e9r\u00e9,  \nOmbella-M\u2019Poko, Sangha-Mba\u00e9r\u00e9, Nana-Gribizi, Ouham, Ouham-Pende, Bamingui-Bangoran, Lobaye, Ouaka, Haute-Kott o, Mbomou, Vakaga et Lim-Pend\u00e9.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4236338",
+            "date": {
+                "original": "2026-10-30T00:00:00+00:00",
+                "changed": "2026-10-30T10:50:25+00:00",
+                "created": "2026-10-30T10:03:12+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4236338"
+    },
+    {
         "id": "4236302",
         "score": 1,
         "fields": {
@@ -251,7 +332,7 @@
             "url": "https://reliefweb.int/node/4236233",
             "date": {
                 "original": "2026-10-29T00:00:00+00:00",
-                "changed": "2026-10-29T13:54:17+00:00",
+                "changed": "2026-10-30T10:49:18+00:00",
                 "created": "2026-10-29T13:53:34+00:00"
             }
         },
@@ -1156,7 +1237,7 @@
             "url": "https://reliefweb.int/node/4235840",
             "date": {
                 "original": "2026-10-27T00:00:00+00:00",
-                "changed": "2026-10-28T08:10:09+00:00",
+                "changed": "2026-10-30T11:29:02+00:00",
                 "created": "2026-10-27T14:22:54+00:00"
             }
         },
@@ -1664,85 +1745,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4235621"
-    },
-    {
-        "id": "4235620",
-        "score": 1,
-        "fields": {
-            "title": "CORE Emergency situation in Chad: Update on arrivals from Sudan (25 Oct. 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235620",
-            "date": {
-                "original": "2026-10-26T00:00:00+00:00",
-                "changed": "2026-10-27T01:45:18+00:00",
-                "created": "2026-10-26T17:03:55+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235620"
-    },
-    {
-        "id": "4235619",
-        "score": 1,
-        "fields": {
-            "title": "Situation d'urgence au Tchad I Mise \u00e0 jour des arriv\u00e9es du Soudan (25 oct. 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4235619",
-            "date": {
-                "original": "2026-10-26T00:00:00+00:00",
-                "changed": "2026-10-27T01:45:24+00:00",
-                "created": "2026-10-26T17:03:34+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4235619"
     }
 ]
