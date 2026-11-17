@@ -12,13 +12,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout du dépôt
-        uses: actions/checkout@v4
+      # 1. Passage de @v4 à @v7 (Support natif de Node.js 24)
+      - name: Checkout repository
+        uses: actions/checkout@v7
 
-      - name: Installer Python
-        uses: actions/setup-python@v4
+      # 2. Passage à @v7 et mise à niveau de Python 3.9 vers 3.12 (compatible Ubuntu 26.04)
+      - name: Set up Python
+        uses: actions/setup-python@v7
         with:
-          python-version: '3.9'
+          python-version: '3.12'
+          cache: 'pip' # Optionnel : accélère l'installation des librairies
 
       - name: Installer les dépendances
         run: pip install websockets pandas requests yfinance
