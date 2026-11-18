@@ -1,5 +1,313 @@
 [
     {
+        "id": "4238874",
+        "score": 1,
+        "fields": {
+            "title": "Tchad : Pr\u00e9sence op\u00e9rationnelle des partenaires \u00e0 l'Est (Novembre 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238874",
+            "date": {
+                "original": "2026-11-18T00:00:00+00:00",
+                "changed": "2026-11-18T13:33:02+00:00",
+                "created": "2026-11-18T11:07:01+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238874"
+    },
+    {
+        "id": "4238868",
+        "score": 1,
+        "fields": {
+            "title": "Tchad : Pr\u00e9sence physique des partenaires \u00e0 l'Est (Qui a un bureau o\u00f9?) Novembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238868",
+            "date": {
+                "original": "2026-11-18T00:00:00+00:00",
+                "changed": "2026-11-18T12:21:38+00:00",
+                "created": "2026-11-18T10:59:51+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238868"
+    },
+    {
+        "id": "4238856",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9union conjointe :Cluster Nutrition et Pronanut: Compte rendu de la r\u00e9union mensuelle du mois d'octobre 2026",
+            "body": "La r\u00e9union conjointe PRONANUT-Cluster Nutrition du 27 octobre 2026 a r\u00e9uni environ 60 partenaires. Les \u00e9changes ont port\u00e9 sur la m\u00e9thodologie de calcul des personnes dans le besoin pour le HNRP 2027, la pr\u00e9paration de la revue annuelle 2026 du PRONANUT, la r\u00e9ponse nutritionnelle \u00e0 Ebola dans les CTE/CT et les interventions des partenaires.\n\nLes discussions ont mis en \u00e9vidence un faible niveau de rapportage et des besoins nutritionnels encore non couverts. Elles ont soulign\u00e9 la n\u00e9cessit\u00e9 de renforcer la coordination, d\u2019actualiser les projets dans Activity Info (HPC 2026) et de concentrer les interventions sur les zones prioritaires insuffisamment couvertes.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/4145",
+                    "id": 4145,
+                    "name": "Nutrition Cluster",
+                    "shortname": "Nutrition Cluster",
+                    "homepage": "http://nutritioncluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238856",
+            "date": {
+                "original": "2026-11-18T00:00:00+00:00",
+                "changed": "2026-11-18T11:43:11+00:00",
+                "created": "2026-11-18T09:37:12+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238856"
+    },
+    {
+        "id": "4238854",
+        "score": 1,
+        "fields": {
+            "title": "Cluster Protection RDC : Aper\u00e7u du monitoring de protection au Nord-Kivu - Faits saillants et tendances majeures du mois de octobre 2026",
+            "body": "*En octobre 2026, la situation de protection au Sud-Kivu s\u2019est consid\u00e9rablement d\u00e9t\u00e9rior\u00e9e, marqu\u00e9e par une intensification des affrontements entre groupes arm\u00e9s dans les territoires de Walungu, Kabare, Kalehe, Mwenga et Fizi. Cette d\u00e9gradation se serait traduite par la pr\u00e9sence d\u2019engins explosifs dans des zones d\u2019habitation, des actes de repr\u00e9sailles, ainsi que des recrutements forc\u00e9s, y compris d\u2019enfants.*\n\n\u25cf**Forte hausse des violations** **des droits** : 2 466 violations ont \u00e9t\u00e9 identifi\u00e9es en octobre, soit +62% par rapport \u00e0 septembre (1 524), le niveau le plus \u00e9lev\u00e9 depuis juin.\n\n\u25cf**Engins explosifs** : Des engins explosifs auraient \u00e9t\u00e9 lanc\u00e9s lors des affrontements \u00e0 Kaziba, dans le territoire de Walungu, causant la mort de plusieurs civils, dont une femme et ses deux enfants, ainsi que la destruction d\u2019une \u00e9cole.\n\n\u25cf**Recrutement d\u2019enfants** : 44 all\u00e9gations de recrutement et d\u2019utilisation d\u2019enfants ont \u00e9t\u00e9 document\u00e9es, notamment \u00e0 Kalehe, Mwenga, Fizi et dans la plaine de la Ruzizi.\n\n\u25cf**Repr\u00e9sailles** : Des civils accus\u00e9s de collaboration auraient \u00e9t\u00e9 arr\u00eat\u00e9s, tortur\u00e9s et auraient vu leurs maisons incendi\u00e9es, notamment \u00e0 Itombwe (Mwenga) et \u00e0 Kabare.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238854",
+            "date": {
+                "original": "2026-11-18T00:00:00+00:00",
+                "changed": "2026-11-18T11:40:43+00:00",
+                "created": "2026-11-18T09:34:52+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238854"
+    },
+    {
+        "id": "4238838",
+        "score": 1,
+        "fields": {
+            "title": "HCR Tchad | Rapport op\u00e9rationnel hebdomadaire du 15 novembre 2026",
+            "body": "R\u00e9ponse d\u2019urgence \u00e0 l\u2019Est\n\nL\u2019afflux continu de r\u00e9fugi\u00e9s soudanais en qu\u00eate de s\u00e9curit\u00e9 au Tchad accentue la pression sur les capacit\u00e9s d\u2019accueil, particuli\u00e8rement \u00e0 Tin\u00e9, o\u00f9 le centre de transit accueille d\u00e9sormais plus de 9 000 r\u00e9fugi\u00e9s, soit neuf fois sa capacit\u00e9 initiale. Entre le 1er et le 15 novembre 2026, 5 411 nouveaux r\u00e9fugi\u00e9s soudanais ont \u00e9t\u00e9 enregistr\u00e9s dans les provinces du Ouadda\u00ef, du Wadi Fira et de l\u2019Ennedi Est, portant \u00e0 plus de 989, 827 le nombre total de nouveaux arrivants accueillis au Tchad depuis le d\u00e9but du conflit au Soudan en avril 2023. Ces nouvelles arriv\u00e9es sont principalement li\u00e9es \u00e0 la persistance des violences et de l\u2019ins\u00e9curit\u00e9 au Darfour, ainsi qu\u2019aux attaques contre les infrastructures civiles. Conform\u00e9ment \u00e0 sa tradition d\u2019asile et au principe de non-refoulement, le Gouvernement tchadien a continu\u00e9 de garantir l\u2019acc\u00e8s au territoire aux personnes fuyant le conflit au Soudan et \u00e0 la protection internationale. Le HCR et ses partenaires ont poursuivi les activit\u00e9s d\u2019enregistrement, de suivi de protection, de relocalisation et d\u2019assistance vitale, avec une attention particuli\u00e8re port\u00e9e aux personnes les plus vuln\u00e9rables. Bien que le rythme des arriv\u00e9es reste inf\u00e9rieur aux pics pr\u00e9c\u00e9demment observ\u00e9s, notamment en septembre, la poursuite des mouvements transfrontaliers continue d\u2019exercer une pression importante sur les capacit\u00e9s d\u2019accueil, les services de protection et, plus largement, la r\u00e9ponse humanitaire dans l\u2019est du Tchad. La relocalisation des r\u00e9fugi\u00e9s soudanais vers des sites plus s\u00fbrs se poursuit. Entre le 1er et le 15 novembre, le HCR et la CNARR ont relocalis\u00e9 2 170 r\u00e9fugi\u00e9s soudanais depuis la zone frontali\u00e8re d\u2019Adr\u00e9 vers Metch\u00e9, dans le Ouadda\u00ef, leur permettant ainsi d\u2019acc\u00e9der \u00e0 de meilleures conditions de protection et aux services essentiels. Au 15 novembre 2026, 154 370 r\u00e9fugi\u00e9s restaient en attente de relocalisation dans les zones frontali\u00e8res, notamment \u00e0 Adr\u00e9 et \u00e0 Tin\u00e9. La poursuite des op\u00e9rations de relocalisation demeure essentielle pour r\u00e9duire la pression sur des capacit\u00e9s d\u2019accueil fortement sollicit\u00e9es, offrir aux r\u00e9fugi\u00e9s des conditions plus s\u00fbres et am\u00e9liorer leur acc\u00e8s \u00e0 la protection et \u00e0 l\u2019assistance humanitaire. Mise en \u0153uvre progressive de l\u2019Approche bas\u00e9e sur la vuln\u00e9rabilit\u00e9 et les capacit\u00e9s dans les sites de r\u00e9fugi\u00e9s de l\u2019Est du Tchad. Entre le 26 et le 31 octobre 2026, le HCR et ses partenaires ont poursuivi la mise en \u0153uvre de l\u2019Approche bas\u00e9e sur la vuln\u00e9rabilit\u00e9 et les capacit\u00e9s (ABVC) dans les sites accueillant des r\u00e9fugi\u00e9s dans l\u2019est du Tchad. Au total, 48 025 m\u00e9nages r\u00e9fugi\u00e9s \u00e0 Aboutengu\u00e9, Metch\u00e9, Zabout, Djabal, Goz-Amir et Kerfi ont re\u00e7u les r\u00e9sultats de leur \u00e9valuation. Ces r\u00e9sultats permettront au HCR et \u00e0 ses partenaires de mieux cibler et prioriser l\u2019assistance en fonction des vuln\u00e9rabilit\u00e9s et capacit\u00e9s identifi\u00e9es, tout en renfor\u00e7ant le suivi des m\u00e9nages ayant des besoins sp\u00e9cifiques. La communication des r\u00e9sultats et le m\u00e9canisme de gestion des r\u00e9clamations se sont poursuivis \u00e0 Metch\u00e9, Mil\u00e9 et Touloum, tandis que les pr\u00e9paratifs ont \u00e9t\u00e9 finalis\u00e9s \u00e0 Amdjarass en vue du d\u00e9ploiement de l\u2019ABVC \u00e0 Our\u00e9 Cassoni \u00e0 partir du 3 novembre. Entre le 2 et le 8 novembre, le HCR et ses partenaires ont facilit\u00e9 le d\u00e9part de 21 r\u00e9fugi\u00e9s soudanais de l\u2019est du Tchad vers le Canada. Douze r\u00e9fugi\u00e9s ont b\u00e9n\u00e9fici\u00e9 d\u2019un programme de la r\u00e9installation, deux d\u2019une reunification familiale et sept personnes reinstall\u00e9s au Canada par les voies compl\u00e9mentaires. Le HCR poursuit ses efforts en faveur des solutions durables dans l\u2019est du Tchad, notamment \u00e0 travers l\u2019accompagnement des r\u00e9fugi\u00e9s et le traitement des dossiers de r\u00e9installation et de regroupement familial.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238838",
+            "date": {
+                "original": "2026-11-15T00:00:00+00:00",
+                "changed": "2026-11-18T11:28:45+00:00",
+                "created": "2026-11-18T08:03:21+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238838"
+    },
+    {
+        "id": "4238814",
+        "score": 1,
+        "fields": {
+            "title": "Vakaga: Authorities and Residents Welcome the Renewal of MINUSCA\u2019s Mandate",
+            "body": "17 November 2026\n\n**In Vakaga Prefecture, in the northeastern Central African Republic, local authorities and residents welcomed the renewal of MINUSCA\u2019s mandate, which was adopted on November 12, 2026, by the United Nations Security Council. In this region, which faces persistent security and humanitarian challenges\u2014particularly in areas bordering Sudan and Chad\u2014the Mission\u2019s presence is seen as a key factor in protecting civilians, ensuring stability, and fostering socioeconomic development.**\n\n**By Mamouda Tankoano**\n\nFor the residents of Birao, Am-Dafock, Tiringoulou, Boromata, and Ouanda-Djall\u00e9, this decision comes amid positive progress in peacebuilding, but also against the backdrop of the consequences of the conflict in Sudan and the violence that occurred in Am-Dafock in June 2026. The continuation of MINUSCA is seen as a strong signal in favor of continuing efforts toward peace, the protection of civilians, and support for national authorities.\n\nIssouf Abdouramane, a community leader and member of the monitoring committee for the Am-Dafock local peace agreement, welcomed the decision, which meets the aspirations of local communities.\n\n\u201cWe are pleased with the renewal of MINUSCA\u2019s mandate. The Mission has provided us with significant support in our efforts to negotiate and promote peace. From Birao to Am-Dafock, including Ouanda-Djall\u00e9, Matala, Dongore, Tiringoulou, and Boromata, MINUSCA works alongside communities and intervenes whenever there is a security issue to protect the people,\u201d he said.\n\nIn his view, the people now expect these efforts to continue in order to bring about a lasting improvement in their living conditions.\n\n\u201cWe want peace and the free movement of people and goods. We hope that this renewal will strengthen assistance to the people\u2014particularly in Tissifongoro\u2014in terms of access to drinking water, healthcare, and protection. We also hope for improved security in the Vakaga region so that everyone can go about their daily lives in peace,\u201d he added.\n\nIssouf Abdouramane also welcomed the recent deployment of the MINUSCA Force to Tiringoulou, which began on October 26, 2026, to help protect civilians in that area.\n\nOumar Idriss, a community leader in Toumou, also believes that the renewal of the mandate constitutes recognition of the joint efforts of the Central African Government and MINUSCA in support of peace and security.\n\n\u201cI am pleased with the efforts made to ensure that MINUSCA\u2019s mandate was renewed. We saw its actions in Am-Dafock following the attack on June 30, 2026, including support for the deployment of the FACA, the protection of civilians, and the facilitation of humanitarian aid delivery. In Tiringoulou, Sikikede, and Boromata as well, MINUSCA supported national authorities in strengthening the state\u2019s presence and better protecting the population,\u201d he emphasized.\n\nIn his view, the Mission has played a major role in consolidating peace in the prefecture. \u201cMINUSCA has contributed enormously to stability and social cohesion in Vakaga. Its continued presence is good news for the communities,\u201d he asserted.\n\nGuisma Younouss, a member of the Organization of Central African Women (OFCA), emphasized that the renewal of the mandate represents an opportunity to further strengthen the promotion and protection of women\u2019s rights. \u201cWe would like to see more training and awareness-raising activities on women\u2019s rights in order to promote their participation in development and peacebuilding,\u201d she said.\n\nThe prefecture\u2019s administrative authorities also welcomed this decision. For the prefect of Vakaga, Judes Ngayoko, the renewal of the mandate confirms the importance of the partnership between the Central African Government, MINUSCA, and humanitarian actors in the search for sustainable solutions to the region\u2019s challenges.\n\n\u201cI welcome the renewal of MINUSCA\u2019s mandate. Together with MINUSCA and other humanitarian actors, we have accomplished a great deal, especially following the crisis of June 30, 2026, which affected Am-Dafock. MINUSCA has supported the government in protecting civilians, deploying the Central African Armed Forces (FACA), and delivering humanitarian aid. However, security and humanitarian challenges persist in Am-Dafock, Boromata, and Sikikede\u2014areas bordering Sudan and Chad. We must continue our efforts with MINUSCA in these various localities,\u201d he stated.\n\nIn Am-Dafock, one of the areas hardest hit by the violence in June 2026, local authorities also expressed their relief. The subprefect of Am-Dafock, Abdel Kader Ramadan, believes that the Mission\u2019s presence remains essential for the protection of the people living in this particularly vulnerable border area.\n\n\u201cThe people of Am-Dafock and I welcome the renewal of MINUSCA\u2019s mandate. Without MINUSCA\u2019s intervention, the worst would have happened in Am-Dafock during the attacks of June 30, 2026. We thank MINUSCA for taking in the people at its base to protect them. But security and humanitarian challenges remain because we are in an area with porous borders with Sudan. We hope that the renewal of MINUSCA\u2019s mandate will allow the Mission to redouble its efforts in Am-Dafock to better protect the people and consolidate peace,\u201d he said.\n\nFor the head of the MINUSCA office in Birao, Amadou Moctar Diallo, this mandate renewal offers a new opportunity to preserve and consolidate the gains made in Vakaga. He added that this renewal also provides an opportunity to strengthen joint efforts with local and national actors to ensure better protection of civilians and lasting peace.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/14612",
+                    "id": 14612,
+                    "name": "UN Multidimensional Integrated Stabilization Mission in the Central African Republic",
+                    "shortname": "MINUSCA",
+                    "longname": "United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic",
+                    "homepage": "https://minusca.unmissions.org/en",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238814",
+            "date": {
+                "original": "2026-11-17T00:00:00+00:00",
+                "changed": "2026-11-18T06:26:43+00:00",
+                "created": "2026-11-18T04:38:13+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238814"
+    },
+    {
+        "id": "4238756",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Tableau de bord de sant\u00e9 et nutrition de janvier \u00e0 septembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238756",
+            "date": {
+                "original": "2026-11-09T00:00:00+00:00",
+                "changed": "2026-11-18T02:01:13+00:00",
+                "created": "2026-11-17T18:04:02+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238756"
+    },
+    {
         "id": "4238755",
         "score": 1,
         "fields": {
@@ -158,6 +466,46 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4238752"
+    },
+    {
+        "id": "4238751",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Statistiques mensuelles des r\u00e9fugi\u00e9s et des demandeurs d'asile - 31 octobre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238751",
+            "date": {
+                "original": "2026-11-17T00:00:00+00:00",
+                "changed": "2026-11-18T02:09:58+00:00",
+                "created": "2026-11-17T18:03:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238751"
     },
     {
         "id": "4238634",
@@ -806,47 +1154,6 @@
         "href": "https://api.reliefweb.int/v2/reports/4238397"
     },
     {
-        "id": "4238395",
-        "score": 1,
-        "fields": {
-            "title": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
-            "body": "**Addis Ababa, Geneva, Kinshasa, New York, Rome \u2014** Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected communities, despite immense challenges. However, fuelled by ongoing conflict, displacement and humanitarian needs, the outbreak continues to expand, particularly in affected areas.\n\nSince the start of the outbreak, more than 11 000 cases and 5400 deaths have been reported. Children account for more than a quarter of confirmed cases and one third of deaths. Seven in 10 children under five with confirmed Ebola have died. While the response has slowed transmission in the initial epicentres, 400 to 500 new cases continue to be reported each week, and the outbreak has expanded to 67 health zones in eight provinces.\n\nContact follow-up remains below target. The high number of deaths occurring in communities, which account for two-thirds of confirmed deaths, show that infections are still being identified too late. Recent imported cases in Kenya and Nigeria underscore the continuing risk of spread beyond national borders. Delays in paying frontline health workers and responders create tension and slow the response.\n\n## **Six months of collective action**\n\nThe United Nations, Africa Centres for Disease Control and Prevention, regional economic bodies and humanitarian partners are fully mobilized behind government leadership. WHO is directing the technical health response, and the wider humanitarian system is helping enable access, logistics, protection, and continuity of essential services. Nearly 100 health and humanitarian partners are present across the affected areas, providing essential health services, including treatment for acute malnutrition.\n\nAfrica CDC and WHO co-lead the joint continental Incident Management Support Team, which supports the technical health response and coordinates health and development partners across affected and at-risk countries in response, preparedness and readiness.\n\nMost of the early epicentres of this outbreak have been successfully brought under control and rapid transmission has been halted, including Mongbwalu, Nyankunde, Nizi, Rwampara and Butembo. Even in Bunia, one of the larger, early epicentres, though there is still significant transmission, the number of new cases has halved, and treatment centres are reporting low occupancy.\n\nDiagnostic capacity has grown from two laboratories to more than two dozen, while close to 2000 treatment beds are now available in 104 treatment and transit centres. Around 3000 people have recovered from Ebola, and a quarter of those have enrolled in the survivor programme.\n\nOver 17 000 community health workers and 46 000 community actors have been trained and provided with supplies to safely do their jobs. Health teams are implementing targeted strategies to support women and children, including by keeping maternal health services running. Nearly one million hot meals across 59 treatment, isolation and transit facilities have been delivered to more than 180,000 people affected by the outbreak and to support containment efforts.\n\nSurveillance, contact tracing, risk communication, community engagement and safe and dignified burials have also expanded. Almost 90% of registered deaths are now managed with a safe and dignified burial, an important step in stopping onward transmission to mourners. Cross-border collaboration has strengthened surveillance, information-sharing and coordination, while scientific research is advancing, including the evaluation of candidate treatments and vaccines.\n\nThese achievements would not have been possible without the dedication of Congolese health workers, community volunteers and frontline responders who continue to serve affected communities, often under extremely difficult and insecure conditions.\n\nThese successes remain fragile, however, and must be to be protected and scaled up across the affected and at-risk health zones and provinces.\n\n## **Violence prevents communities from getting help**\n\nInsecurity remains one of the greatest obstacles to the response. Attacks and threats against response teams disrupt lifesaving operations, while ongoing conflict, displacement and movement restrictions continue to complicate response efforts. A recent armed attack in Cantine-Aloya locality led to 66 civilian deaths, including that of three health workers. Three health facilities were looted. More than 1000 contacts were lost to follow-up, and three confirmed cases remain unaccounted for. A second attack on the town was reported early on 11 November. There have been over 80 attacks on health care since the outbreak was declared.\n\nA halt in hostilities is urgently needed to protect communities and health workers, and to safeguard the progress made over the past six months.\n\n## **Sustaining the response**\n\nThe response must put the knowledge, tools and resources needed to stop Ebola into the hands of affected communities. It must take the wider view, listening to communities who have asked for help in addressing challenges beyond Ebola, from violence to hunger to weaknesses in the health system.\n\nInternational support has enabled the response to move from chasing the virus to controlling transmission in many areas. That progress must now be protected. Fast, flexible funding must be sustained through 2027, alongside political commitment, safe access, protection of health care and meaningful community participation. Wider humanitarian needs, including food security, water and sanitation, child protection, mental health and psychosocial support, maternal and newborn health care and support for women and girls, must also be addressed.\n\nThe next phase must build on six months of progress while moving faster to reach those communities still beyond the effective reach of the response. That is essential to save lives, interrupt transmission and bring the outbreak to an end.\n\n### **Media contacts**\n\n**Eugene Kabambi**\n\nCommunications Officer\n\nWHO DRC\n\nTel : +243 81 715 1697  \n Office : +47 241 39 027  \n Email: kabambie@who.int\n\n**Collins Boakye-Agyemang**\n\nCommunications and marketing officer  \n Tel: + 242 06 520 65 65 (WhatsApp)  \n Email: boakyeagyemangc@who.int",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238395",
-            "date": {
-                "original": "2026-11-15T00:00:00+00:00",
-                "changed": "2026-11-16T05:47:22+00:00",
-                "created": "2026-11-16T05:30:37+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238395"
-    },
-    {
         "id": "4238372",
         "score": 1,
         "fields": {
@@ -1452,328 +1759,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4238241"
-    },
-    {
-        "id": "4238223",
-        "score": 1,
-        "fields": {
-            "title": "Conflict and disease outbreaks deepen DR Congo\u2019s hunger crisis as record numbers are projected to face acute food insecurity",
-            "body": "**KINSHASA/ROME/NEW YORK/GENEVA, 13 November 2026 \u2013** Severe hunger is expected to deepen in the Democratic Republic of the Congo (DRC), with a record 30.3 million people projected to face Crisis levels of acute food insecurity or worse (IPC Phase 3 or above) between January and June 2027, according to the [latest Integrated Food Security Phase Classification (IPC) analysis.](https://www.ipcinfo.org/ipcinfo-website/countries-in-focus-archive/issue-160/en/)\n\nConflict, displacement and rising food prices are driving the crisis, compounded by Ebola \u2013 a severe and often fatal viral disease - and other disease outbreaks. Humanitarian assistance is now falling dangerously behind growing needs, warn the United Nations World Food Programme (WFP), the Food and Agriculture Organization of the United Nations (FAO), UNICEF and the World Health Organization (WHO).\n\nNearly 29 million people \u2013 almost a quarter of the population - face Crisis or worse levels of acute food insecurity (IPC Phase 3 or above) from September to December 2026, including 3.6 million in Emergency (IPC Phase 4). By early 2027, the number facing Emergency levels of hunger is projected to rise by nearly 600,000 to 4.2 million. The total facing Crisis or worse is projected to reach 30.3 million between January and June 2027, up from 26.5 million between January and June 2026.\n\nEastern DRC faces the sharpest concentration of urgent needs. More than 11 million people in North Kivu, South Kivu and Ituri are projected to face Crisis or worse between January and June 2027. Nine territories are projected to be in Emergency: Djugu in Ituri; Lubero, Masisi and O\u00efcha in North Kivu; and Fizi, Kalehe, Mwenga, Shabunda and Walungu in South Kivu. These areas need urgent humanitarian assistance.\n\n\u201cConflict is driving families from their homes, cutting them off from their fields and putting food beyond their reach,\u201d said Ross Smith, WFP Director of Emergency Preparedness and Response. \u201c'The Ebola outbreak is a crisis on top of a pre-existing crisis, and we must meet these humanitarian needs if we are to stop the spread of the virus. We need safe, sustained access and resources to deliver food assistance at scale before more families face Emergency levels of hunger.\u201d\n\nArmed conflict and repeated displacement are stripping families of their means to survive. Lost assets, restricted access to land and disrupted markets are cutting food production and incomes. With purchasing power shrinking, families are turning to coping strategies that leave them less able to withstand the next shock.\n\nInsecurity, logistical barriers and damaged infrastructure disrupt trade and keep food prices high with protracted food crises hit hardest. The IPC analysis identifies crises in the Middle East, the Red Sea and Ukraine as adding to these pressures. Insecurity, climate hazards and limited access to land and agricultural inputs are cutting harvests and farm incomes, leaving families with less food and less money to buy it.\n\n\"Families in eastern DRC urgently need practical support at scale to enable them to feed themselves,\u201d said Rein Paulsen, Director of the FAO Office of Emergencies and Resilience. \u201cEvery agricultural season missed deepens hunger and increases dependence on humanitarian assistance. If farmers receive seeds, tools and other essential support before planting begins in early 2027, they can harvest by mid-year, restore incomes and help feed their communities through the lean season. Acting late means another missed harvest, more displacement and hunger and a longer, costlier emergency response.\u201d\n\nThe crisis reaches beyond the eastern hotspots. Significant shares of the population in Tanganyika, Maniema, Kasa\u00ef, Haut-Lomami, Lomami, Kwango and Haut-Uele also face Crisis levels of hunger or worse. Security shocks, barriers to markets, low purchasing power and disrupted farming are undermining food security across these provinces.\n\nAcute malnutrition and poor access to health care, safe water and sanitation compound the crisis, particularly for children under five, who face the greatest risk from acute malnutrition. Together, they deepen hunger\u2019s consequences and make recovery harder, especially where basic services are already stretched.\n\n\u201cFor children in the Democratic Republic of the Congo, hunger and malnutrition are not just driven by a lack of food. Conflict, displacement and outbreaks such as Ebola are compounding the risks of food insecurity, particularly when women, girls and boys cannot access essential health care, safe water, and sanitation,\u201d said UNICEF Director of Emergency Operations, Lucia Elmi. \u201cWe urgently need support to scale up efforts to prevent food insecurity and malnutrition, sustain essential services and ensure every child can safely access the care and protection they need.\u201d\n\nEbola is adding pressure on families already struggling to eat. Alongside mpox, cholera and other health emergencies, the outbreak disrupts farming and livelihoods, restricts movement and raises household costs. These overlapping health crises also strain fragile health systems.\n\n\u201cHunger and disease are deepening the crisis in the Democratic Republic of the Congo,\u201d said Dr Chikwe Ihekweazu, Executive Director of the WHO Health Emergencies Programme. \u201cWhen families cannot access enough nutritious food, safe water or essential health services, they become increasingly vulnerable to disease and death. With large outbreaks of Ebola and cholera also affecting eastern DRC, reaching people with these lifesaving services is an urgent priority.\u201d\n\nThe response must expand now. FAO, WFP, UNICEF and WHO call for urgent, coordinated financing and diplomatic action to scale up food assistance, protect and restore agricultural livelihoods, prevent and treat acute malnutrition, and sustain essential health, nutrition, safe water and sanitation services, and secure safe, unimpeded humanitarian access.\n\nThe agencies urge all parties to protect civilians, including children, and vital services and infrastructure, and allow facilitate safe, rapid and unimpeded humanitarian access. Donors must provide timely, sustained funding to reach the worst-affected communities now, including ahead of of critical planting seasons, and help prevent hunger and malnutrition from deepening in the months ahead.\n\n**Notes to Editors:**\n\nThe Integrated Food Security Phase Classification (IPC) has five phases of acute food insecurity: Minimal (Phase 1), Stressed (Phase 2), Crisis (Phase 3), Emergency (Phase 4) and Catastrophe/Famine (Phase 5). Figures for Phase 3 or above already include Phase 4; they must not be added together. Projections describe expected conditions in the stated period, not current conditions.\n\n\\# # #\n\n## **Media contacts**\n\n**Giacomo Colarullo**  \nCommunication Officer  \nUNICEF\n\nTel: +1 917 622 2782\n\nEmail: gcolarullo@unicef.org",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2836",
-                    "id": 2836,
-                    "name": "Food and Agriculture Organization of the United Nations",
-                    "shortname": "FAO",
-                    "longname": "Food and Agriculture Organization of the United Nations",
-                    "spanish_name": "Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n",
-                    "homepage": "https://www.fao.org/home/en/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1741",
-                    "id": 1741,
-                    "name": "World Food Programme",
-                    "shortname": "WFP",
-                    "longname": "United Nations World Food Programme",
-                    "spanish_name": "Programa Mundial de Alimentos",
-                    "homepage": "https://www.wfp.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238223",
-            "date": {
-                "original": "2026-11-13T00:00:00+00:00",
-                "changed": "2026-11-16T01:55:08+00:00",
-                "created": "2026-11-13T09:33:08+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238223"
-    },
-    {
-        "id": "4238222",
-        "score": 1,
-        "fields": {
-            "title": "Myths, Microphones and Medicine: Child broadcasters use radio to tackle Ebola",
-            "body": "**BUNIA, DRC, 13 November 2026 \u2013** A group of inspiring children are taking to the airwaves in the Democratic Republic of Congo (DRC) to bust myths about Ebola and share information on how to stay safe, six months into the country\u2019s worst ever outbreak.\n\nIn a new programme supported by Save the Children, the young people are sharing their messages on two local radio stations \u2013 Radio Mont Bleu and Radio T\u00e9l\u00e9 Salama - reaching a combined estimated audience of over 845,000 listeners. The 35 children, aged from 8 to 17, are live on air twice a week, while the radio stations also run daily pre-recorded spots of their discussions.\n\nSupported by 10 young adults, and often accompanied by music, the children use their own language and insights to share factual information about Ebola, including how it spreads, how to prevent infection, what symptoms to look out for, and where to seek help.\n\nThis current outbreak, which was declared on 15 May in Ituri Province in eastern DRC, has spread from a single health zone to 67 health zones in eight provinces with over [11,000 people](https://ebola-tracker.org/en/data/) infected and more than [5300 deaths](https://ebola-tracker.org/en/data/) - one quarter of them children - in the largest ever Ebola outbreak in the country and the second largest globally.\n\n**Deborah\\*, 16, is a youth community leader in Ituri, and has appeared on the radio show. She said:**\n\n*\"I have seen that these broadcasts have truly helped shift mindsets. Previously, some people believed that Ebola was linked to witchcraft or that it was entirely fabricated. Today, many people understand that the disease is real and that it is essential to seek help from healthcare facilities immediately.*\n\n*\"I have also observed tangible changes in my own surroundings. In my neighbourhood, residents have begun washing their hands more regularly at the entrances to their homes and schools. Families now avoid handling the bodies of the deceased without protection, and they alert health teams much more quickly when someone shows suspicious symptoms.*\n\n*\"A neighbour of mine used to claim that Ebola did not exist. After listening to our radio broadcasts, his attitude changed completely. When his brother fell ill with a fever, he immediately contacted the health teams instead of keeping him hidden at home. This action showed that the messages being broadcast had truly taken effect.\"*\n\n**Sandrine\\*, 13, is a youth leader who has participated in several radio programmes now. She said:**\n\n*\"I am convinced that the radio broadcasts have helped children and families better understand the disease. Every week, many students would come up to me to say they had heard me on the radio. The radio gave us the chance to ensure that children\u2019s voices were heard by many families in Ituri.*\n\n*\"I have also observed positive changes around me. Many children have started washing their hands more regularly, and some parents now encourage their children to follow hygiene and prevention measures. These responses show me that our messages have had a tangible impact on the community.\"*\n\nFear, uncertainty and misinformation are major challenges in this outbreak, with many people are worried about Ebola unable to access to clear or trusted information about how it spreads or how to stay safe, said Save the Children.\n\nThis programme aims to counter this by giving children a platform to challenge harmful rumours, share accurate health information in a way that resonates with their peers and communities, and build trust in the measures needed to help bring the outbreak under control.\n\n**Alain Mukoko, a program manager at Radio T\u00e9l\u00e9 Salama, said:**\n\n*\"The moment that left the greatest impression on me was when the children spoke into the microphone with such confidence and conviction. Their enthusiasm, seriousness, and commitment demonstrated that they are fully capable of conveying messages that are both important and useful to society.\"*\n\nBeyond this radio programme, Save the Children is also using interactive approaches, including games, discussions, to help children understand key messages and stay safe. As well as children becoming sick and dying from the illness, many are being orphaned, separated from loved ones, and missing critical months of education.\n\nSave the Children is also working to keep schools safe from Ebola transmission, listening to communities, gathering feedback and adapting its response to address concerns, reduce fear and build trust.\n\n**Greg Ramm, Save the Children\u2019s Country Director in DRC, said:**\n\n*\u201cChildren are not just affected by outbreaks, they can be a powerful part of the response. They know what questions their friends are asking, what rumours are circulating in schools and neighbourhoods, and the fears families are dealing with every day.*\n\n*\"When children are given the opportunity to speak, people listen because they are hearing directly from those living through the crisis. Child-led programmes like this help make health information more relevant, more trusted and more likely to reach the people who need it most.\u201d*\n\nSave the Children, which has been in DRC since 1994, partners with 13 local organisations as well as international agencies and government authorities to deliver life-saving support in health, nutrition, education, child protection, food security and water, sanitation and hygiene for children and their families.\n\n\\*Names changed to protect identities",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2865",
-                    "id": 2865,
-                    "name": "Save the Children",
-                    "shortname": "Save the Children",
-                    "longname": "Save the Children Alliance",
-                    "spanish_name": "Save the Children",
-                    "homepage": "https://www.savethechildren.net/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238222",
-            "date": {
-                "original": "2026-11-13T00:00:00+00:00",
-                "changed": "2026-11-13T10:04:02+00:00",
-                "created": "2026-11-13T09:33:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238222"
-    },
-    {
-        "id": "4238216",
-        "score": 1,
-        "fields": {
-            "title": "6 months into DRC\u2019s Ebola outbreak, women and girls face increasing maternal deaths and violence | International Rescue Committee",
-            "body": "- IRC teams tracked 84 rumours, including the recurring belief that people who are admitted to Ebola Treatment Centres (ETCs) \u201cdo not return home alive,\u201d contributing to fear and mistrust, particularly among women, discouraging them from seeking timely care\n- IRC\u2019s partner organizations report a 54-63% increase in gender-based violence (GBV) cases in Bunia, Nizi and Nyankunde, and IRC protection teams supported 187 pregnant girls aged 10 to 19 over the past 6 months.\n- Donors must fund GBV services, mental health support, child protection and maternal health care as a core part of the Ebola response, and keep funding them after the outbreak ends.\n\nBunia, Democratic Republic of the Congo, November 13, 2026 \u2014 Six months into the Ebola outbreak in the eastern [Democratic Republic of the Congo (DRC)](https://www.rescue.org/country/democratic-republic-congo), women and teenage girls face growing risks to their health and safety, the International Rescue Committee (IRC) said today. Many women and girls are avoiding seeking critical health care, facing a growing risk of violence and losing the family support they depend on. In the past six months, IRC protection teams have supported more than 1,000 people with protection needs in Ituri province, including 194 survivors of gender-based violence (GBV). Almost 200 pregnant girls aged 13 to 19, including 184 girls under 18 and seven girls under 15 received group psychotherapy.\n\nDuring the period of 19\u201323 October, IRC teams collected 84 rumours, including that people who go to treatment centers \"do not come out\" keep women away from clinics, for services such as postnatal care, and many turn to self-medication instead. Women are farming less in groups, which used to protect them from violence. Many feel unsafe working alone, deepening hunger and food insecurity. All of this is unfolding in a region marked by years of conflict, displacement and rising living costs. Cuts to global aid have also left eastern DRC with a weaker health system, and with fewer resources to respond compared to the previous 2018\u20132020 outbreak.\n\n*\u201cThe world is failing girls in DRC,\u201d* said Alice Ribes, IRC Ebola response director. Almost half of the protection cases IRC reached since May 15 were *girls under 18*. *\u201cOur teams are increasingly concerned about the sexual abuse and exploitation of girls, and we are seeing more domestic violence in North Kivu. Ebola is a health emergency, but for women and girls it is also a protection emergency, meaning being less safe in their own homes and communities.\u201d*\n\nThe teams also cared for 183 children who lost one or both parents, 110 of them girls, and 115 unaccompanied or separated children, 68 of them girls. Without parental protection and income, many of these girls face Ebola-related stigma and social rejection, are exposed to malnutrition, and are forced into adult roles as heads of household before their time. In their search for food, girls and boys alike are used as labor on construction sites and in restaurants and hotels, while many girls are pushed into early marriage and sexual exploitation.\n\nThe IRC calls for funding for gender-based violence services, mental health support and child protection as a core part of the response, and for keeping that funding in place after the outbreak ends. Maternal and child health care must be kept running, with trust rebuilt so women return to facilities, working through women\u2019s associations, mothers\u2019 groups and midwives.\n\nThe IRC is putting women and girls at the center of its Ebola response in Ituri and North Kivu. IRC teams are working to provide mental health and psychosocial support to women and girls and training psychosocial focal points on GBV, referral and safeguarding. The IRC also partners with local women\u2019s groups and women-led organizations, which reached 347 people on combatting stigma and providing protection, and backs local women leaders and girls who lead prevention in their own communities. Midwives and Ebola survivors help explain Ebola in pregnancy, and safe-space assessments make sure triage suits pregnant patients.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2012",
-                    "id": 2012,
-                    "name": "International Rescue Committee",
-                    "shortname": "IRC",
-                    "longname": "International Rescue Committee",
-                    "spanish_name": "Comit\u00e9 Internacional de Rescate",
-                    "homepage": "https://www.rescue.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238216",
-            "date": {
-                "original": "2026-11-13T00:00:00+00:00",
-                "changed": "2026-11-13T09:21:33+00:00",
-                "created": "2026-11-13T08:33:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238216"
-    },
-    {
-        "id": "4238210",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - \u00c9pid\u00e9mie de maladie \u00e0 virus Ebola - Aper\u00e7u de la situation, semaine 45 - \u00e0 la date du 8 novembre 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238210",
-            "date": {
-                "original": "2026-11-12T00:00:00+00:00",
-                "changed": "2026-11-13T07:08:22+00:00",
-                "created": "2026-11-13T06:29:56+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238210"
-    },
-    {
-        "id": "4238200",
-        "score": 1,
-        "fields": {
-            "title": "OIM RDC : Mouvements des PDI - Suivi des d\u00e9placements - juillet 2026 | Province de Tanganyika, RDC",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238200",
-            "date": {
-                "original": "2026-11-13T00:00:00+00:00",
-                "changed": "2026-11-13T05:27:58+00:00",
-                "created": "2026-11-13T01:06:00+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238200"
-    },
-    {
-        "id": "4238199",
-        "score": 1,
-        "fields": {
-            "title": "OIM RDC : Mouvements des PDI - Suivi des d\u00e9placements - juillet 2026 | Province du Sud-Kivu, RDC",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238199",
-            "date": {
-                "original": "2026-11-13T00:00:00+00:00",
-                "changed": "2026-11-13T05:10:14+00:00",
-                "created": "2026-11-13T01:05:49+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238199"
-    },
-    {
-        "id": "4238198",
-        "score": 1,
-        "fields": {
-            "title": "OIM RDC : Mouvements des PDI - DTM: Suivi de la mobilite - juillet 2026 | Nord-Kivu & Ituri",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238198",
-            "date": {
-                "original": "2026-11-13T00:00:00+00:00",
-                "changed": "2026-11-13T04:57:00+00:00",
-                "created": "2026-11-13T01:05:38+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238198"
     }
 ]
