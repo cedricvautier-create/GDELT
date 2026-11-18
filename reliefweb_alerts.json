@@ -1,5 +1,165 @@
 [
     {
+        "id": "4238755",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - D\u00e9termination du Statut de R\u00e9fugi\u00e9 (DSR) au 31 octobre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238755",
+            "date": {
+                "original": "2026-11-03T00:00:00+00:00",
+                "changed": "2026-11-18T00:33:56+00:00",
+                "created": "2026-11-17T18:03:54+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238755"
+    },
+    {
+        "id": "4238754",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Tableau de bord de Monitoring de Protection au 30 septembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238754",
+            "date": {
+                "original": "2026-11-09T00:00:00+00:00",
+                "changed": "2026-11-18T00:32:06+00:00",
+                "created": "2026-11-17T18:03:42+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238754"
+    },
+    {
+        "id": "4238753",
+        "score": 1,
+        "fields": {
+            "title": "Democratic Republic of the Congo - Voluntary Repatriation from/to DRC (31 October 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238753",
+            "date": {
+                "original": "2026-11-11T00:00:00+00:00",
+                "changed": "2026-11-18T00:43:39+00:00",
+                "created": "2026-11-17T18:03:31+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238753"
+    },
+    {
+        "id": "4238752",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - Rapatriement de la RDC vers d\u2019autres pays et d\u2019autres pays vers la RDC au 31 octobre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238752",
+            "date": {
+                "original": "2026-11-11T00:00:00+00:00",
+                "changed": "2026-11-18T00:41:29+00:00",
+                "created": "2026-11-17T18:03:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238752"
+    },
+    {
         "id": "4238634",
         "score": 1,
         "fields": {
@@ -1615,179 +1775,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4238198"
-    },
-    {
-        "id": "4238197",
-        "score": 1,
-        "fields": {
-            "title": "OIM RDC : Mouvements des PDI - Suivi des deplacements - juillet 2026 | Nord-Kivu & Ituri",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238197",
-            "date": {
-                "original": "2026-11-13T00:00:00+00:00",
-                "changed": "2026-11-13T04:39:28+00:00",
-                "created": "2026-11-13T01:05:27+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238197"
-    },
-    {
-        "id": "4238193",
-        "score": 1,
-        "fields": {
-            "title": "Why the Central African Republic is a peacekeeping success story",
-            "body": "Few observers in 2014, the year MINUSCA was established, would have predicted the progress the Central African Republic has achieved today. At the time, violence was widespread, armed groups were entrenched across much of the country and State institutions faced immense challenges in re-establishing their presence nationwide.\n\nThe country\u2019s challenges have not disappeared. Armed groups remain active in some areas and regional instability continues to affect the north-east. Yet the Central African Republic has become one of the clearest examples in recent years of a United Nations peacekeeping mission helping a country move from widespread conflict towards greater stability, stronger institutions and renewed political participation.\n\n**Peace is delivering results**\n\nThe turning point came with the signing of the 2019 Political Agreement for Peace and Reconciliation, which has gradually evolved from a political commitment into a framework delivering tangible results. By late 2025, eleven of the fourteen signatory armed groups had formally dissolved. An important step came with the signing of the 19 April and 19 November 2025 N\u2019Djamena peace agreements with three main armed groups, followed by the disarmament and demobilization of over 1,900 ex-combatants, including 44 women, since July 2025.\n\nProgress was also visible at the ballot box. In December 2025, Central Africans went to the polls in combined historic presidential, legislative, regional and local elections, followed by second-round and by-elections in April 2026. Beyond the peaceful and orderly organization of the vote, facilitated by MINUSCA good offices, the elections demonstrated the country\u2019s growing ability to extend democratic processes across its territory. With support from MINUSCA, electoral materials reached some of the most remote communities and security arrangements enabled voting in areas where access had previously been constrained. In Haut-Mbomou in the south-east, for example, polling took place in April in Bambouti and Z\u00e9mio, after voting had been impossible there during the first round. More than 2.4 million voters were registered, turnout reached 52.4 per cent, up significantly from 35.3 per cent in the 2020 presidential election, and by October 2026 elected local officials had taken office in three quarters of the country\u2019s municipalities.\n\nPerhaps the most meaningful sign of progress, however, is the gradual return of State authority and enhanced civilian protection. Areas once beyond the reach of public institutions are increasingly served by administrative authorities, defense forces and internal security services. With logistical support from MINUSCA, the Government has extended its presence into remote prefectures while humanitarian access has been preserved in difficult environments.\n\n**A success recognized far beyond Bangui**\n\nThe progress achieved in the Central African Republic has been recognized well beyond Bangui. During a visit ahead of the 2025 elections, Jean-Pierre Lacroix, United Nations Under-Secretary-General for Peace Operations, described the country as being on a \u201cpositive trajectory\u201d, pointing to improvements in security, the disarmament of armed groups and the strengthening of State institutions. He emphasized that the electoral calendar was determined by the Central African authorities themselves, while noting that improved security provides the foundation for development and economic recovery.\n\nThe emphasis on national ownership has remained a defining feature of the country\u2019s progress. Addressing the General Assembly in September 2026, President Faustin Archange Touad\u00e9ra defended the choice of dialogue, reconciliation and negotiated disarmament as the path to peace, despite criticism from some quarters. He also made clear that, amid calls by Member States for reforms to UN peacekeeping, any transition from MINUSCA should be guided by conditions on the ground rather than by predetermined timelines. A month later, Marius Nzessioue, Permanent Representative of the Central African Republic to the United Nations, reiterated before the Security Council that the transfer of responsibilities must reflect operational, institutional and financial realities, calling for a joint assessment of the country\u2019s readiness.\n\nIn June 2026, J\u00e9r\u00f4me Bonnafont, France\u2019s Permanent Representative to the United Nations, described developments in the Central African Republic as proof that peacekeeping operations remain \u201ceffective and, in some respects, irreplaceable instruments\u201d. France later argued that the transfer of responsibilities should proceed in a \u201cresolute and controlled manner\u201d. Similar messages came from across the Security Council. Greece underscored that MINUSCA had demonstrated the tangible value of UN peacekeeping, Denmark described the Mission as one of the clearest examples of what sustained international engagement can achieve, and the United Kingdom stressed that any transition should be gradual, carefully sequenced and grounded in realities on the ground.\n\n**The challenge now is to protect the gains**\n\nSuccess in peacekeeping is not only about helping to restore stability. It is also about creating the conditions for a responsible transition. In the Central African Republic, that conversation has already begun. As national institutions assume greater responsibilities, both the Government and its international partners have emphasized that any transfer of tasks must remain gradual, realistic and guided by conditions on the ground. The objective is not an accelerated exit, but the preservation of hard-won gains. As Jean-Pierre Lacroix has warned, a premature withdrawal could jeopardize the progress achieved over the past decade.\n\nThose gains, moreover, remain fragile. Insecurity remains a concern in the south-east, while regional instability continues to reverberate across the country\u2019s borders, particularly in the north-east. The deadly attack on Am-Dafock in June 2026, which displaced thousands and temporarily disrupted local security, served as a reminder that the threat posed by armed groups has not disappeared. Financial pressures are also mounting, raising concerns about the resources available to sustain progress at a critical moment. Yet peacekeeping should ultimately be judged not by whether all challenges have disappeared, but by whether a country has developed the capacity and resilience to sustain peace and stability.\n\nThe lesson of the Central African Republic is not that peacekeeping, on its own, guarantees success. It succeeds when national leadership, international support and political commitment align behind a common objective. In the Central African Republic, that alignment has produced tangible results. At a time when the value of peacekeeping is increasingly questioned, and with the Security Council due to renew MINUSCA mandate by 15 November, that success deserves not only recognition, but protection.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/14612",
-                    "id": 14612,
-                    "name": "UN Multidimensional Integrated Stabilization Mission in the Central African Republic",
-                    "shortname": "MINUSCA",
-                    "longname": "United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic",
-                    "homepage": "https://minusca.unmissions.org/en",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238193",
-            "date": {
-                "original": "2026-11-12T00:00:00+00:00",
-                "changed": "2026-11-12T23:24:42+00:00",
-                "created": "2026-11-12T23:24:28+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238193"
-    },
-    {
-        "id": "4238190",
-        "score": 1,
-        "fields": {
-            "title": "Cameroon | Cholera: Early Action Protocol Activation (MDRCM040) (07/10/2026)",
-            "body": "**EARLY ACTION PROTOCOL ACTIVATION**\n\n**Activation Overview**\n\nThe Cameroon Red Cross (CRC) activated its cholera Early Action Protocol (EAP) following flooding in the city of Douala, Littoral Region.\n\nOn the night of 11 September 2026, heavy rainfall caused flooding in several neighbourhoods of Douala, particularly Bonamoussadi (Sable Banya and Denver) and Mak\u00e8p\u00e8 Missok\u00e8. The floods affected communities and several water, sanitation and hygiene facilities, increasing the risk of contamination of water sources and exposure to waterborne diseases, particularly cholera.\n\nField assessments conducted by Cameroon Red Cross volunteers identified approximately 500 affected households, representing nearly 2,300 people, as well as latrines/pits and water supply sources affected by the floods. Stagnant water, high population density, poor housing conditions in some areas and the ongoing rainy season further increase health risks.\n\nFollowing analysis of the data collected and monitoring of the trigger criteria defined in the cholera EAP, the threshold for the first trigger was considered to have been reached on 18 September 2026. This led the Cameroon Red Cross to activate the cholera EAP in Bangu\u00e9 Health District, Douala, Littoral Region.\n\nAnticipatory actions will be implemented over three months to reduce communities\u2019 exposure to cholera and limit the potential consequences of a possible outbreak.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238190",
-            "date": {
-                "original": "2026-11-12T00:00:00+00:00",
-                "changed": "2026-11-13T07:31:25+00:00",
-                "created": "2026-11-12T23:14:40+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238190"
-    },
-    {
-        "id": "4238186",
-        "score": 1,
-        "fields": {
-            "title": "COD: Inondation - 11-2026 - Les Inondations dans la ville de Kinshasa en R\u00e9publique D\u00e9mocratique du Congo (2026-11-11)",
-            "body": "**Description**\n\nDans la nuit du 10 au 11 novembre 2026, la pluie diluvienne s'est abattue dans la ville province de Kinshasa, occasionnant d'importantes perturbations dans plusieurs communes de la capitale. Les fortes pr\u00e9cipitations ont provoqu\u00e9 des inondations de routes et d'habitations, des difficult\u00e9s de circulation, ainsi que des risques accrus d'\u00e9rosion dans certaines zones vuln\u00e9rables. Plusieurs quartiers ont enregistr\u00e9 des accumulations d'eau importantes, affectant les activit\u00e9s socio-\u00e9conomiques et les d\u00e9placements de la population d\u00e8s les premi\u00e8res heures de la matin\u00e9e.\n\nCette situation intervient dans un contexte de saison des pluies marqu\u00e9e par la r\u00e9currence des inondations urbaines dans la ville province de Kinshasa, notamment dans plusieurs Communes o\u00f9 les probl\u00e8mes de drainage des eaux pluviales, l'occupation des zones \u00e0 risque et la d\u00e9gradation des infrastructures d'assainissement accentuent la vuln\u00e9rabilit\u00e9 des populations.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/52293",
-                    "id": 52293,
-                    "name": "Croix-Rouge de la RDC",
-                    "shortname": "Croix-Rouge de la RDC",
-                    "longname": "Croix-Rouge de la R\u00e9publique D\u00e9mocratique du Congo",
-                    "homepage": "https://www.croixrouge-rdc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1242",
-                    "id": 1242,
-                    "name": "International Federation of Red Cross and Red Crescent Societies",
-                    "shortname": "IFRC",
-                    "longname": "International Federation of Red Cross and Red Crescent Societies",
-                    "spanish_name": "Federaci\u00f3n Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
-                    "homepage": "https://www.ifrc.org/",
-                    "type": {
-                        "id": 276,
-                        "name": "Red Cross/Red Crescent Movement"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238186",
-            "date": {
-                "original": "2026-11-12T00:00:00+00:00",
-                "changed": "2026-11-13T00:01:00+00:00",
-                "created": "2026-11-12T23:03:50+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238186"
     }
 ]
