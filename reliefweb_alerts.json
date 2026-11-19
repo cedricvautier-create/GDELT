@@ -1,5 +1,128 @@
 [
     {
+        "id": "4238949",
+        "score": 1,
+        "fields": {
+            "title": "Central African Republic: Overview of population movements (August 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238949",
+            "date": {
+                "original": "2026-11-18T00:00:00+00:00",
+                "changed": "2026-11-18T17:19:15+00:00",
+                "created": "2026-11-18T17:18:35+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238949"
+    },
+    {
+        "id": "4238947",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique centrafricaine: Aper\u00e7u des mouvements de population (ao\u00fbt 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238947",
+            "date": {
+                "original": "2026-09-30T00:00:00+00:00",
+                "changed": "2026-11-19T00:00:26+00:00",
+                "created": "2026-11-18T17:16:43+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238947"
+    },
+    {
+        "id": "4238942",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon: Humanitarian Dashboard (as of 30 September 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4238942",
+            "date": {
+                "original": "2026-11-18T00:00:00+00:00",
+                "changed": "2026-11-18T17:09:44+00:00",
+                "created": "2026-11-18T16:40:57+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4238942"
+    },
+    {
         "id": "4238874",
         "score": 1,
         "fields": {
@@ -1626,138 +1749,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4238260"
-    },
-    {
-        "id": "4238259",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique Centrafricaine: Situation du soudan (Au 10 novembre 2026)",
-            "body": "La R\u00e9publique centrafricaine accueille 41 039 r\u00e9fugi\u00e9s soudanais fuyant le conflit en cours au Soudan. La majorit\u00e9 de ces personnes arrivent par la zone frontali\u00e8re d\u2019Am Dafock, dans la pr\u00e9fecture de la Vakaga. Afin d\u2019assurer une r\u00e9ponse coordonn\u00e9e et appropri\u00e9e \u00e0 cet afflux, le gouvernement centrafricain a \u00e9tabli une zone d\u2019accueil \u00e0 Korsi, situ\u00e9e dans la ville de Birao, \u00e0 environ 60 kilom\u00e8tres de la fronti\u00e8re d\u2019Am Dafock. Cette zone accueille actuellement environ 27 919 r\u00e9fugi\u00e9s soudanais. Par ailleurs, arriv\u00e9s par diff\u00e9rents points de passage frontaliers, environ 13 120 r\u00e9fugi\u00e9s soudanais ont trouv\u00e9 refuge dans d\u2019autres zones du pays, souvent difficiles d\u2019acc\u00e8s, notamment dans les pr\u00e9fectures de Bamingui Bangoran, Haute Kotto, Haut Mbomou, Mbomou et Ouaka.  \n\nLe Haut Commissariat des Nations Unies pour les r\u00e9fugi\u00e9s (HCR), en \u00e9troite collaboration avec la Commission nationale pour les r\u00e9fugi\u00e9s (CNR), coordonne la r\u00e9ponse en faveur des r\u00e9fugi\u00e9s soudanais. Conform\u00e9ment \u00e0 son mandat de protection internationale, le HCR, en partenariat avec la CNR et divers acteurs humanitaires (agences des Nations Unies, ONG internationales et nationales), fournit une assistance essentielle et un appui \u00e0 la r\u00e9silience des r\u00e9fugi\u00e9s.  \n\nCette r\u00e9ponse comprend notamment l\u2019acc\u00e8s \u00e0 l\u2019asile, l\u2019enregistrement et la documentation, la protection des droits et de la s\u00e9curit\u00e9 physique des r\u00e9fugi\u00e9s, ainsi que la surveillance des risques li\u00e9s \u00e0 la violence, \u00e0 l\u2019exploitation, \u00e0 la discrimination ou au refoulement. Elle inclut \u00e9galement une assistance humanitaire vitale indispensable \u00e0 la survie et \u00e0 la dignit\u00e9 des r\u00e9fugi\u00e9s, couvrant l\u2019acc\u00e8s \u00e0 l\u2019eau, \u00e0 l\u2019alimentation, aux biens non alimentaires (NFI), aux abris d\u2019urgence, aux soins de sant\u00e9, au soutien aux moyens de subsistance et \u00e0 l\u2019\u00e9ducation.  \nLa mise en oeuvre de ces interventions repose sur une coordination structur\u00e9e et coh\u00e9rente. \u00c0 travers le Mod\u00e8le de coordination pour les r\u00e9fugi\u00e9s (RCM), le HCR r\u00e9unit les partenaires humanitaires, les autorit\u00e9s locales et les repr\u00e9sentants des communaut\u00e9s r\u00e9fugi\u00e9es afin d\u2019assurer une r\u00e9ponse harmonis\u00e9e, efficace et conforme aux standards internationaux.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238259",
-            "date": {
-                "original": "2026-11-13T00:00:00+00:00",
-                "changed": "2026-11-13T14:06:37+00:00",
-                "created": "2026-11-13T14:03:12+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238259"
-    },
-    {
-        "id": "4238244",
-        "score": 1,
-        "fields": {
-            "title": "Cluster eau hygi\u00e8ne et assainissement - RDC : Bilan de la r\u00e9ponse humanitaire septembre 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3476",
-                    "id": 3476,
-                    "name": "WASH Cluster",
-                    "shortname": "WASH Cluster",
-                    "homepage": "https://www.washcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238244",
-            "date": {
-                "original": "2026-11-13T00:00:00+00:00",
-                "changed": "2026-11-13T12:45:52+00:00",
-                "created": "2026-11-13T12:06:44+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238244"
-    },
-    {
-        "id": "4238241",
-        "score": 1,
-        "fields": {
-            "title": "Fast facts: Ebola's toll on children six months into the outbreak and response \u2013 UNICEF",
-            "body": "**NEW YORK/DAKAR/KINSHASA, 12 November 2026** \u2013 Six months into the Ebola outbreak in eastern Democratic Republic of the Congo (DRC), significant progress has been made in expanding and strengthening the response. But with transmission continuing and the outbreak spreading to new areas, children continue to bear a heavy and growing toll.\n\nIn addition to the risk of infection, many have lost parents and caregivers, missed critical protection and healthcare, and had their schooling disrupted. All of this is happening in communities already living through conflict and displacement.\n\nImpact on children:\n\n- As of 4 November, 2,959 children under 18 had been confirmed with Ebola, and 1,737 had died. Children account for 28 per cent of confirmed cases but 35 per cent of deaths.\n- The youngest are the most at risk. Children under five make up 14 per cent of cases but 21 per cent of deaths, and nearly 72 per cent of those infected have died.\n- Many children never reach the specialized care they need. Approximately 80 per cent of deaths among children occur outside Ebola Treatment Centres. Even when they do reach care, they often arrive too late. One in three children under five admitted to a treatment centre dies within 24 hours.\n- Women and girls make up more than 53 per cent of confirmed cases. Among 10-17-year-olds, girls aged 15-17 account for two in three cases and three in five deaths. Caring for sick relatives and preparing the dead for burial puts them at greater risk of infection.\n- Community protection mechanisms remain functional but stretched. More than 2,280 children have been orphaned or separated from their families since the start of the outbreak. Sixteen nurseries provide protection support, including identification, family tracing, follow-up, and referral services.\n- Access to services remains limited. Between January and September, facility births in Ebola-affected health zones of North Kivu fell by nearly 18 per cent compared with last year. In Tshopo, nearly 11 per cent fewer children received their third dose of the diphtheria, tetanus and whooping cough vaccine, and first-dose measles vaccination fell in all three reporting provinces, by up to 7.6 per cent in South Kivu.\n- Almost 7,500 schools, attended by nearly 2.5 million children, have not yet been reached with infection prevention measures. Efforts have supported more than 355,000 children to access safe learning so far.\n- In a rapid assessment early in the outbreak in Ituri, 81 per cent of children said Ebola made them feel afraid and stressed, and 89 per cent of parents said their own stress had gone up. Since then, UNICEF and partners have reached nearly 21,000 children with individual mental health and psychosocial support.\n- Sixty-seven health zones across eight provinces have been affected, with active transmission in 51 health zones. This is the largest and deadliest Ebola outbreak ever recorded in the DRC, and the second-largest and second-deadliest globally.\n- The outbreak is unfolding in a highly challenging operational environment where insecurity, access constraints, and attacks on health facilities continue to hamper life-saving interventions. In 2026, 14.9 million people in DRC need humanitarian aid, including 8 million children.\n\nIn support of government-led priorities, UNICEF and partners are expanding a targeted, integrated response in the highest-priority health zones, strengthening community engagement, surveillance, early detection and infection prevention, while ensuring children and communities continue to access essential health, nutrition, water, protection and education services. UNICEF calls on governments, donors, and partners to:\n\n- Provide high-quality paediatric clinical care within Ebola Treatment Centres.\n- Mobilize resources for nurseries, case management, family reunification, support for foster and extended families, as well as children's safe learning in schools.\n- Ensure the protection of healthcare workers and frontline responders.\n- Scale up and sustain support for both the Ebola response and the broader humanitarian response.\n\n\\#####\n\n*Notes to editors:*\n\n*Data on confirmed Ebola cases and deaths in DRC are derived from DHIS2 updates. Child estimates are based on confirmed cases for which age data were available.*\n\n*Data on orphaned and separated children were compiled by the Division of Social Affairs under the Mental Health and Psychosocial Support sub-pillar.*\n\nUNICEF, the United Nations agency for children, works to protect the rights of every child, everywhere, especially the most disadvantaged children and in the toughest places to reach. Across more than 190 countries and territories, we do whatever it takes to help children survive, thrive, and fulfil their potential.\n\nFollow UNICEF on [X](https://twitter.com/unicefmedia), [Facebook](https://www.facebook.com/unicef/), [Instagram](https://www.instagram.com/unicef/) and [YouTube](https://www.youtube.com/unicef)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238241",
-            "date": {
-                "original": "2026-11-13T00:00:00+00:00",
-                "changed": "2026-11-13T12:24:43+00:00",
-                "created": "2026-11-13T11:33:05+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238241"
     }
 ]
