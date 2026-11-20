@@ -1,125 +1,21 @@
 [
     {
-        "id": "4239217",
+        "id": "4239269",
         "score": 1,
         "fields": {
-            "title": "Chad : Humanitarian Situation in Lac Situation Report N\u00b0 02 (30 October 2026)",
-            "body": "This report was produced by OCHA in collaboration with the authorities and humanitarian partners. It primarily covers the period from 1 to 30 October 2026 and incorporates findings from the July 2026 mid-term evaluation of the response to internally displaced persons (IDPs). The next report will be published at the end of November 2026.\n\nKEY POINTS\n\n- 307,206 displaced people in the province according to IOM Round 26, including 268,064 IDPs, 17,100 returnees, and 22,042 former IDPs who have returned.\n- More than 75,000 IDPs have been hosted across 16 sites in the Fouli and Kaya departments since May 2026. New population movements continue to be reported and remain under verification.\n- An encouraging improvement in the cholera situation was observed between 13 and 26 October, followed by a resurgence of 12 new cases in Kiskawa. However, the case fatality rate remains high (5.78%), well above the WHO emergency threshold, requiring the need to strengthen prevention, surveillance, and WASH interventions.\n- The areas of Liwa, Kiskawa, Kadoulou, and Daboua are among those most exposed to security risks. This insecurity directly contributes to population displacement, loss of livelihoods, and reduced access to basic services.\n- Four incidents were reported in the departments of Fouli and Kaya, affecting several civilians and resulting in dozens of deaths as well as abductions, a toll that would have been even higher without the intervention of the defense and security forces.\n- Despite the scale of needs, the protection sector remains the least covered, with only 0.3% of targeted people assisted.\n- A concerning deterioration in livelihoods has been observed linked to low rainfall.\n- US$10.6 million has been mobilized through humanitarian emergency funding mechanisms, including CERF, the Regional Humanitarian Fund, and anticipatory action, to support the response.\n- Significant humanitarian needs remain unmet due to insufficient funding, particularly in protection, shelter and site management, education, health and nutrition, water, sanitation and hygiene (WASH), and food security.\n- The revitalization of the Grand Cadre Nexus and the review of convergence zones offer an opportunity to strengthen integrated investments by linking emergency response, access to essential services, social cohesion, and resilience.",
+            "title": "Africa: UN Agency Regional Offices Division (As of 17 November 2026)",
             "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
                 "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
+                    "lat": -4.03833,
+                    "lon": 21.7587
                 }
             },
             "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9677",
-                    "id": 9677,
-                    "name": "CCCM Cluster",
-                    "shortname": "CCCM Cluster",
-                    "longname": "Camp Coordination and Camp Management Cluster",
-                    "homepage": "https://www.cccmcluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/12989",
-                    "id": 12989,
-                    "name": "Education Cluster",
-                    "shortname": "Education Cluster",
-                    "homepage": "https://www.educationcluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/13679",
-                    "id": 13679,
-                    "name": "Food Security Cluster",
-                    "shortname": "FSC",
-                    "homepage": "https://fscluster.org",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2648",
-                    "id": 2648,
-                    "name": "Government of Chad",
-                    "shortname": "Govt. Chad",
-                    "longname": "Government of Chad",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/15477",
-                    "id": 15477,
-                    "name": "Health Cluster",
-                    "shortname": "Health Cluster",
-                    "homepage": "https://healthcluster.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/4145",
-                    "id": 4145,
-                    "name": "Nutrition Cluster",
-                    "shortname": "Nutrition Cluster",
-                    "homepage": "http://nutritioncluster.net/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/8619",
-                    "id": 8619,
-                    "name": "Protection Cluster",
-                    "shortname": "Protection Cluster",
-                    "longname": "Protection Cluster",
-                    "homepage": "https://www.globalprotectioncluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/13726",
-                    "id": 13726,
-                    "name": "Shelter Cluster",
-                    "shortname": "Shelter Cluster",
-                    "homepage": "https://www.sheltercluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
                 {
                     "href": "https://api.reliefweb.int/v2/sources/1503",
                     "id": 1503,
@@ -133,13 +29,205 @@
                         "id": 272,
                         "name": "International Organization"
                     }
-                },
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239269",
+            "date": {
+                "original": "2026-11-20T00:00:00+00:00",
+                "changed": "2026-11-20T14:10:11+00:00",
+                "created": "2026-11-20T13:40:27+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239269"
+    },
+    {
+        "id": "4239263",
+        "score": 1,
+        "fields": {
+            "title": "The Bundibugyo Ebola Outbreak in Africa: Six-Month Situation and Response Report",
+            "body": "## **Executive summary**\n\nThis report examines the Bundibugyo virus disease outbreak and the continental response from the declaration on 15 May 2026 to the evidence available for preparation of the six-month milestone on 15 November. It integrates pathogen and transmission knowledge, zoonotic origin and One Health, epidemiology, clinical care, operational performance, country experiences, research, financing, logistics, essential health services, social consequences and preparedness.\n\nThe principal finding is that substantial response capacity was mobilized, but persistent transmission and mortality indicate that this capacity did not consistently translate into sufficiently early detection, timely access to care, complete identification of transmission networks and reliable local service delivery in DRC. The introduction that began the outbreak also remains unexplained, so the risk of further spillover in the affected landscape persists independently of progress against human-to-human transmission.\n\n### **Key findings that should guide the next phase**\n\n**1. The burden remains overwhelmingly concentrated in the DRC.** Uganda, Kenya and Nigeria provide distinct experiences of managing cross-border or travel-associated infection. Their outcomes should be assessed against their own case histories and observation periods. France\u2019s imported case and medical evacuations to other countries belong in a separate international account so that the same patient is not counted twice.\n\n**2. Early growth was exceptional, but historical comparison requires matched definitions.** The early reported burden substantially exceeded burden observed during the comparable early periods of major 2014 and 2018 Ebola epidemics, although direct quantitative comparison is constrained by differences in case categories included, uncertainties in disease onset and official detection and declaration, ascertainment and observation intervals. Historical comparisons should therefore preserve the original case classifications and reporting periods.\n\n**3. Contact tracing misses most new cases:** Only 11% of confirmed cases (1,146 of 10,659 with onset from week 19 to week 45) came from the contact lists, against a target of 95%. The response found the other 89% outside those lists, which means many transmission links were identified too late to list and monitor the contacts. The daily contact follow-up \\[text continues beyond the visible page\\].\n\n### **Five headline numbers in the analytical snapshot**\n\nBy 8 November 2026, five countries had reported 11,021 confirmed cases and 5,358 deaths, a crude case-fatality ratio (CFR) of 48.6%.\n\nThe DRC carries almost all of this burden, with 10,990 cases and 5,354 deaths (CFR 48.7%). Uganda reported 20 cases and 2 deaths, Kenya 9 and 2, Nigeria 1 imported case and no deaths, and France 1 imported case and no deaths.\n\nIn the DRC, 67 health zones in eight provinces have reported at least one confirmed case, and 51 of 67 health zones reported a case in the last 21 days.\n\nNational notifications have held at about 460 to 480 confirmed cases a week since late September; the epidemic is a sustained plateau and not yet declining.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
                 {
-                    "href": "https://api.reliefweb.int/v2/sources/3476",
-                    "id": 3476,
-                    "name": "WASH Cluster",
-                    "shortname": "WASH Cluster",
-                    "homepage": "https://www.washcluster.net/",
+                    "href": "https://api.reliefweb.int/v2/sources/50373",
+                    "id": 50373,
+                    "name": "Africa Centres for Disease Control and Prevention",
+                    "shortname": "Africa CDC",
+                    "longname": "Africa Centres for Disease Control and Prevention",
+                    "homepage": "https://africacdc.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239263",
+            "date": {
+                "original": "2026-11-20T00:00:00+00:00",
+                "changed": "2026-11-20T14:05:16+00:00",
+                "created": "2026-11-20T12:55:38+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239263"
+    },
+    {
+        "id": "4239261",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique centrafricaine: D\u00e9cret pr\u00e9sidentiel portant approbation de la politique en mati\u00e8re de pr\u00e9vention et r\u00e9ponse \u00e0 l'exploitation et aux abus sexels dans le secteur de la sant\u00e9 (20 ao\u00fbt 2026).",
+            "body": "D\u00c9CRET PR\u00c9SIDENTIEL N\u00b0 26-239.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2374",
+                    "id": 2374,
+                    "name": "Government of the Central African Republic",
+                    "shortname": "Govt. CAR",
+                    "longname": "Government of the Central African Republic",
+                    "type": {
+                        "id": 271,
+                        "name": "Government"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239261",
+            "date": {
+                "original": "2026-11-20T00:00:00+00:00",
+                "changed": "2026-11-20T14:42:56+00:00",
+                "created": "2026-11-20T12:41:31+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239261"
+    },
+    {
+        "id": "4239232",
+        "score": 1,
+        "fields": {
+            "title": "Operational Update - Central African Republic - July - September 2026",
+            "body": "UNHCR's operations in the Central African Republic (CAR) are built on protection through presence, the cornerstone of the humanitarian response. Amid volatile security conditions and the spillover of the crisis in Sudan, UNHCR also remains ready to respond to emergencies. Durable solutions are another top priority supporting the voluntary, safe, and dignified return of Central African refugees, their sustainable reintegration, and their contribution to national development. Together with the Government of CAR and its partners, UNHCR provides protection and multisectoral assistance to internally displaced people (IDPs) and refugees, including Sudanese and Chadian refugees, while promoting durable solutions for Central Africans returning home. Its work is aligned with national priorities: the National Development Plan, the National Strategy for Durable Solutions and the Solutions Support Platform established under the 2022 Yaound\u00e9 Declaration.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239232",
+            "date": {
+                "original": "2026-11-20T00:00:00+00:00",
+                "changed": "2026-11-20T13:44:56+00:00",
+                "created": "2026-11-20T10:03:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239232"
+    },
+    {
+        "id": "4239231",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique Centrafricaine (RCA) Mise \u00e0 jour op\u00e9rationnelle Trimestrielle | Juillet - Septembre 2026",
+            "body": "Les op\u00e9rations du HCR en R\u00e9publique centrafricaine (RCA) reposent sur la protection par la pr\u00e9sence, pilier central de la r\u00e9ponse humanitaire. Dans un contexte marqu\u00e9 par la volatilit\u00e9 s\u00e9curitaire et les r\u00e9percussions de la crise soudanaise, le HCR reste \u00e9galement mobilis\u00e9 pour r\u00e9pondre aux urgences.\n\nLa recherche de solutions durables constitue une autre priorit\u00e9 majeure, notamment l\u2019appui au retour volontaire, s\u00fbr et digne des r\u00e9fugi\u00e9s centrafricains, ainsi qu\u2019\u00e0 leur r\u00e9int\u00e9gration durable et \u00e0 leur contribution au d\u00e9veloppement national.\n\nAux c\u00f4t\u00e9s du Gouvernement centrafricain et de ses partenaires, le HCR assure la protection et une assistance multisectorielle aux personnes d\u00e9plac\u00e9es internes (PDI) et aux r\u00e9fugi\u00e9s, notamment soudanais et tchadiens, tout en promouvant des solutions durables pour les Centrafricains de retour. Les interventions s\u2019alignent sur les priorit\u00e9s nationales : le Plan national de d\u00e9veloppement, la Strat\u00e9gie nationale pour les solutions durables et la Plateforme d\u2019appui aux solutions issue de la D\u00e9claration de Yaound\u00e9 de 2022.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239231",
+            "date": {
+                "original": "2026-11-20T00:00:00+00:00",
+                "changed": "2026-11-20T14:40:15+00:00",
+                "created": "2026-11-20T10:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239231"
+    },
+    {
+        "id": "4239217",
+        "score": 1,
+        "fields": {
+            "title": "Chad : Humanitarian Situation in Lac Situation Report N\u00b0 02 (30 October 2026)",
+            "body": "*This report was produced by OCHA in collaboration with the authorities and humanitarian partners. It primarily covers the period from 1 to 30 October 2026 and incorporates findings from the July 2026 mid-term evaluation of the response to internally displaced persons (IDPs). The next report will be published at the end of November 2026.*\n\n**KEY POINTS**\n\n- 307,206 displaced people in the province according to IOM Round 26, including 268,064 IDPs, 17,100 returnees, and 22,042 former IDPs who have returned.\n- More than 75,000 IDPs have been hosted across 16 sites in the Fouli and Kaya departments since May 2026. New population movements continue to be reported and remain under verification.\n- An encouraging improvement in the cholera situation was observed between 13 and 26 October, followed by a resurgence of 12 new cases in Kiskawa. However, the case fatality rate remains high (5.78%), well above the WHO emergency threshold, requiring the need to strengthen prevention, surveillance, and WASH interventions.\n- The areas of Liwa, Kiskawa, Kadoulou, and Daboua are among those most exposed to security risks. This insecurity directly contributes to population displacement, loss of livelihoods, and reduced access to basic services.\n- Four incidents were reported in the departments of Fouli and Kaya, affecting several civilians and resulting in dozens of deaths as well as abductions, a toll that would have been even higher without the intervention of the defense and security forces.\n- Despite the scale of needs, the protection sector remains the least covered, with only 0.3% of targeted people assisted.\n- A concerning deterioration in livelihoods has been observed linked to low rainfall.\n- US$10.6 million has been mobilized through humanitarian emergency funding mechanisms, including CERF, the Regional Humanitarian Fund, and anticipatory action, to support the response.\n- Significant humanitarian needs remain unmet due to insufficient funding, particularly in protection, shelter and site management, education, health and nutrition, water, sanitation and hygiene (WASH), and food security.\n- The revitalization of the Grand Cadre Nexus and the review of convergence zones offer an opportunity to strengthen integrated investments by linking emergency response, access to essential services, social cohesion, and resilience.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
                     "type": {
                         "id": 272,
                         "name": "International Organization"
@@ -148,8 +236,8 @@
             ],
             "url": "https://reliefweb.int/node/4239217",
             "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-20T08:53:16+00:00",
+                "original": "2026-10-30T00:00:00+00:00",
+                "changed": "2026-11-20T13:27:11+00:00",
                 "created": "2026-11-20T08:49:00+00:00"
             }
         },
@@ -160,7 +248,7 @@
         "score": 1,
         "fields": {
             "title": "Cluster Protection RDC : Aper\u00e7u des violations et abus des droits humains dans la province du Nord-Kivu, octobre 2026",
-            "body": "*En octobre 2026, la situation de protection au Nord-Kivu est rest\u00e9e critique, marqu\u00e9e par une intensification des affrontements dans les territoires de Masisi, Walikale et Rutshuru. Cette situation se serait traduite par l\u2019usage d\u2019armes lourdes et de frappes de drone, des repr\u00e9sailles contre les civils ainsi que des d\u00e9placements forc\u00e9s.*\n\n**FAITS SAILLANTS DE LA P\u00c9RIODE**\n\n\u25cf**Intensification des hostilit\u00e9s** : Des affrontements auraient oppos\u00e9 un groupe arm\u00e9 \u00e0 une coalition de groupes arm\u00e9s dans les territoires de Masisi et de Walikale, et des frappes de drone auraient vis\u00e9 Binza (Rutshuru).\n\n\u25cf**D\u00e9placements forc\u00e9s** : Pr\u00e8s de 2 580 m\u00e9nages (environ 12 900 personnes) auraient \u00e9t\u00e9 d\u00e9plac\u00e9s, dont 546 \u00e0 Busanza (Rutshuru) et 450 \u00e0 Kasake (Masisi).\n\n\u25cf**Engins explosifs** : Des projectiles tomb\u00e9s sur Kasake auraient fait 4 morts et 6 bless\u00e9s, et des engins explosifs largu\u00e9s sur Kangati auraient tu\u00e9 2 gar\u00e7ons.\n\n\u25cf**Repr\u00e9sailles et riposte Ebola** : Des enl\u00e8vements contre ran\u00e7on accompagn\u00e9s de meurtres et des attaques de structures sanitaires \u00e0 Butembo et Beni auraient \u00e9t\u00e9 commis.",
+            "body": "*En octobre 2026, la situation de protection au Nord-Kivu est rest\u00e9e critique, marqu\u00e9e par une intensification des affrontements dans les territoires de Masisi, Walikale et Rutshuru. Cette situation se serait traduite par l\u2019usage d\u2019armes lourdes et de frappes de drone, des repr\u00e9sailles contre les civils ainsi que des d\u00e9placements forc\u00e9s.*\n\n**FAITS SAILLANTS DE LA P\u00c9RIODE**\n\n**Intensification des hostilit\u00e9s** : Des affrontements auraient oppos\u00e9 un groupe arm\u00e9 \u00e0 une coalition de groupes arm\u00e9s dans les territoires de Masisi et de Walikale, et des frappes de drone auraient vis\u00e9 Binza (Rutshuru).\n\n**D\u00e9placements forc\u00e9s** : Pr\u00e8s de 2 580 m\u00e9nages (environ 12 900 personnes) auraient \u00e9t\u00e9 d\u00e9plac\u00e9s, dont 546 \u00e0 Busanza (Rutshuru) et 450 \u00e0 Kasake (Masisi).\n\n**Engins explosifs** : Des projectiles tomb\u00e9s sur Kasake auraient fait 4 morts et 6 bless\u00e9s, et des engins explosifs largu\u00e9s sur Kangati auraient tu\u00e9 2 gar\u00e7ons.\n\n**Repr\u00e9sailles et riposte Ebola** : Des enl\u00e8vements contre ran\u00e7on accompagn\u00e9s de meurtres et des attaques de structures sanitaires \u00e0 Butembo et Beni auraient \u00e9t\u00e9 commis.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -189,7 +277,7 @@
             "url": "https://reliefweb.int/node/4239212",
             "date": {
                 "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-20T08:28:35+00:00",
+                "changed": "2026-11-20T12:03:33+00:00",
                 "created": "2026-11-20T08:11:27+00:00"
             }
         },
@@ -385,8 +473,8 @@
         "id": "4239093",
         "score": 1,
         "fields": {
-            "title": "R\u00e9publique centrafricaine: SOP Pool d'investigateurs et annexes",
-            "body": "L'objectif de ces POS est de clarifier les missions et modalites de deploiement des investigateurs lors d'incidents d'EAS en RCA.  \nLes presentes POS ne visent pas a fournir des orientations sur le processus et les normes d'investigation mais fournissent des orientations sur le processus d'engagement des investigateurs du Pool pour enqueter de fa\u00e7on diligente sur les allegations d'EAS.",
+            "title": "R\u00e9publique centrafricaine: SOP Pool d'investigateurs sur les allegations d'Exploitation et d'Abus Sexuels et annexes.",
+            "body": "L'objectif de ces POS est de clarifier les missions et modalites de deploiement des investigateurs lors d'incidents d'EAS en RCA.  \n Les presentes POS ne visent pas a fournir des orientations sur le processus et les normes d'investigation mais fournissent des orientations sur le processus d'engagement des investigateurs du Pool pour enqueter de fa\u00e7on diligente sur les allegations d'EAS.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
                 "id": 54,
@@ -429,7 +517,7 @@
             "url": "https://reliefweb.int/node/4239093",
             "date": {
                 "original": "2026-11-19T00:00:00+00:00",
-                "changed": "2026-11-20T09:36:49+00:00",
+                "changed": "2026-11-20T11:56:19+00:00",
                 "created": "2026-11-19T11:40:44+00:00"
             }
         },
@@ -979,7 +1067,7 @@
         "score": 1,
         "fields": {
             "title": "Cluster Protection RDC : Aper\u00e7u du monitoring de protection au Sud-Kivu - Faits saillants et tendances majeures du mois de octobre 2026",
-            "body": "*En octobre 2026, la situation de protection au Sud-Kivu s\u2019est consid\u00e9rablement d\u00e9t\u00e9rior\u00e9e, marqu\u00e9e par une intensification des affrontements entre groupes arm\u00e9s dans les territoires de Walungu, Kabare, Kalehe, Mwenga et Fizi. Cette d\u00e9gradation se serait traduite par la pr\u00e9sence d\u2019engins explosifs dans des zones d\u2019habitation, des actes de repr\u00e9sailles, ainsi que des recrutements forc\u00e9s, y compris d\u2019enfants.*\n\n\u25cf**Forte hausse des violations** **des droits** : 2 466 violations ont \u00e9t\u00e9 identifi\u00e9es en octobre, soit +62% par rapport \u00e0 septembre (1 524), le niveau le plus \u00e9lev\u00e9 depuis juin.\n\n\u25cf**Engins explosifs** : Des engins explosifs auraient \u00e9t\u00e9 lanc\u00e9s lors des affrontements \u00e0 Kaziba, dans le territoire de Walungu, causant la mort de plusieurs civils, dont une femme et ses deux enfants, ainsi que la destruction d\u2019une \u00e9cole.\n\n\u25cf**Recrutement d\u2019enfants** : 44 all\u00e9gations de recrutement et d\u2019utilisation d\u2019enfants ont \u00e9t\u00e9 document\u00e9es, notamment \u00e0 Kalehe, Mwenga, Fizi et dans la plaine de la Ruzizi.\n\n\u25cf**Repr\u00e9sailles** : Des civils accus\u00e9s de collaboration auraient \u00e9t\u00e9 arr\u00eat\u00e9s, tortur\u00e9s et auraient vu leurs maisons incendi\u00e9es, notamment \u00e0 Itombwe (Mwenga) et \u00e0 Kabare.",
+            "body": "*En octobre 2026, la situation de protection au Sud-Kivu s\u2019est consid\u00e9rablement d\u00e9t\u00e9rior\u00e9e, marqu\u00e9e par une intensification des affrontements entre groupes arm\u00e9s dans les territoires de Walungu, Kabare, Kalehe, Mwenga et Fizi. Cette d\u00e9gradation se serait traduite par la pr\u00e9sence d\u2019engins explosifs dans des zones d\u2019habitation, des actes de repr\u00e9sailles, ainsi que des recrutements forc\u00e9s, y compris d\u2019enfants.*\n\n**Forte hausse des violations** **des droits** : 2 466 violations ont \u00e9t\u00e9 identifi\u00e9es en octobre, soit +62% par rapport \u00e0 septembre (1 524), le niveau le plus \u00e9lev\u00e9 depuis juin.\n\n**Engins explosifs** : Des engins explosifs auraient \u00e9t\u00e9 lanc\u00e9s lors des affrontements \u00e0 Kaziba, dans le territoire de Walungu, causant la mort de plusieurs civils, dont une femme et ses deux enfants, ainsi que la destruction d\u2019une \u00e9cole.\n\n**Recrutement d\u2019enfants** : 44 all\u00e9gations de recrutement et d\u2019utilisation d\u2019enfants ont \u00e9t\u00e9 document\u00e9es, notamment \u00e0 Kalehe, Mwenga, Fizi et dans la plaine de la Ruzizi.\n\n**Repr\u00e9sailles** : Des civils accus\u00e9s de collaboration auraient \u00e9t\u00e9 arr\u00eat\u00e9s, tortur\u00e9s et auraient vu leurs maisons incendi\u00e9es, notamment \u00e0 Itombwe (Mwenga) et \u00e0 Kabare.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -1021,7 +1109,7 @@
             "url": "https://reliefweb.int/node/4238854",
             "date": {
                 "original": "2026-11-18T00:00:00+00:00",
-                "changed": "2026-11-20T08:19:38+00:00",
+                "changed": "2026-11-20T11:25:48+00:00",
                 "created": "2026-11-18T09:34:52+00:00"
             }
         },
@@ -1627,210 +1715,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4238516"
-    },
-    {
-        "id": "4238511",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 16th November 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238511",
-            "date": {
-                "original": "2026-11-16T00:00:00+00:00",
-                "changed": "2026-11-17T00:13:25+00:00",
-                "created": "2026-11-16T15:43:38+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238511"
-    },
-    {
-        "id": "4238495",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique Centrafricaine : Tableau de bord humanitaire - R\u00e9ponse Intersectorielle (janvier - ao\u00fbt 2026)",
-            "body": "Entre janvier et ao\u00fbt 2026, d\u2019importants \u00e9carts entre les besoins humanitaires et les ressources disponibles ont limit\u00e9 l\u2019assistance aux personnes dans le besoin \u00e0 travers la R\u00e9publique centrafricaine. Sur les 1,3 million de personnes cibl\u00e9es, 480 300 (38 %) ont re\u00e7u une assistance dans au moins un secteur, tandis que 229 200 (18 %) ont b\u00e9n\u00e9fici\u00e9 d\u2019une assistance multisectorielle couvrant au moins la moiti\u00e9 des secteurs pertinents. Parmi les 932 100 personnes identifi\u00e9es comme hyper-prioritaires, 206 000 ont \u00e9t\u00e9 couvertes par cette r\u00e9ponse multisectorielle.\n\nHuit mois apr\u00e8s le d\u00e9but de l\u2019ann\u00e9e, le Plan de r\u00e9ponse aux besoins humanitaires (HNRP) demeurait fortement sous-financ\u00e9, avec 131,6 millions de dollars am\u00e9ricains re\u00e7us sur les 264,1 millions requis, soit un taux de financement de 46,6 %. Les insuffisances de financement continuent de limiter la r\u00e9ponse humanitaire, en particulier dans les secteurs de la s\u00e9curit\u00e9 alimentaire et de la nutrition, qui n\u2019avaient respectivement re\u00e7u que 7 % et 8,8 % des fonds n\u00e9cessaires. Les secteurs des abris et des articles m\u00e9nagers essentiels faisaient \u00e9galement face \u00e0 d\u2019importants d\u00e9ficits de financement. Ces lacunes r\u00e9duisent l\u2019acc\u00e8s \u00e0 une assistance vitale pour les personnes ayant les besoins les plus urgents.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238495",
-            "date": {
-                "original": "2026-11-16T00:00:00+00:00",
-                "changed": "2026-11-16T15:31:06+00:00",
-                "created": "2026-11-16T14:39:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238495"
-    },
-    {
-        "id": "4238484",
-        "score": 1,
-        "fields": {
-            "title": "Crisis Analysis Team - Monthly displacement report Eastern DRC (October 2026)",
-            "body": "**Key trend highlights for October :**\n\n  \nArmed conflict and deteriorating security remain the principal drivers of new  \ndisplacement in eastern DRC. Clashes between the FARDC, Wazalendo groups and  \nvarious armed factions, notably the FRN, the CRP, CODECO and the Ma\u00ef-Ma\u00ef Kata  \nKatanga, continued to trigger significant population movements. These were  \ncompounded by violence against civilians, customary tensions in Tanganyika and, in  \nManiema, climate shocks.\n\n  \nSouth Kivu is the main centre of new displacement among the provinces covered, with  \napproximately 30,874 households newly displaced in Walungu, Kalehe, Shabunda,  \nUvira, Fizi and Kabare territories. This displacement is driven primarily by the  \nproliferation of clashes between the FRN and the Wazalendo, and by fighting involving  \nthe FARDC and their allies in the mid and high plateaux. The pattern is also marked by  \nmovements between territories, notably from Mwenga to Uvira, and by the  \nconcentration of households in host areas, particularly Kaziba, Kaniola, Nyangezi and  \nMinova.\n\n  \nIn North Kivu, persistent clashes between armed groups and state forces continue to  \ndrive population displacement, mainly in Rutshuru, Lubero and Masisi territories, where  \napproximately 18,969 newly displaced households were recorded. Rutshuru territory  \nremains the main centre of displacement, with 9,189 newly displaced households,  \ndespite the return of 5,667 households to certain localities. This reflects the coexistence  \nof new displacement and localised returns, in a context where security conditions  \nremain fragile.\n\n  \nIn Tanganyika, approximately 10,421 households were newly displaced in Moba and  \nManono territories, mainly as a result of attacks attributed to the Ma\u00ef-Ma\u00ef Kata Katanga  \nagainst FARDC positions and civilians, and of customary tensions in Sange, Manono  \nterritory. Affected households moved primarily towards Kansimba and Kiyambi health  \nzones, where the influx is likely to increase pressure on resources and essential  \nservices.  \nIn Ituri, approximately 8,428 households were displaced in Djugu and Mahagi  \nterritories, following a proliferation of incursions and clashes between armed groups  \nand state forces. Violence involving the CRP, CODECO and the FARDC in Djugu  \ntriggered displacement towards Lita health zone, while, in Mahagi territory, fighting  \nbetween CODECO-URDPC and the FARDC in Drodro and Fataki health zones led to  \nmovements towards Rimba.|  \nIn Maniema, displacement remains more localised and linked to climate shocks. Heavy  \nrains on 4 October in Kabeya, Kabambare territory, affected approximately 460  \nhouseholds and left several families without shelter. Affected households took refuge  \nwith relatives, in schools or in churches, heightening the need for shelter and  \nemergency assistance.  \nPressure on host communities remains a cross-cutting concern. Most displaced  \nhouseholds are staying with host families, while others have sought shelter in public  \nspaces, notably schools and churches. The arrival of new households in localities  \nalready weakened by earlier displacement reduces local absorption.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1929",
-                    "id": 1929,
-                    "name": "Mercy Corps",
-                    "shortname": "Mercy Corps",
-                    "longname": "Mercy Corps",
-                    "homepage": "https://www.mercycorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238484",
-            "date": {
-                "original": "2026-11-16T00:00:00+00:00",
-                "changed": "2026-11-16T15:22:19+00:00",
-                "created": "2026-11-16T14:06:18+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238484"
-    },
-    {
-        "id": "4238482",
-        "score": 1,
-        "fields": {
-            "title": "Crisis Analysis Team - Rapport mensuel sur les d\u00e9placements \u00e0 l'Est de la RDC (octobre 2026)",
-            "body": "**Points saillants des tendances pour le mois d\u2019octobre** :\n\nLes conflits arm\u00e9s et la d\u00e9gradation de la situation s\u00e9curitaire demeurent les principaux  \nmoteurs des nouveaux d\u00e9placements dans l\u2019Est de la RDC. Les affrontements entre les  \nFARDC, les groupes Wazalendo et diverses factions arm\u00e9es, notamment le FRN, la  \nCRP, la CODECO et les Ma\u00ef-Ma\u00ef Kata Katanga, ont continu\u00e9 de provoquer  \nd\u2019importants mouvements de population. \u00c0 ces facteurs s\u2019ajoutent les violences contre  \nles civils, les tensions coutumi\u00e8res au Tanganyika et, dans le Maniema, les chocs  \nclimatiques.\n\n  \nLe Sud-Kivu constitue le principal foyer de nouveaux d\u00e9placements parmi les provinces  \ncouvertes, avec environ 30 874 m\u00e9nages nouvellement d\u00e9plac\u00e9s dans les territoires de  \nWalungu, Kalehe, Shabunda, Uvira, Fizi et Kabare. Ces d\u00e9placements sont  \nprincipalement aliment\u00e9s par la multiplication des affrontements entre le FRN et les  \nWazalendo, ainsi que par les combats impliquant les FARDC et leurs alli\u00e9s dans les  \nmoyens et hauts plateaux. La dynamique reste caract\u00e9ris\u00e9e \u00e9galement par des  \nmouvements entre territoires, notamment de Mwenga vers Uvira, et par la concentration  \ndes m\u00e9nages dans les zones d\u2019accueil, particuli\u00e8rement Kaziba, Kaniola, Nyangezi et  \nMinova.\n\n  \nAu Nord-Kivu, les affrontements persistants entre groupes arm\u00e9s et forces \u00e9tatiques, qui  \ncontinuent d\u2019alimenter les d\u00e9placements de population, principalement dans les  \nterritoires de Rutshuru, Lubero et Masisi, o\u00f9 environ 18 969 nouveaux m\u00e9nages  \nd\u00e9plac\u00e9s ont \u00e9t\u00e9 enregistr\u00e9s. Le territoire de Rutshuru demeure le principal foyer de  \nd\u00e9placement avec 9 189 m\u00e9nages nouvellement d\u00e9plac\u00e9s, malgr\u00e9 le retour de 5 667  \nm\u00e9nages dans certaines localit\u00e9s. Cette dynamique traduit la coexistence de nouveaux  \nd\u00e9placements et de retours localis\u00e9s, dans un contexte o\u00f9 les conditions s\u00e9curitaires  \nrestent fragiles.\n\n  \nAu Tanganyika, environ 10 421 m\u00e9nages ont \u00e9t\u00e9 nouvellement d\u00e9plac\u00e9s dans les  \nterritoires de Moba et Manono, principalement sous l\u2019effet des attaques attribu\u00e9es aux  \nMa\u00ef-Ma\u00ef Kata Katanga contre les positions des FARDC et les populations civiles, ainsi  \nque des tensions coutumi\u00e8res \u00e0 Sange, dans le territoire de Manono. Les m\u00e9nages  \naffect\u00e9s se sont principalement dirig\u00e9s vers les zones de sant\u00e9 de Kansimba et  \nKiyambi, o\u00f9 cet afflux de d\u00e9plac\u00e9s est susceptible d\u2019accro\u00eetre la pression sur les  \nressources et les services essentiels.\n\n  \nRapport mensuel des d\u00e9placements, octobre 2026  \n  \nEn Ituri, environ 8 428 m\u00e9nages ont \u00e9t\u00e9 d\u00e9plac\u00e9s dans les territoires de Djugu et  \nMahagi, \u00e0 la suite de la multiplication des incursions et des affrontements entre groupes  \narm\u00e9s et forces \u00e9tatiques. Les violences impliquant la CRP, la CODECO et les FARDC \u00e0  \nDjugu ont provoqu\u00e9 des d\u00e9placements vers la zone de sant\u00e9 de Lita, tandis que les  \ncombats entre la CODECO-URDPC et les FARDC dans les zones de sant\u00e9 de Drodro et  \nFataki, en territoire de Djugu, ont entra\u00een\u00e9 des mouvements vers Rimba.  \nAu Maniema, la dynamique de d\u00e9placement reste plus localis\u00e9e et li\u00e9e aux chocs  \nclimatiques. Les fortes pluies survenues le 4 octobre \u00e0 Kabeya, dans le territoire de  \nKabambare, ont affect\u00e9 environ 460 m\u00e9nages et laiss\u00e9 plusieurs familles sans abri. Les  \nm\u00e9nages sinistr\u00e9s ont trouv\u00e9 refuge aupr\u00e8s de proches, dans des \u00e9coles ou dans des  \n\u00e9glises, ce qui accentue les besoins en h\u00e9bergement et en assistance d\u2019urgence.  \nLa pression sur les communaut\u00e9s d\u2019accueil demeure une pr\u00e9occupation transversale. La  \nmajorit\u00e9 des m\u00e9nages d\u00e9plac\u00e9s sont accueillis au sein de familles h\u00f4tes, tandis que  \nd\u2019autres trouvent refuge dans des espaces publics, notamment des \u00e9coles et des \u00e9glises.  \nL\u2019afflux de nouveaux m\u00e9nages dans des localit\u00e9s d\u00e9j\u00e0 fragilis\u00e9es par des d\u00e9placements  \nant\u00e9rieurs r\u00e9duit les capacit\u00e9s d\u2019absorption locales et accro\u00eet les besoins en abris,  \nprotection, alimentation, sant\u00e9 et eau, hygi\u00e8ne et assainissement (WASH).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1929",
-                    "id": 1929,
-                    "name": "Mercy Corps",
-                    "shortname": "Mercy Corps",
-                    "longname": "Mercy Corps",
-                    "homepage": "https://www.mercycorps.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238482",
-            "date": {
-                "original": "2026-11-16T00:00:00+00:00",
-                "changed": "2026-11-16T15:08:19+00:00",
-                "created": "2026-11-16T14:03:35+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238482"
-    },
-    {
-        "id": "4238483",
-        "score": 1,
-        "fields": {
-            "title": "Central African Republic: Humanitarian Dashboard - Inter-Sectoral Response (January - August 2026)",
-            "body": "Between January and August 2026, major gaps between humanitarian needs and available resources limited assistance to people in need across the Central African Republic. Of the 1.3 million people targeted, 480,300 (38 per cent) received assistance from at least one sector, while 229,200 (18 per cent) received multisectoral assistance from at least half of the relevant sectors. Of the 932,100 people identified as hyper-prioritised, 206,000 were covered by this multisectoral response.\n\nEight months into the year, the Humanitarian Needs and Response Plan (HNRP) remained significantly underfunded, with US$131.6 million received against requirements of $264.1 million, or 46.6 per cent. Funding shortages continue to constrain the response, particularly in food security and nutrition, which had received only 7 per cent and 8.8 per cent of requirements, respectively. Shelter and non-food items also faced major funding gaps. These shortfalls reduce access to life-saving assistance for people with the most urgent needs.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238483",
-            "date": {
-                "original": "2026-11-16T00:00:00+00:00",
-                "changed": "2026-11-16T15:00:34+00:00",
-                "created": "2026-11-16T14:01:20+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238483"
     }
 ]
