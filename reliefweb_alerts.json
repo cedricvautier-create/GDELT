@@ -1,5 +1,242 @@
 [
     {
+        "id": "4239217",
+        "score": 1,
+        "fields": {
+            "title": "Chad : Humanitarian Situation in Lac Situation Report N\u00b0 02 (30 October 2026)",
+            "body": "This report was produced by OCHA in collaboration with the authorities and humanitarian partners. It primarily covers the period from 1 to 30 October 2026 and incorporates findings from the July 2026 mid-term evaluation of the response to internally displaced persons (IDPs). The next report will be published at the end of November 2026.\n\nKEY POINTS\n\n- 307,206 displaced people in the province according to IOM Round 26, including 268,064 IDPs, 17,100 returnees, and 22,042 former IDPs who have returned.\n- More than 75,000 IDPs have been hosted across 16 sites in the Fouli and Kaya departments since May 2026. New population movements continue to be reported and remain under verification.\n- An encouraging improvement in the cholera situation was observed between 13 and 26 October, followed by a resurgence of 12 new cases in Kiskawa. However, the case fatality rate remains high (5.78%), well above the WHO emergency threshold, requiring the need to strengthen prevention, surveillance, and WASH interventions.\n- The areas of Liwa, Kiskawa, Kadoulou, and Daboua are among those most exposed to security risks. This insecurity directly contributes to population displacement, loss of livelihoods, and reduced access to basic services.\n- Four incidents were reported in the departments of Fouli and Kaya, affecting several civilians and resulting in dozens of deaths as well as abductions, a toll that would have been even higher without the intervention of the defense and security forces.\n- Despite the scale of needs, the protection sector remains the least covered, with only 0.3% of targeted people assisted.\n- A concerning deterioration in livelihoods has been observed linked to low rainfall.\n- US$10.6 million has been mobilized through humanitarian emergency funding mechanisms, including CERF, the Regional Humanitarian Fund, and anticipatory action, to support the response.\n- Significant humanitarian needs remain unmet due to insufficient funding, particularly in protection, shelter and site management, education, health and nutrition, water, sanitation and hygiene (WASH), and food security.\n- The revitalization of the Grand Cadre Nexus and the review of convergence zones offer an opportunity to strengthen integrated investments by linking emergency response, access to essential services, social cohesion, and resilience.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9677",
+                    "id": 9677,
+                    "name": "CCCM Cluster",
+                    "shortname": "CCCM Cluster",
+                    "longname": "Camp Coordination and Camp Management Cluster",
+                    "homepage": "https://www.cccmcluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/13679",
+                    "id": 13679,
+                    "name": "Food Security Cluster",
+                    "shortname": "FSC",
+                    "homepage": "https://fscluster.org",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2648",
+                    "id": 2648,
+                    "name": "Government of Chad",
+                    "shortname": "Govt. Chad",
+                    "longname": "Government of Chad",
+                    "type": {
+                        "id": 271,
+                        "name": "Government"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/4145",
+                    "id": 4145,
+                    "name": "Nutrition Cluster",
+                    "shortname": "Nutrition Cluster",
+                    "homepage": "http://nutritioncluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/13726",
+                    "id": 13726,
+                    "name": "Shelter Cluster",
+                    "shortname": "Shelter Cluster",
+                    "homepage": "https://www.sheltercluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3476",
+                    "id": 3476,
+                    "name": "WASH Cluster",
+                    "shortname": "WASH Cluster",
+                    "homepage": "https://www.washcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239217",
+            "date": {
+                "original": "2026-11-20T00:00:00+00:00",
+                "changed": "2026-11-20T08:53:16+00:00",
+                "created": "2026-11-20T08:49:00+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239217"
+    },
+    {
+        "id": "4239212",
+        "score": 1,
+        "fields": {
+            "title": "Cluster Protection RDC : Aper\u00e7u des violations et abus des droits humains dans la province du Nord-Kivu, octobre 2026",
+            "body": "*En octobre 2026, la situation de protection au Nord-Kivu est rest\u00e9e critique, marqu\u00e9e par une intensification des affrontements dans les territoires de Masisi, Walikale et Rutshuru. Cette situation se serait traduite par l\u2019usage d\u2019armes lourdes et de frappes de drone, des repr\u00e9sailles contre les civils ainsi que des d\u00e9placements forc\u00e9s.*\n\n**FAITS SAILLANTS DE LA P\u00c9RIODE**\n\n\u25cf**Intensification des hostilit\u00e9s** : Des affrontements auraient oppos\u00e9 un groupe arm\u00e9 \u00e0 une coalition de groupes arm\u00e9s dans les territoires de Masisi et de Walikale, et des frappes de drone auraient vis\u00e9 Binza (Rutshuru).\n\n\u25cf**D\u00e9placements forc\u00e9s** : Pr\u00e8s de 2 580 m\u00e9nages (environ 12 900 personnes) auraient \u00e9t\u00e9 d\u00e9plac\u00e9s, dont 546 \u00e0 Busanza (Rutshuru) et 450 \u00e0 Kasake (Masisi).\n\n\u25cf**Engins explosifs** : Des projectiles tomb\u00e9s sur Kasake auraient fait 4 morts et 6 bless\u00e9s, et des engins explosifs largu\u00e9s sur Kangati auraient tu\u00e9 2 gar\u00e7ons.\n\n\u25cf**Repr\u00e9sailles et riposte Ebola** : Des enl\u00e8vements contre ran\u00e7on accompagn\u00e9s de meurtres et des attaques de structures sanitaires \u00e0 Butembo et Beni auraient \u00e9t\u00e9 commis.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239212",
+            "date": {
+                "original": "2026-11-20T00:00:00+00:00",
+                "changed": "2026-11-20T08:28:35+00:00",
+                "created": "2026-11-20T08:11:27+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239212"
+    },
+    {
+        "id": "4239194",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - \u00c9pid\u00e9mie de maladie \u00e0 virus Ebola - Aper\u00e7u de la situation, semaine 46 - \u00e0 la date du 15 novembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239194",
+            "date": {
+                "original": "2026-11-20T00:00:00+00:00",
+                "changed": "2026-11-20T06:33:56+00:00",
+                "created": "2026-11-20T05:05:32+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239194"
+    },
+    {
         "id": "4239112",
         "score": 1,
         "fields": {
@@ -34,7 +271,7 @@
             "url": "https://reliefweb.int/node/4239112",
             "date": {
                 "original": "2026-11-19T00:00:00+00:00",
-                "changed": "2026-11-19T13:45:31+00:00",
+                "changed": "2026-11-20T01:36:12+00:00",
                 "created": "2026-11-19T13:44:27+00:00"
             }
         },
@@ -148,8 +385,8 @@
         "id": "4239093",
         "score": 1,
         "fields": {
-            "title": "R\u00e9publique centrafricaine: SOP Pool d'investigateurs (Version finale sign\u00e9e) et Annexes",
-            "body": "L'objectif de ces POS est de clarifier les missions et modalites de deploiement des investigateurs lors d'incidents d'EAS en RCA.  \n Les presentes POS ne visent pas a fournir des orientations sur le processus et les normes d'investigation mais fournissent des orientations sur le processus d'engagement des investigateurs du Pool pour enqueter de fa\u00e7on diligente sur les allegations d'EAS.",
+            "title": "R\u00e9publique centrafricaine: SOP Pool d'investigateurs et annexes",
+            "body": "L'objectif de ces POS est de clarifier les missions et modalites de deploiement des investigateurs lors d'incidents d'EAS en RCA.  \nLes presentes POS ne visent pas a fournir des orientations sur le processus et les normes d'investigation mais fournissent des orientations sur le processus d'engagement des investigateurs du Pool pour enqueter de fa\u00e7on diligente sur les allegations d'EAS.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
                 "id": 54,
@@ -192,7 +429,7 @@
             "url": "https://reliefweb.int/node/4239093",
             "date": {
                 "original": "2026-11-19T00:00:00+00:00",
-                "changed": "2026-11-19T12:44:32+00:00",
+                "changed": "2026-11-20T09:36:49+00:00",
                 "created": "2026-11-19T11:40:44+00:00"
             }
         },
@@ -741,7 +978,7 @@
         "id": "4238854",
         "score": 1,
         "fields": {
-            "title": "Cluster Protection RDC : Aper\u00e7u du monitoring de protection au Nord-Kivu - Faits saillants et tendances majeures du mois de octobre 2026",
+            "title": "Cluster Protection RDC : Aper\u00e7u du monitoring de protection au Sud-Kivu - Faits saillants et tendances majeures du mois de octobre 2026",
             "body": "*En octobre 2026, la situation de protection au Sud-Kivu s\u2019est consid\u00e9rablement d\u00e9t\u00e9rior\u00e9e, marqu\u00e9e par une intensification des affrontements entre groupes arm\u00e9s dans les territoires de Walungu, Kabare, Kalehe, Mwenga et Fizi. Cette d\u00e9gradation se serait traduite par la pr\u00e9sence d\u2019engins explosifs dans des zones d\u2019habitation, des actes de repr\u00e9sailles, ainsi que des recrutements forc\u00e9s, y compris d\u2019enfants.*\n\n\u25cf**Forte hausse des violations** **des droits** : 2 466 violations ont \u00e9t\u00e9 identifi\u00e9es en octobre, soit +62% par rapport \u00e0 septembre (1 524), le niveau le plus \u00e9lev\u00e9 depuis juin.\n\n\u25cf**Engins explosifs** : Des engins explosifs auraient \u00e9t\u00e9 lanc\u00e9s lors des affrontements \u00e0 Kaziba, dans le territoire de Walungu, causant la mort de plusieurs civils, dont une femme et ses deux enfants, ainsi que la destruction d\u2019une \u00e9cole.\n\n\u25cf**Recrutement d\u2019enfants** : 44 all\u00e9gations de recrutement et d\u2019utilisation d\u2019enfants ont \u00e9t\u00e9 document\u00e9es, notamment \u00e0 Kalehe, Mwenga, Fizi et dans la plaine de la Ruzizi.\n\n\u25cf**Repr\u00e9sailles** : Des civils accus\u00e9s de collaboration auraient \u00e9t\u00e9 arr\u00eat\u00e9s, tortur\u00e9s et auraient vu leurs maisons incendi\u00e9es, notamment \u00e0 Itombwe (Mwenga) et \u00e0 Kabare.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
@@ -784,7 +1021,7 @@
             "url": "https://reliefweb.int/node/4238854",
             "date": {
                 "original": "2026-11-18T00:00:00+00:00",
-                "changed": "2026-11-18T11:40:43+00:00",
+                "changed": "2026-11-20T08:19:38+00:00",
                 "created": "2026-11-18T09:34:52+00:00"
             }
         },
@@ -1595,125 +1832,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4238483"
-    },
-    {
-        "id": "4238458",
-        "score": 1,
-        "fields": {
-            "title": "CORE Emergency situation in Chad: Update on arrivals from Sudan (15 Nov. 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238458",
-            "date": {
-                "original": "2026-11-16T00:00:00+00:00",
-                "changed": "2026-11-16T11:20:01+00:00",
-                "created": "2026-11-16T11:03:57+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238458"
-    },
-    {
-        "id": "4238457",
-        "score": 1,
-        "fields": {
-            "title": "CORE Situation d'urgence au Tchad : Mise \u00e0 jour des arriv\u00e9es du Soudan (15 Nov. 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238457",
-            "date": {
-                "original": "2026-11-16T00:00:00+00:00",
-                "changed": "2026-11-16T11:24:03+00:00",
-                "created": "2026-11-16T11:03:44+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238457"
-    },
-    {
-        "id": "4238455",
-        "score": 1,
-        "fields": {
-            "title": "Situation d'urgence au Tchad I Mise \u00e0 jour des arriv\u00e9es du Soudan (15 nov. 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238455",
-            "date": {
-                "original": "2026-11-16T00:00:00+00:00",
-                "changed": "2026-11-16T11:29:57+00:00",
-                "created": "2026-11-16T11:03:23+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238455"
     }
 ]
