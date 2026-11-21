@@ -1,5 +1,70 @@
 [
     {
+        "id": "4239361",
+        "score": 1,
+        "fields": {
+            "title": "Evaluation conjointe des besoins en mati\u00e8re d\u2019Education et Protection RDC-2026",
+            "body": "Le rapport de l\u2019\u00e9valuation conjointe des besoins d\u2019Education et de Protection men\u00e9e en collaboration avec le secteur de la Protection met en \u00e9vidence les r\u00e9sultats suivants :\n\n- Taux d\u2019abandon de 12,5 % au cours de l\u2019ann\u00e9e scolaire 2025-2026, principalement li\u00e9 aux difficult\u00e9s socio-\u00e9conomiques des m\u00e9nages, aux d\u00e9placements forc\u00e9s, aux travaux domestiques, ainsi qu\u2019aux mariages et grossesses pr\u00e9coces.\n- 131 \u00e9tablissements sur 266 (50 %) rapportent des absences scolaires li\u00e9es \u00e0 la gestion des menstruations.\n- 76 responsables d\u2019\u00e9tablissements sur 266 (28%) affirment que les \u00e9tablissements ont subi des pillages ou vols perp\u00e9tr\u00e9s par des groupes arm\u00e9s depuis le d\u00e9but de l\u2019ann\u00e9e 2026, tandis que 47 sur 266 (18%) ont relev\u00e9 l\u2019occupation de salles de classe par des forces ou groupes arm\u00e9s.\n- L\u2019inclusion des enfants en situation de handicap demeure limit\u00e9e, avec peu de mesures sp\u00e9cifiques favorisant leur participation et leur maintien \u00e0 l\u2019\u00e9cole.\n- Seuls 51 \u00e9tablissements sur 266 (19 %) disposent d\u2019un acc\u00e8s \u00e0 l\u2019eau potable provenant de leur principale source d\u2019approvisionnement.\n- 114 \u00e9tablissements (43 %) ne disposent pas de latrines s\u00e9par\u00e9es pour les filles et les gar\u00e7ons.\n- 101 \u00e9tablissements sur 266 (38 %) signalent la pr\u00e9sence d\u2019enfants pr\u00e9sentant des signes de d\u00e9tresse psychosociale, notamment des cauchemars, une tristesse persistante, une anxi\u00e9t\u00e9 \u00e9lev\u00e9e, de la fatigue extr\u00eame, des comportements violents ou de l\u2019isolement.\n- Seuls 70 \u00e9tablissements sur 266 (26%) disposent d\u2019un m\u00e9canisme de r\u00e9f\u00e9rencement VBG adapt\u00e9 aux enfants et permettant l\u2019orientation vers des services sp\u00e9cialis\u00e9s.\n\nMalgr\u00e9 ces d\u00e9fis, les consultations avec les enfants montrent que l\u2019\u00e9cole reste per\u00e7ue comme un espace de protection, de stabilit\u00e9 et d\u2019espoir. Comme l\u2019a soulign\u00e9 un enfant de 8 \u00e0 11 ans : \u00ab **A l\u2019\u00e9cole, on \u00e9tudie et on oublie la guerre**. \u00bb",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/12989",
+                    "id": 12989,
+                    "name": "Education Cluster",
+                    "shortname": "Education Cluster",
+                    "homepage": "https://www.educationcluster.net/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2865",
+                    "id": 2865,
+                    "name": "Save the Children",
+                    "shortname": "Save the Children",
+                    "longname": "Save the Children Alliance",
+                    "spanish_name": "Save the Children",
+                    "homepage": "https://www.savethechildren.net/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239361",
+            "date": {
+                "original": "2026-11-21T00:00:00+00:00",
+                "changed": "2026-11-21T15:58:42+00:00",
+                "created": "2026-11-21T15:57:32+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239361"
+    },
+    {
         "id": "4239288",
         "score": 1,
         "fields": {
@@ -1653,46 +1718,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4238579"
-    },
-    {
-        "id": "4238556",
-        "score": 1,
-        "fields": {
-            "title": "Rapport de la situation \u00e9pid\u00e9miologique du chol\u00e9ra en RD Congo (Interne OMS), semaine 44, 2026",
-            "body": "**I. POINTS SAILLANTS**\n\n- Le nombre de cas suspects de chol\u00e9ra notifi\u00e9s \u00e0 la SE44 est de 2 083 cas pour 46 d\u00e9c\u00e8s soit une tr\u00e8s l\u00e9g\u00e8re baisse (-4,67 %) par rapport \u00e0 la situation \u00e0 la semaine 43 (2 185 cas/30 d\u00e9c\u00e8s).\n- Les provinces end\u00e9miques de la partie Est ont rapport\u00e9 un total de 91 % de cas et 91 % de d\u00e9c\u00e8s de chol\u00e9ra.\n- L\u2019\u00e9pid\u00e9mie continue de s\u2019tendre g\u00e9ographiquement dans la partie Est et plus particuli\u00e8rement au Sud-Kivu o\u00f9 une nouvelle zone de sant\u00e9 (ZS de Kalole) a \u00e9t\u00e9 affect\u00e9e, rapportant 5 cas et 1 d\u00e9c\u00e8s.\n- Apr\u00e8s une br\u00e8ve p\u00e9riode d\u2019accalmie, l\u2019\u00e9pid\u00e9mie s\u2019est r\u00e9activ\u00e9e dans les provinces du Haut Katanga et de Kinshasa o\u00f9 deux zones de sant\u00e9 viennent de se r\u00e9activer.\n- La l\u00e9talit\u00e9 globale est de 2% et le taux de l\u00e9talit\u00e9 le plus \u00e9lev\u00e9 (7,63 %) est rapport\u00e9 dans la population active (\u00e2g\u00e9e de 15 ans et plus).\n- Les pr\u00e9paratifs des campagnes de vaccination contre le chol\u00e9ra dans la partie Est du pays (Mulungu et Shabunda dans le Sud-Kivu) et dans la partie Ouest (17 zones de sant\u00e9 sur le corridor fleuve Congo des provinces de Kinshasa, Equateur et Maindombe) se poursuivent.\n- La poursuite des affrontements arm\u00e9s dans cinq zones de sant\u00e9 du Nord-Kivu suivie d\u2019un d\u00e9placement massif des populations complique la mise en \u0153uvre des interventions dans ces zones hotspots de chol\u00e9ra.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238556",
-            "date": {
-                "original": "2026-11-02T00:00:00+00:00",
-                "changed": "2026-11-17T02:33:18+00:00",
-                "created": "2026-11-17T01:24:44+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238556"
     }
 ]
