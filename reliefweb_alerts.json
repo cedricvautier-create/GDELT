@@ -29,6 +29,30 @@
                     }
                 },
                 {
+                    "href": "https://api.reliefweb.int/v2/sources/1331",
+                    "id": 1331,
+                    "name": "Norwegian Refugee Council",
+                    "shortname": "NRC",
+                    "longname": "Norwegian Refugee Council",
+                    "homepage": "https://www.nrc.no/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
                     "href": "https://api.reliefweb.int/v2/sources/2865",
                     "id": 2865,
                     "name": "Save the Children",
@@ -53,23 +77,118 @@
                         "id": 272,
                         "name": "International Organization"
                     }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
                 }
             ],
             "url": "https://reliefweb.int/node/4239361",
             "date": {
                 "original": "2026-11-21T00:00:00+00:00",
-                "changed": "2026-11-21T15:58:42+00:00",
+                "changed": "2026-11-23T05:46:45+00:00",
                 "created": "2026-11-21T15:57:32+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4239361"
     },
     {
+        "id": "4239356",
+        "score": 1,
+        "fields": {
+            "title": "Disease Outbreak News: Ebola disease caused by Bundibugyo virus- Democratic Republic of the Congo, Kenya and Nigeria (20 November 2026)",
+            "body": "**Situation at a glance**\n\nSince the publication of the previous Disease Outbreak News on 6 November 2026, additional confirmed cases and deaths have been reported in the Democratic Republic of the Congo. While some areas have seen a slight decline in cases, sustained, high-level transmission continues overall in the country. As of 17 November 2026, a total of 11 613 confirmed cases, including 5678 deaths (crude case fatality ratio: 48.9%), have been reported across 68 health zones in eight provinces, with active transmission ongoing in 48 health zones. Ituri and Nord Kivu remain the most affected provinces, while Sud-Kivu and Sud Ubangi have not reported cases for more than 42 days. The high proportion of deaths occurring in communities, meaning outside of dedicated treatment centres, especially among young children, continues to highlight challenges in early case detection and timely access to appropriate care. Of the 720 deaths reported since 28 October (last three weeks), 452 occurred in communities and 268 in treatment centres. Since the last Disease Outbreak News, no new cases have been reported from Kenya or Nigeria; and no new country has reported confirmed cases. Both countries have started a 42-day countdown to declare the end of their outbreaks. However, the high-level transmission in the Democratic Republic of the Congo calls for continued need for readiness in the region, including cross-border surveillance, points of entry monitoring, timely case detection and coordinated preparedness and response measures. Six months into the outbreak of Bundibugyo virus disease (BVD) in the Democratic Republic of the Congo, the response has expanded significantly, but further scale up is needed, with rising insecurity remaining the greatest obstacle to the expansion of operations. The next phase must prioritize quality, reach and community trust, alongside sustained funding, coordination and security to save lives and end the outbreak. On 18 November 2026, the Director-General of WHO, concurring with the advice of the IHR Emergency Committee formulated at its third meeting, on 17 November 2026, determined that the event continues to constitute a public health emergency of international concern (PHEIC). Updated recommendations to the government of the Democratic Republic of the Congo and all other States Parties will be issued in the coming days.\n\n**Description of the situation**\n\nCases have been reported in five countries since the declaration of the outbreak on 15 May 2026: the Democratic Republic of the Congo, France, Kenya, Nigeria, and Uganda. The outbreaks in France and Uganda have been controlled since August, while Kenya and Nigeria continue with heightened surveillance as they count down to 42 days, completing two maximum incubation periods since the last confirmed cases were either discharged or medically evacuated from the country.\n\nOn 26 October 2026, Switzerland reported the medical evacuation of the case, who received medical care in Geneva, Switzerland. The patient recovered and was discharged on 11 November testing PCR-negative for Bundibugyo virus for a second time.\n\nOn 18 November 2026, the United Kingdom of Great Britain and Northern Ireland reported that a medically evacuated health and care worker from the Democratic Republic of the Congo had recovered and been discharged from hospital.\n\n**Democratic Republic of the Congo**\n\nAn additional 945 confirmed cases, including 480 confirmed deaths, have been reported in the Democratic Republic of the Congo since the previous [Disease Outbreak News](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625) was published.\n\nIn the last 21-day period, as of 17 November, 1417 new confirmed cases were reported, with Ituri accounting for 668 (13% decrease) cases, Nord Kivu for 635 (8% increase) cases, Haut-U\u00e9l\u00e9 for 90 (13% increase) cases, Tshopo for 20 (47% decrease) cases and Nord-Ubangi for four cases. No new cases were reported in Bas-U\u00e9l\u00e9, Sud Kivu or Sud-Ubangi during that period.\n\nAs of 17 November, cumulative confirmed cases have reached 11 613, including 5678 deaths and 3148 recoveries. The overall crude CFR is 48.9%.\n\nConfirmed cases have now been identified in 68 health zones across eight provinces. Forty-eight of the 68 affected health zones reported at least one new case during the preceding 21 days, while 20 reported no recent cases. Beni, Bunia, and Mandima have reported the highest number of cases and deaths in the preceding 21 days. Ituri remains the most extensively affected province, with 28 of 36 health zones reporting cases during this outbreak, followed by Nord Kivu (17/34), Haut-U\u00e9l\u00e9 (8/13), Tshopo (7/23), Bas-U\u00e9l\u00e9 (4/11), Nord-Ubangi (2/11), Sud Kivu (1/34) and Sud-Ubangi (1/16). Watsa in Haut-U\u00e9l\u00e9 province is the most recently affected health zone, reporting 11 confirmed cases.\n\nSix months into the BVD outbreak, the response has expanded significantly, but transmission remains persistent and geographically widespread. WHO, the national Government and partners have strengthened surveillance, treatment, laboratory capacity and community engagement, yet high community mortality, insecurity, displacement and a fragile health system continue to undermine progress.\n\nThe next phase will need to focus on scaling up, but also on improving the reach, quality and impact of the response. Early detection, quality care, contact tracing, infection prevention and community trust remain critical. Sustained funding, strong coordination and safe access to communities will be essential.\n\nThe third International Health Regulations (IHR) Emergency Committee meeting regarding the epidemic of BVD in the Democratic Republic of the Congo took place on 17 November. Following the advice of the Committee, the Director-General agreed that the ongoing outbreak remains a PHEIC. Updated recommendations to the government of the DRC and all other States Parties will be issued in the coming days and reported in the next Disease Outbreak News publication.\n\nWhile Nord Kivu reported the highest number of cases in the last seven days (235 cases (40% increase compared to the previous seven days) as of 17 November), Ituri remains the most affected province since the outbreak was declared, with 7946 cumulative confirmed cases and 3751 deaths, with CFR of 47%. Nord Kivu follows with 2996 confirmed cases and 1654 deaths, and continues to record the highest provincial CFR, at 55%. Haut-U\u00e9l\u00e9 has reported 534 cases and 231 deaths, while Tshopo has recorded 109 cases and 35 deaths. The less-affected provinces continue to report substantially fewer cases, but transmission persists in several of them. The continued occurrence of cases across multiple provinces shows that the outbreak remains geographically active even as intensity varies between health zones. Sud-Kivu and Sud Ubangi have not reported cases for more than 42 days.\n\nAs of 17 November 2026, the average proportion of contacts seen daily over the previous 14-day period is 81%, remaining below the required threshold of 95% for a daily average of the proportion of contacts seen over the previous 14-day period. Two provinces were at or above the 95% threshold: Bas-Uele (100%, 56/56) and Nord-Ubangi (99%, 140/138) Five provinces were below the threshold: Haut-U\u00e9l\u00e9 (86%; 1741/1495), Ituri (86% (9564/11 104), Nord-Kivu (77%; 16 015/12 313), Tshopo (68%; 720/526), and Sud-Ubangi (63%; 127/80). Strengthened contact follow-up is required, particularly in provinces below the target, to achieve the minimum threshold of 95%.\n\n**Kenya**\n\nAs of 17 November 2026, the cumulative confirmed cases reported in Kenya are nine, including two deaths, with a crude CFR of 22.2%. All eight secondary cases were epidemiologically linked to the imported index case and associated with one cluster (four family members of the index case and four health and care workers). All seven hospitalized cases have recovered and been discharged (the last case was discharged on 11 November). A 42-day countdown is underway and includes heightened surveillance.\n\nThere is currently no evidence of transmission outside this cluster, and there have been no new confirmed cases since 19 October 2026. Additionally, all eight secondary cases were already under quarantine as known contacts when they developed symptoms.\n\nAs of 17 November, of the 135 cumulative contacts identified since the first confirmed case, eight subsequently became confirmed cases and nine contacts left Kenya (relevant National IHR Focal Points were notified). All have completed the 21-day follow-up on 11 November 2026.\n\n**Nigeria**\n\nOn 20 October 2026, Nigeria reported one laboratory-confirmed imported case of BVD in the Federal Capital Territory Abuja. On 26 October 2026, [Switzerland reported the medical evacuation of the case](https://www.admin.ch/en/newnsb/hKpTLMT8HgXi), who received medical care in Geneva, Switzerland. The patient recovered and was discharged on 11 November, following two PCR-negative test results for Bundibugyo virus.\n\nAs of 13 November, a cumulative of 62 contacts had been identified in Nigeria for follow-up and all the contacts have completed the 21-day follow-up period. National authorities, with support from WHO and partners, have intensified contact tracing, case investigation and infection prevention and control measures, including the provision of essential supplies and personal protective equipment for health workers. Investigations are ongoing to establish the likely source of infection and reconstruct the travel and exposure history of the imported case. WHO has urged countries across the region to strengthen surveillance, laboratory diagnostic capacity, rapid response readiness and cross-border preparedness to mitigate the risk of further transmission.\n\n**Epidemiology**\n\nBundibugyo virus disease (BVD) is a severe Ebola disease caused by the Bundibugyo virus, one of the *Orthoebolavirus* species. It is a zoonotic disease, with fruit bats suspected to be the natural reservoir.\n\nHuman infection is thought to initially occur through close contact with the blood or secretions of infected wildlife, such as bats or non-human primates, and it subsequently spreads from person-to-person through direct contact with the blood, secretions, organs, or other bodily fluids of infected individuals or contaminated surfaces and materials. Transmission is particularly amplified in health-care settings when infection prevention and control (IPC) measures are inadequate, and during unsafe burial practices involving direct contact with deceased individuals.\n\nThe incubation period for BVD ranges from two to 21 days, and infected individuals are not infectious until symptom onset. Early symptoms such as fever, fatigue, muscle pain, headache, and sore throat are non-specific, which complicates clinical diagnosis and can delay detection. These symptoms then progress to gastrointestinal symptoms, organ dysfunction, and, in some cases, haemorrhagic manifestations.\n\nThe CFR from the previous two BVD outbreaks, reported in Uganda and in the Democratic Republic of the Congo in 2007 and 2012, were 30% and 50%, respectively.\n\nDifferentiating BVD from other endemic febrile illnesses such as malaria is challenging without laboratory confirmation. Outbreak control relies on rapid case identification and investigation, isolation and care, contact tracing, safe burials and strong community engagement, as no approved vaccines or specific treatments currently exist for BVD.\n\nSince first detected in May 2026, this BVD outbreak has rapidly evolved into a large and geographically expanding epidemic in the Democratic Republic of the Congo, with sustained transmission, high mortality and an increasing risk of further international spread. The current outbreak is the second documented Bundibugyo virus disease outbreak in the country, after the 2012 outbreak, and the largest Ebola disease outbreak ever recorded in the Democratic Republic of the Congo irrespective of virus species. The population at greatest risk of exposure is concentrated in communities living in and moving through the health areas with active transmission.\n\n**Public health response**\n\nFor detailed information about the ongoing public health response actions by the Ministry of Health, WHO and partners please refer to the latest situation reports published by the WHO Regional Office for Africa: [Ongoing outbreak in the Democratic Republic of the Congo | WHO | Regional Office for Africa](https://www.afro.who.int/health-topics/ebola-disease/outbreak-drc-26).\n\n**Democratic Republic of the Congo**\n\nHealth authorities in the Democratic Republic of the Congo, in collaboration with WHO and partners, are continuing to implement and coordinate extensive public health measures. These include disease surveillance; laboratory testing; IPC; clinical care; community engagement; research; logistics; and support for response interventions and essential health services, including for the ongoing concurrent humanitarian crisis; engaging donors and mobilizing additional resources to address critical funding gaps and sustain response operations across affected and at-risk areas. A substantial scale-up is ongoing across all response pillars to get ahead of the outbreak.\n\n**Kenya**\n\nOn 11 November 2026, Kenya discharged its last confirmed BVD case after two negative tests, released the remaining contacts from quarantine, and began the 42-day countdown to declaring the end of the outbreak. Following the start of the 42-day countdown, Kenya has maintained cross-border surveillance and screening at all designated points of entry.\n\n**Nigeria**\n\nNigeria has maintained a high level of alert for BVD since the outbreak began in the Democratic Republic of the Congo in May 2026. As of 13 November, all identified contacts had completed the 21-day follow-up period.\n\nFollowing the medical evacuation of the case on 26 October, the country is continuing with the 42-days countdown to declare the end of the outbreak and is maintaining heightened surveillance.\n\nOn 17 November 2026, WHO reassessed the risk of the BVD outbreak. The risk assessment categorizes States Parties into five groups based on population mobility from areas with community BVD transmission and response capacity.\n\nThe risk in the Democratic Republic of the Congo, the only State Party with currently documented community transmission, remains **very high**, reflecting the intensity and geographic expansion of the outbreak, ongoing undetected transmission, community deaths, health-care transmission, insecurity, laboratory constraints, gaps in community engagement and funding, and the continued potential for national spread.\n\nThe risk for States Parties with confirmed cases but without community transmission, including Kenya and Nigeria, is assessed as **high**, given the potential for onward and secondary transmission following importation, challenges in early detection, uncertainty around transmission chains, and the continued possibility of additional introductions.\n\nThe risk is also assessed as **high** for States Parties with substantial population connectivity to areas with community transmission, or with moderate connectivity but low response capacity. High population mobility, formal and informal cross-border movement, the possibility of undetected importation, variable surveillance and response capacities, and humanitarian and access constraints increase the likelihood of delayed detection and onward transmission.\n\nThe risk for States Parties with substantial connectivity but high response capacity is assessed as **low**. Although importation remains possible because of travel and other connections with affected areas, strong health systems and demonstrated outbreak-response capacities reduce the likelihood of sustained community transmission.\n\nFinally, the risk for all other States Parties remains **low**. Transmission remains concentrated in the Democratic Republic of the Congo, with no evidence of sustained transmission beyond the country. However, further international exportation remains possible, requiring continued surveillance, preparedness, rapid detection and containment of any imported cases.\n\nBased on the currently available information, WHO advises against any restriction of travel to, or trade with, States Parties experiencing and/or responding to the public health event. The [Temporary Recommendations](https://www.who.int/news/item/24-08-2026-second-meeting-of-the-ihr-emergency-committee-on-the-epidemic-of-ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-temporary-recommendations) issued to States Parties on 24 August 2026 underscore the importance of coordinated outbreak control, strengthened cross\u2011border collaboration, and sustained surveillance and preparedness to prevent further regional spread and ensure an effective public health response. Rapid recognition of cases, testing and optimized supportive care can reduce mortality, and improve community perceptions and acceptance of health care within the response.\n\nFollowing the advice formulated by the IHR Emergency Committee regarding the epidemic of BVD in the Democratic Republic of the Congo, the Director-General of WHO determined that the event continues to constitute a PHEIC. An updated set of Temporary Recommendations will be issued to States Parties, and this will be reported in the next Disease Outbreak News publication.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239356",
+            "date": {
+                "original": "2026-11-20T00:00:00+00:00",
+                "changed": "2026-11-23T00:36:39+00:00",
+                "created": "2026-11-21T08:03:05+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239356"
+    },
+    {
+        "id": "4239309",
+        "score": 1,
+        "fields": {
+            "title": "Multi-country Bundibugyo Ebola Virus Disease Outbreak Situation Report No. 27 (9 - 15 November 2026)",
+            "body": "**IOM REGIONAL RESPONSE AT A GLANCE**\n\nDuring the reporting period (9\u201315 November 2026), IOM supported 3,729,851 traveller screenings, bringing the cumulative total to 79,831,882 screenings since the start of the outbreak. Thirty-nine alerts were identified through IOM-supported surveillance \u2013 28 in the Democratic Republic of the Congo (DRC), 1 in Uganda and 10 in the Central African Republic (CAR) \u2013 bringing the cumulative total to 1,034 alerts.\n\nAt IOM-supported points of entry (PoEs) and points of control (PoCs) in DRC, five deceased persons were intercepted and referred for sample collection and safe and dignified burial, bringing the cumulative total to 271. One confirmed Bundibugyo Ebola virus disease (BVD) case was reported in a displacement site, bringing the cumulative number of confirmed cases detected through IOM-supported surveillance to 73.\n\nIOM reached 3,073,123 people through risk communication and community engagement (RCCE) during the reporting period, bringing the cumulative reach to 68,933,505 people since the start of the outbreak.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1255",
+                    "id": 1255,
+                    "name": "International Organization for Migration",
+                    "shortname": "IOM",
+                    "longname": "International Organization for Migration",
+                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
+                    "homepage": "https://www.iom.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239309",
+            "date": {
+                "original": "2026-11-20T00:00:00+00:00",
+                "changed": "2026-11-23T00:51:27+00:00",
+                "created": "2026-11-20T18:03:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239309"
+    },
+    {
         "id": "4239288",
         "score": 1,
         "fields": {
             "title": "Central African Republic: Situation Report No. 94, as of 17 November 2026",
-            "body": "**HIGHLIGHTS**\n\n- Despite a still volatile context, some humanitarian movements have resumed around Z\u00e9mio.\n- Infrastructure has been installed in Ouham-Pend\u00e9 to help prevent agro-pastoral conflicts and reduce tensions between herders and farmers.\n- 3,900 students received school kits in Kaga-Bandoro and M\u2019br\u00e8s.\n\n**GENERAL CONTEXT**\n\nHaut-Mbomou Prefecture \u2013 South-East\n\nThe security situation remains volatile in the Z\u00e9mio area, despite a relative improvement recently observed along certain roads around the town. In this context, humanitarian actors have gradually resumed some movements and activities in areas affected by movement restrictions that have been in place since September. A limited resumption of civilian movement has also been observed on the main road corridors, while staff from peripheral health facilities have been able to travel to Z\u00e9mio to replenish medical supplies. No incidents have recently been reported on these routes. A humanitarian organization also conducted movements along the Z\u00e9mio-Dembia axis to carry out assessments. Given the continuing volatility of the security environment, humanitarian partners are closely monitoring developments and maintaining existing security and risk-management measures.\n\n **HUMANITARIAN NEEDS AND RESPONSE**\n\n **Health**\n\nHaute-Kotto Prefecture \u2013 Central\n\nOn 11 November, the United Nations Population Fund (UNFPA) and its partner International Medical Corps (IMC) concluded their campaign providing comprehensive care for women living with obstetric fistula. A total of 33 patients received specialized treatment in Bria, with an 88 per cent success rate. 15 other patients faced transportation challenges in reaching Bria from Ndele in Bamingui-Bangoran Prefecture. To improve access to services in that area, a second two-week campaign is being conducted in Ndele from 12 to 26 November 2026.\n\n**Multi-sector**\n\nVakaga Prefecture \u2013 North-East\n\nOn 11 November, the NGO COHEB, under a labour-intensive work project implemented through the Emergency Project to Support the Stabilization and Recovery of Refugees and Host Communities in the Lake Chad Basin (PASRRC), distributed cash assistance to 400 beneficiaries, including 150 Sudanese refugees and 250 members of host communities. Through the cash-for-work approach, each beneficiary received 30,000 CFA francs to support livelihoods and meet priority household needs.",
+            "body": "**HIGHLIGHTS**\n\n- Despite a still volatile context, some humanitarian movements have resumed around Z\u00e9mio.\n- Infrastructure has been installed in Ouham-Pend\u00e9 to help prevent agro-pastoral conflicts and reduce tensions between herders and farmers.\n- 3,900 students received school kits in Kaga-Bandoro and M\u2019br\u00e8s.\n\n**GENERAL CONTEXT**\n\nHaut-Mbomou Prefecture \u2013 South-East\n\nThe security situation remains volatile in the Z\u00e9mio area, despite a relative improvement recently observed along certain roads around the town. In this context, humanitarian actors have gradually resumed some movements and activities in areas affected by movement restrictions that have been in place since September. A limited resumption of civilian movement has also been observed on the main road corridors, while staff from peripheral health facilities have been able to travel to Z\u00e9mio to replenish medical supplies. No incidents have recently been reported on these routes. A humanitarian organization also conducted movements along the Z\u00e9mio-Dembia axis to carry out assessments. Given the continuing volatility of the security environment, humanitarian partners are closely monitoring developments and maintaining existing security and risk-management measures.\n\n**HUMANITARIAN NEEDS AND RESPONSE**\n\n**Health**\n\nHaute-Kotto Prefecture \u2013 Central\n\nOn 11 November, the United Nations Population Fund (UNFPA) and its partner International Medical Corps (IMC) concluded their campaign providing comprehensive care for women living with obstetric fistula. A total of 33 patients received specialized treatment in Bria, with an 88 per cent success rate. 15 other patients faced transportation challenges in reaching Bria from Ndele in Bamingui-Bangoran Prefecture. To improve access to services in that area, a second two-week campaign is being conducted in Ndele from 12 to 26 November 2026.\n\n**Multi-sector**\n\nVakaga Prefecture \u2013 North-East\n\nOn 11 November, the NGO COHEB, under a labour-intensive work project implemented through the Emergency Project to Support the Stabilization and Recovery of Refugees and Host Communities in the Lake Chad Basin (PASRRC), distributed cash assistance to 400 beneficiaries, including 150 Sudanese refugees and 250 members of host communities. Through the cash-for-work approach, each beneficiary received 30,000 CFA francs to support livelihoods and meet priority household needs.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/54",
                 "id": 54,
@@ -100,7 +219,7 @@
             "url": "https://reliefweb.int/node/4239288",
             "date": {
                 "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-20T15:17:08+00:00",
+                "changed": "2026-11-23T02:21:28+00:00",
                 "created": "2026-11-20T15:14:28+00:00"
             }
         },
@@ -142,7 +261,7 @@
             "url": "https://reliefweb.int/node/4239285",
             "date": {
                 "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-20T15:12:48+00:00",
+                "changed": "2026-11-23T02:12:47+00:00",
                 "created": "2026-11-20T15:10:07+00:00"
             }
         },
@@ -228,45 +347,6 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4239263"
-    },
-    {
-        "id": "4239261",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique centrafricaine: D\u00e9cret pr\u00e9sidentiel portant approbation de la politique en mati\u00e8re de pr\u00e9vention et r\u00e9ponse \u00e0 l'exploitation et aux abus sexels dans le secteur de la sant\u00e9 (20 ao\u00fbt 2026).",
-            "body": "D\u00c9CRET PR\u00c9SIDENTIEL N\u00b0 26-239.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2374",
-                    "id": 2374,
-                    "name": "Government of the Central African Republic",
-                    "shortname": "Govt. CAR",
-                    "longname": "Government of the Central African Republic",
-                    "type": {
-                        "id": 271,
-                        "name": "Government"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239261",
-            "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-20T14:42:56+00:00",
-                "created": "2026-11-20T12:41:31+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239261"
     },
     {
         "id": "4239232",
@@ -1666,57 +1746,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4238632"
-    },
-    {
-        "id": "4238579",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo : Pr\u00e9sence operationnelle des partenaires de la reponse \u00e0 l\u2019epidemie d\u2019Ebola au 31 Octobre 2026 - Les partenaires qui ont renseign\u00e9 l outil 3W (Qui Fait Quoi O\u00f9 ?) et appuient le plan SGI du Minist\u00e8re de la Sant\u00e9",
-            "body": "Au 31 octobre 2026, le Cluster Sant\u00e9 en R\u00e9publique d\u00e9mocratique du Congo recensait 95 acteurs humanitaires appuyant le plan du Syst\u00e8me de gestion des incidents (SGI) du Minist\u00e8re de la Sant\u00e9 pour la r\u00e9ponse \u00e0 Ebola. Cette mobilisation rassemble 44 ONG internationales, 40 ONG nationales, 6 agences des Nations Unies, 3 agences intergouvernementales et 2 observateurs.\n\nLes donn\u00e9es collect\u00e9es \u00e0 travers l\u2019outil 3W (\u00ab Qui fait Quoi, O\u00f9 ? \u00bb) pr\u00e9sentent la pr\u00e9sence op\u00e9rationnelle des partenaires et leurs contributions aux diff\u00e9rents piliers de la riposte. Cette cartographie facilite la coordination, l\u2019identification des compl\u00e9mentarit\u00e9s et la planification des interventions.\n\nLes appuis couvrent la surveillance \u00e9pid\u00e9miologique, la recherche active des cas et des contacts, les laboratoires, la prise en charge des patients ainsi que la pr\u00e9vention et le contr\u00f4le des infections. Ils comprennent \u00e9galement l\u2019eau, l\u2019hygi\u00e8ne et l\u2019assainissement, les points d\u2019entr\u00e9e, la logistique, la formation, le d\u00e9ploiement des ressources humaines et l\u2019analyse des donn\u00e9es.\n\nLes partenaires contribuent aussi \u00e0 la mobilisation communautaire, au soutien psychosocial, \u00e0 la prise en charge alimentaire, \u00e0 la protection et au maintien des services de sant\u00e9 essentiels.\n\nSous le leadership gouvernemental, ces contributions soutiennent une r\u00e9ponse coordonn\u00e9e. Les informations pr\u00e9sent\u00e9es refl\u00e8tent les d\u00e9clarations des partenaires ayant renseign\u00e9 l\u2019outil 3W \u00e0 cette date.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/15477",
-                    "id": 15477,
-                    "name": "Health Cluster",
-                    "shortname": "Health Cluster",
-                    "homepage": "https://healthcluster.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1275",
-                    "id": 1275,
-                    "name": "World Health Organization",
-                    "shortname": "WHO",
-                    "longname": "World Health Organization",
-                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
-                    "homepage": "https://www.who.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4238579",
-            "date": {
-                "original": "2026-10-31T00:00:00+00:00",
-                "changed": "2026-11-17T06:16:37+00:00",
-                "created": "2026-11-17T05:59:13+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4238579"
     }
 ]
