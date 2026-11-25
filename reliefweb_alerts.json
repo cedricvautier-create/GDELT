@@ -4,7 +4,7 @@
         "score": 1,
         "fields": {
             "title": "RD Congo - Sud-Kivu : Flash Update #2 : La poursuite des violences \u00e0 Kalehe aggrave la vuln\u00e9rabilit\u00e9 de centaines de milliers de civils dans les territoires de Kalehe et de Kabare.",
-            "body": "**FAITS SAILLANTS**  \n\u2022 Plus de 447 000 personnes affect\u00e9es par des mouvements successifs de d\u00e9placement et de retour en  \nmoins de deux semaines dans les territoires de Kalehe et de Kabare ;  \n\u2022 La d\u00e9gradation de l'acc\u00e8s aux soins s'accentue, avec au moins sept centres de sant\u00e9 et l'H\u00f4pital  \nG\u00e9n\u00e9ral de R\u00e9f\u00e9rence de Bunyakiri ferm\u00e9s ou d\u00e9localis\u00e9s, aggravant la vuln\u00e9rabilit\u00e9 des  \npopulations affect\u00e9es ;  \n\u2022 L'acc\u00e8s humanitaire demeure fortement limit\u00e9 alors que les besoins continuent de cro\u00eetre et  \nd\u00e9passent les capacit\u00e9s de r\u00e9ponse disponibles.",
+            "body": "**FAITS SAILLANTS** \n\n\u2022 Plus de 447 000 personnes affect\u00e9es par des mouvements successifs de d\u00e9placement et de retour en moins de deux semaines dans les territoires de Kalehe et de Kabare ;\n\n\u2022 La d\u00e9gradation de l'acc\u00e8s aux soins s'accentue, avec au moins sept centres de sant\u00e9 et l'H\u00f4pital G\u00e9n\u00e9ral de R\u00e9f\u00e9rence de Bunyakiri ferm\u00e9s ou d\u00e9localis\u00e9s, aggravant la vuln\u00e9rabilit\u00e9 des populations affect\u00e9es ;\n\n\u2022 L'acc\u00e8s humanitaire demeure fortement limit\u00e9 alors que les besoins continuent de cro\u00eetre et d\u00e9passent les capacit\u00e9s de r\u00e9ponse disponibles.",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
                 "id": 75,
@@ -35,11 +35,104 @@
             "url": "https://reliefweb.int/node/4239818",
             "date": {
                 "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-24T19:59:13+00:00",
+                "changed": "2026-11-25T02:23:34+00:00",
                 "created": "2026-11-24T19:58:58+00:00"
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4239818"
+    },
+    {
+        "id": "4239810",
+        "score": 1,
+        "fields": {
+            "title": "M\u00e9canisme de r\u00e9ponse humanitaire : R\u00e9publique centrafricaine, Bulletin bimestriel (01 septembre - 31 octobre 2026)",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239810",
+            "date": {
+                "original": "2026-11-24T00:00:00+00:00",
+                "changed": "2026-11-25T00:53:47+00:00",
+                "created": "2026-11-24T18:03:20+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239810"
+    },
+    {
+        "id": "4239809",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo - Initiative conjointe de suivi des march\u00e9s (ICSM) - octobre 2026",
+            "body": "**MESSAGES CL\u00c9S**\n\n\u2022 Le co\u00fbt m\u00e9dian du MEB, calcul\u00e9 sur l\u2019ensemble des march\u00e9s \u00e9valu\u00e9s, a augment\u00e9 de 10% entre septembre et octobre. Il s\u2019\u00e9levait \u00e0 464'921 francs congolais (FC) et variait de 285'841 FC au march\u00e9 Kapulo de Nyunzu (Tanganyika) \u00e0 1'360'560 FC au march\u00e9 Nyasi dans le territoire de Walikale (NordKivu).\n\n\u2022 Cette hausse est principalement port\u00e9e par le panier alimentaire (+15%). Le prix m\u00e9dian de la farine de ma\u00efs a augment\u00e9 de 17% (2'128 FC/kg), celui de la farine de manioc de 21% (1'727 FC/kg) et celui des haricots de 12% (3'448 FC/kg). Le co\u00fbt du panier EHA/combustible est rest\u00e9 stable et celui des AME a l\u00e9g\u00e8rement augment\u00e9 (+3%).\n\n\u2022 \u00c0 Masisi, le co\u00fbt m\u00e9dian du MEB a augment\u00e9 de 24% entre septembre et octobre, principalement sous l\u2019effet de la hausse du panier alimentaire (+40%). Une augmentation a \u00e9t\u00e9 observ\u00e9e dans 6 des 7 march\u00e9s suivis, notamment au March\u00e9 central (+23%), \u00e0 Lushebere (+21%) et \u00e0 Nyabiondo (+20%). Les hausses les plus importantes concernaient la farine de manioc (+50%), les haricots (+40%) et la farine de ma\u00efs (+38%). Cette hausse intervient dans un contexte d'ins\u00e9curit\u00e9 persistante ayant affect\u00e9 l'activit\u00e9 commerciale et l'acc\u00e8s aux march\u00e9s.\n\n\u2022 La fonctionnalit\u00e9 des march\u00e9s s'est am\u00e9lior\u00e9e \u00e0 Goma en octobre. Les march\u00e9s Alanine et Birere sont pass\u00e9s d'une mauvaise fonctionnalit\u00e9 \u00e0 une fonctionnalit\u00e9 limit\u00e9e, surtout gr\u00e2ce \u00e0 une meilleure accessibilit\u00e9. \u00c0 Alanine, 29 des 33 commer\u00e7ants interrog\u00e9s n'ont signal\u00e9 aucun probl\u00e8me de s\u00e9curit\u00e9. \u00c0 Birere, aucun commer\u00e7ant n'en a signal\u00e9 (0/29).\n\n\u2022 \u00c0 l'inverse, La fonctionnalit\u00e9 des march\u00e9s s\u2019est d\u00e9grad\u00e9e dans plusieurs provinces. 5 march\u00e9s sont pass\u00e9s d\u2019une fonctionnalit\u00e9 limit\u00e9e \u00e0 une mauvaise fonctionnalit\u00e9 et 6 d\u2019une mauvaise fonctionnalit\u00e9 \u00e0 des probl\u00e8mes graves. \u00c0 Kapulo, tous les commer\u00e7ants interrog\u00e9s (6/6) ont signal\u00e9 l\u2019indisponibilit\u00e9 de certains produits, tandis qu\u2019\u00e0 Maendeleo, 28 commer\u00e7ants sur 69 ont d\u00e9clar\u00e9 que le march\u00e9 n\u2019\u00e9tait pas pleinement fonctionnel.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239809",
+            "date": {
+                "original": "2026-11-24T00:00:00+00:00",
+                "changed": "2026-11-25T00:49:43+00:00",
+                "created": "2026-11-24T18:03:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239809"
     },
     {
         "id": "4239781",
@@ -76,7 +169,7 @@
             "url": "https://reliefweb.int/node/4239781",
             "date": {
                 "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-24T15:25:16+00:00",
+                "changed": "2026-11-25T02:34:23+00:00",
                 "created": "2026-11-24T15:18:25+00:00"
             }
         },
@@ -117,7 +210,7 @@
             "url": "https://reliefweb.int/node/4239780",
             "date": {
                 "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-24T15:16:47+00:00",
+                "changed": "2026-11-25T02:34:57+00:00",
                 "created": "2026-11-24T15:16:34+00:00"
             }
         },
@@ -370,7 +463,7 @@
         "id": "4239695",
         "score": 1,
         "fields": {
-            "title": "Nearly 6 in 10 women and adolescent girls surveyed in Ebola-hit Ituri report increase in violence and abuse \u2013 UNICEF",
+            "title": "Nearly 6 in 10 women and adolescent girls surveyed in Ebola-hit Ituri report increase in violence and abuse [EN/AR]",
             "body": "**Findings show a worsening parallel crisis for women and girls, including emotional and psychological abuse, controlling behaviour, and physical and sexual violence**\n\n**KINSHASA/BUNIA/NEW YORK, 24 November 2026** \u2013 Nearly 6 in 10 women and adolescent girls aged 15 and above surveyed in Ituri in the Democratic Republic of the Congo (DRC) reported an increase or emergence of violence and abuse in their lives since the Ebola outbreak began.\n\nDrawn from the first ever real-time surveillance of violence against women and girls during an infectious disease outbreak \u2013 led by UNICEF with the women-led organization SOFEPADI and Washington University in St. Louis \u2013 the findings point to how the outbreak is affecting women's and adolescent girls' safety at home and in their communities.\n\n\u201cWomen and girls are facing a growing threat of violence and abuse on top of a deadly disease outbreak and continued conflict in eastern DRC,\u201d said UNICEF Executive Director Catherine Russell. \u201cToo often, in the most impacted areas, there are no protective spaces outside the home that they can safely access.\u201d\n\nBased on 1,062 interviews with women and adolescent girls between 28 August and 15 October, the findings point to an increase or emergence of at least one form of violence and abuse. More than a third of those surveyed reported growing control over where they could go, their money, and their phones, as well as emotional and psychological abuse. Physical and sexual violence were also reported.\n\nAccording to the findings, 7 in 10 respondents state they live in households that have experienced at least one public health response measure, such as isolation, quarantine, or contact tracing. Of those that also reported an increase in violence and abuse, 9 in 10 named stress and fear brought on by the outbreak as contributing factors.\n\nAlmost half of the women and adolescent girls who tried to access care and support services could not. Frontline workers reported that some women and girls are limiting their own movements to avoid infection, while others are being kept close to home by family members or others. Some of the centres and services they once relied on have closed or been repurposed. Respondents also cited shame, fear of the perpetrator, and lack of trust.\n\nWhere safe spaces for women and girls affected by, or at risk of, violence remain open and accessible, demand for them is growing. For example, visits to eight safe spaces run by SOFEPADI in Ituri rose by 200 per cent, from 1,183 visits between January to March to 3,548 visits between July to September.\n\nIn a separate UNICEF poll of around 11,500 young people in Ituri through U-Report \u2013 UNICEF\u2019s digital platform for youth to share their views on issues affecting them \u2013 nearly half of all respondents said they see greater risks of violence for women and girls since the outbreak began. Physical and sexual violence were the most commonly cited concerns.\n\nWomen and girls carry more of the outbreak\u2019s risk. Caring for sick relatives, preparing loved ones for burial, and frequent trips to health facilities, including with ill children, raises their risk of infection. All of this comes on top of an already fragile situation, where years of conflict and displacement had left women and girls facing alarming levels of gender-based violence long before the outbreak began. Now, many report even more violence at home and in their communities.\n\nSince the outbreak began, UNICEF and partners have assisted more than 3,300 survivors of gender-based violence in Ituri and North Kivu and provided mental health and psychosocial support to close to 175,000 people between June and October. But protecting children and women, including gender-based violence services, remains among the most underfunded parts of the response, with a funding gap of 76 per cent.\n\nThe results of the surveillance are being shared with Ebola response coordinators to inform decisions as UNICEF continues to call on government authorities, response partners, and donors to:\n\n- Make the safety of women and girls a measure of an effective Ebola response. Work with local women\u2019s organizations to spot rising risks early, act, and avoid putting women and girls at risk or preventing them from getting help.\n- Keep services for women and girls open, accessible, and funded at scale throughout the outbreak, and establish new services in Ebola hotspots. As risks rise and demand for support grows, gender-based violence services, including safe spaces, must be able to meet it.\n- Scale surveillance of violence into this current Ebola response and build it in future public health emergency preparedness and response. With women\u2019s organizations formally part of surveillance, and safeguards for confidentiality and safety built in, monitoring must start as soon as an outbreak begins.\n\n\"There is no excuse for violence and abuse against women and girls,\u201d said Russell. \u201cProtection must be part of the Ebola response, and it must be informed by what women and girls tell us. That includes prioritizing prevention and services for survivors.\u201d\n\n**Partner quotes**\n\n\"Since the outbreak began, more and more women and girls are coming to our safe spaces, looking to be heard, protected, and supported, without fear or stigma. Safe spaces must stay open and be properly resourced throughout the response. Surveillance and support should be extended to other areas at risk,\" said Sandrine Lusamba, National Coordinator of SOFEPADI.\n\n\"When women explain why violence has started or worsened, many point to the fear and pressure this outbreak has brought into their homes. Those pressures can be anticipated. Keeping services open, establishing new services, and listening to women as the response unfolds can stop that pressure from turning into harm,\" said Dr. Lindsay Stark, Co-Director of the Center on Violence and Health at the Bursky School of Public Health, Washington University in St. Louis.\n\n\\#####\n\n*Notes to editors:*\n\nRead more about the Ebola outbreak VAWG surveillance [here](https://www.unicef.org/media/186251/file).",
             "primary_country": {
                 "href": "https://api.reliefweb.int/v2/countries/75",
@@ -401,7 +494,7 @@
             "url": "https://reliefweb.int/node/4239695",
             "date": {
                 "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-24T10:46:02+00:00",
+                "changed": "2026-11-25T01:02:58+00:00",
                 "created": "2026-11-24T10:03:06+00:00"
             }
         },
@@ -1634,87 +1727,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4239194"
-    },
-    {
-        "id": "4239112",
-        "score": 1,
-        "fields": {
-            "title": "RD Congo : Chiffres humanitaires cl\u00e9s (au 31 octobre 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239112",
-            "date": {
-                "original": "2026-11-19T00:00:00+00:00",
-                "changed": "2026-11-20T01:36:12+00:00",
-                "created": "2026-11-19T13:44:27+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239112"
-    },
-    {
-        "id": "4239111",
-        "score": 1,
-        "fields": {
-            "title": "DR Congo: Humanitarian Key Figures (as of 31 October 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239111",
-            "date": {
-                "original": "2026-11-19T00:00:00+00:00",
-                "changed": "2026-11-19T14:35:37+00:00",
-                "created": "2026-11-19T13:42:33+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239111"
     }
 ]

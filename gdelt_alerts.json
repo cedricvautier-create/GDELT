@@ -1,62 +1,44 @@
 [
     {
-        "lon": 10.6667,
-        "lat": 6.63333,
-        "location_name": "Nkambe, Nord-Ouest, Cameroon",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
         "color": [
-            211,
-            47,
-            47,
-            220
+            251,
+            192,
+            45,
+            140
         ],
-        "radius": 100000,
-        "url": "https://leadership.ng/cameroon-secessionist-leader-pleads-not-guilty-at-war-crimes-trial-in-norway/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250157.html",
+        "sources": 5,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 3.4,
-        "lat": 7.18333,
-        "location_name": "Ijebu, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
+        "lon": 7.71995,
+        "lat": 12.7243,
+        "location_name": "Daura, Katsina, Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
         "color": [
-            211,
-            47,
-            47,
-            220
+            251,
+            192,
+            45,
+            140
         ],
-        "radius": 100000,
-        "url": "https://punchng.com/im-battling-with-incurable-cancer-farooq-oreagba/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250161.html",
+        "sources": 10,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 3.36667,
-        "lat": 6.51667,
-        "location_name": "Tinubu, Lagos, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://thesun.ng/gov-eno-storms-onna-promised-to-complete-aksu-teaching-hospital-open-farm-settlement/",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 4.56667,
-        "lat": 7.76667,
-        "location_name": "Osogbo, Osun, Nigeria",
+        "lon": 0.32665,
+        "lat": 9.04242,
+        "location_name": "Kukuo, Ghana (general), Ghana",
         "category": "Critique : Incident S\u00e9curitaire",
         "criticite_score": 4,
         "color": [
@@ -66,15 +48,123 @@
             200
         ],
         "radius": 80000,
-        "url": "https://punchng.com/nans-osun-varsity-differ-over-student-leaders-arraignment-for-assault/",
-        "sources": 2,
+        "url": "https://www.amnesty.org.au/ghanaian-women-accused-of-being-witches-on-long-awaited-legislation/",
+        "sources": 5,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 3.36667,
-        "lat": 6.51667,
-        "location_name": "Tinubu, Lagos, Nigeria",
+        "lon": 7.4,
+        "lat": 7.26667,
+        "location_name": "Anambra, Nigeria (general), Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250172.html",
+        "sources": 4,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.22604,
+        "lat": 6.49683,
+        "location_name": "Ebele, Edo, Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250172.html",
+        "sources": 10,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.05,
+        "lat": 7.53333,
+        "location_name": "Osun, Nigeria (general), Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250172.html",
+        "sources": 6,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.4,
+        "lat": 7.26667,
+        "location_name": "Anambra, Nigeria (general), Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250172.html",
+        "sources": 4,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.5,
+        "lat": 12.25,
+        "location_name": "Katsina State, Katsina, Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250161.html",
+        "sources": 2,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.72489,
+        "lat": 5.02298,
+        "location_name": "Midim, Akwa Ibom, Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250155.html",
+        "sources": 4,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.00743,
+        "lat": 5.48986,
+        "location_name": "Ughelli, Delta, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -84,87 +174,15 @@
             220
         ],
         "radius": 100000,
-        "url": "https://thesun.ng/gov-eno-storms-onna-promised-to-complete-aksu-teaching-hospital-open-farm-settlement/",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.4,
-        "lat": 7.18333,
-        "location_name": "Ijebu, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://punchng.com/im-battling-with-incurable-cancer-farooq-oreagba/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.36667,
-        "lat": 6.51667,
-        "location_name": "Tinubu, Lagos, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://thesun.ng/gov-eno-storms-onna-promised-to-complete-aksu-teaching-hospital-open-farm-settlement/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 4.56667,
-        "lat": 7.76667,
-        "location_name": "Osogbo, Osun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://punchng.com/nans-osun-varsity-differ-over-student-leaders-arraignment-for-assault/",
+        "url": "https://thesun.ng/obi-defends-kwankwasiyya-supporters-over-sticks-at-political-campaigns/",
         "sources": 4,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 4.56667,
-        "lat": 7.76667,
-        "location_name": "Osogbo, Osun, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://punchng.com/nans-osun-varsity-differ-over-student-leaders-arraignment-for-assault/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 3.36667,
-        "lat": 6.51667,
-        "location_name": "Tinubu, Lagos, Nigeria",
+        "lon": 6.0381,
+        "lat": 5.50591,
+        "location_name": "Uduere, Delta, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -174,9 +192,27 @@
             220
         ],
         "radius": 100000,
-        "url": "https://thesun.ng/gov-eno-storms-onna-promised-to-complete-aksu-teaching-hospital-open-farm-settlement/",
-        "sources": 2,
+        "url": "https://thesun.ng/obi-defends-kwankwasiyya-supporters-over-sticks-at-political-campaigns/",
+        "sources": 1,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250157.html",
+        "sources": 10,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
@@ -192,69 +228,15 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.americanthinker.com/blog/2026/11/fatwas-and-fearfulness-islam-vs-christianity-as-it-is-today/",
+        "url": "https://allafrica.com/stories/202611250157.html",
         "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 3.35,
-        "lat": 7.15,
-        "location_name": "Abeokuta, Ogun, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/news/top-news/927767-police-arrest-11-in-ogun-yahoo-academy-raid-official.html",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 4.56667,
-        "lat": 7.76667,
-        "location_name": "Osogbo, Osun, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/927773-nans-threatens-to-shut-down-university-over-sug-presidents-arrest.html",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 4.5,
-        "lat": 7.5,
-        "location_name": "Osun State, Osun, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/927773-nans-threatens-to-shut-down-university-over-sug-presidents-arrest.html",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.60063,
-        "lat": 12.9894,
-        "location_name": "Katsina, Katsina, Nigeria",
+        "lon": 7.71995,
+        "lat": 12.7243,
+        "location_name": "Daura, Katsina, Nigeria",
         "category": "Critique : Incident S\u00e9curitaire",
         "criticite_score": 4,
         "color": [
@@ -264,51 +246,51 @@
             200
         ],
         "radius": 80000,
-        "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.60063,
-        "lat": 12.9894,
-        "location_name": "Katsina, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 9.241,
-        "lat": 4.1527,
-        "location_name": "Buea, Sud-Ouest, Cameroon",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://grenadachronicle.com/cameroon-separatist-leader-pleads-not-guilty-at-war-crimes-trial-in-norway/",
+        "url": "https://dailypost.ng/2026/11/25/nigerian-newspapers-10-things-you-need-to-know-wednesday-morning-1795584772653/",
         "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 4.0,
-        "lat": 8.0,
-        "location_name": "Oyo State, Oyo, Nigeria",
+        "lon": 7.71995,
+        "lat": 12.7243,
+        "location_name": "Daura, Katsina, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://dailypost.ng/2026/11/25/nigerian-newspapers-10-things-you-need-to-know-wednesday-morning-1795584772653/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.71995,
+        "lat": 12.7243,
+        "location_name": "Daura, Katsina, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://dailypost.ng/2026/11/25/nigerian-newspapers-10-things-you-need-to-know-wednesday-morning-1795584772653/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.51667,
+        "lat": 11.9964,
+        "location_name": "Kano, Kano, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -318,188 +300,8 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.nigerianeye.com/2026/11/2027-peter-obi-kwankwaso-makinde-are-my.html",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.71995,
-        "lat": 12.7243,
-        "location_name": "Daura, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.nigerianeye.com/2026/11/polish-tourist-katsina-govt-suspends.html",
-        "sources": 5,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.71995,
-        "lat": 12.7243,
-        "location_name": "Daura, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.nigerianeye.com/2026/11/polish-tourist-katsina-govt-suspends.html",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.71995,
-        "lat": 12.7243,
-        "location_name": "Daura, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://thesun.ng/katsina-suspends-daura-emir-over-sexual-assault-allegations-by-polish-tourist/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.71995,
-        "lat": 12.7243,
-        "location_name": "Daura, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://thesun.ng/katsina-suspends-daura-emir-over-sexual-assault-allegations-by-polish-tourist/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.71995,
-        "lat": 12.7243,
-        "location_name": "Daura, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://thesun.ng/katsina-suspends-daura-emir-over-sexual-assault-allegations-by-polish-tourist/",
-        "sources": 6,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.71995,
-        "lat": 12.7243,
-        "location_name": "Daura, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 5,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 100000,
-        "url": "https://www.bbc.com/news/articles/cmglrz462nn6o",
-        "sources": 4,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.71995,
-        "lat": 12.7243,
-        "location_name": "Daura, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 5,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 100000,
-        "url": "https://www.bbc.com/news/articles/cmglrz462nn6o",
-        "sources": 1,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 30.0,
-        "lat": -2.0,
-        "location_name": "Rwanda",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://www.dw.com/en/european-court-states-can-turn-back-migrants-in-some-cases/a-80038352",
-        "sources": 5,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 30.0,
-        "lat": -2.0,
-        "location_name": "Rwanda",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://www.dw.com/en/european-court-states-can-turn-back-migrants-in-some-cases/a-80038352",
-        "sources": 5,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 5,
-        "color": [
-            244,
-            67,
-            54,
-            235
-        ],
-        "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/11/gbv-costs-nigeria-3bn-annually-minister-says/",
-        "sources": 10,
+        "url": "https://theeagleonline.com.ng/omo-agege-attack-makinde-campaign-accuses-apc-of-political-violence/",
+        "sources": 3,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
@@ -516,8 +318,8 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/11/omo-agege-attack-makinde-campaign-accuses-apc-of-political-violence/",
-        "sources": 2,
+        "url": "https://theeagleonline.com.ng/omo-agege-attack-makinde-campaign-accuses-apc-of-political-violence/",
+        "sources": 1,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
@@ -534,8 +336,8 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/11/omo-agege-attack-makinde-campaign-accuses-apc-of-political-violence/",
-        "sources": 6,
+        "url": "https://theeagleonline.com.ng/omo-agege-attack-makinde-campaign-accuses-apc-of-political-violence/",
+        "sources": 4,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
@@ -552,314 +354,8 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.vanguardngr.com/2026/11/omo-agege-attack-makinde-campaign-accuses-apc-of-political-violence/",
+        "url": "https://theeagleonline.com.ng/omo-agege-attack-makinde-campaign-accuses-apc-of-political-violence/",
         "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.53333,
-        "lat": 9.08333,
-        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 5,
-        "color": [
-            244,
-            67,
-            54,
-            235
-        ],
-        "radius": 100000,
-        "url": "https://punchng.com/why-tinubu-returned-from-exile-after-abachas-death-omatseye/",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.0381,
-        "lat": 5.50591,
-        "location_name": "Uduere, Delta, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/regional/south-south-regional/927725-ndc-boycotts-igps-security-meeting-over-attacks-on-members.html",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.60063,
-        "lat": 12.9894,
-        "location_name": "Katsina, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.premiumtimesng.com/regional/nwest/927711-katsina-orders-probe-into-tourists-sexual-assault-allegation-against-emir-suspends-his-official-engagements.html",
-        "sources": 3,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 23.5,
-        "lat": 13.5,
-        "location_name": "Darfur, Gharb Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.dabangasudan.org/en/all-news/article/khartoum-drone-attacks-draw-chorus-of-intl-condemnation",
-        "sources": 4,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 24.8534,
-        "lat": 13.3267,
-        "location_name": "Dabanga, Shamal Darfur, Sudan",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.dabangasudan.org/en/all-news/article/khartoum-drone-attacks-draw-chorus-of-intl-condemnation",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.0,
-        "lat": 8.0,
-        "location_name": "Middle Belt, Nigeria (general), Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://naija247news.com/editorial-nigeria-needs-a-us-military-security-partnership-as-domestic-security-architecture-fails-the-north/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.5,
-        "lat": 12.25,
-        "location_name": "Katsina State, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://punchng.com/sexual-assault-allegation-katsina-suspends-daura-emir-orders-probe/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.5,
-        "lat": 12.25,
-        "location_name": "Katsina State, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://punchng.com/sexual-assault-allegation-katsina-suspends-daura-emir-orders-probe/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": -0.216667,
-        "lat": 5.55,
-        "location_name": "Accra, Greater Accra, Ghana",
-        "category": "Faible : Tension Politique",
-        "criticite_score": 3,
-        "color": [
-            251,
-            192,
-            45,
-            140
-        ],
-        "radius": 60000,
-        "url": "https://allafrica.com/stories/202611240550.html",
-        "sources": 8,
-        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 6.0,
-        "lat": 5.5,
-        "location_name": "Delta State, Delta, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://leadership.ng/ndc-boycotts-igps-security-over-alleged-escalating-violence-against-members/",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.0,
-        "lat": 10.0,
-        "location_name": "Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.premiumtimesng.com/news/top-news/927687-abia-govt-alleges-plot-to-destroy-tinubus-campaign-billboards.html",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 2.11667,
-        "lat": 13.5167,
-        "location_name": "Niamey, Niamey, Niger",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-        "sources": 2,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 2.11667,
-        "lat": 13.5167,
-        "location_name": "Niamey, Niamey, Niger",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-        "sources": 14,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": -4.02806,
-        "lat": 5.34111,
-        "location_name": "Abidjan, Lagunes, Cote D'ivoire",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/641-tsx-venture/spx/215330-stellar-africagold-zuenoula-gold-project-cote-d-ivoire-auger-drilling-to-resume-new-exploration-targets-identified.html",
-        "sources": 10,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.4943,
-        "lat": 6.4402,
-        "location_name": "Enugu, Enugu, Nigeria",
-        "category": "Majeur : Affrontement Arm\u00e9",
-        "criticite_score": 5,
-        "color": [
-            211,
-            47,
-            47,
-            220
-        ],
-        "radius": 100000,
-        "url": "https://www.opinionnigeria.com/no-ballot-is-worth-a-drop-of-blood-by-lanre-toluhi/",
-        "sources": 8,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 7.60063,
-        "lat": 12.9894,
-        "location_name": "Katsina, Katsina, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.opinionnigeria.com/no-ballot-is-worth-a-drop-of-blood-by-lanre-toluhi/",
-        "sources": 1,
-        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
-        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
-    },
-    {
-        "lon": 8.322,
-        "lat": 4.9517,
-        "location_name": "Calabar, Cross River, Nigeria",
-        "category": "Critique : Incident S\u00e9curitaire",
-        "criticite_score": 4,
-        "color": [
-            244,
-            67,
-            54,
-            200
-        ],
-        "radius": 80000,
-        "url": "https://www.opinionnigeria.com/no-ballot-is-worth-a-drop-of-blood-by-lanre-toluhi/",
-        "sources": 1,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
@@ -876,15 +372,69 @@
             200
         ],
         "radius": 80000,
-        "url": "https://www.opinionnigeria.com/the-renewed-wave-of-politically-motivated-attacks-and-abuse-of-royal-traditional-stool-by-some-nigerian-monarchs-oluwo-of-iwo-and-emir-of-daura-by-prince-samuel-adesegun-egunjobi/",
-        "sources": 9,
+        "url": "https://dailypost.ng/2026/11/25/nigerian-newspapers-10-things-you-need-to-know-wednesday-morning-1795584772653/",
+        "sources": 4,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
     {
-        "lon": 6.73385,
-        "lat": 6.20064,
-        "location_name": "Asaba, Delta, Nigeria",
+        "lon": -2.0,
+        "lat": 8.0,
+        "location_name": "Ghana",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.abc.net.au/news/2026-11-25/qld-schoolies-grievous-bodily-harm-bashing-court/107424536",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250024.html",
+        "sources": 4,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://allafrica.com/stories/202611250024.html",
+        "sources": 6,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.00743,
+        "lat": 5.48986,
+        "location_name": "Ughelli, Delta, Nigeria",
         "category": "Majeur : Affrontement Arm\u00e9",
         "criticite_score": 5,
         "color": [
@@ -894,8 +444,44 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.opinionnigeria.com/no-ballot-is-worth-a-drop-of-blood-by-lanre-toluhi/",
-        "sources": 10,
+        "url": "https://www.vanguardngr.com/2026/11/police-invite-omo-agege-egbo-others-for-questioning-over-killings-in-delta/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.0381,
+        "lat": 5.50591,
+        "location_name": "Uduere, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/police-invite-omo-agege-egbo-others-for-questioning-over-killings-in-delta/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.0381,
+        "lat": 5.50591,
+        "location_name": "Uduere, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/police-invite-omo-agege-egbo-others-for-questioning-over-killings-in-delta/",
+        "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     },
@@ -912,7 +498,1375 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.nigerianeye.com/2026/11/i-dont-care-which-party-they-belong-to.html",
+        "url": "https://www.vanguardngr.com/2026/11/police-invite-omo-agege-egbo-others-for-questioning-over-killings-in-delta/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.0381,
+        "lat": 5.50591,
+        "location_name": "Uduere, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/police-invite-omo-agege-egbo-others-for-questioning-over-killings-in-delta/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.0381,
+        "lat": 5.50591,
+        "location_name": "Uduere, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/police-invite-omo-agege-egbo-others-for-questioning-over-killings-in-delta/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.58333,
+        "lat": 7.0,
+        "location_name": "Ogun State, Ogun, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.5,
+        "lat": 7.5,
+        "location_name": "Osun State, Osun, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.03041,
+        "lat": 5.48333,
+        "location_name": "Owerri, Imo, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.5,
+        "lat": 7.5,
+        "location_name": "Osun State, Osun, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.16667,
+        "lat": 8.25,
+        "location_name": "Ikoyi, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.16667,
+        "lat": 8.25,
+        "location_name": "Ikoyi, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.58333,
+        "lat": 7.0,
+        "location_name": "Ogun State, Ogun, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.58333,
+        "lat": 7.0,
+        "location_name": "Ogun State, Ogun, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            255
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 8,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.33748,
+        "lat": 6.59422,
+        "location_name": "Ikeja, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.16667,
+        "lat": 8.25,
+        "location_name": "Ikoyi, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.78845,
+        "lat": 6.14543,
+        "location_name": "Onitsha, Anambra, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.0,
+        "lat": 5.5,
+        "location_name": "Delta State, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 5.25,
+        "lat": 7.66667,
+        "location_name": "Ekiti State, Ekiti, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.5,
+        "lat": 7.5,
+        "location_name": "Osun State, Osun, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.58333,
+        "lat": 7.0,
+        "location_name": "Ogun State, Ogun, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.16667,
+        "lat": 8.25,
+        "location_name": "Ikoyi, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.89639,
+        "lat": 7.38778,
+        "location_name": "Ibadan, Oyo, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 8,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.5,
+        "lat": 7.5,
+        "location_name": "Osun State, Osun, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.78845,
+        "lat": 6.14543,
+        "location_name": "Onitsha, Anambra, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.78845,
+        "lat": 6.14543,
+        "location_name": "Onitsha, Anambra, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.16667,
+        "lat": 8.25,
+        "location_name": "Ikoyi, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.5,
+        "lat": 7.5,
+        "location_name": "Osun State, Osun, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.vanguardngr.com/2026/11/political-violence-dying-for-nothing-as-a-nigerian-politician/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": -2.0,
+        "lat": 8.0,
+        "location_name": "Ghana",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.dailymirror.lk/breaking-news/Zimbabwean-Pastor-Uebert-Angel-arrested-over-sexual-assault/107-355573",
+        "sources": 9,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 5,
+        "color": [
+            244,
+            67,
+            54,
+            235
+        ],
+        "radius": 100000,
+        "url": "https://pmnewsnigeria.com/2026/11/25/i-g-tasks-political-leaders-with-responsibility-for-supporters-conduct/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.36667,
+        "lat": 7.38333,
+        "location_name": "Onikan, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://pmnewsnigeria.com/2026/11/24/nine-declared-wanted-over-ammunition-parcel-sent-to-first-bank-md/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 18.5833,
+        "lat": 4.36667,
+        "location_name": "Bangui, Bangui, Central African Republic",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://www.cubaheadlines.com/articles/346544",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": -2.0,
+        "lat": 8.0,
+        "location_name": "Ghana",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": -2.0,
+        "lat": 8.0,
+        "location_name": "Ghana",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.vanguardngr.com/2026/11/police-declare-9-wanted-over-parcel-of-bullets-sent-to-first-bank-md/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 12.0,
+        "lat": 6.0,
+        "location_name": "Cameroon",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.kpbs.org/news/living/2026/11/24/what-it-took-for-5-californians-to-pull-themselves-out-of-homelessness",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 10.1582,
+        "lat": 5.95265,
+        "location_name": "Bamenda, Nord-Ouest, Cameroon",
+        "category": "Faible : Tension Politique",
+        "criticite_score": 3,
+        "color": [
+            251,
+            192,
+            45,
+            140
+        ],
+        "radius": 60000,
+        "url": "https://www.africanews.com/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-at-norway-war-crimes-trial/",
+        "sources": 2,
+        "reliability": "\u00c9lev\u00e9e (M\u00e9dia de R\u00e9f\u00e9rence) \ud83d\udfe2",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.kpbs.org/news/living/2026/11/24/what-it-took-for-5-californians-to-pull-themselves-out-of-homelessness",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/idevaw-2026-end-violence-against-women/",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            255
+        ],
+        "radius": 100000,
+        "url": "https://thebftonline.com/article/stanbic-bank-donates-massey-ferguson-tractor-for-2026-national-farmers-day",
+        "sources": 30,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Mod\u00e9r\u00e9 : Mouvement Social",
+        "criticite_score": 3,
+        "color": [
+            255,
+            152,
+            0,
+            195
+        ],
+        "radius": 60000,
+        "url": "https://punchng.com/fg-job-freeze-empower-private-sector-led-jobs/",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 30.0,
+        "lat": -2.0,
+        "location_name": "Rwanda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.dailymail.com/news/article-16318479/Nearly-half-Labours-supporters-think-party-handled-immigration-badly-saying-handled-badly-well.html",
+        "sources": 10,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.5,
+        "lat": 7.5,
+        "location_name": "Osun State, Osun, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/nans-uniosun-clash-over-arrest-arraignment-of-three-students/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 30.0,
+        "lat": -2.0,
+        "location_name": "Rwanda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.dailymail.com/news/article-16318479/Nearly-half-Labours-supporters-think-party-handled-immigration-badly-saying-handled-badly-well.html",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 30.0,
+        "lat": -2.0,
+        "location_name": "Rwanda",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://www.dailymail.com/news/article-16318479/Nearly-half-Labours-supporters-think-party-handled-immigration-badly-saying-handled-badly-well.html",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.5,
+        "lat": 7.5,
+        "location_name": "Osun State, Osun, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/nans-uniosun-clash-over-arrest-arraignment-of-three-students/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 4.5,
+        "lat": 7.5,
+        "location_name": "Osun State, Osun, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/nans-uniosun-clash-over-arrest-arraignment-of-three-students/",
+        "sources": 6,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.0,
+        "lat": 5.5,
+        "location_name": "Delta State, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.0,
+        "lat": 5.5,
+        "location_name": "Delta State, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.53333,
+        "lat": 9.08333,
+        "location_name": "Abuja, Abuja Federal Capital Territory, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 5,
+        "color": [
+            244,
+            67,
+            54,
+            235
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/tinubu-risked-political-future-to-return-from-exile/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 9.18884,
+        "lat": 12.4364,
+        "location_name": "Garki, Jigawa, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 9.18884,
+        "lat": 12.4364,
+        "location_name": "Garki, Jigawa, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.5,
+        "lat": 5.75,
+        "location_name": "Cross River State, Cross River, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.5,
+        "lat": 12.25,
+        "location_name": "Katsina State, Katsina, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/daura-emir-suspended-faces-sexual-assault-probe/",
+        "sources": 3,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.0,
+        "lat": 10.0,
+        "location_name": "Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/foundation-raises-alarm-over-youths-role-in-gender-violence/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.51667,
+        "lat": 8.31667,
+        "location_name": "Benue, Nigeria (general), Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.322,
+        "lat": 4.9517,
+        "location_name": "Calabar, Cross River, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 8.322,
+        "lat": 4.9517,
+        "location_name": "Calabar, Cross River, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.39583,
+        "lat": 6.45306,
+        "location_name": "Lagos, Lagos, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/nin-for-domestic-flights-sparks-privacy-access-concerns/",
+        "sources": 5,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 5.25,
+        "lat": 7.66667,
+        "location_name": "Ekiti State, Ekiti, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.5,
+        "lat": 12.25,
+        "location_name": "Katsina State, Katsina, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/daura-emir-suspended-faces-sexual-assault-probe/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.5,
+        "lat": 12.25,
+        "location_name": "Katsina State, Katsina, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/daura-emir-suspended-faces-sexual-assault-probe/",
+        "sources": 1,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.5,
+        "lat": 12.25,
+        "location_name": "Katsina State, Katsina, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/daura-emir-suspended-faces-sexual-assault-probe/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 7.5,
+        "lat": 12.25,
+        "location_name": "Katsina State, Katsina, Nigeria",
+        "category": "Critique : Incident S\u00e9curitaire",
+        "criticite_score": 4,
+        "color": [
+            244,
+            67,
+            54,
+            200
+        ],
+        "radius": 80000,
+        "url": "https://punchng.com/daura-emir-suspended-faces-sexual-assault-probe/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.0381,
+        "lat": 5.50591,
+        "location_name": "Uduere, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.0,
+        "lat": 5.5,
+        "location_name": "Delta State, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 2,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 6.0,
+        "lat": 5.5,
+        "location_name": "Delta State, Delta, Nigeria",
+        "category": "Majeur : Affrontement Arm\u00e9",
+        "criticite_score": 5,
+        "color": [
+            211,
+            47,
+            47,
+            220
+        ],
+        "radius": 100000,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
         "sources": 2,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
@@ -930,8 +1884,26 @@
             220
         ],
         "radius": 100000,
-        "url": "https://www.nigerianeye.com/2026/11/i-dont-care-which-party-they-belong-to.html",
-        "sources": 8,
+        "url": "https://punchng.com/2027-election-delta-killings-heighten-fears-of-poll-violence/",
+        "sources": 4,
+        "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
+        "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
+    },
+    {
+        "lon": 3.33333,
+        "lat": 6.58333,
+        "location_name": "Ikeja Airport, Lagos, Nigeria",
+        "category": "Mod\u00e9r\u00e9 : Mouvement Social",
+        "criticite_score": 3,
+        "color": [
+            255,
+            152,
+            0,
+            195
+        ],
+        "radius": 60000,
+        "url": "https://punchng.com/nama-pensioners-protest-today-over-20-year-arrears/",
+        "sources": 6,
         "reliability": "Standard (\u00c0 corroborer) \ud83d\udfe1",
         "verification_status": "\ud83d\udce1 Signal M\u00e9dia Sp\u00e9culatif"
     }
