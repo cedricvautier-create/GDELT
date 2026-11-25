@@ -1,5 +1,424 @@
 [
     {
+        "id": "4240043",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique d\u00e9mocratique du Congo : Epid\u00e9mie d\u2019Ebola et facteurs contextuels - provinces de Ituri, Nord-Kivu, Sud-Kivu, Tshopo, Haut-Uele, Bas-Uele, Nord-Ubangi et Sud-Ubangi - 20 Novembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240043",
+            "date": {
+                "original": "2026-11-25T00:00:00+00:00",
+                "changed": "2026-11-25T20:16:24+00:00",
+                "created": "2026-11-25T20:14:03+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240043"
+    },
+    {
+        "id": "4240042",
+        "score": 1,
+        "fields": {
+            "title": "Cameroon Cholera Outbreak: Situation Report #8 (November 25, 2026)",
+            "body": "**FAST FACTS**\n\n- 462 suspected cholera cases and four deaths (0.87% CFR) were recorded in Minawao Refugee Camp between July 24 and October 17, with zero new cases for 29 consecutive days as of November 15.\n- Minawao hosts more than 81,000 refugees\u2014more than triple its intended capacity (325%)\u2014resulting in an attack rate of 570 cases per 100,000 inhabitants.\n- Across Cameroon\u2019s Far North Region, 3,038 cases (15% in Minawao) and 86 deaths (2.83% case-fatality rate) were recorded across 18 health districts as of November 9, with the last regional case reported on October 28.\n- Though active cholera transmission inside Minawao has stopped, the wider regional outbreak has not yet been declared over. Overcrowding, cross-border mobility and unresolved water and sanitation gaps sustain the risk of reintroduction into the camp.\n\n**OUR RESPONSE**\n\n- Operating in Minawao Refugee Camp since 2013, International Medical Corps launched an emergency cholera response within 24 hours of the initial alert on July 24, supporting the Mokolo Health District with pre-positioned contingency stocks.\n- We expanded the camp\u2019s existing 15-bed treatment unit to 100 beds using temporary overflow tents and 37 clinical and support staff.\n- We trained, equipped and supervised 90 refugee community health workers (CHWs) across all camp blocks, who conducted 140,000+ household visits, traced 3,400+ contacts, and disinfected 8,000+ households and community spaces.\n- Deployed all 90 CHWs as volunteer vaccinators\u2014helping to reach 75,444 people (92.6% coverage)\u2014and documented operational lessons to strengthen readiness for future outbreaks.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2019",
+                    "id": 2019,
+                    "name": "International Medical Corps",
+                    "shortname": "IMC",
+                    "longname": "International Medical Corps",
+                    "homepage": "https://internationalmedicalcorps.org/",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240042",
+            "date": {
+                "original": "2026-11-25T00:00:00+00:00",
+                "changed": "2026-11-25T19:49:37+00:00",
+                "created": "2026-11-25T19:48:55+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240042"
+    },
+    {
+        "id": "4240022",
+        "score": 1,
+        "fields": {
+            "title": "Democratic Republic of the Congo, Kenya, Nigeria, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 25/11/2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/620",
+                    "id": 620,
+                    "name": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
+                    "shortname": "ECHO",
+                    "longname": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
+                    "spanish_name": "Direcci\u00f3n General de Protecci\u00f3n Civil y Operaciones de Ayuda Humanitaria Europeas",
+                    "homepage": "https://civil-protection-humanitarian-aid.ec.europa.eu/index_en",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240022",
+            "date": {
+                "original": "2026-11-25T00:00:00+00:00",
+                "changed": "2026-11-25T16:17:07+00:00",
+                "created": "2026-11-25T16:17:38+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240022"
+    },
+    {
+        "id": "4239998",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique centrafricaine : Aper\u00e7u des incidents ayant affect\u00e9 les travailleurs humanitaires (octobre 2026)",
+            "body": "Depuis janvier 2026, 96 incidents ont affect\u00e9 les travailleurs humanitaires en R\u00e9publique centrafricaine. En octobre, 12 incidents ont \u00e9t\u00e9 signal\u00e9s, contre 14 en septembre, soit une baisse de 14 %.\n\nParmi les incidents enregistr\u00e9s en octobre, six \u00e9taient de nature criminelle, dont trois cas de vol, deux braquages, et une agression. Pour la premi\u00e8re fois en 2026, un acteur humanitaire a \u00e9t\u00e9 tu\u00e9 lors d\u2019un incident impliquant des individus arm\u00e9s. Cinq autres incidents \u00e9taient li\u00e9s \u00e0 des restrictions, notamment, interdiction de circuler, demande de papier, arrestation, taxation et manifestation contre une ONG.\n\nLa sous-pr\u00e9fecture de Birao a \u00e9t\u00e9 la plus touch\u00e9e avec quatre incidents, suivi de Bangui avec trois incidents. Les sous-pr\u00e9fectures de Bocaranga, Bossangoa, Alindao et Obo ont chacune enregistr\u00e9 un incident. Les ONG internationales ont \u00e9t\u00e9 les plus affect\u00e9es, avec huit incidents recens\u00e9s, suivies des agences des Nations Unies et les ONG nationales qui ont deux incidents chacune.\n\nDepuis janvier 2026, la pr\u00e9fecture de la Vakaga demeure la plus affect\u00e9e avec 24 incidents\n\nenregistr\u00e9s, suivie de Bangui avec 21 incidents et du Haut-Mbomou avec 17 incidents.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239998",
+            "date": {
+                "original": "2026-11-25T00:00:00+00:00",
+                "changed": "2026-11-25T14:51:31+00:00",
+                "created": "2026-11-25T14:49:37+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239998"
+    },
+    {
+        "id": "4239997",
+        "score": 1,
+        "fields": {
+            "title": "Central African Republic: Overview of incidents affecting humanitarian workers (october 2026)",
+            "body": "Since January 2026, 96 incidents have affected humanitarian workers in the Central African Republic. In October, 12 incidents were reported, compared to 14 in September, a decrease of 14 percent.\n\nOut of 12 incidents recorded in October, six were criminal in nature, including three cases of theft, two robberies and one assault. For the first time in 2026, a humanitarian worker was killed in an incident involving armed individuals. Five other incidents involved restrictions including movement restrictions, requests for documentation, arrest, taxation, and a protest targeting an NGO.\n\nThe Birao sub-prefecture was the most affected with four incidents, followed by Bangui with three incidents. The sub-prefectures of Bocaranga, Bossangoa, Alindao and Obo each recorded one incident. International NGOs were the most affected, with eight incidents recorded, followed by UN agencies and national NGOs with two incidents each.\n\nSince January 2026, the Vakaga prefecture remains the most affected, with 24 incidents recorded, followed by Bangui with 21 incidents and Haut-Mbomou with 17 incidents.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239997",
+            "date": {
+                "original": "2026-11-25T00:00:00+00:00",
+                "changed": "2026-11-25T14:48:18+00:00",
+                "created": "2026-11-25T14:46:38+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239997"
+    },
+    {
+        "id": "4239966",
+        "score": 1,
+        "fields": {
+            "title": "Casi 6 de cada 10 mujeres y ni\u00f1as adolescentes encuestadas denuncian un aumento de la violencia y los abusos en Ituri, provincia afectada por el \u00e9bola",
+            "body": "**KINSHASA/BUNIA/NUEVA YORK, 24 de noviembre de 2026** \u2013 Casi 6 de cada 10 mujeres y ni\u00f1as adolescentes de 15 a\u00f1os o m\u00e1s encuestadas en Ituri, en la Rep\u00fablica Democr\u00e1tica del Congo, se\u00f1alaron la aparici\u00f3n o el aumento de la violencia y los abusos en sus vidas desde que comenz\u00f3 el brote de \u00e9bola.\n\nLos resultados, obtenidos a partir del primer estudio de seguimiento en tiempo real de la violencia contra las mujeres y las ni\u00f1as durante el brote de una enfermedad contagiosa \u2013realizado por UNICEF en colaboraci\u00f3n con SOFEPADI, una organizaci\u00f3n dirigida por mujeres, y la Universidad de Washington en San Luis\u2013 revelan la manera en que el brote est\u00e1 afectando a la seguridad de las mujeres y las adolescentes en sus hogares y comunidades.\n\n\u201cLas mujeres y las ni\u00f1as se enfrentan a una creciente amenaza de violencia y abuso que se suma al brote de una enfermedad mortal y al conflicto que persiste en el este de la Rep\u00fablica Democr\u00e1tica del Congo\u201d, afirm\u00f3 Catherine Russell, Directora Ejecutiva de UNICEF. \u201cCon demasiada frecuencia, en las zonas m\u00e1s afectadas no existen espacios de protecci\u00f3n fuera del hogar a los que puedan acceder de forma segura\u201d.\n\nCon base en 1.062 entrevistas con mujeres y adolescentes entre el 28 de agosto y el 15 de octubre, los resultados apuntan a la aparici\u00f3n o al aumento de al menos una forma de violencia o abuso. M\u00e1s de una tercera parte de las encuestadas denunciaron un control cada vez mayor sobre los lugares adonde pod\u00edan ir, su dinero y sus tel\u00e9fonos, as\u00ed como un aumento de los abusos emocionales y psicol\u00f3gicos y de la violencia f\u00edsica y sexual.\n\nSeg\u00fan los hallazgos, 7 de cada 10 encuestadas afirmaron que en su hogar se hab\u00eda aplicado al menos una medida de respuesta en materia de salud p\u00fablica, como el aislamiento, la cuarentena o el rastreo de contactos. Entre quienes se\u00f1alaron un aumento de la violencia y los abusos, 9 de cada 10 consideraron que el estr\u00e9s y el miedo asociados al brote hab\u00edan contribuido a dicho incremento.\n\nCasi la mitad de las mujeres y las adolescentes que intentaron acceder a servicios de atenci\u00f3n y apoyo no pudieron hacerlo. Los trabajadores de primera l\u00ednea informaron de que algunas mujeres y ni\u00f1as limitaban sus desplazamientos para evitar contagiarse, mientras que en otros casos eran miembros de la familia u otras personas quienes las obligaban a quedarse encerradas en casa. Algunos de los establecimientos y servicios de los que antes depend\u00edan han cerrado o han sido destinados a otros fines. Las encuestadas tambi\u00e9n citaron la verg\u00fcenza, el miedo al agresor y la desconfianza.\n\nLa demanda de los espacios seguros que permanecen abiertos y siguen siendo accesibles para las mujeres y las ni\u00f1as afectadas por la violencia o en riesgo de sufrirla sigue aumentando. Por ejemplo, las visitas a ocho espacios seguros gestionados por SOFEPADI en Ituri aumentaron un 200%, al pasar de 1.183 entre enero y marzo a 3.548 entre julio y septiembre.\n\nEn otra encuesta de UNICEF dirigida a unos 11.500 j\u00f3venes de Ituri a trav\u00e9s de U-Report, la plataforma digital de UNICEF para que los y las j\u00f3venes compartan sus perspectivas sobre las cuestiones que les afectan, casi la mitad de las personas encuestadas afirmaron que el riesgo de sufrir violencia era mayor para las mujeres y las ni\u00f1as desde que comenz\u00f3 el brote. La violencia f\u00edsica y sexual fueron las preocupaciones m\u00e1s citadas.\n\nLas mujeres y las ni\u00f1as corren m\u00e1s riesgo de contraer la enfermedad. El cuidado de familiares enfermos, la preparaci\u00f3n del entierro de sus seres queridos y las frecuentes visitas a centros de salud (en muchos casos, para llevar a ni\u00f1os y ni\u00f1as enfermos) tambi\u00e9n incrementan el riesgo de infecci\u00f3n. Todo ello se suma a una situaci\u00f3n que ya era fr\u00e1gil, despu\u00e9s de a\u00f1os de conflicto y desplazamientos que hab\u00edan expuesto a las mujeres y las ni\u00f1as a niveles alarmantes de violencia de g\u00e9nero mucho antes de que empezara el brote. Ahora, muchas denuncian a\u00fan m\u00e1s violencia en sus hogares y en sus comunidades.\n\nDesde que comenz\u00f3 el brote, UNICEF y sus aliados han atendido a m\u00e1s de 3.300 supervivientes de violencia de g\u00e9nero en Ituri y en Kivu del Norte y han brindado apoyo psicosocial y para la salud mental a casi 175.000 personas entre junio y octubre. Pero la protecci\u00f3n de los ni\u00f1os y ni\u00f1as y las mujeres, incluidos los servicios de atenci\u00f3n a la violencia de g\u00e9nero, sigue siendo uno de los \u00e1mbitos de respuesta con menor financiaci\u00f3n, con un d\u00e9ficit del 76%.\n\nLos resultados del seguimiento se est\u00e1n poniendo a disposici\u00f3n de los coordinadores de la respuesta al \u00e9bola para que puedan fundamentar la toma de decisiones, mientras UNICEF mantiene su llamamiento a las autoridades gubernamentales, los aliados de respuesta y los donantes para garantizar los siguientes puntos:\n\n- Hacer de la seguridad de las mujeres y las ni\u00f1as un indicador fundamental de una respuesta eficaz al \u00e9bola. Trabajar con organizaciones locales de mujeres para detectar a tiempo los riesgos emergentes, actuar y evitar poner a las mujeres y las ni\u00f1as en peligro o impedir que reciban ayuda.\n- Asegurar que los servicios destinados a las mujeres y las ni\u00f1as est\u00e9n disponibles, sean accesibles y reciban financiaci\u00f3n suficiente durante todo el brote, as\u00ed como establecer nuevos servicios en las zonas m\u00e1s afectadas por el \u00e9bola. A medida que aumentan los riesgos y crece la demanda de apoyo, es fundamental que los servicios de atenci\u00f3n a la violencia de g\u00e9nero \u2013incluidos los espacios seguros\u2013 tengan capacidad para responder.\n- Incorporar el seguimiento de la violencia a la respuesta al actual brote de \u00e9bola y convertirlo en un componente de la preparaci\u00f3n y la respuesta ante futuras emergencias de salud p\u00fablica. Las organizaciones de mujeres deben formar parte oficialmente de los mecanismos de vigilancia, y deben establecerse salvaguardias que garanticen la confidencialidad y la seguridad. El seguimiento debe comenzar desde el inicio de cualquier brote.\n\n\u201cNo hay justificaci\u00f3n para la violencia y los abusos contra mujeres y ni\u00f1as\u201d, afirm\u00f3 Russell. \u201cSu protecci\u00f3n debe formar parte de la respuesta al \u00e9bola, y para ello debemos tener en cuenta sus experiencias. Eso incluye priorizar la prevenci\u00f3n y los servicios destinados a las supervivientes\u201d, asegur\u00f3 Russell.\n\n**Citas de aliados**\n\n\u201cDesde que comenz\u00f3 el brote, cada vez m\u00e1s mujeres y ni\u00f1as acuden a nuestros espacios seguros con la esperanza de ser escuchadas y recibir apoyo y protecci\u00f3n, sin miedo ni estigma. Los espacios seguros deben permanecer abiertos y recibir los recursos necesarios durante toda la respuesta. El seguimiento y el apoyo deber\u00edan extenderse a otras zonas de riesgo\u201d, dijo Sandrine Lusamba, Coordinadora Nacional de SOFEPADI.\n\n\u201cCuando las mujeres explican por qu\u00e9 la violencia ha comenzado o se ha agravado, muchas mencionan el miedo y la tensi\u00f3n que este brote ha llevado a sus hogares. Esas presiones pueden anticiparse. Si se mantiene el funcionamiento de los servicios existentes, se crean otros nuevos y se escucha a las mujeres a medida que se desarrolla la respuesta, se podr\u00e1 evitar que esa presi\u00f3n se convierta en da\u00f1o\u201d, dijo la Dra. Lindsay Stark, Codirectora del Centro de Violencia y Salud de la Escuela de Salud P\u00fablica Bursky, Universidad de Washington en San Luis.\n\n\\#####",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1979",
+                    "id": 1979,
+                    "name": "UN Children's Fund",
+                    "shortname": "UNICEF",
+                    "longname": "United Nations Children's Fund",
+                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                    "homepage": "https://www.unicef.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239966",
+            "date": {
+                "original": "2026-11-25T00:00:00+00:00",
+                "changed": "2026-11-25T13:42:32+00:00",
+                "created": "2026-11-25T13:03:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239966"
+    },
+    {
+        "id": "4239965",
+        "score": 1,
+        "fields": {
+            "title": "Gavi signe un accord avec le Serum Institute of India afin de garantir un acc\u00e8s rapide aux vaccins contre le virus Ebola Bundibugyo",
+            "body": "- ## L\u2019engagement d\u2019achat anticip\u00e9 de Gavi garantit l\u2019acc\u00e8s jusqu\u2019\u00e0 1,5 million de doses de ChAdOx1 BDBV, un vaccin candidat contre le virus Ebola Bundibugyo d\u00e9velopp\u00e9 conjointement par le Serum Institute of India et l\u2019Oxford Vaccine Group de l\u2019Universit\u00e9 d\u2019Oxford\n- ## Cet accord est financ\u00e9 par le Fonds de premi\u00e8re riposte de Gavi, l\u2019approvisionnement restant subordonn\u00e9 aux r\u00e9sultats des essais cliniques, ainsi qu\u2019\u00e0 l\u2019obtention par le vaccin candidat des autorisations r\u00e9glementaires n\u00e9cessaires et des recommandations politiques\n- ## La Dre Sania Nishtar, directrice ex\u00e9cutive de Gavi : *\u00ab Pour la deuxi\u00e8me urgence de sant\u00e9 publique de port\u00e9e internationale depuis sa cr\u00e9ation, le Fonds de premi\u00e8re riposte fonctionne comme pr\u00e9vu : il garantit un acc\u00e8s pr\u00e9coce et rapide aux vaccins, afin que les communaut\u00e9s puissent \u00eatre prot\u00e9g\u00e9es au plus vite. \u00bb*\n\n**Gen\u00e8ve, le 24 novembre 2026** \u2013 Gavi, l\u2019Alliance du Vaccin a annonc\u00e9 aujourd\u2019hui avoir sign\u00e9 un engagement d\u2019achat anticip\u00e9 avec le Serum Institute of India (SII) et Serum Life Sciences afin de garantir l\u2019acc\u00e8s jusqu\u2019\u00e0 1,5 million de doses de ChAdOx1 BDBV, un vaccin candidat contre la souche Bundibugyo du virus Ebola. Ces doses, financ\u00e9es par le [Fonds de premi\u00e8re riposte](https://www.gavi.org/fr/actualites/media-room/gavi-sengage-verser-50-millions-de-dollars-us-pour-des-vaccins-contre)\\* de Gavi, pourraient \u00eatre achet\u00e9es si les essais cliniques donnaient des r\u00e9sultats concluants, si les autorisations r\u00e9glementaires \u00e9taient obtenues et si des recommandations politiques appropri\u00e9es \u00e9taient formul\u00e9es en faveur de l\u2019utilisation du vaccin.\n\n\u00ab Pour la deuxi\u00e8me urgence de sant\u00e9 publique de port\u00e9e internationale depuis sa cr\u00e9ation, le Fonds de premi\u00e8re riposte fonctionne comme pr\u00e9vu : il garantit un acc\u00e8s pr\u00e9coce et rapide aux vaccins, afin que les communaut\u00e9s puissent \u00eatre prot\u00e9g\u00e9es au plus vite \u00bb, a d\u00e9clar\u00e9 la **Dre Sania Nishtar, Directrice ex\u00e9cutive de Gavi, l\u2019Alliance du Vaccin.** \u00ab Alors que l\u2019\u00e9pid\u00e9mie d\u2019Ebola continue de ravager des communaut\u00e9s en R\u00e9publique d\u00e9mocratique du Congo, nous devons agir de toute urgence pour veiller \u00e0 ce que les proc\u00e9dures r\u00e9glementaires soient en place, afin qu\u2019il soit possible de mettre rapidement sur le march\u00e9 ce vaccin candidat si les essais cliniques donnent des r\u00e9sultats positifs. C\u2019est essentiel pour sauver des vies et garantir la s\u00e9curit\u00e9 de toutes et tous. \u00bb\n\n\u00c0 ce jour, l\u2019\u00e9pid\u00e9mie actuelle d\u2019Ebola a engendr\u00e9 plus de 11 600 cas et caus\u00e9 plus de 5 700 d\u00e9c\u00e8s, dont la grande majorit\u00e9 en R\u00e9publique d\u00e9mocratique du Congo. Le ChAdOx1 BDBV est l\u2019un des deux nouveaux vaccins candidats contre le virus Ebola Bundibugyo que l\u2019Organisation mondiale de la Sant\u00e9 (OMS) a recommand\u00e9s pour des essais cliniques dans le cadre de l\u2019\u00e9pid\u00e9mie actuelle.\n\nSi, \u00e0 l\u2019issue des essais cliniques, le vaccin candidat obtient les autorisations r\u00e9glementaires n\u00e9cessaires et les recommandations du Groupe strat\u00e9gique consultatif d\u2019experts sur la vaccination de l\u2019OMS, l\u2019engagement d\u2019achat anticip\u00e9 de Gavi permettra de mettre rapidement ces doses \u00e0 la disposition des populations touch\u00e9es. Le SII a d\u00e9j\u00e0 produit la substance active n\u00e9cessaire \u00e0 la fabrication de plus d\u2019un demi-million de doses du vaccin candidat afin d\u2019en faciliter l\u2019acc\u00e8s rapide.\n\n**Adar Poonawalla, PDG du Serum Institute of India**, a d\u00e9clar\u00e9 : \u00ab Une riposte efficace aux \u00e9pid\u00e9mies exige la capacit\u00e9 d\u2019agir rapidement, la pr\u00e9paration et la collaboration mondiale jouant un r\u00f4le essentiel pour garantir un acc\u00e8s rapide aux vaccins. Gr\u00e2ce \u00e0 notre accord avec Gavi, nous franchissons une \u00e9tape importante pour veiller \u00e0 ce que les stocks de vaccins puissent \u00eatre mobilis\u00e9s sans d\u00e9lai. En collaborant avec l\u2019Oxford Vaccine Group et l\u2019Universit\u00e9 d\u2019Oxford pour le d\u00e9veloppement du vaccin contre Ebola, nous nous engageons \u00e0 garantir aux communaut\u00e9s touch\u00e9es l\u2019acc\u00e8s aux vaccins, renfor\u00e7ant ainsi la r\u00e9ponse mondiale aux \u00e9pid\u00e9mies caus\u00e9es par la souche Bundibugyo du virus Ebola. \u00bb\n\nL\u2019annonce d\u2019aujourd\u2019hui s\u2019inscrit dans le cadre du [soutien global apport\u00e9 par Gavi \u00e0 la lutte contre l\u2019\u00e9pid\u00e9mie actuelle d\u2019Ebola](https://www.gavi.org/fr/actualites/media-room/gavi-engage-verser-financement-supplementaire-pour-lutte-contre-ebola). Jusqu\u2019\u00e0 40 millions de dollars US provenant du m\u00e9canisme du Fonds de premi\u00e8re riposte ont \u00e9t\u00e9 allou\u00e9s pour soutenir des accords visant \u00e0 faciliter l\u2019acc\u00e8s aux vaccins, tels que cet engagement d\u2019achat anticip\u00e9. Le travail de Gavi en mati\u00e8re d\u2019acc\u00e8s aux vaccins est men\u00e9 en \u00e9troite collaboration avec la Coalition for Epidemic Preparedness Innovations (CEPI), ainsi qu\u2019avec les Centres africains de contr\u00f4le et de pr\u00e9vention des maladies (Africa CDC), l\u2019Organisation mondiale de la Sant\u00e9 (OMS), l\u2019UNICEF et d\u2019autres partenaires.\n\nUne enveloppe suppl\u00e9mentaire de 10 millions de dollars US provenant du Fonds de premi\u00e8re riposte \u2013 dont 6 millions de dollars US ont d\u00e9j\u00e0 \u00e9t\u00e9 engag\u00e9s ou d\u00e9caiss\u00e9s \u00e0 la R\u00e9publique d\u00e9mocratique du Congo, \u00e0 l\u2019Ouganda, aux Centres africains de contr\u00f4le et de pr\u00e9vention des maladies, \u00e0 l\u2019OMS et \u00e0 l\u2019UNICEF \u2013 contribue \u00e0 pr\u00e9server les services de vaccination syst\u00e9matique dans les communaut\u00e9s touch\u00e9es et \u00e0 prot\u00e9ger les agentes et agents de sant\u00e9 en premi\u00e8re ligne. Ervebo, un vaccin contre le virus Ebola d\u00e9j\u00e0 existant et autoris\u00e9 pour lutter contre la souche Za\u00efre du virus, est \u00e9galement utilis\u00e9 dans le cadre de protocoles de recherche clinique. Gavi a d\u00e9bloqu\u00e9 un investissement suppl\u00e9mentaire de 7 millions de dollars US afin de fournir 70 000 doses du vaccin Ervebo d\u00e9j\u00e0 disponible, provenant de la r\u00e9serve mondiale financ\u00e9e par Gavi. Ces doses sont actuellement administr\u00e9es aux populations touch\u00e9es en R\u00e9publique d\u00e9mocratique du Congo dans le cadre des protocoles d\u2019usage compassionnel d\u2019urgence de l\u2019OMS.\n\n**Notes aux r\u00e9dacteurs**\n\n*\\* Le **Fonds de premi\u00e8re riposte** existe gr\u00e2ce aux gouvernements qui ont investi dans cet \u00e9l\u00e9ment d\u00e9terminant de la capacit\u00e9 de Gavi \u00e0 faire face aux \u00e9pid\u00e9mies et aux pand\u00e9mies. Gavi tient \u00e0 saluer le soutien essentiel apport\u00e9 par **les \u00c9tats-Unis, le Japon, l\u2019Italie, l\u2019Allemagne, la Norv\u00e8ge et la France,** dont les engagements ont permis d\u2019assurer le financement int\u00e9gral du Fonds de premi\u00e8re riposte de Gavi, d\u2019un montant de 500 millions de dollars US.*\n\n*Le Fonds de premi\u00e8re riposte a \u00e9galement \u00e9t\u00e9 mobilis\u00e9 pour permettre une r\u00e9ponse rapide \u00e0 l'urgence li\u00e9e \u00e0 la mpox en 2024. Pour en savoir plus,* [*cliquez ici*](https://reliefweb.int/fr/actualites/media-room/gavi-livre-plus-importante-expedition-rdc-soutien-riposte-mpox).\n\n**\u00c0 propos de Gavi, l\u2019Alliance du Vaccin**\n\nGavi, l\u2019Alliance du Vaccin est un partenariat public-priv\u00e9 qui aide \u00e0 vacciner plus de la moiti\u00e9 des enfants de la plan\u00e8te contre certaines des maladies les plus meurtri\u00e8res. L\u2019Alliance du Vaccin rassemble les gouvernements des pays donateurs et des pays b\u00e9n\u00e9ficiaires, l\u2019Organisation mondiale de la Sant\u00e9, l\u2019UNICEF, la Banque mondiale, l\u2019industrie du vaccin, les agences techniques, la soci\u00e9t\u00e9 civile, la Fondation Gates ainsi que d\u2019autres partenaires du secteur priv\u00e9. Pour consulter la liste compl\u00e8te des gouvernements donateurs et des autres grandes organisations qui financent le travail de Gavi, veuillez cliquer [ici](https://reliefweb.int/fr/investissez-dans-gavi/financement/profils-des-donateurs).\n\nDepuis sa cr\u00e9ation en 2000, Gavi a aid\u00e9 \u00e0 vacciner une g\u00e9n\u00e9ration tout enti\u00e8re \u2013 soit plus de 1,3 milliard d'enfants \u2013 et \u00e0 pr\u00e9venir \u00e0 terme plus de 23 millions de d\u00e9c\u00e8s, ce qui a permis de r\u00e9duire de moiti\u00e9 la mortalit\u00e9 infantile dans 78 pays \u00e0 faible revenu. Gavi joue \u00e9galement un r\u00f4le essentiel dans l'am\u00e9lioration de la s\u00e9curit\u00e9 sanitaire mondiale en soutenant les syst\u00e8mes de sant\u00e9 et en finan\u00e7ant les stocks mondiaux de vaccins contre la maladie \u00e0 virus Ebola, le chol\u00e9ra, la m\u00e9ningite, le mpox et la fi\u00e8vre jaune. Apr\u00e8s plus de deux d\u00e9cennies de progr\u00e8s, Gavi s'attache d\u00e9sormais \u00e0 prot\u00e9ger la nouvelle g\u00e9n\u00e9ration et surtout \u00e0 atteindre les enfants z\u00e9ro dose qui n'ont re\u00e7u aucune dose de vaccin. L'Alliance du Vaccin recourt \u00e0 des m\u00e9canismes financiers innovants et aux technologies de pointe \u2013 allant de l'utilisation de drones \u00e0 la biom\u00e9trie \u2013 pour sauver des vies, pr\u00e9venir les \u00e9pid\u00e9mies avant qu'elles ne se propagent et aider les pays \u00e0 atteindre l'autosuffisance. En savoir plus sur [www.gavi.org.fr](https://reliefweb.int/fr/homepage) et suivez-nous sur [Bluesky](https://bsky.app/profile/gavi.org), [Facebook](https://www.facebook.com/GAVI/), [Instagram](https://www.instagram.com/gavialliance/), [LinkedIn](https://www.linkedin.com/company/Gavi/), [TikTok](https://www.tiktok.com/@gavialliance), [X](https://twitter.com/gavi_fr) et [YouTube](https://www.youtube.com/@Gavi).",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/3611",
+                    "id": 3611,
+                    "name": "GAVI Alliance",
+                    "shortname": "GAVI",
+                    "homepage": "http://www.gavi.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239965",
+            "date": {
+                "original": "2026-11-25T00:00:00+00:00",
+                "changed": "2026-11-25T13:06:06+00:00",
+                "created": "2026-11-25T13:03:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239965"
+    },
+    {
+        "id": "4239961",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique D\u00e9mocratique du Congo - \u00c9pid\u00e9mie de maladie \u00e0 virus Ebola - Aper\u00e7u de la situation, semaine 47 - \u00e0 la date du 22 novembre 2026",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1503",
+                    "id": 1503,
+                    "name": "UN Office for the Coordination of Humanitarian Affairs",
+                    "shortname": "OCHA",
+                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
+                    "homepage": "https://www.unocha.org/",
+                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239961",
+            "date": {
+                "original": "2026-11-25T00:00:00+00:00",
+                "changed": "2026-11-25T12:45:29+00:00",
+                "created": "2026-11-25T12:33:06+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239961"
+    },
+    {
+        "id": "4239920",
+        "score": 1,
+        "fields": {
+            "title": "Vougba-Balifondo: Residents as Key Players in Sustainable Regional Development",
+            "body": "Located 50 kilometers from Bangassou, ACTED and IMPACT are helping local residents bring about tangible changes in daily life in the town of Vougba-Balifondo, thanks to financial support from the Crisis and Support Center (CDCS). Working closely with residents and local stakeholders, the two organizations are implementing an ambitious development plan to provide the town with vital infrastructure. Thanks to this joint effort and the community\u2019s involvement, new classrooms are being built, the local health center is being fully renovated, and sturdy bridges are being constructed to permanently improve access to the area.\n\nThese initiatives are part of the Local Development Plan (LDP), developed using the AGORA methodology. Based on a territorial and participatory approach, this process places residents and local stakeholders at the heart of the planning process to design tailored and sustainably rooted solutions. Based on an in-depth assessment\u2014combining participatory mapping workshops, interviews with key informants, and analysis of local dynamics\u2014the expansion of this plan has made it possible to extend the work of Acted and IMPACT Initiatives, already underway in Sectors 1 and 2, to Sector 3 of Vougba-Balifondo. Through this project, the goal is to sustainably improve living conditions and local governance by strengthening access to essential services and building communities\u2019 resilience to crises.\n\n## Development designed by and for local communities\n\nCareful adaptation to the local context and the community\u2019s ongoing involvement form the methodological core of this initiative. Building on the actions carried out during the first phase of the project, IMPACT Initiatives conducted an in-depth territorial assessment of Sector 3. Through a participatory mapping exercise involving economic stakeholders, community representatives, and managers of basic social services, a detailed assessment of multisectoral needs was established, in strict alignment with the PDL\u2019s guidelines.\n\nThis collaborative process took shape during a participatory prioritization workshop. Organized by IMPACT with support from ACTED, this forum brought together key stakeholders\u2014local authorities, community leaders, and representatives of organizations in the municipality\u2014to analyze the results of the assessment, validate the territorial mapping, and define priorities for action.\n\nA rigorous process of review and technical consolidation made it possible to incorporate all sector-specific contributions (education, health, agriculture, livestock, and water resources) and ensure the document\u2019s alignment with the standards of the Ministry of Territorial Administration. This process culminated in a workshop for the technical and administrative validation of the PDL. Finalized, published, and printed by IMPACT, the plan now serves as an operational planning tool, fully endorsed and adopted by local authorities and communities.\n\n## Sustainable Infrastructure for Local Development\n\nThis rigorous co-planning process made it possible to finalize the list of priority infrastructure projects and ensure their implementation for the direct benefit of local communities. The project facilitated the construction of a school building in Mbalazim\u00e9, equipped with 72 desks and benches; the complete renovation of the Vougba health clinic, which is now equipped with beds and a waiting area; and the installation of functional latrines at the Yongassaba market.\n\nTo strengthen direct support for residents, ACTED hired them to carry out road construction and access improvement projects in exchange for wages. In total, 610 temporary jobs were created, providing workers with essential income to support their families while injecting liquidity into the local economy. Mobility is now facilitated by the construction of concrete bridges and the rehabilitation of roads, which improve access to basic social services.\n\nThrough these initiatives, ACTED is helping to sustainably improve residents\u2019 access to essential daily services, enhance mobility and accessibility, and create temporary economic opportunities for the communities of Vougba-Balifondo.\n\n## The Community: A Guarantee of Sustainability\n\nHowever, community involvement is not limited to identifying and building infrastructure: the long-term viability of the projects and the sustainability of the achievements depend above all on the active involvement and capacity-building of local stakeholders. To ensure rigorous monitoring of the PDL beyond the project\u2019s completion, local committees responsible for planning and monitoring project implementation (CLPS) have been fully integrated into the planning and management process. With inclusive representation, these committees receive practical training to ensure ongoing supervision of project implementation. At the same time, 367 residents were trained in the principles of citizen participation and justice, thereby fostering civic engagement and community ownership. This synergy between the involvement of institutional authorities and citizen engagement sustainably strengthens local governance and consolidates the future prospects of the municipality of Vougba-Balifondo.\n\nThe initiatives carried out in Vougba Balifondo demonstrate the ability of communities to transform their living environment and take charge of their own development, provided they have the right tools and support. By placing civic engagement and collaboration at the heart of these efforts, this approach paves the way for a more inclusive, resilient, and prosperous future for the entire region.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/823",
+                    "id": 823,
+                    "name": "Agency for Technical Cooperation and Development",
+                    "shortname": "ACTED",
+                    "longname": "Agency for Technical Cooperation and Development",
+                    "homepage": "https://www.acted.org/en",
+                    "type": {
+                        "id": 274,
+                        "name": "Non-governmental Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239920",
+            "date": {
+                "original": "2026-11-25T00:00:00+00:00",
+                "changed": "2026-11-25T11:26:47+00:00",
+                "created": "2026-11-25T10:03:11+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239920"
+    },
+    {
+        "id": "4239902",
+        "score": 1,
+        "fields": {
+            "title": "Bundibugyo Ebola virus | Continental preparedness and response plan: November 2026 - May 2027",
+            "body": "## **Executive summary**\n\nSince the Bundibugyo virus disease (BVD) outbreak was declared a Public Health Emergency of International Concern by the World Health Organization (WHO) and a Public Health Emergency of Continental Security by the Africa Centres for Disease Control and Prevention (Africa CDC) in May 2026 (1\u20133), it has evolved into the largest BVD epidemic ever recorded. The outbreak remains centred in the Democratic Republic of the Congo, where sustained transmission, high mortality, insecurity, displacement, intense population mobility and limited access to health care continue to drive transmission and complicate operations. As of 17 November 2026, the Democratic Republic of the Congo had reported 11 613 confirmed cases, including 5678 deaths (crude case fatality ratio: 48.9%), across 68 health zones in eight provinces. Of these, 48 health zones reported at least one new case in the preceding 21 days. Ituri and Nord-Kivu remain the most affected provinces, and Tshopo in Haut-U\u00e9l\u00e9 is the most recently affected health zone (4).\n\nTransmission remains concentrated in the Democratic Republic of the Congo, but the outbreak continues to pose a significant regional threat with cases reported in Uganda, France and most recently in Kenya and Nigeria. WHO assesses the risk as very high in the Democratic Republic of the Congo; high in Kenya and Nigeria, as well as in countries with substantial population connectivity to countries with community transmission or with moderate connectivity but low response capacity; low in countries with substantial connectivity but high response capacity; and low in all other countries. Uganda interrupted transmission and declared the end of its outbreak on 28 July 2026 (5), while an imported case detected in France was contained without further transmission. Kenya and Nigeria have started their respective 42-day countdown towards declaring the end of their outbreaks (4).\n\nDuring the first six months of implementation from June to November 2026, the continental preparedness and response plan (CPRP) provided a common framework for collective action by governments, Africa CDC, WHO and partners (6). A continental incident management support team (IMST), co-led by Africa CDC and WHO was established to strengthen strategic and operational alignment (7, 8). Treatment and isolation capacity in the Democratic Republic of the Congo expanded to more than 2000 beds, safe and dignified burial capacity more than doubled from 53 to 114 teams, field laboratories increased from 2 to 30 with more than 60 000 samples tested and a capacity exceeding 5000 tests per day, and community engagement reached more than 475 000 people. Alert investigation and contact follow-up also improved, and prevention of and response to sexual exploitation, abuse and harassment (PRSEAH) was mainstreamed across all aspects of the response working with partners. These gains demonstrate the value of coordinated action, while emphasizing the need to sustain and extend progress across newly affected and high-risk areas.\n\nThe outbreak remains in an acute phase and requires intensified action. A joint Africa CDC-WHO continental intra-action review highlighted persistent challenges in the response, including missed transmission chains, poor data quality, delayed reporting and care-seeking, pressure on clinical and laboratory capacity, variable acceptance of public health and social measures, persistent community mistrust, and continuing community deaths. Conflict, insecurity, humanitarian needs and restricted access compound these challenges, particularly in remote, displaced and underserved communities. Workforce shortages, inconsistent remuneration, financing gaps, supply-chain constraints and coordination bottlenecks continue to limit the timely scale-up of priority interventions. The absence of licensed vaccines and therapeutics specifically approved for BVD further increases reliance on community-centred action, early detection, quality clinical care, infection prevention and control (IPC), and safe and dignified burials.\n\nThis joint strategic plan was developed by Africa CDC and WHO drawing on epidemiological and operational evidence, including lessons from the first six months of the response. It covers November 2026\u2013May 2027 and provides a comprehensive framework for preparedness and response at continental, national, subnational and community levels. Its goal is to stop the BVD outbreak and protect communities.\n\nThe plan is anchored in six guiding principles: a community-centred approach; evidence-informed action; continuity of essential health services; a trained, protected and adequately supported health workforce; context-responsive humanitarian action; and coordination, solidarity and accountability, including accountability to populations served. It translates these principles into coordinated action across 15 technical pillars, underpinned by measures that aim to safeguard preparedness and response operations.\n\nThe next phase of the response will prioritize scaling-up five areas:\n\n\u2013 **Surveillance and case detection** to identify and interrupt transmission chains through stronger community-based surveillance, alert and case investigation, contact tracing, laboratory diagnostics and the rapid deployment of capacity to newly affected areas.\n\n\u2013 **Safe, accessible and scalable clinical care** by expanding and rebalancing treatment and isolation capacity to match needs; deploying trained personnel; strengthening referral pathways and access to essential medicines, supplies and equipment; and improving quality of care, including for vulnerable groups. Strengthening IPC and water, sanitation and hygiene (WASH), safe management of deaths and survivor follow-up will support safe, scalable care.\n\n\u2013 **Community protection** through community-centred, locally led action that strengthens community ownership, promotes early reporting and care-seeking, supports surveillance and contact tracing, strengthens continuity of essential health services, facilitates delivery of BVD Ebola vaccines, supports safe and dignified burials, case management, and addresses misinformation, fear and stigma through trusted local actors, while preventing sexual exploitation, abuse and harassment.\n\n\u2013 **Timely safe and dignified burials** through faster notification, investigation and safe management of community deaths; expanded and equipped burial-team capacity; and culturally appropriate engagement to improve access, community acceptance and protection of families, communities and response personnel.\n\n\u2013 **Protection of populations at heightened risk in humanitarian settings** by adapting surveillance, referral, clinical care and other essential interventions to conflict-affected, insecure, displaced, remote and hard-to-reach populations, while addressing access constraints, sustaining essential services and ensuring their protection from sexual exploitation, abuse and harassment risks.\n\nImplementation will be led by national governments through established response plans, contingency plans and incident management systems, with delivery decentralized to provincial, district, health-zone and community levels. At continental level, Africa CDC and WHO will jointly coordinate the response through the continental IMST, supporting and linking established national structures with regional, cross-border and global mechanisms. The approach is organized around one response team, one strategic preparedness and response plan, one budget, and one monitoring and evaluation framework. A common set of indicators and the *ONE M&E: Health Emergency Accountability Tracker (HEAT)* will support performance monitoring, course correction and accountability (9). The *BVD Coordinated Financial Tracking Mechanism* will track funding against the plan (10).\n\nEffective implementation will require flexible and sustained financial resources. The estimated resource requirement for implementation of the CPRP from November 2026 to May 2027 is US$ 1.576 billion, with an interquartile range of US$ 1.509\u20131.648 billion. This represents the estimated resources required across countries and implementing partners.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/50373",
+                    "id": 50373,
+                    "name": "Africa Centres for Disease Control and Prevention",
+                    "shortname": "Africa CDC",
+                    "longname": "Africa Centres for Disease Control and Prevention",
+                    "homepage": "https://africacdc.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4239902",
+            "date": {
+                "original": "2026-11-25T00:00:00+00:00",
+                "changed": "2026-11-25T09:52:13+00:00",
+                "created": "2026-11-25T08:18:13+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4239902"
+    },
+    {
         "id": "4239818",
         "score": 1,
         "fields": {
@@ -169,7 +588,7 @@
             "url": "https://reliefweb.int/node/4239781",
             "date": {
                 "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-25T02:34:23+00:00",
+                "changed": "2026-11-25T14:49:25+00:00",
                 "created": "2026-11-24T15:18:25+00:00"
             }
         },
@@ -210,7 +629,7 @@
             "url": "https://reliefweb.int/node/4239780",
             "date": {
                 "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-25T02:34:57+00:00",
+                "changed": "2026-11-25T14:53:34+00:00",
                 "created": "2026-11-24T15:16:34+00:00"
             }
         },
@@ -1316,416 +1735,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4239356"
-    },
-    {
-        "id": "4239309",
-        "score": 1,
-        "fields": {
-            "title": "Multi-country Bundibugyo Ebola Virus Disease Outbreak Situation Report No. 27 (9 - 15 November 2026)",
-            "body": "**IOM REGIONAL RESPONSE AT A GLANCE**\n\nDuring the reporting period (9\u201315 November 2026), IOM supported 3,729,851 traveller screenings, bringing the cumulative total to 79,831,882 screenings since the start of the outbreak. Thirty-nine alerts were identified through IOM-supported surveillance \u2013 28 in the Democratic Republic of the Congo (DRC), 1 in Uganda and 10 in the Central African Republic (CAR) \u2013 bringing the cumulative total to 1,034 alerts.\n\nAt IOM-supported points of entry (PoEs) and points of control (PoCs) in DRC, five deceased persons were intercepted and referred for sample collection and safe and dignified burial, bringing the cumulative total to 271. One confirmed Bundibugyo Ebola virus disease (BVD) case was reported in a displacement site, bringing the cumulative number of confirmed cases detected through IOM-supported surveillance to 73.\n\nIOM reached 3,073,123 people through risk communication and community engagement (RCCE) during the reporting period, bringing the cumulative reach to 68,933,505 people since the start of the outbreak.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239309",
-            "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-23T00:51:27+00:00",
-                "created": "2026-11-20T18:03:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239309"
-    },
-    {
-        "id": "4239288",
-        "score": 1,
-        "fields": {
-            "title": "Central African Republic: Situation Report No. 94, as of 17 November 2026",
-            "body": "**HIGHLIGHTS**\n\n- Despite a still volatile context, some humanitarian movements have resumed around Z\u00e9mio.\n- Infrastructure has been installed in Ouham-Pend\u00e9 to help prevent agro-pastoral conflicts and reduce tensions between herders and farmers.\n- 3,900 students received school kits in Kaga-Bandoro and M\u2019br\u00e8s.\n\n**GENERAL CONTEXT**\n\nHaut-Mbomou Prefecture \u2013 South-East\n\nThe security situation remains volatile in the Z\u00e9mio area, despite a relative improvement recently observed along certain roads around the town. In this context, humanitarian actors have gradually resumed some movements and activities in areas affected by movement restrictions that have been in place since September. A limited resumption of civilian movement has also been observed on the main road corridors, while staff from peripheral health facilities have been able to travel to Z\u00e9mio to replenish medical supplies. No incidents have recently been reported on these routes. A humanitarian organization also conducted movements along the Z\u00e9mio-Dembia axis to carry out assessments. Given the continuing volatility of the security environment, humanitarian partners are closely monitoring developments and maintaining existing security and risk-management measures.\n\n**HUMANITARIAN NEEDS AND RESPONSE**\n\n**Health**\n\nHaute-Kotto Prefecture \u2013 Central\n\nOn 11 November, the United Nations Population Fund (UNFPA) and its partner International Medical Corps (IMC) concluded their campaign providing comprehensive care for women living with obstetric fistula. A total of 33 patients received specialized treatment in Bria, with an 88 per cent success rate. 15 other patients faced transportation challenges in reaching Bria from Ndele in Bamingui-Bangoran Prefecture. To improve access to services in that area, a second two-week campaign is being conducted in Ndele from 12 to 26 November 2026.\n\n**Multi-sector**\n\nVakaga Prefecture \u2013 North-East\n\nOn 11 November, the NGO COHEB, under a labour-intensive work project implemented through the Emergency Project to Support the Stabilization and Recovery of Refugees and Host Communities in the Lake Chad Basin (PASRRC), distributed cash assistance to 400 beneficiaries, including 150 Sudanese refugees and 250 members of host communities. Through the cash-for-work approach, each beneficiary received 30,000 CFA francs to support livelihoods and meet priority household needs.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239288",
-            "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-23T02:21:28+00:00",
-                "created": "2026-11-20T15:14:28+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239288"
-    },
-    {
-        "id": "4239285",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique centrafricaine : Rapport de situation N\u00b0 94 au 17 novembre 2026",
-            "body": "**FAITS SAILLANTS**\n\n- Malgr\u00e9 un contexte toujours volatil, certains mouvements humanitaires ont repris autour de Z\u00e9mio.\n- Des infrastructures pour pr\u00e9venir les conflits agro-pastoraux et r\u00e9duire les tensions entre \u00e9leveurs et agriculteurs dans l\u2019Ouham-Pend\u00e9.\n- 3 900 \u00e9l\u00e8ves re\u00e7oivent des kits scolaires \u00e0 Kaga-Bandoro et M\u2019br\u00e8s.\n\n**CONTEXTE G\u00c9N\u00c9RAL**\n\nPr\u00e9fecture du Haut-Mbomou \u2013 Sud-Est\n\nLa situation s\u00e9curitaire demeure volatile dans la r\u00e9gion de Z\u00e9mio, malgr\u00e9 une accalmie relative observ\u00e9e r\u00e9cemment sur certains axes routiers autour de la ville. Dans ce contexte, les acteurs humanitaires ont progressivement repris certains d\u00e9placements et activit\u00e9s dans les zones affect\u00e9es par les restrictions de mouvement en vigueur depuis septembre dernier. Une reprise limit\u00e9e de la circulation des populations civiles a \u00e9galement \u00e9t\u00e9 observ\u00e9e sur les principaux axes concern\u00e9s, tandis que le personnel des formations sanitaires p\u00e9riph\u00e9riques a pu se rendre \u00e0 Z\u00e9mio pour s\u2019approvisionner en m\u00e9dicaments. Aucun incident n\u2019a \u00e9t\u00e9 rapport\u00e9 r\u00e9cemment sur ces itin\u00e9raires. Une organisation humanitaire a par ailleurs effectu\u00e9 des d\u00e9placements sur l\u2019axe Z\u00e9mio-Dembia afin de conduire des \u00e9valuations. Compte tenu de la volatilit\u00e9 persistante du contexte s\u00e9curitaire, les partenaires humanitaires continuent de suivre \u00e9troitement l\u2019\u00e9volution de la situation et maintiennent les mesures de gestion des risques et de s\u00e9curit\u00e9 en vigueur.\n\n**BESOINS ET R\u00c9PONSE HUMANITAIRE**\n\n**Sant\u00e9**\n\nPr\u00e9fecture de la Haute-Kotto \u2013 Centre\n\nLe 11 novembre 2026, le Fonds des Nations Unies pour la population (UNFPA) et son partenaire International Medical Corps (IMC) ont cl\u00f4tur\u00e9 leur campagne de prise en charge holistique des femmes vivant avec une fistule obst\u00e9tricale. Au total, 33 patientes ont b\u00e9n\u00e9fici\u00e9 de soins sp\u00e9cialis\u00e9s \u00e0 Bria, avec un taux de r\u00e9ussite de 88 %. 15 autres patientes ont \u00e9t\u00e9 confront\u00e9es \u00e0 des difficult\u00e9s de d\u00e9placement pour atteindre Bria depuis Ndele dans la pr\u00e9fecture du Bamingui-Bangoran. Afin d\u2019am\u00e9liorer l\u2019acc\u00e8s \u00e0 ces services dans cette pr\u00e9fecture, une seconde campagne de deux semaines a lieu \u00e0 Ndele du 12 au 26 novembre 2026.\n\n**Multisectoriel**\n\nPr\u00e9fecture de la Vakaga \u2013 Nord-Est\n\nLe 11 novembre 2026, l\u2019ONG COHEB, dans le cadre du projet de Travaux de haute intensit\u00e9 \u00e0 main d\u2019\u0153uvre (THIMO) mis en \u0153uvre \u00e0 travers le Programme d\u2019appui d\u2019urgence \u00e0 la stabilisation et au rel\u00e8vement des r\u00e9fugi\u00e9s et des communaut\u00e9s h\u00f4tes dans le bassin du Lac Tchad (PASRRC), a proc\u00e9d\u00e9 \u00e0 une distribution mon\u00e9taire au profit de 400 b\u00e9n\u00e9ficiaires, dont 150 r\u00e9fugi\u00e9s soudanais et 250 membres des communaut\u00e9s h\u00f4tes. A travers l\u2019approche \u00ab travail contre r\u00e9mun\u00e9ration \u00bb, chaque b\u00e9n\u00e9ficiaire a re\u00e7u une assistance en esp\u00e8ces de 30 000 FCFA, visant \u00e0 soutenir les moyens d\u2019existence et \u00e0 r\u00e9pondre aux besoins prioritaires des m\u00e9nages vuln\u00e9rables.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239285",
-            "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-23T02:12:47+00:00",
-                "created": "2026-11-20T15:10:07+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239285"
-    },
-    {
-        "id": "4239269",
-        "score": 1,
-        "fields": {
-            "title": "Africa: Key Partner Regional Offices Division (As of 17 November 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239269",
-            "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-24T12:19:59+00:00",
-                "created": "2026-11-20T13:40:27+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239269"
-    },
-    {
-        "id": "4239263",
-        "score": 1,
-        "fields": {
-            "title": "The Bundibugyo Ebola Outbreak in Africa: Six-Month Situation and Response Report",
-            "body": "## **Executive summary**\n\nThis report examines the Bundibugyo virus disease outbreak and the continental response from the declaration on 15 May 2026 to the evidence available for preparation of the six-month milestone on 15 November. It integrates pathogen and transmission knowledge, zoonotic origin and One Health, epidemiology, clinical care, operational performance, country experiences, research, financing, logistics, essential health services, social consequences and preparedness.\n\nThe principal finding is that substantial response capacity was mobilized, but persistent transmission and mortality indicate that this capacity did not consistently translate into sufficiently early detection, timely access to care, complete identification of transmission networks and reliable local service delivery in DRC. The introduction that began the outbreak also remains unexplained, so the risk of further spillover in the affected landscape persists independently of progress against human-to-human transmission.\n\n### **Key findings that should guide the next phase**\n\n**1. The burden remains overwhelmingly concentrated in the DRC.** Uganda, Kenya and Nigeria provide distinct experiences of managing cross-border or travel-associated infection. Their outcomes should be assessed against their own case histories and observation periods. France\u2019s imported case and medical evacuations to other countries belong in a separate international account so that the same patient is not counted twice.\n\n**2. Early growth was exceptional, but historical comparison requires matched definitions.** The early reported burden substantially exceeded burden observed during the comparable early periods of major 2014 and 2018 Ebola epidemics, although direct quantitative comparison is constrained by differences in case categories included, uncertainties in disease onset and official detection and declaration, ascertainment and observation intervals. Historical comparisons should therefore preserve the original case classifications and reporting periods.\n\n**3. Contact tracing misses most new cases:** Only 11% of confirmed cases (1,146 of 10,659 with onset from week 19 to week 45) came from the contact lists, against a target of 95%. The response found the other 89% outside those lists, which means many transmission links were identified too late to list and monitor the contacts. The daily contact follow-up \\[text continues beyond the visible page\\].\n\n### **Five headline numbers in the analytical snapshot**\n\nBy 8 November 2026, five countries had reported 11,021 confirmed cases and 5,358 deaths, a crude case-fatality ratio (CFR) of 48.6%.\n\nThe DRC carries almost all of this burden, with 10,990 cases and 5,354 deaths (CFR 48.7%). Uganda reported 20 cases and 2 deaths, Kenya 9 and 2, Nigeria 1 imported case and no deaths, and France 1 imported case and no deaths.\n\nIn the DRC, 67 health zones in eight provinces have reported at least one confirmed case, and 51 of 67 health zones reported a case in the last 21 days.\n\nNational notifications have held at about 460 to 480 confirmed cases a week since late September; the epidemic is a sustained plateau and not yet declining.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/50373",
-                    "id": 50373,
-                    "name": "Africa Centres for Disease Control and Prevention",
-                    "shortname": "Africa CDC",
-                    "longname": "Africa Centres for Disease Control and Prevention",
-                    "homepage": "https://africacdc.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239263",
-            "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-20T14:05:16+00:00",
-                "created": "2026-11-20T12:55:38+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239263"
-    },
-    {
-        "id": "4239232",
-        "score": 1,
-        "fields": {
-            "title": "Operational Update - Central African Republic - July - September 2026",
-            "body": "UNHCR's operations in the Central African Republic (CAR) are built on protection through presence, the cornerstone of the humanitarian response. Amid volatile security conditions and the spillover of the crisis in Sudan, UNHCR also remains ready to respond to emergencies. Durable solutions are another top priority supporting the voluntary, safe, and dignified return of Central African refugees, their sustainable reintegration, and their contribution to national development. Together with the Government of CAR and its partners, UNHCR provides protection and multisectoral assistance to internally displaced people (IDPs) and refugees, including Sudanese and Chadian refugees, while promoting durable solutions for Central Africans returning home. Its work is aligned with national priorities: the National Development Plan, the National Strategy for Durable Solutions and the Solutions Support Platform established under the 2022 Yaound\u00e9 Declaration.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239232",
-            "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-20T13:44:56+00:00",
-                "created": "2026-11-20T10:03:22+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239232"
-    },
-    {
-        "id": "4239231",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique Centrafricaine (RCA) Mise \u00e0 jour op\u00e9rationnelle Trimestrielle | Juillet - Septembre 2026",
-            "body": "Les op\u00e9rations du HCR en R\u00e9publique centrafricaine (RCA) reposent sur la protection par la pr\u00e9sence, pilier central de la r\u00e9ponse humanitaire. Dans un contexte marqu\u00e9 par la volatilit\u00e9 s\u00e9curitaire et les r\u00e9percussions de la crise soudanaise, le HCR reste \u00e9galement mobilis\u00e9 pour r\u00e9pondre aux urgences.\n\nLa recherche de solutions durables constitue une autre priorit\u00e9 majeure, notamment l\u2019appui au retour volontaire, s\u00fbr et digne des r\u00e9fugi\u00e9s centrafricains, ainsi qu\u2019\u00e0 leur r\u00e9int\u00e9gration durable et \u00e0 leur contribution au d\u00e9veloppement national.\n\nAux c\u00f4t\u00e9s du Gouvernement centrafricain et de ses partenaires, le HCR assure la protection et une assistance multisectorielle aux personnes d\u00e9plac\u00e9es internes (PDI) et aux r\u00e9fugi\u00e9s, notamment soudanais et tchadiens, tout en promouvant des solutions durables pour les Centrafricains de retour. Les interventions s\u2019alignent sur les priorit\u00e9s nationales : le Plan national de d\u00e9veloppement, la Strat\u00e9gie nationale pour les solutions durables et la Plateforme d\u2019appui aux solutions issue de la D\u00e9claration de Yaound\u00e9 de 2022.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/54",
-                "id": 54,
-                "name": "Central African Republic",
-                "shortname": "CAR",
-                "iso3": "caf",
-                "location": {
-                    "lat": 6.57,
-                    "lon": 20.48
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/2868",
-                    "id": 2868,
-                    "name": "UN High Commissioner for Refugees",
-                    "shortname": "UNHCR",
-                    "longname": "United Nations High Commissioner for Refugees",
-                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
-                    "homepage": "https://www.unhcr.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239231",
-            "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-20T14:40:15+00:00",
-                "created": "2026-11-20T10:03:11+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239231"
-    },
-    {
-        "id": "4239217",
-        "score": 1,
-        "fields": {
-            "title": "Chad : Humanitarian Situation in Lac Situation Report N\u00b0 02 (30 October 2026)",
-            "body": "*This report was produced by OCHA in collaboration with the authorities and humanitarian partners. It primarily covers the period from 1 to 30 October 2026 and incorporates findings from the July 2026 mid-term evaluation of the response to internally displaced persons (IDPs). The next report will be published at the end of November 2026.*\n\n**KEY POINTS**\n\n- 307,206 displaced people in the province according to IOM Round 26, including 268,064 IDPs, 17,100 returnees, and 22,042 former IDPs who have returned.\n- More than 75,000 IDPs have been hosted across 16 sites in the Fouli and Kaya departments since May 2026. New population movements continue to be reported and remain under verification.\n- An encouraging improvement in the cholera situation was observed between 13 and 26 October, followed by a resurgence of 12 new cases in Kiskawa. However, the case fatality rate remains high (5.78%), well above the WHO emergency threshold, requiring the need to strengthen prevention, surveillance, and WASH interventions.\n- The areas of Liwa, Kiskawa, Kadoulou, and Daboua are among those most exposed to security risks. This insecurity directly contributes to population displacement, loss of livelihoods, and reduced access to basic services.\n- Four incidents were reported in the departments of Fouli and Kaya, affecting several civilians and resulting in dozens of deaths as well as abductions, a toll that would have been even higher without the intervention of the defense and security forces.\n- Despite the scale of needs, the protection sector remains the least covered, with only 0.3% of targeted people assisted.\n- A concerning deterioration in livelihoods has been observed linked to low rainfall.\n- US$10.6 million has been mobilized through humanitarian emergency funding mechanisms, including CERF, the Regional Humanitarian Fund, and anticipatory action, to support the response.\n- Significant humanitarian needs remain unmet due to insufficient funding, particularly in protection, shelter and site management, education, health and nutrition, water, sanitation and hygiene (WASH), and food security.\n- The revitalization of the Grand Cadre Nexus and the review of convergence zones offer an opportunity to strengthen integrated investments by linking emergency response, access to essential services, social cohesion, and resilience.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/55",
-                "id": 55,
-                "name": "Chad",
-                "shortname": "Chad",
-                "iso3": "tcd",
-                "location": {
-                    "lat": 15.36,
-                    "lon": 18.66
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239217",
-            "date": {
-                "original": "2026-10-30T00:00:00+00:00",
-                "changed": "2026-11-20T13:27:11+00:00",
-                "created": "2026-11-20T08:49:00+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239217"
-    },
-    {
-        "id": "4239212",
-        "score": 1,
-        "fields": {
-            "title": "Cluster Protection RDC : Aper\u00e7u des violations et abus des droits humains dans la province du Nord-Kivu, octobre 2026",
-            "body": "*En octobre 2026, la situation de protection au Nord-Kivu est rest\u00e9e critique, marqu\u00e9e par une intensification des affrontements dans les territoires de Masisi, Walikale et Rutshuru. Cette situation se serait traduite par l\u2019usage d\u2019armes lourdes et de frappes de drone, des repr\u00e9sailles contre les civils ainsi que des d\u00e9placements forc\u00e9s.*\n\n**FAITS SAILLANTS DE LA P\u00c9RIODE**\n\n**Intensification des hostilit\u00e9s** : Des affrontements auraient oppos\u00e9 un groupe arm\u00e9 \u00e0 une coalition de groupes arm\u00e9s dans les territoires de Masisi et de Walikale, et des frappes de drone auraient vis\u00e9 Binza (Rutshuru).\n\n**D\u00e9placements forc\u00e9s** : Pr\u00e8s de 2 580 m\u00e9nages (environ 12 900 personnes) auraient \u00e9t\u00e9 d\u00e9plac\u00e9s, dont 546 \u00e0 Busanza (Rutshuru) et 450 \u00e0 Kasake (Masisi).\n\n**Engins explosifs** : Des projectiles tomb\u00e9s sur Kasake auraient fait 4 morts et 6 bless\u00e9s, et des engins explosifs largu\u00e9s sur Kangati auraient tu\u00e9 2 gar\u00e7ons.\n\n**Repr\u00e9sailles et riposte Ebola** : Des enl\u00e8vements contre ran\u00e7on accompagn\u00e9s de meurtres et des attaques de structures sanitaires \u00e0 Butembo et Beni auraient \u00e9t\u00e9 commis.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/8619",
-                    "id": 8619,
-                    "name": "Protection Cluster",
-                    "shortname": "Protection Cluster",
-                    "longname": "Protection Cluster",
-                    "homepage": "https://www.globalprotectioncluster.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239212",
-            "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-20T12:03:33+00:00",
-                "created": "2026-11-20T08:11:27+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239212"
-    },
-    {
-        "id": "4239194",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique D\u00e9mocratique du Congo - \u00c9pid\u00e9mie de maladie \u00e0 virus Ebola - Aper\u00e7u de la situation, semaine 46 - \u00e0 la date du 15 novembre 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239194",
-            "date": {
-                "original": "2026-11-20T00:00:00+00:00",
-                "changed": "2026-11-20T06:33:56+00:00",
-                "created": "2026-11-20T05:05:32+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239194"
     }
 ]
