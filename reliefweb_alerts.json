@@ -1,5 +1,439 @@
 [
     {
+        "id": "4240317",
+        "score": 1,
+        "fields": {
+            "title": "Nord-Ubangi - Pr\u00e9sence op\u00e9rationnelle des partenaires de la riposte \u00e0 Ebola Au 15 novembre 2026",
+            "body": "Au 15 novembre 2026, 6 organisations appuient le minist\u00e8re de la Sant\u00e9 dans la riposte \u00e0 la 17\u1d49 \u00e9pid\u00e9mie de maladie \u00e0 virus Ebola au Nord-Ubangi. La carte recense 3 agences des Nations Unies, 1 ONG internationale, 1 agence de l\u2019Union africaine et 1 observateur.\n\nSur les 11 zones de sant\u00e9 cartographi\u00e9es, 2 sont affect\u00e9es et repr\u00e9sent\u00e9es en rouge, Yakoma et Wapinda. Les 9 autres sont class\u00e9es \u00e0 risque. Les encadr\u00e9s de la carte r\u00e9pertorient 6 organisations \u00e0 Yakoma et 5 \u00e0 Wapinda. Africa CDC, l\u2019OMS, le PAM, IMA et MSF figurent dans les deux encadr\u00e9s. L\u2019UNICEF est mentionn\u00e9 \u00e0 Yakoma, o\u00f9 il appuie les relais communautaires.\n\nLes activit\u00e9s comprennent notamment la coordination, la surveillance \u00e9pid\u00e9miologique, la pr\u00e9vention et le contr\u00f4le des infections, l\u2019appui logistique, la prise en charge alimentaire et la continuit\u00e9 des services. La carte s\u2019appuie sur les donn\u00e9es 3W du Cluster Sant\u00e9 actualis\u00e9es au 15 novembre 2026.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240317",
+            "date": {
+                "original": "2026-11-27T00:00:00+00:00",
+                "changed": "2026-11-27T13:21:20+00:00",
+                "created": "2026-11-27T12:55:31+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240317"
+    },
+    {
+        "id": "4240313",
+        "score": 1,
+        "fields": {
+            "title": "Ituri \u2014 Pr\u00e9sence op\u00e9rationnelle des partenaires de la riposte \u00e0 Ebola Au 15 novembre 2026",
+            "body": "Au **15 novembre 2026**, la carte du Cluster Sant\u00e9 recense **57 organisations** qui appuient le minist\u00e8re de la Sant\u00e9 dans la riposte \u00e0 la 17\u1d49 \u00e9pid\u00e9mie de maladie \u00e0 virus Ebola en Ituri. Elle r\u00e9pertorie **26 ONG nationales, 23 ONG internationales, 5 agences des Nations Unies, 2 observateurs et 1 agence de l\u2019Union africaine**.\n\nLes zones de sant\u00e9 touch\u00e9es apparaissent en rouge et les zones \u00e0 risque en rose. Les cercles indiquent le nombre de partenaires par zone. **Bunia et Rwampara** en comptent chacune **plus de 10**. Aru, Mongbalu et Nyakunde en comptent chacune **de 5 \u00e0 10**, tandis que Mambasa, Mandima et Komanda en comptent chacune **de 2 \u00e0 4**.\n\nLes interventions couvrent la surveillance \u00e9pid\u00e9miologique, la mobilisation communautaire, la pr\u00e9vention et le contr\u00f4le des infections, la prise en charge et la continuit\u00e9 des services. La pr\u00e9sence des partenaires repose sur les donn\u00e9es 3W actualis\u00e9es au **15 Novembre 2026**.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240313",
+            "date": {
+                "original": "2026-11-27T00:00:00+00:00",
+                "changed": "2026-11-27T13:10:42+00:00",
+                "created": "2026-11-27T12:51:24+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240313"
+    },
+    {
+        "id": "4240312",
+        "score": 1,
+        "fields": {
+            "title": "Haut-U\u00e9l\u00e9 | Pr\u00e9sence op\u00e9rationnelle des partenaires de la riposte \u00e0 Ebola au 15 novembre 2026",
+            "body": "## Haut-U\u00e9l\u00e9 \u2014 Pr\u00e9sence op\u00e9rationnelle des partenaires de la riposte \u00e0 Ebola\n\nAu **15 novembre 2026**, la carte du Cluster Sant\u00e9 recense **7 organisations** qui appuient le minist\u00e8re de la Sant\u00e9 dans la riposte \u00e0 la 17\u1d49 \u00e9pid\u00e9mie de maladie \u00e0 virus Ebola (MVE) dans le Haut-U\u00e9l\u00e9. Elle d\u00e9nombre **2 agences des Nations Unies, 3 ONG internationales, 1 ONG nationale et 1 observateur**.\n\nLa carte pr\u00e9sente **13 zones de sant\u00e9**, dont **7 affect\u00e9es**, en rouge (Dungu, Gombari, Rungu, Isiro, Pawa, Boma Mangbetu et Wamba), et **6 \u00e0 risque**, en rose (Doruma, Niangara, Faradje, Aba, Makoro et Watsa). Isiro compte **5 partenaires** et Wamba en compte **4**. Rungu, Pawa et Boma Mangbetu comptent chacune **3 partenaires**, tandis que Dungu et Gombari en comptent chacune **1**.\n\nLes activit\u00e9s comprennent la coordination, la surveillance \u00e9pid\u00e9miologique, la pr\u00e9vention et le contr\u00f4le des infections, l\u2019appui aux laboratoires et la mobilisation communautaire. Les donn\u00e9es de pr\u00e9sence proviennent du suivi 3W du Cluster Sant\u00e9, actualis\u00e9 au 15 Novembre 2026.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240312",
+            "date": {
+                "original": "2026-11-27T00:00:00+00:00",
+                "changed": "2026-11-27T13:08:29+00:00",
+                "created": "2026-11-27T12:37:07+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240312"
+    },
+    {
+        "id": "4240308",
+        "score": 1,
+        "fields": {
+            "title": "Bas-U\u00e9l\u00e9 | Pr\u00e9sence op\u00e9rationnelle des partenaires de la riposte \u00e0 Ebola au 15 novembre 2026",
+            "body": "Au 15 novembre 2026, la carte du Cluster Sant\u00e9 recense 5 organisations qui appuient le plan du Syst\u00e8me de gestion des incidents (SGI) du minist\u00e8re de la Sant\u00e9 dans le Bas-U\u00e9l\u00e9, en R\u00e9publique d\u00e9mocratique du Congo. Cette mobilisation s\u2019inscrit dans la riposte \u00e0 la 17\u1d49 \u00e9pid\u00e9mie de maladie \u00e0 virus Ebola (MVE). Les organisations recens\u00e9es comprennent 2 agences des Nations Unies, 1 ONG internationale, 1 ONG nationale et 1 observateur.\n\nSur les 11 zones de sant\u00e9 cartographi\u00e9es, 3 sont signal\u00e9es comme affect\u00e9es par la MVE (Buta, Ganga et Viadana). Les 8 autres sont class\u00e9es \u00e0 risque. L\u2019OMS et Africa CDC figurent dans les 3 zones affect\u00e9es. M\u00e9decins Sans Fronti\u00e8res, la Croix-Rouge et l\u2019UNICEF sont \u00e9galement mentionn\u00e9s \u00e0 Buta et \u00e0 Viadana.\n\nLes interventions des partenaires couvrent notamment la coordination, la surveillance \u00e9pid\u00e9miologique, les activit\u00e9s de laboratoire, la prise en charge, la pr\u00e9vention et le contr\u00f4le des infections ainsi que l\u2019appui communautaire",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240308",
+            "date": {
+                "original": "2026-11-27T00:00:00+00:00",
+                "changed": "2026-11-27T13:02:35+00:00",
+                "created": "2026-11-27T12:25:29+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240308"
+    },
+    {
+        "id": "4240306",
+        "score": 1,
+        "fields": {
+            "title": "RDC: Pr\u00e9sence op\u00e9rationnelle des partenaires de la riposte \u00e0 Ebola au Sud-Ubangi",
+            "body": "Au 15 novembre 2026, la cartographie nationale 3W (\u00ab Qui fait quoi o\u00f9 ? \u00bb) du Cluster Sant\u00e9 de la R\u00e9publique d\u00e9mocratique du Congo recensait 6 partenaires en appui \u00e0 la riposte \u00e0 la maladie \u00e0 virus Ebola dans la province du Sud-Ubangi. Ces partenaires contribuent \u00e0 la mise en \u0153uvre du plan de riposte sous la coordination du minist\u00e8re de la Sant\u00e9",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240306",
+            "date": {
+                "original": "2026-11-27T00:00:00+00:00",
+                "changed": "2026-11-27T13:02:02+00:00",
+                "created": "2026-11-27T12:15:50+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240306"
+    },
+    {
+        "id": "4240301",
+        "score": 1,
+        "fields": {
+            "title": "WFP Cameroon Country Brief, November 2026",
+            "body": "- 140,008 people assisted in October 2026 (49% female)\n- 83 mt food distributed in September 2026\n- USD 460,370 cash transferred in October 2026 (excluding payment to some vendors under HGSF)\n- USD 33.9M required in the next six months (Nov 2026-Apr 2027)\n\n**KEY HIGHLIGHTS**\n\n\u2022 The Douala Logistics Corridor remains a critical food systems hub for the Lake Chad Basin countries. Between January and November 2026, WFP dispatched 39,896 mt of food through the Douala Corridor. Of this total, 32,767 mt supported operations in Chad and Sudan, accounting for 82 percent of all food dispatched.  \n\u2022 The Country Office commenced implementation of activities under the US Global Award in October. Beyond sustaining ongoing emergency response operations, the USD 18 million contribution has significantly strengthened WFP\u2019s humanitarian response by enabling the resumption of critical emergency food and nutrition assistance in the Northwest Region, where support had been suspended since March 2026 due to funding constraints.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/49",
+                "id": 49,
+                "name": "Cameroon",
+                "shortname": "Cameroon",
+                "iso3": "cmr",
+                "location": {
+                    "lat": 4.81,
+                    "lon": 12.21
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1741",
+                    "id": 1741,
+                    "name": "World Food Programme",
+                    "shortname": "WFP",
+                    "longname": "United Nations World Food Programme",
+                    "spanish_name": "Programa Mundial de Alimentos",
+                    "homepage": "https://www.wfp.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240301",
+            "date": {
+                "original": "2026-11-27T00:00:00+00:00",
+                "changed": "2026-11-27T13:01:12+00:00",
+                "created": "2026-11-27T11:51:22+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240301"
+    },
+    {
+        "id": "4240299",
+        "score": 1,
+        "fields": {
+            "title": "RDC \u2014 Pr\u00e9sence op\u00e9rationnelle des partenaires de la riposte \u00e0 Ebola au 15 novembre 2026",
+            "body": "Le Cluster Sant\u00e9 de la R\u00e9publique d\u00e9mocratique du Congo a recens\u00e9 111 organisations en appui \u00e0 la riposte \u00e0 la maladie \u00e0 virus Ebola, sous la coordination du minist\u00e8re de la Sant\u00e9. Actualis\u00e9e au 15 novembre 2026, cette cartographie s\u2019appuie sur les donn\u00e9es de l\u2019outil 3W (\u00ab Qui fait quoi o\u00f9 ? \u00bb) et pr\u00e9sente la r\u00e9partition g\u00e9ographique des partenaires ainsi que leurs domaines d\u2019intervention.\n\nL\u2019Ituri et le Nord-Kivu comptent chacun 57 partenaires, devant le Sud-Kivu (24) et la Tshopo (14). Les interventions couvrent notamment la surveillance \u00e9pid\u00e9miologique, la recherche active des cas et le suivi des contacts, la prise en charge des patients, la pr\u00e9vention et le contr\u00f4le des infections, la mobilisation communautaire et la continuit\u00e9 des services de sant\u00e9.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/15477",
+                    "id": 15477,
+                    "name": "Health Cluster",
+                    "shortname": "Health Cluster",
+                    "homepage": "https://healthcluster.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                },
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1275",
+                    "id": 1275,
+                    "name": "World Health Organization",
+                    "shortname": "WHO",
+                    "longname": "World Health Organization",
+                    "spanish_name": "Organizaci\u00f3n Mundial de la Salud",
+                    "homepage": "https://www.who.int/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240299",
+            "date": {
+                "original": "2026-11-27T00:00:00+00:00",
+                "changed": "2026-11-27T11:41:18+00:00",
+                "created": "2026-11-27T11:34:33+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240299"
+    },
+    {
+        "id": "4240291",
+        "score": 1,
+        "fields": {
+            "title": "Cluster Protection RDC : Points saillants de la situation de protection en R\u00e9publique d\u00e9mocratique du Congo du mois d'octobre 2026",
+            "body": "Au cours du mois d\u2019octobre 2026, la situation de protection en R\u00e9publique d\u00e9mocratique du Congo est rest\u00e9e fragile et volatile, particuli\u00e8rement dans l\u2019Est du pays, o\u00f9 la poursuite des affrontements arm\u00e9s, l\u2019activisme des groupes arm\u00e9s et les tensions s\u00e9curitaires ont continu\u00e9 d\u2019exposer les populations civiles \u00e0 de graves violations des droits humains. Malgr\u00e9 la poursuite des initiatives diplomatiques et des efforts de m\u00e9diation r\u00e9gionaux et internationaux, les dynamiques de conflit observ\u00e9es sur le terrain n\u2019ont montr\u00e9 que peu de signes d\u2019apaisement, notamment dans les provinces de l\u2019Ituri, du Nord-Kivu et du Sud-Kivu.\n\nL\u2019environnement de protection a \u00e9t\u00e9 marqu\u00e9 par des homicides, des enl\u00e8vements, des violences sexuelles, des violations graves des droits de l\u2019enfant, des pillages, des destructions de biens ainsi que des restrictions de mouvement affectant l\u2019acc\u00e8s des populations aux services essentiels et aux moyens de subsistance. Les personnes d\u00e9plac\u00e9es internes, les retourn\u00e9s, les femmes et les enfants demeurent parmi les cat\u00e9gories les plus expos\u00e9es.\n\nParall\u00e8lement, l\u2019\u00e9pid\u00e9mie de maladie \u00e0 virus Ebola, toujours active dans plusieurs provinces de l\u2019est, ainsi que les flamb\u00e9es de chol\u00e9ra signal\u00e9es notamment au Tanganyika et dans le Kwango, ont continu\u00e9 d\u2019accro\u00eetre les vuln\u00e9rabilit\u00e9s et l\u2019exposition aux risques de protection des populations d\u00e9j\u00e0 affect\u00e9es par l\u2019ins\u00e9curit\u00e9 et les d\u00e9placements.\n\nDans l\u2019ouest du pays, l\u2019activisme des groupes Mobondo, les diff\u00e9rends coutumiers et les tensions communautaires ont continu\u00e9 d\u2019alimenter les pr\u00e9occupations de protection dans les provinces du Ma\u00ef-Ndombe, du Kwilu, du Kwango et certaines zones de la ville-province de Kinshasa.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/8619",
+                    "id": 8619,
+                    "name": "Protection Cluster",
+                    "shortname": "Protection Cluster",
+                    "longname": "Protection Cluster",
+                    "homepage": "https://www.globalprotectioncluster.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240291",
+            "date": {
+                "original": "2026-11-27T00:00:00+00:00",
+                "changed": "2026-11-27T11:33:03+00:00",
+                "created": "2026-11-27T10:58:27+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240291"
+    },
+    {
+        "id": "4240288",
+        "score": 1,
+        "fields": {
+            "title": "RD Congo : une cinquantaine d\u2019enfants et adultes vuln\u00e9rables retrouvent leurs proches au bout de deux semaines de r\u00e9unifications familiales complexes.",
+            "body": "Entre mi-ao\u00fbt et d\u00e9but septembre 2026, les \u00e9quipes du Comit\u00e9 international de la Croix-Rouge (CICR) et celles de la Croix-Rouge de la RDC (CRRDC), ont r\u00e9unifi\u00e9 49 enfants non accompagn\u00e9s et plusieurs adultes vuln\u00e9rables avec leurs proches dans cinq provinces du pays. \u00c2g\u00e9s de neuf \u00e0 20 ans, ces enfants et adultes ont retrouv\u00e9 leurs proches dans plusieurs villes et villages du Tanganyika, du Haut-Katanga, du Haut-Lomami, du Kasa\u00ef-Oriental et du Nord-Kivu.\n\nCertains \u00e9taient s\u00e9par\u00e9s des leurs depuis des ann\u00e9es. Albert Mbuyi, charg\u00e9 du r\u00e9tablissement des liens familiaux au CICR \u00e0 Kinshasa, revient sur le travail de recherche, les d\u00e9fis rencontr\u00e9s par les \u00e9quipes et ce que repr\u00e9sentent ces retrouvailles.\n\n**Quelles difficult\u00e9s vos \u00e9quipes rencontrent-elles sur le terrain pour retrouver et r\u00e9unifier ces enfants avec leurs familles ?**  \nNous recueillons la majorit\u00e9 des informations aupr\u00e8s des enfants. Dans ce contexte, il n\u2019est pas toujours possible d\u2019obtenir des \u00e9l\u00e9ments suffisamment pr\u00e9cis ou fiables. Un nom incomplet, un village mal situ\u00e9 : cela peut retarder la localisation de leur famille.  \n\u00c0 cela s\u2019ajoute l\u2019ins\u00e9curit\u00e9 dans certaines zones o\u00f9 les conflits se poursuivent. De plus, \u00e9tant donn\u00e9 l\u2019\u00e9tat parfois difficile des routes dans notre pays, il s\u2019av\u00e8re compliqu\u00e9 d\u2019atteindre certaines localit\u00e9s pour mener les recherches ou retrouver des enfants d\u00e9j\u00e0 enregistr\u00e9s.\n\n  \n**Quels \u00e9v\u00e9nements ont conduit \u00e0 la s\u00e9paration de ces enfants avec leurs familles ?**  \nLa plupart ont \u00e9t\u00e9 s\u00e9par\u00e9s de leurs familles \u00e0 cause des conflits arm\u00e9s en cours dans les provinces du Kivu. Beaucoup de personnes d\u00e9plac\u00e9es se sont dirig\u00e9es vers l\u2019ex-Katanga et le Kasa\u00ef, et bien des enfants se sont retrouv\u00e9s sans leurs parents.  \nMais il y a aussi des dynamiques plus anciennes, comme les violences li\u00e9es aux groupes arm\u00e9s dans l\u2019ex-Katanga ou les tensions communautaires entre Twa et Bantous. Ils ont provoqu\u00e9 des s\u00e9parations qui datent de longtemps. Il s\u2019agit d\u2019enfants que nous avions d\u00e9j\u00e0 enregistr\u00e9s, mais dont les familles n\u2019avaient pas encore pu \u00eatre localis\u00e9es. Nous n\u2019avons jamais cess\u00e9 de continuer nos efforts pour les ramener enfin aupr\u00e8s des leurs, malgr\u00e9 la longue p\u00e9riode de s\u00e9paration.\n\n  \n**Pourquoi certaines familles restent-elles s\u00e9par\u00e9es, m\u00eame apr\u00e8s la fin ou l\u2019apaisement de certains conflits ?**  \nBeaucoup de cas sont enregistr\u00e9s pendant les conflits arm\u00e9s, mais la fin d\u2019un conflit, ce n\u2019est pas la fin du besoin de r\u00e9tablissement des liens familiaux. En effet, le droit des familles \u00e0 conna\u00eetre le sort de leurs proches perdure bien au-del\u00e0 de la fin du conflit. Et c\u2019est souvent apr\u00e8s la fin des hostilit\u00e9s actives que l\u2019on peut acc\u00e9der \u00e0 certaines zones, pour mener des recherches ou proc\u00e9der \u00e0 des r\u00e9unifications familiales. C\u2019est pourquoi nous continuons \u00e0 offrir les services de r\u00e9tablissement des liens familiaux bien apr\u00e8s la fin des affrontements, aux enfants comme aux autres personnes vuln\u00e9rables s\u00e9par\u00e9es de leurs proches.\n\n  \n**Quel est l\u2019impact de la s\u00e9paration familiale sur les enfants et quels types de soutien peuvent leur \u00eatre propos\u00e9s ?**   \nPendant la s\u00e9paration, certains enfants ont \u00e9t\u00e9 contraints de mendier ou d\u2019effectuer des travaux lourds, et n\u2019ont pas pu aller \u00e0 l\u2019\u00e9cole. Certains n'ont malheureusement pas b\u00e9n\u00e9fici\u00e9 de conditions d'accueil adapt\u00e9es \u00e0 leurs besoins. En raison de leur parcours tr\u00e8s difficile sur le plan \u00e9motionnel, certains enfants gardent une profonde tristesse. Quand certains souvenirs leur reviennent, leur comportement change. Lorsque les enfants avec ce type de probl\u00e8me sont identifi\u00e9s, nous les orientons, avec le support de nos coll\u00e8gues en charge du programme sant\u00e9 mentale et du soutien psychosocial, vers des structures sp\u00e9cialis\u00e9es pour une prise en charge.\n\n  \n**Face aux violences qui persistent dans l\u2019Est de la RDC, notamment dans les provinces de l\u2019Ituri, du Nord-Kivu et du Sud-Kivu, quelles sont aujourd\u2019hui les principales difficult\u00e9s pour vos \u00e9quipes ?**  \nLa grande difficult\u00e9, c\u2019est l\u2019acc\u00e8s. Les affrontements se poursuivent et, pour la s\u00e9curit\u00e9 de nos \u00e9quipes et de celles de la Croix-Rouge de la RDC, nous ne pouvons pas les envoyer partout pour ne pas les exposer au danger.  \nEn Ituri, le d\u00e9clenchement et la persistance de la 17e \u00e9pid\u00e9mie de maladie \u00e0 virus Ebola ont entra\u00een\u00e9 des restrictions sanitaires. Certaines zones doivent d\u2019abord \u00eatre d\u00e9clar\u00e9es sans risque de contamination avant que nous puissions y programmer des missions. C\u2019est un frein suppl\u00e9mentaire pour nos activit\u00e9s de r\u00e9tablissement et de maintien des liens familiaux.\n\n  \n**Y a-t-il encore des demandes de recherche en suspens ?**  \nOui. \u00c0 cause de ces difficult\u00e9s, certaines demandes sont mises en suspens. Pour d\u2019autres cas qui n\u2019ont pas encore abouti \u00e0 une r\u00e9unification, les recherches se poursuivent.  \nTant que les conflits arm\u00e9s se poursuivent, nous continuons \u00e0 recevoir de nouvelles demandes. Nous comptons en moyenne plus de 400 r\u00e9unifications par an. Si la situation s\u2019apaise, nous aurons plus facilement acc\u00e8s \u00e0 certaines zones et \u00e0 certaines familles.\n\n  \n**Apr\u00e8s une r\u00e9unification r\u00e9ussie, quel sentiment ressentez-vous, vous et vos \u00e9quipes ?**  \nC\u2019est un travail tr\u00e8s satisfaisant. Certains de ces enfants \u00e9taient presque d\u00e9sesp\u00e9r\u00e9s, ils pensaient que leur avenir \u00e9tait sombre. Quand ils rentrent en famille, nous avons le sentiment d\u2019une mission accomplie.  \nMais la plus grande satisfaction se lit du c\u00f4t\u00e9 des parents. Certains sont rest\u00e9s longtemps dans l\u2019incertitude. Apprendre que leur enfant est toujours en vie et qu\u2019il va rentrer, c\u2019est une joie difficile \u00e0 d\u00e9crire. Les remerciements ne tarissent pas envers ceux qui ram\u00e8nent les enfants, envers le CICR et la Croix-Rouge.\n\n## Le r\u00e9tablissement des liens familiaux en RDC en chiffres\n\nDepuis le d\u00e9but de l\u2019ann\u00e9e 2026, les activit\u00e9s du CICR et de la Croix-Rouge de la RDC ont permis de :  \n\u2022 R\u00e9unir **376** enfants et adultes vuln\u00e9rables avec leurs familles ;  \n\u2022 Recevoir **1 068** nouvelles demandes de recherche pour des proches disparus ;  \n\u2022 Faciliter **3 290** appels t\u00e9l\u00e9phoniques, collecter **17 833** Messages Croix-Rouge (MCR) et distribuer **13 248** MCR entre membres de familles s\u00e9par\u00e9es ;  \n\u2022 Enregistrer **611** enfants non accompagn\u00e9s ou s\u00e9par\u00e9s qui sont toujours en attente de r\u00e9unification.\n\n## \u00c0 propos du CICR Le Comit\u00e9 international de la Croix-Rouge (CICR) est une organisation impartiale, neutre et ind\u00e9pendante, dont la mission exclusivement humanitaire est de prot\u00e9ger la vie et la dignit\u00e9 des victimes de conflits arm\u00e9s et d\u2019autres situations\n\nLe Comit\u00e9 international de la Croix-Rouge (CICR) est une organisation impartiale, neutre et ind\u00e9pendante, dont la mission exclusivement humanitaire est de prot\u00e9ger la vie et la dignit\u00e9 des victimes de conflits arm\u00e9s et d\u2019autres situations de violence, et de leur porter assistance. Avec la Croix-Rouge de la RDC, le CICR aide les familles s\u00e9par\u00e9es par les conflits \u00e0 se retrouver, \u00e0 \u00e9changer des nouvelles et \u00e0 conna\u00eetre le sort de leurs proches disparus.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/75",
+                "id": 75,
+                "name": "Democratic Republic of the Congo",
+                "shortname": "DR Congo",
+                "iso3": "cod",
+                "location": {
+                    "lat": -4.03833,
+                    "lon": 21.7587
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/1048",
+                    "id": 1048,
+                    "name": "International Committee of the Red Cross",
+                    "shortname": "ICRC",
+                    "longname": "International Committee of the Red Cross",
+                    "spanish_name": "Comit\u00e9 Internacional de la Cruz Roja",
+                    "homepage": "https://www.icrc.org/",
+                    "type": {
+                        "id": 276,
+                        "name": "Red Cross/Red Crescent Movement"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240288",
+            "date": {
+                "original": "2026-11-27T00:00:00+00:00",
+                "changed": "2026-11-27T10:47:50+00:00",
+                "created": "2026-11-27T10:47:50+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240288"
+    },
+    {
         "id": "4240202",
         "score": 1,
         "fields": {
@@ -1387,371 +1821,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4239809"
-    },
-    {
-        "id": "4239781",
-        "score": 1,
-        "fields": {
-            "title": "R\u00e9publique d\u00e9mocratique du Congo : Tableau de bord humanitaire (P\u00e9riode de rapportage : ao\u00fbt 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239781",
-            "date": {
-                "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-25T23:46:34+00:00",
-                "created": "2026-11-24T15:18:25+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239781"
-    },
-    {
-        "id": "4239780",
-        "score": 1,
-        "fields": {
-            "title": "Democratic Republic of the Congo: Humanitarian Dashboard (August 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239780",
-            "date": {
-                "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-25T23:46:24+00:00",
-                "created": "2026-11-24T15:16:34+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239780"
-    },
-    {
-        "id": "4239753",
-        "score": 1,
-        "fields": {
-            "title": "Afrique de l\u2019Ouest et centrale : Derniers \u00e9v\u00e9nements en bref (17\u201323 novembre 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239753",
-            "date": {
-                "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-24T14:19:13+00:00",
-                "created": "2026-11-24T13:27:24+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239753"
-    },
-    {
-        "id": "4239751",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: Latest Events at a glance (17\u201323 November 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239751",
-            "date": {
-                "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-24T14:05:05+00:00",
-                "created": "2026-11-24T13:25:55+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239751"
-    },
-    {
-        "id": "4239740",
-        "score": 1,
-        "fields": {
-            "title": "Gavi signs agreement with Serum Institute of India to secure rapid access to Bundibugyo vaccines",
-            "body": "- ## Advance purchase commitment from Gavi secures access to up to 1.5 million doses of ChAdOx1 BDBV, a Bundibugyo candidate vaccine developed jointly by Serum Institute of India and the Oxford Vaccine Group at the University of Oxford\n- ## The agreement is funded through Gavi\u2019s First Response Fund, with supply remaining conditional on clinical trial results, as well as the candidate vaccine securing necessary regulatory approvals and policy recommendations\n- ## Dr Sania Nishtar, CEO of Gavi: *\u201cFor the second public health emergency of international concern since its launch, the First Response Fund is functioning as designed \u2013 securing early and rapid access to vaccines so that communities can be protected as quickly as possible.\u201d*\n\n**Geneva, 24 November 2026** \u2013 Gavi, the Vaccine Alliance today announced that it had signed an advance purchase commitment with the Serum Institute of India (SII) and Serum Life Sciences to secure access to up to 1.5 million doses of ChAdOx1 BDBV \u2013 a candidate vaccine against the Bundibugyo species of Ebolavirus. These doses, funded through Gavi\u2019s [First Response Fund](https://www.gavi.org/news/media-room/gavi-commits-us-50-million-bundibugyo-ebolavirus-vaccines-and-outbreak-response)\\* (FRF), would be procured in the event of successful clinical trial results, regulatory approvals, and appropriate policy recommendations for the vaccine\u2019s use.\n\n\u201cFor the second public health emergency of international concern since its launch, the First Response Fund is functioning as designed \u2013 securing early and rapid access to vaccines so that communities can be protected as quickly as possible,\u201d said **Dr Sania Nishtar, CEO of Gavi, the Vaccine Alliance.** \u201cAs the Ebola outbreak continues to devastate communities in the Democratic Republic of the Congo, we must act with urgency to ensure the regulatory pathways are in place to quickly roll out this vaccine candidate if the clinical trials show positive results. This is critical to saving lives and keeping the world safe.\u201d\n\nTo date, the current Ebola outbreak has resulted in more than 11,600 cases and more than 5,700 deaths \u2013 the vast majority in the Democratic Republic of the Congo. ChAdOx1 BDBV is one of two novel Bundibugyo vaccine candidates that WHO has recommended for clinical testing in the on-going outbreak.\n\nIn the event that the candidate vaccine secures the necessary regulatory approvals and WHO SAGE policy recommendations following its trials, Gavi\u2019s advance purchase commitment means that doses can be made available to affected populations quickly. SII has already manufactured the drug substance for more than half a million doses of the candidate vaccine to enable rapid access.\n\nToday\u2019s announcement is part of [Gavi\u2019s overall support for the response to the on-going Ebola outbreak.](https://www.gavi.org/news/media-room/gavi-commits-additional-funding-ebola-response) Up to US$ 40 million from the First Response Fund (FRF) mechanism has been dedicated to support vaccine access deals such as this advance purchase commitment. An additional US$ 10 million from the FRF \u2013 of which US$ 6 million has already been committed or disbursed to the DRC, Uganda, Africa CDC, WHO and UNICEF \u2013 is helping to protect routine immunisation services in impacted communities and frontline health workers. Ervebo, an existing Ebola vaccine which is licensed for use against the Ebola Zaire strain of the disease, is also being deployed under clinical research protocols. Gavi has made an additional investment of US$7 million to provide 70,000 doses of the existing Ervebo from the Gavi-funded global stockpile. These doses are currently being administered to affected populations in the DRC under WHO compassionate emergency use protocols.\n\n**Notes to Editors**\n\n*\\*The **First Response Fund (FRF)** is made possible by the governments that have invested in this crucial part of Gavi\u2019s outbreak and pandemic response capacity. Gavi recognises the critical support of the **United States, Japan, Italy, Germany, Norway and France**, whose commitments helped to ensure Gavi\u2019s $500m FRF was fully funded.*\n\nThe FRF was also leveraged to rapidly respond to the 2024 Mpox emergency. Read more [here](https://reliefweb.int/news/media-room/gavi-delivers-largest-shipment-yet-drc-support-international-mpox-response).\n\n**About Gavi, the Vaccine Alliance**\n\nGavi, the Vaccine Alliance is a public-private partnership that helps vaccinate more than half the world\u2019s children against some of the world\u2019s deadliest diseases. The Vaccine Alliance brings together developing country and donor governments, the World Health Organization, UNICEF, the World Bank, the vaccine industry, technical agencies, civil society, the Gates Foundation and other private sector partners. View the full list of donor governments and other leading organisations that fund [Gavi\u2019s work here](https://reliefweb.int/investing-gavi/funding/donor-profiles).\n\nSince its inception in 2000, Gavi has helped to immunise a whole generation \u2013 over 1.3 billion children \u2013 and prevented more than 23 million future deaths, helping to halve child mortality in 78 lower income countries. Gavi also plays a key role in improving global health security by supporting health systems as well as funding global stockpiles for Ebola, cholera, meningococcal, mpox and yellow fever vaccines. After more than two decades of progress, Gavi is now focused on protecting the next generation, above all the zero-dose children who have not received even a single vaccine shot. The Vaccine Alliance employs innovative finance and the latest technology \u2013 from drones to biometrics \u2013 to save lives, prevent outbreaks before they can spread and help countries on the road to self-sufficiency. Learn more at [www.gavi.org](https://reliefweb.int/homepage) and connect with us on [Bluesky](https://bsky.app/profile/gavi.org), [Facebook](https://www.facebook.com/GAVI/), [Instagram](https://www.instagram.com/gavialliance/), [LinkedIn](https://www.linkedin.com/company/Gavi/), [TikTok](https://www.tiktok.com/@gavialliance), [X](https://twitter.com/gavi) and [YouTube](https://www.youtube.com/@Gavi).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/3611",
-                    "id": 3611,
-                    "name": "GAVI Alliance",
-                    "shortname": "GAVI",
-                    "homepage": "http://www.gavi.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239740",
-            "date": {
-                "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-24T13:02:31+00:00",
-                "created": "2026-11-24T12:33:21+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239740"
-    },
-    {
-        "id": "4239734",
-        "score": 1,
-        "fields": {
-            "title": "Direct Relief Delivers 53 Tons of Medical Aid to Combat Record DRC Ebola Outbreak",
-            "body": "*With more than 11,000 confirmed cases reported by the World Health Organization, insecurity in Ituri and North Kivu continues to challenge containment efforts. Direct Relief has provided PPE, diagnostic tools, and chronic care medications across Congo, Uganda, and South Sudan to local health organizations on the front lines.*\n\nBy [**Noah Smith**](https://www.directrelief.org/author/nsmith/)\n\nAn Ebola outbreak in the Democratic Republic of the Congo has killed 5,630 people and seen 11,504 confirmed cases, according to the World Health Organization\u2019s Nov. 16 update.\n\nChildren account for more than a quarter of confirmed cases and one-third of deaths. Seven in 10 children under 5 with confirmed Ebola have died, according to WHO.\n\nThe outbreak is caused by the Bundibugyo strain of Ebola, for which no vaccines are currently licensed. Declared in May, this is the deadliest outbreak in the country\u2019s history.\n\nWHO said Tuesday that 400 to 500 new cases continue to be reported weekly, despite progress in slowing transmission in several early outbreak epicenters.\n\nIturi province remains the outbreak\u2019s epicenter, although transmission has also spread through neighboring North Kivu and other provinces.\n\nInsecurity has increasingly disrupted containment efforts. An attack on Cantine-Aloya in North Kivu earlier this month killed 66 civilians, including three health workers, according to WHO. Health facilities were looted and burned, and more than 1,000 contacts of Ebola patients were lost to follow-up.\n\nWHO said on Nov. 17 that about two in every three confirmed Ebola deaths occur outside treatment centers. The agency said that points to delays in identifying infections.\n\nDirect Relief has delivered **53 tons of Ebola-specific medical aid valued at approximately $15 million** to partners in Congo, Uganda and South Sudan as of Nov. 5, including more than 425,000 items of personal protective equipment.\n\nSince May 1, Direct Relief has shipped about $47.3 million in medical aid overall to countries affected by the [Ebola outbreak](https://www.directrelief.org/emergency/drc-ebola-outbreak-2026/?_gl=1%2A1kkgw37%2A_up%2AMQ..%2A_ga%2AMTU4NDY0NDE2OC4xNzk1MDQzODM2%2A_ga_WYKLEGJW76%2AczE3OTUwNDM4MzYkbzEkZzAkdDE3OTUwNDM4MzYkajYwJGwwJGgxODcxNjE3NTcz). The outbreak has also [disrupted routine care](https://www.directrelief.org/2026/07/the-patients-ebola-statistics-dont-count/) for people with other illnesses.\n\nThe assistance from Direct Relief includes:\n\n- Essential medicines, intravenous fluids, antibiotics, diagnostic supplies and medications for chronic conditions, helping health facilities maintain routine services while responding to Ebola.\n- A 10-ton shipment containing more than $490,000 in **essential medicines, medical supplies and protective equipment arrived in Kinshasa on Nov. 2 for VillageReach**, with supplies designated for health facilities in Ituri, Tshopo and Haut-Uele provinces.\n- Direct Relief has also supported **Premi\u00e8re Urgence Internationale with medical supplies and protective equipment** for health facilities in Ituri.\n- The organization provided a $50,000 emergency grant to **Humanitarian Action for Africa** to strengthen Ebola preparedness in North and South Kivu, including disease surveillance, case management, medical supply management, and community outreach.\n- Last week, Direct Relief shipped approximately 3,800 pounds of **protective equipment to the International Organization for Migration in Congo**. The shipment included approximately 4,500 protective coveralls and more than 15,000 N95 respirators to support health screenings and disease surveillance along transit routes, at border crossings and in displacement sites.\n\nOther partners include **Jericho Road, Mulago National Referral Hospital in Uganda, and Association des Diab\u00e9tiques (Diabetic Association)**.\n\n**Vaccine Research and Regional Risks**\n\nThe WHO said that it expects two vaccine candidates designed for the Bundibugyo virus to join an ongoing trial in Congo in the coming weeks. The trial began in October with Ervebo, a vaccine licensed against a different virus that causes Ebola. Separately, more than 900 people have enrolled in studies of potential treatments.\n\nOutside Congo, Kenya has reported nine cases and two deaths, while Nigeria recorded one imported case. Kenya\u2019s last patient has been discharged, and Nigeria\u2019s patient has recovered.\n\nDespite expanded laboratory capacity and nearly 2,000 treatment beds, continued transmission and limited access to affected communities remain significant challenges.\n\nHealth organizations are working to strengthen infection prevention and clinical care while maintaining essential medical services in communities affected by the outbreak.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1957",
-                    "id": 1957,
-                    "name": "Direct Relief",
-                    "shortname": "Direct Relief",
-                    "longname": "Direct Relief International",
-                    "homepage": "https://www.directrelief.org/",
-                    "type": {
-                        "id": 274,
-                        "name": "Non-governmental Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239734",
-            "date": {
-                "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-24T12:14:57+00:00",
-                "created": "2026-11-24T12:14:57+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239734"
-    },
-    {
-        "id": "4239729",
-        "score": 1,
-        "fields": {
-            "title": "\"Families are under enormous pressure because of Ebola, and women and girls are bearing much of the cost\" \u2013 UNICEF",
-            "body": "This is a summary of what was said by Dr. Douglas Noble, UNICEF Global Lead for Public Health Emergencies and Global Incident Manager for Ebola \u2013 to whom quoted text may be attributed \u2013 at today's press briefing at the Palais des Nations in Geneva\n\n\n\n**GENEVA, 24 November 2026** \u2013 \u201cI've just wrapped up a trip to Beni, Butembo, and Bunia, in eastern DRC.\n\n\u201cThe response has made considerable progress since my last visit in May, but much remains to be done, and the outbreak\u2019s wider impact on families and communities is becoming clearer.\n\n\u201cIn Bunia, I visited a safe space for women and girls next to an Ebola treatment centre and joined a focus group at a nearby church. Both are part of efforts to address violence against women and girls during the outbreak, and both are places where people can gather and speak safely. I learned how violence was increasing and how fear of Ebola was leading to women\u2019s movements being restricted, potentially exposing them to violence and abuse.\n\n\u201cIt reinforced for me that the consequences of an outbreak extend far beyond infection and death, and that our response must recognize and address these wider impacts.\n\n\u201cToday, we're releasing preliminary findings from what is, to our knowledge, the first real-time surveillance of violence against women and adolescent girls during an active disease outbreak. UNICEF is carrying out this work with SOFEPADI, a Congolese women-led organization, and Washington University in St. Louis.\n\n\u201cSo far, we've spoken to 1,062 women and adolescent girls across five health zones in Ituri. We're also hearing from young people through U-Report, UNICEF's digital platform, and talking to frontline workers.\n\n\"This surveillance is helping us understand where risks are increasing while there's still time to do something about it. And what we're already hearing is concerning.\n\n\u201cNearly 6 in 10 women and adolescent girls surveyed said violence and abuse had started or increased in their lives since the Ebola outbreak began.\n\n\u201cMore than a third described someone taking more control over their lives, followed by emotional and psychological abuse. Others reported physical and sexual violence.\n\n\u201cSeven in 10 live in households that have been through isolation, quarantine, or contact tracing. Of them, nearly 2 in 3 reported new or increased violence. Nine in 10 linked it to the stress and fear this outbreak has brought into their homes.\n\n\u201cI want to be very clear about something. Isolation, quarantine, and contact tracing are absolutely critical to stopping Ebola. But what these findings are telling us is that families are under enormous pressure because of Ebola, and women and girls are bearing much of the cost.\n\n\"I raised this issue during my mission in-country, and there was real interest in addressing it. UNICEF and our partners will follow up to ensure that the needs and protection of women and girls remain central to the response.\n\n\"Since June, UNICEF and partners have supported more than 3,300 survivors of gender-based violence in Ituri and North Kivu. But protecting women and children is one of the most underfunded parts of this response. Right now, the funding gap is 76 per cent.\n\n\"We must, therefore, keep services for women and girls open, accessible and funded, and open new ones where Ebola is spreading. Ensuring the safety of women and girls should be an integral part of this response. And, this kind of surveillance should be built into every outbreak response from day one.\n\n\u201cNow, none of this would exist without SOFEPADI, whose teams are from and in these communities every day. I\u2019ll hand over now to Sandrine Lusamba, SOFEPADI\u2019s National Coordinator.\u201d\n\n\\#####",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239729",
-            "date": {
-                "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-24T14:30:56+00:00",
-                "created": "2026-11-24T12:03:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239729"
-    },
-    {
-        "id": "4239725",
-        "score": 1,
-        "fields": {
-            "title": "West and Central Africa: 2026 Regional Funding Status - General Overview (as of 24th November 2026)",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239725",
-            "date": {
-                "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-24T14:54:11+00:00",
-                "created": "2026-11-24T11:38:10+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239725"
-    },
-    {
-        "id": "4239695",
-        "score": 1,
-        "fields": {
-            "title": "Nearly 6 in 10 women and adolescent girls surveyed in Ebola-hit Ituri report increase in violence and abuse [EN/AR]",
-            "body": "**Findings show a worsening parallel crisis for women and girls, including emotional and psychological abuse, controlling behaviour, and physical and sexual violence**\n\n**KINSHASA/BUNIA/NEW YORK, 24 November 2026** \u2013 Nearly 6 in 10 women and adolescent girls aged 15 and above surveyed in Ituri in the Democratic Republic of the Congo (DRC) reported an increase or emergence of violence and abuse in their lives since the Ebola outbreak began.\n\nDrawn from the first ever real-time surveillance of violence against women and girls during an infectious disease outbreak \u2013 led by UNICEF with the women-led organization SOFEPADI and Washington University in St. Louis \u2013 the findings point to how the outbreak is affecting women's and adolescent girls' safety at home and in their communities.\n\n\u201cWomen and girls are facing a growing threat of violence and abuse on top of a deadly disease outbreak and continued conflict in eastern DRC,\u201d said UNICEF Executive Director Catherine Russell. \u201cToo often, in the most impacted areas, there are no protective spaces outside the home that they can safely access.\u201d\n\nBased on 1,062 interviews with women and adolescent girls between 28 August and 15 October, the findings point to an increase or emergence of at least one form of violence and abuse. More than a third of those surveyed reported growing control over where they could go, their money, and their phones, as well as emotional and psychological abuse. Physical and sexual violence were also reported.\n\nAccording to the findings, 7 in 10 respondents state they live in households that have experienced at least one public health response measure, such as isolation, quarantine, or contact tracing. Of those that also reported an increase in violence and abuse, 9 in 10 named stress and fear brought on by the outbreak as contributing factors.\n\nAlmost half of the women and adolescent girls who tried to access care and support services could not. Frontline workers reported that some women and girls are limiting their own movements to avoid infection, while others are being kept close to home by family members or others. Some of the centres and services they once relied on have closed or been repurposed. Respondents also cited shame, fear of the perpetrator, and lack of trust.\n\nWhere safe spaces for women and girls affected by, or at risk of, violence remain open and accessible, demand for them is growing. For example, visits to eight safe spaces run by SOFEPADI in Ituri rose by 200 per cent, from 1,183 visits between January to March to 3,548 visits between July to September.\n\nIn a separate UNICEF poll of around 11,500 young people in Ituri through U-Report \u2013 UNICEF\u2019s digital platform for youth to share their views on issues affecting them \u2013 nearly half of all respondents said they see greater risks of violence for women and girls since the outbreak began. Physical and sexual violence were the most commonly cited concerns.\n\nWomen and girls carry more of the outbreak\u2019s risk. Caring for sick relatives, preparing loved ones for burial, and frequent trips to health facilities, including with ill children, raises their risk of infection. All of this comes on top of an already fragile situation, where years of conflict and displacement had left women and girls facing alarming levels of gender-based violence long before the outbreak began. Now, many report even more violence at home and in their communities.\n\nSince the outbreak began, UNICEF and partners have assisted more than 3,300 survivors of gender-based violence in Ituri and North Kivu and provided mental health and psychosocial support to close to 175,000 people between June and October. But protecting children and women, including gender-based violence services, remains among the most underfunded parts of the response, with a funding gap of 76 per cent.\n\nThe results of the surveillance are being shared with Ebola response coordinators to inform decisions as UNICEF continues to call on government authorities, response partners, and donors to:\n\n- Make the safety of women and girls a measure of an effective Ebola response. Work with local women\u2019s organizations to spot rising risks early, act, and avoid putting women and girls at risk or preventing them from getting help.\n- Keep services for women and girls open, accessible, and funded at scale throughout the outbreak, and establish new services in Ebola hotspots. As risks rise and demand for support grows, gender-based violence services, including safe spaces, must be able to meet it.\n- Scale surveillance of violence into this current Ebola response and build it in future public health emergency preparedness and response. With women\u2019s organizations formally part of surveillance, and safeguards for confidentiality and safety built in, monitoring must start as soon as an outbreak begins.\n\n\"There is no excuse for violence and abuse against women and girls,\u201d said Russell. \u201cProtection must be part of the Ebola response, and it must be informed by what women and girls tell us. That includes prioritizing prevention and services for survivors.\u201d\n\n**Partner quotes**\n\n\"Since the outbreak began, more and more women and girls are coming to our safe spaces, looking to be heard, protected, and supported, without fear or stigma. Safe spaces must stay open and be properly resourced throughout the response. Surveillance and support should be extended to other areas at risk,\" said Sandrine Lusamba, National Coordinator of SOFEPADI.\n\n\"When women explain why violence has started or worsened, many point to the fear and pressure this outbreak has brought into their homes. Those pressures can be anticipated. Keeping services open, establishing new services, and listening to women as the response unfolds can stop that pressure from turning into harm,\" said Dr. Lindsay Stark, Co-Director of the Center on Violence and Health at the Bursky School of Public Health, Washington University in St. Louis.\n\n\\#####\n\n*Notes to editors:*\n\nRead more about the Ebola outbreak VAWG surveillance [here](https://www.unicef.org/media/186251/file).",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1979",
-                    "id": 1979,
-                    "name": "UN Children's Fund",
-                    "shortname": "UNICEF",
-                    "longname": "United Nations Children's Fund",
-                    "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
-                    "homepage": "https://www.unicef.org/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239695",
-            "date": {
-                "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-25T01:02:58+00:00",
-                "created": "2026-11-24T10:03:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239695"
     }
 ]
