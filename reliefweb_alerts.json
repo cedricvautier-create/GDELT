@@ -1,5 +1,86 @@
 [
     {
+        "id": "4240202",
+        "score": 1,
+        "fields": {
+            "title": "R\u00e9publique Centrafricaine - Initiative Conjointe de Suivi des March\u00e9s (ICSM), octobre - novembre 2026",
+            "body": "**MESSAGES CL\u00c9S**\n\n\u2022 Le co\u00fbt m\u00e9dian du PMAS a diminu\u00e9 sur l\u2019ensemble des march\u00e9s \u00e9valu\u00e9s avec une baisse de 10% de son prix par rapport \u00e0 ao\u00fbt. Cette tendance a \u00e9t\u00e9 principalement observ\u00e9e dans la composante alimentaire, tandis que les co\u00fbts des paniers de produits non alimentaires et d\u2019hygi\u00e8ne ont connu une hausse. Cependant les march\u00e9s de Bangui-Rapide, Boali et Markounda ont connu une hausse importante de leur PMAS. De mani\u00e8re g\u00e9n\u00e9rale, des disparit\u00e9s ont persist\u00e9 entre les diff\u00e9rents march\u00e9s, avec un co\u00fbt m\u00e9dian du PMAS compris entre 40 014 XAF \u00e0 Bangassou et 102 702 XAF \u00e0 Dimbi.\n\n\u2022 La fonctionnalit\u00e9 des march\u00e9s est demeur\u00e9e limit\u00e9e, avec des scores SFM compris entre 51% et 88%. Cette relative stabilit\u00e9 a masqu\u00e9 des \u00e9volutions contrast\u00e9es entre les diff\u00e9rentes dimensions, marqu\u00e9es par une stabilit\u00e9 de la disponibilit\u00e9 des produits, un recul de l\u2019abordabilit\u00e9 et une am\u00e9lioration des circuits d\u2019approvisionnement. Des am\u00e9liorations des scores SFM ont \u00e9t\u00e9 observ\u00e9es \u00e0 Bangassou, Batangafo et Ngaoundaye, tandis que Bossangoa et Koui ont enregistr\u00e9 une d\u00e9t\u00e9rioration. L\u2019indisponibilit\u00e9 de certains produits et les difficult\u00e9s li\u00e9es \u00e0 leur abordabilit\u00e9 ont \u00e9t\u00e9 relev\u00e9es, parall\u00e8lement \u00e0 des contraintes affectant l\u2019accessibilit\u00e9 des march\u00e9s et les circuits d\u2019approvisionnement. Malgr\u00e9 ces \u00e9volutions, les \u00e9carts de fonctionnalit\u00e9 entre les march\u00e9s ont persist\u00e9, soulignant des conditions de fonctionnement et d\u2019approvisionnement toujours h\u00e9t\u00e9rog\u00e8nes selon les localit\u00e9s.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/54",
+                "id": 54,
+                "name": "Central African Republic",
+                "shortname": "CAR",
+                "iso3": "caf",
+                "location": {
+                    "lat": 6.57,
+                    "lon": 20.48
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/9965",
+                    "id": 9965,
+                    "name": "REACH Initiative",
+                    "shortname": "REACH",
+                    "longname": "REACH Initiative",
+                    "homepage": "http://www.reach-initiative.org/",
+                    "type": {
+                        "id": 270,
+                        "name": "Academic and Research Institution"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240202",
+            "date": {
+                "original": "2026-11-26T00:00:00+00:00",
+                "changed": "2026-11-27T00:37:20+00:00",
+                "created": "2026-11-26T16:03:09+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240202"
+    },
+    {
+        "id": "4240186",
+        "score": 1,
+        "fields": {
+            "title": "Eastern Chad - Sudanese Situation - Flash Updates #60 (01 November 2026)",
+            "body": "**UPDATE ON SITUATION IN SUDAN**\n\n**Context**\n\nFrom 25 October to 1 November 2026, the security situation in eastern Chad remained relatively calm, despite a slight increase in reported incidents compared to the previous week, with limited impact on humanitarian operations. Crime and civil unrest remained the main concerns, including armed robberies along major roads, burglaries, and theft. Tensions and expressions of dissatisfaction were also observed at some refugee sites in Sila during the communication of the results of Vulnerability- and Capacity-Based Assistance (VCBA), particularly due to limited understanding of the process and its implications for assistance, highlighting the importance of continued dialogue with communities.",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v2/countries/55",
+                "id": 55,
+                "name": "Chad",
+                "shortname": "Chad",
+                "iso3": "tcd",
+                "location": {
+                    "lat": 15.36,
+                    "lon": 18.66
+                }
+            },
+            "source": [
+                {
+                    "href": "https://api.reliefweb.int/v2/sources/2868",
+                    "id": 2868,
+                    "name": "UN High Commissioner for Refugees",
+                    "shortname": "UNHCR",
+                    "longname": "United Nations High Commissioner for Refugees",
+                    "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                    "homepage": "https://www.unhcr.org/",
+                    "type": {
+                        "id": 272,
+                        "name": "International Organization"
+                    }
+                }
+            ],
+            "url": "https://reliefweb.int/node/4240186",
+            "date": {
+                "original": "2026-11-01T00:00:00+00:00",
+                "changed": "2026-11-27T00:54:22+00:00",
+                "created": "2026-11-26T15:03:10+00:00"
+            }
+        },
+        "href": "https://api.reliefweb.int/v2/reports/4240186"
+    },
+    {
         "id": "4240176",
         "score": 1,
         "fields": {
@@ -627,7 +708,7 @@
             "url": "https://reliefweb.int/node/4240043",
             "date": {
                 "original": "2026-11-24T00:00:00+00:00",
-                "changed": "2026-11-26T16:37:45+00:00",
+                "changed": "2026-11-27T03:09:17+00:00",
                 "created": "2026-11-25T20:14:03+00:00"
             }
         },
@@ -1672,99 +1753,5 @@
             }
         },
         "href": "https://api.reliefweb.int/v2/reports/4239695"
-    },
-    {
-        "id": "4239642",
-        "score": 1,
-        "fields": {
-            "title": "Fiche d\u2019information : Tendances observ\u00e9es de juillet \u00e0 septembre 2026 issues des analyses du Groupe de travail d\u2019analyse de crises et qualit\u00e9 de r\u00e9ponse (GTACQ) - Provinces du Sud-Kivu, Nord-Kivu et Ituri (juillet - septembre 2026)",
-            "body": "**Messages cl\u00e9s**\n\n\u2022 Besoins humanitaires: Bien qu\u2019une am\u00e9lioration relative des besoins ait \u00e9t\u00e9 observ\u00e9e dans certaines ZS au troisi\u00e8me trimestre 2026, les besoins demeuraient particuli\u00e8rement critiques \u00e0 Mweso, Mulungu et Fataki. Les d\u00e9placements massifs de population \u00e0 Masisi, Kibirizi, Birambizo, Fizi, Kalehe, Itombwe, Minembwe, Minova et Boga, combin\u00e9s \u00e0 la hausse du co\u00fbt du MEB dans plusieurs ZS, continuaient d\u2019exacerber les vuln\u00e9rabilit\u00e9s humanitaires.\n\n\u2022 Acc\u00e8s humanitaire :les contraintes d\u2019acc\u00e8s demeuraient particuli\u00e8rement s\u00e9v\u00e8res \u00e0 Pinga, Nyiragongo, Kibirizi, Fizi, Fataki et Bambu, toutes class\u00e9es en hotspots lifesaving avec un score d\u2019acc\u00e8s maximal tandis que le Nord-Kivu restait la province la plus affect\u00e9e.\n\n\u2022 Gaps de la r\u00e9ponse : les gaps critiques de la r\u00e9ponse persistaient dans plusieurs zones de sant\u00e9 de l\u2019est de la RDC, notamment \u00e0 Mweso, Nyiragongo, Pinga, Kayna, Kalole, Kaniola, Tchomia et Bambu, o\u00f9 les besoins identifi\u00e9s demeuraient enti\u00e8rement non couverts malgr\u00e9 certaines am\u00e9liorations du contexte op\u00e9rationnel.",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/75",
-                "id": 75,
-                "name": "Democratic Republic of the Congo",
-                "shortname": "DR Congo",
-                "iso3": "cod",
-                "location": {
-                    "lat": -4.03833,
-                    "lon": 21.7587
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/9965",
-                    "id": 9965,
-                    "name": "REACH Initiative",
-                    "shortname": "REACH",
-                    "longname": "REACH Initiative",
-                    "homepage": "http://www.reach-initiative.org/",
-                    "type": {
-                        "id": 270,
-                        "name": "Academic and Research Institution"
-                    }
-                },
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1503",
-                    "id": 1503,
-                    "name": "UN Office for the Coordination of Humanitarian Affairs",
-                    "shortname": "OCHA",
-                    "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
-                    "spanish_name": "Oficina de Coordinaci\u00f3n de Asuntos Humanitarios",
-                    "homepage": "https://www.unocha.org/",
-                    "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239642",
-            "date": {
-                "original": "2026-11-23T00:00:00+00:00",
-                "changed": "2026-11-24T06:13:46+00:00",
-                "created": "2026-11-24T06:12:41+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239642"
-    },
-    {
-        "id": "4239622",
-        "score": 1,
-        "fields": {
-            "title": "Cameroun: Suivi des urgences - Mouvements de populations - Synth\u00e8se des d\u00e9placements dans le d\u00e9partement du Logone-Et-Chari, Tableau de bord #147 (10-18 novembre 2026) | Date de publication : 19 novembre 2026",
-            "primary_country": {
-                "href": "https://api.reliefweb.int/v2/countries/49",
-                "id": 49,
-                "name": "Cameroon",
-                "shortname": "Cameroon",
-                "iso3": "cmr",
-                "location": {
-                    "lat": 4.81,
-                    "lon": 12.21
-                }
-            },
-            "source": [
-                {
-                    "href": "https://api.reliefweb.int/v2/sources/1255",
-                    "id": 1255,
-                    "name": "International Organization for Migration",
-                    "shortname": "IOM",
-                    "longname": "International Organization for Migration",
-                    "spanish_name": "Organizaci\u00f3n Internacional para las Migraciones",
-                    "homepage": "https://www.iom.int/",
-                    "type": {
-                        "id": 272,
-                        "name": "International Organization"
-                    }
-                }
-            ],
-            "url": "https://reliefweb.int/node/4239622",
-            "date": {
-                "original": "2026-11-19T00:00:00+00:00",
-                "changed": "2026-11-24T02:52:09+00:00",
-                "created": "2026-11-24T02:03:06+00:00"
-            }
-        },
-        "href": "https://api.reliefweb.int/v2/reports/4239622"
     }
 ]
